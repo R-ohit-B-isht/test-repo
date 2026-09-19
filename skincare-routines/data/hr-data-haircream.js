@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -3744,15 +3744,15 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Bond builder",
   "featureLine": "Leave-in · ₹1190/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 3.4
   },
   "fullSpec": {
@@ -3770,11 +3770,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.9/5 (18 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/bond-repair-leave-in-serum-cream-50g",
+   "inciMatchedName": "Bond Repair Leave-In Serum Cream - 50g (name match 100%)",
+   "inciList": "Aqua, Propylene Glycol, Cyclopentasiloxane, Butylene Glycol, PEG-12 Dimethicone, Bis-cetearyl Amodimethicone, Xanthan Gum, Sodium PEG-7 Olive Oil Carboxylate, Keratine Nanopeptide, Malic Acid, Fragrance, Phenoxyethanol, Glyceryl Stearate, PEG-100 Stearate, Tocopheryl Acetate, Dipropylene Glycol, Polysorbate-20, PEG-12 Allyl Ether, Sclerotium Gum, Lecithin, Cetyl Alcohol, Dimethicone/Vinyl Dimethicone Crosspolymer, Pullulan, Hydrolysed Collagen, Cetearyl Alcohol, Polysilicon-29 (Shine Tonic), PEG-12, Sodium Hyaluronate, Ethyhexylglycerin, Silica, Citric Acid",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.9★ from 18 ratings"
   },
@@ -3804,7 +3806,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -3812,27 +3815,57 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/bond-repair-leave-in-serum-cream-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Bond Repair Leave-In Serum Cream - 50g",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Cyclopentasiloxane, Butylene Glycol, PEG-12 Dimethicone, Bis-cetearyl Amodimethicone, Xanthan Gum, Sodium PEG-7 Olive Oil Carboxylate, Keratine Nanopeptide, Malic Acid, Fragrance, Phenoxyethanol, Glyceryl Stearate, PEG-100 Stearate, Tocopheryl Acetate, Dipropylene Glycol, Polysorbate-20, PEG-12 Allyl Ether, Sclerotium Gum, Lecithin, Cetyl Alcohol, Dimethicone/Vinyl Dimethicone Crosspolymer, Pullulan, Hydrolysed Collagen, Cetearyl Alcohol, Polysilicon-29 (Shine Tonic), PEG-12, Sodium Hyaluronate, Ethyhexylglycerin, Silica, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -9150,16 +9183,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Almond + Cocoa butter",
   "featureLine": "Cream · ₹1116/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (MOXIE BEAUTY official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 6.6
   },
   "fullSpec": {
@@ -9177,11 +9212,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (2,336 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Mango Seed Butter, Cocoa Seed Butter, Sweet Almond Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "MOXIE BEAUTY official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/super-defining-curl-cream",
+   "inciMatchedName": "Super Defining Curl Cream (name match 100%)",
+   "listingIngredientLine": "Mango Seed Butter, Cocoa Seed Butter, Sweet Almond Oil (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Cetostearyl Alcohol, Glycerine, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Polyquaternium-69, Quaternium-91, Polyquaternium-11, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Oil, Daucus Carota (Carrot) Seed Oil, Cetrimonium Methosulfate, Phenoxyethanol, Sodium Gluconate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#5 on list, limited evidence); cocos nucifera oil (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 2,336 ratings"
   },
@@ -9213,7 +9251,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -9221,27 +9260,81 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Mango Seed Butter, Cocoa Seed Butter, Sweet Almond Oil",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "MOXIE BEAUTY official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/super-defining-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Super Defining Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cetostearyl Alcohol, Glycerine, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Polyquaternium-69, Quaternium-91, Polyquaternium-11, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Oil, Daucus Carota (Carrot) Seed Oil, Cetrimonium Methosulfate, Phenoxyethanol, Sodium Gluconate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-11",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -9947,17 +10040,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "28 g",
   "materialLine": "Rice water + Avocado + Keratin",
   "featureLine": "Leave-in · ₹14768/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Briogeo official website (www.briogeohair.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.2,
+   "skin": 5.3,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -9975,11 +10070,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Briogeo official website (www.briogeohair.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.briogeohair.com/products/curl-charisma-rice-amino-avocado-leave-in-defining-creme-2-oz",
+   "inciMatchedName": "curl charisma rice amino avocado leave in defining creme 2 oz (name match 97%)",
+   "inciList": "Water/Aqua/Eau, Glycerin, Polyquaternium-37, Isopropyl Myristate, Persea Gratissima (Avocado) Oil, Glycine Soja (Soybean) Oil, Oryza Sativa (Rice) Extract, Hydrolyzed Quinoa, Keratin Amino Acids, Lactobacillus/Tomato Fruit Ferment Extract, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Panthenol, Sorbitol, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Paradisi (Grapefruit) Peel Oil, Acyl Coenzyme A Desaturase, Cetrimonium Chloride, Butyrospermum Parkii (Shea) Butter, Polyquaternium-10, Rice Amino Acids, Leuconostoc/Radish Root Ferment Filtrate, Citric Acid, Potassium Sorbate, Sodium Benzoate, Fragrance (Parfum), Dehydroacetic Acid, Benzyl Alcohol",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); panthenol (#13 on list, limited evidence); cetrimonium chloride (#18 on list, moderate evidence); butyrospermum parkii butter (#19 on list, limited evidence); polyquaternium-10 (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: benzyl alcohol (−0.5); Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -10015,7 +10112,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -10023,27 +10121,100 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Briogeo official website (www.briogeohair.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.briogeohair.com/products/curl-charisma-rice-amino-avocado-leave-in-defining-creme-2-oz",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "curl charisma rice amino avocado leave in defining creme 2 oz",
+   "inciMatchScore": 0.97,
+   "inciText": "Water/Aqua/Eau, Glycerin, Polyquaternium-37, Isopropyl Myristate, Persea Gratissima (Avocado) Oil, Glycine Soja (Soybean) Oil, Oryza Sativa (Rice) Extract, Hydrolyzed Quinoa, Keratin Amino Acids, Lactobacillus/Tomato Fruit Ferment Extract, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Panthenol, Sorbitol, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Paradisi (Grapefruit) Peel Oil, Acyl Coenzyme A Desaturase, Cetrimonium Chloride, Butyrospermum Parkii (Shea) Butter, Polyquaternium-10, Rice Amino Acids, Leuconostoc/Radish Root Ferment Filtrate, Citric Acid, Potassium Sorbate, Sodium Benzoate, Fragrance (Parfum), Dehydroacetic Acid, Benzyl Alcohol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "citrus aurantium dulcis peel oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -13136,16 +13307,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Rice water + Avocado + Lavender",
   "featureLine": "Cream",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (MANETAIN official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cetrimonium chloride high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5.6
   },
   "fullSpec": {
@@ -13163,11 +13336,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (233 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "MANETAIN official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciMatchedName": "Manetain Curl Cream (name match 100%)",
+   "inciList": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
+   "evidenceActives": "behentrimonium chloride (#5 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); argania spinosa kernel oil (#18 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Manetain Store Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 233 ratings"
@@ -13201,7 +13376,9 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -13209,24 +13386,49 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "MANETAIN official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -23297,16 +23499,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream · ₹329/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (True Frog official website (truefrog.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); behentrimonium methosulfate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.1,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 4.4
   },
   "fullSpec": {
@@ -23324,11 +23528,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (56 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "True Frog official website (truefrog.in) — product page › Ingredients",
+   "inciSourceUrl": "https://truefrog.in/products/curl-defining-cream-150ml",
+   "inciMatchedName": "Curl Defining Cream - 150ml (name match 92%)",
+   "inciList": "Aqua, Cetyl Hydroxyethyl Cellulose, Arginine, Hydroxypropyl Starch Phosphate, Brassica alcohol and Brassicyl Valinate Esylate, Cetostearyl Alcohol, Caprylic Capric Triglyceride, Glyceryl Stearate, Astrocaryum Vulgare Kernel Oil, Shea Butter Ethyl Esters, Behentrimonium Chloride, Behentrimonium Methosulfate, Cetrimonium Chloride, Pentaerythrityl Tetra-di-t-butyl hydroxyhydrocinnamate, Heptyl Undecylenate (and) C13-15 Alkane, 1,3-Propandiol, Polyquaternium-11, Polyquaternium- 69 , Polyquaternium-72, Polyquaternium- 37, Aloe Vera Extract, Ferment Oryza Sativa (Rice) Extract, Marshmallow Extract, Caprylhydroxamic Acid (and) Glyceryl Caprylate and Glycerin , Ethyl Hexyl Glycerin, Allergen Free, IFRA Certified Fragrance",
+   "evidenceActives": "behentrimonium chloride (#12 on list, moderate evidence); behentrimonium methosulfate (#13 on list, moderate evidence); cetrimonium chloride (#14 on list, moderate evidence); glycerin (#27 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 56 ratings"
   },
@@ -23352,7 +23558,9 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -23360,25 +23568,68 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "True Frog official website (truefrog.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://truefrog.in/products/curl-defining-cream-150ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Curl Defining Cream - 150ml",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Cetyl Hydroxyethyl Cellulose, Arginine, Hydroxypropyl Starch Phosphate, Brassica alcohol and Brassicyl Valinate Esylate, Cetostearyl Alcohol, Caprylic Capric Triglyceride, Glyceryl Stearate, Astrocaryum Vulgare Kernel Oil, Shea Butter Ethyl Esters, Behentrimonium Chloride, Behentrimonium Methosulfate, Cetrimonium Chloride, Pentaerythrityl Tetra-di-t-butyl hydroxyhydrocinnamate, Heptyl Undecylenate (and) C13-15 Alkane, 1,3-Propandiol, Polyquaternium-11, Polyquaternium- 69 , Polyquaternium-72, Polyquaternium- 37, Aloe Vera Extract, Ferment Oryza Sativa (Rice) Extract, Marshmallow Extract, Caprylhydroxamic Acid (and) Glyceryl Caprylate and Glycerin , Ethyl Hexyl Glycerin, Allergen Free, IFRA Certified Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium methosulfate",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-11",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -23815,18 +24066,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (limited evidence)",
    "Well-reviewed: 4.3★ from 297 ratings"
   ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 6.3
   },
   "fullSpec": {
@@ -23844,11 +24096,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (297 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Mango Seed Butter, Cocoa Seed Butter, Sweet Almond Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/super-defining-curl-cream",
+   "inciMatchedName": "Super Defining Curl Cream (name match 100%)",
+   "listingIngredientLine": "Mango Seed Butter, Cocoa Seed Butter, Sweet Almond Oil (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Cetostearyl Alcohol, Glycerine, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Polyquaternium-69, Quaternium-91, Polyquaternium-11, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Oil, Daucus Carota (Carrot) Seed Oil, Cetrimonium Methosulfate, Phenoxyethanol, Sodium Gluconate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#5 on list, limited evidence); cocos nucifera oil (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Quantum International Pvt Ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 297 ratings"
@@ -23873,7 +24128,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -23881,27 +24137,81 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Mango Seed Butter, Cocoa Seed Butter, Sweet Almond Oil",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/super-defining-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Super Defining Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cetostearyl Alcohol, Glycerine, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Polyquaternium-69, Quaternium-91, Polyquaternium-11, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Oil, Daucus Carota (Carrot) Seed Oil, Cetrimonium Methosulfate, Phenoxyethanol, Sodium Gluconate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-11",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -65608,16 +65918,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Almond + Cocoa butter",
   "featureLine": "Leave-in · ₹479/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -65635,11 +65947,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/super-defining-curl-cream",
+   "inciMatchedName": "Super Defining Curl Cream (name match 100%)",
+   "inciList": "Purified Water, Cetostearyl Alcohol, Glycerine, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Polyquaternium-69, Quaternium-91, Polyquaternium-11, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Oil, Daucus Carota (Carrot) Seed Oil, Cetrimonium Methosulfate, Phenoxyethanol, Sodium Gluconate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#5 on list, limited evidence); cocos nucifera oil (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -65664,7 +65978,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -65672,27 +65987,81 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/super-defining-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Super Defining Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cetostearyl Alcohol, Glycerine, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Polyquaternium-69, Quaternium-91, Polyquaternium-11, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Oil, Daucus Carota (Carrot) Seed Oil, Cetrimonium Methosulfate, Phenoxyethanol, Sodium Gluconate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-11",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

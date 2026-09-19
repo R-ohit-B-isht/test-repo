@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -21437,17 +21437,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Vitamin B5 / panthenol + Panthenol",
   "featureLine": "Spray · ₹326/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "dimethiconol high on the INCI list (moderate evidence); panthenol high on the INCI list (limited evidence)",
    "Well-reviewed: 4.3★ from 19,366 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.1,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -21465,11 +21466,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (19,366 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/hot-shot-heat-protection-mist-with-grapeseed-oil-provitamin-b5-150-ml",
+   "inciMatchedName": "Hot Shot Heat Protection Mist with Grapeseed Oil & Provitamin B5 - 150 ml (name match 100%)",
+   "inciList": "Aqua (Water), PEG-40 Hydrogenated Castor Oil, Isopropyl Alcohol, Dipropylene Glycol, VA/Crotonates/Vinyl Neodecanoate Copolymer, Dimethiconol, TEA-Dodecylbenzenesulphonate, Ceteareth-20, Glycerin, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, Trideceth-5, Disodium EDTA, Panthenol (Pro-vitamin B5), Vitis Vinifera (Grape) Seed Oil, Aminomethyl Propanol, Phenoxyethanol, Ethylhexylglycerin, Parfum (Parfume)",
+   "evidenceActives": "dimethiconol (#6 on list, moderate evidence); panthenol (#13 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VA Lifesciences LLP, Plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, 173220, India. M.: HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 19,366 ratings"
@@ -21497,7 +21500,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -21505,27 +21509,65 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/hot-shot-heat-protection-mist-with-grapeseed-oil-provitamin-b5-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hot Shot Heat Protection Mist with Grapeseed Oil & Provitamin B5 - 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), PEG-40 Hydrogenated Castor Oil, Isopropyl Alcohol, Dipropylene Glycol, VA/Crotonates/Vinyl Neodecanoate Copolymer, Dimethiconol, TEA-Dodecylbenzenesulphonate, Ceteareth-20, Glycerin, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, Trideceth-5, Disodium EDTA, Panthenol (Pro-vitamin B5), Vitis Vinifera (Grape) Seed Oil, Aminomethyl Propanol, Phenoxyethanol, Ethylhexylglycerin, Parfum (Parfume)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -73703,16 +73745,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Argan oil + Olive",
   "featureLine": "Spray · ₹599/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -73730,11 +73773,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/firefighter-heat-protection-spray",
+   "inciMatchedName": "Firefighter Heat Protection Spray 100ml (name match 100%)",
+   "inciList": "Isopropyl Myristate, Olea Europaea (Olive) Fruit Oil, Argania spinosa (Argan) kernel oil, Vitamin E, Ethylhexyl Palmitate, Isododecane , Glyceryl Caprylate, Glyceryl Undecylenate",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.4★ from 0 ratings"
   },
@@ -73758,7 +73803,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -73766,24 +73813,33 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/firefighter-heat-protection-spray",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Firefighter Heat Protection Spray 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Isopropyl Myristate, Olea Europaea (Olive) Fruit Oil, Argania spinosa (Argan) kernel oil, Vitamin E, Ethylhexyl Palmitate, Isododecane , Glyceryl Caprylate, Glyceryl Undecylenate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -89250,7 +89306,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Leave In Conditioner 100ml with Polyglutamic Acid | 100H Hydration, Frizz Con…",
   "price": 345,
   "capacityLine": "100 ml",
-  "materialLine": "Hyaluronic acid",
+  "materialLine": "Hyaluronic acid + Polyglutamic acid",
   "featureLine": "Leave-in · Paraben-free · ₹345/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -89269,7 +89325,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹345/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Washes out easily, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
@@ -89307,6 +89363,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:texture-spray",
    "ing:hyaluronic-acid",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -97265,16 +97322,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Argan oil + Lavender",
   "featureLine": "Spray · ₹320/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty & Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "amodimethicone high on the INCI list (moderate evidence); cetrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: citronellol, coumarin",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.1,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -97292,11 +97352,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty & Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/argan-oil-heat-protect-conditioning-mist-100ml",
+   "inciMatchedName": "Argan Oil & Lavender Heat Protect & Conditioning Mist (name match 100%)",
+   "inciList": "Aque, amodimethicone, glycerin, arganta apinosa (argan) kernel oil, sodium benzoate, peg12 dimethicone, ppropylene glycol, pvp, perfume, polysorbate 20, cetrimonium chloride, lactic acid, benzophenone-4, disodium edta,triethanolamine, citronellol, coumarin, limonene, linalool",
+   "evidenceActives": "amodimethicone (#2 on list, moderate evidence); cetrimonium chloride (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: citronellol, coumarin, limonene, linalool (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -97325,7 +97387,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -97333,27 +97396,92 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty & Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/argan-oil-heat-protect-conditioning-mist-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Argan Oil & Lavender Heat Protect & Conditioning Mist",
+   "inciMatchScore": 1,
+   "inciText": "Aque, amodimethicone, glycerin, arganta apinosa (argan) kernel oil, sodium benzoate, peg12 dimethicone, ppropylene glycol, pvp, perfume, polysorbate 20, cetrimonium chloride, lactic acid, benzophenone-4, disodium edta,triethanolamine, citronellol, coumarin, limonene, linalool",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "pvp",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": true,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "citronellol",
+      "coumarin",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -102153,7 +102281,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Leave In Conditioner 50ml with Polyglutamic Acid | 100H Hydration, Frizz Cont…",
   "price": 172,
   "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Polyglutamic acid",
   "featureLine": "Leave-in · Paraben-free · ₹344/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -102172,7 +102300,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹344/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Heat protection (seller claim — not clinical proof)",
@@ -102202,6 +102330,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "format:leave-in",
    "format:heat-protectant",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:dryness",
    "concern:heat-protection",

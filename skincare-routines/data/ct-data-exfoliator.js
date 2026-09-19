@@ -44174,15 +44174,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "glycolic acid + green tea",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹185/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.5,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -44199,11 +44201,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciMatchedName": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin (name match 94%)",
+   "inciList": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
+   "evidenceActives": "glycolic acid (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -44229,7 +44233,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -44238,27 +44243,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -46123,16 +46165,18 @@ const CTPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "glycolic acid + green tea",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹280/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.5,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -46149,11 +46193,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciMatchedName": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin (name match 94%)",
+   "inciList": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
+   "evidenceActives": "glycolic acid (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -46179,7 +46225,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -46188,27 +46235,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -71437,15 +71521,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "almond",
   "featureLine": "Scrub / exfoliant · ₹230/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum",
+   "Hard abrasive particles (face): walnut shell powder"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.9,
+   "skin": 7.6,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -71462,11 +71547,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/apricot-almond-face-scrub",
+   "inciMatchedName": "Jovees Apricot & Almond Face Scrub Infused With Wheatgerm Oil (name match 96%)",
+   "inciList": "Apricot oil, Almond oil, Wheatgerm oil, Aloe vera gel, Cetyl, Cetostearyl, Glyceryl stearate, Emulsifying wax, Capric Caprylic triglyceride, Glycerin, Walnut shell powder, Phenoxyethanol, Parfum, Purified water",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum (−0.8); Hard abrasive particles (face): walnut shell powder (−0.8)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -71491,7 +71578,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -71500,27 +71588,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/apricot-almond-face-scrub",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Jovees Apricot & Almond Face Scrub Infused With Wheatgerm Oil",
+   "inciMatchScore": 0.96,
+   "inciText": "Apricot oil, Almond oil, Wheatgerm oil, Aloe vera gel, Cetyl, Cetostearyl, Glyceryl stearate, Emulsifying wax, Capric Caprylic triglyceride, Glycerin, Walnut shell powder, Phenoxyethanol, Parfum, Purified water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "walnut shell powder",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "walnut shell powder"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Jovees Herbal Care India",
     "kind": "d2c",
@@ -72670,15 +72804,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹1397/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -72695,13 +72830,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/30-aha-2-bha-peeling-solution",
+   "inciMatchedName": "30% AHA + 2% BHA Peeling Solution - 30ml (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Lactic Acid, Mandelic Acid, Aloe Barbadensis Leaf Juice, Propylene Glycol, Vaccinium Myrtillus (Bilberry) Extract, Beta Vulgaris (Beet) Root Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, Calendula Officinalis Flower (Calendula) Extract, D-Panthenol, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Cucurbita Pepo (Pumpkin) Seed Extract, Xanthan Gum, Phenoxyethanol, Chlorphenesin, Sodium Benzoate & Disodium EDTA",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); mandelic acid (#4 on list, moderate evidence); salicylic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #10 on INCI; Irritation — aloe barbadensis leaf juice #5 on INCI, panthenol #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512ncBjMA1L._AC_UL320_.jpg"
@@ -72722,7 +72860,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -72731,25 +72873,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/30-aha-2-bha-peeling-solution",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "30% AHA + 2% BHA Peeling Solution - 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Lactic Acid, Mandelic Acid, Aloe Barbadensis Leaf Juice, Propylene Glycol, Vaccinium Myrtillus (Bilberry) Extract, Beta Vulgaris (Beet) Root Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, Calendula Officinalis Flower (Calendula) Extract, D-Panthenol, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Cucurbita Pepo (Pumpkin) Seed Extract, Xanthan Gum, Phenoxyethanol, Chlorphenesin, Sodium Benzoate & Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -72770,15 +72980,15 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Scrub / exfoliant · ₹660/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Drying alcohol high in the list: alcohol denat"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.8,
+   "skin": 9.7,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -72795,13 +73005,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/smart-peeling-white-jewel",
+   "inciMatchedName": "Smart Peeling White Jewel 120ml (name match 97%)",
+   "inciList": "Water/Eau, Cellulose, Glycerin, Butylene Glycol, Alcohol Denat., Betaine, Panthenol, Carbomer, Potassium Hydroxide, Amethyst Powder, Pearl Powder, Tourmaline, Synthetic Fluorphlogopite, Titanium Dioxide, Tin Ocide (Ci 77861), perfume/Fragrance",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Drying alcohol high in the list: alcohol denat (−0.3)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ZJT6oQoCL._AC_UL320_.jpg"
@@ -72822,7 +73035,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -72831,27 +73047,66 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/smart-peeling-white-jewel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Smart Peeling White Jewel 120ml",
+   "inciMatchScore": 0.97,
+   "inciText": "Water/Eau, Cellulose, Glycerin, Butylene Glycol, Alcohol Denat., Betaine, Panthenol, Carbomer, Potassium Hydroxide, Amethyst Powder, Pearl Powder, Tourmaline, Synthetic Fluorphlogopite, Titanium Dioxide, Tin Ocide (Ci 77861), perfume/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.81,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 0.3,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "LG Household & Health Care",
     "kind": "global",
@@ -81858,15 +82113,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹1463/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.8,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -81883,13 +82139,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/15-aha-1-bha-beginner-face-peeling-solution",
+   "inciMatchedName": "15% AHA+1% BHA Beginner Face Peeling Solution - 30ml (name match 80%)",
+   "inciList": "Aqua, Aloe Barbadensis Leaf Juice, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Cucurbita Pepo (Pumpkin) Seed Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, D-Panthenol, Calendula Officinalis Flower (Calendula) Extract, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Phenoxyethenol, Chlorphenesin, Glycerin, Sodium Benzoate, Disodium EDTA",
+   "evidenceActives": "glycolic acid (#3 on list, strong evidence); lactic acid (#4 on list, strong evidence); mandelic acid (#5 on list, moderate evidence); salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #9 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zOJ1foQPL._AC_UL320_.jpg"
@@ -81907,7 +82166,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -81916,25 +82179,102 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/15-aha-1-bha-beginner-face-peeling-solution",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "15% AHA+1% BHA Beginner Face Peeling Solution - 30ml",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Aloe Barbadensis Leaf Juice, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Cucurbita Pepo (Pumpkin) Seed Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, D-Panthenol, Calendula Officinalis Flower (Calendula) Extract, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Phenoxyethenol, Chlorphenesin, Glycerin, Sodium Benzoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -92141,15 +92481,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "glycolic acid + green tea",
   "featureLine": "Scrub / exfoliant · ₹3100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -92166,13 +92507,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-perfecting-8-aha-gel-exfoliant",
+   "inciMatchedName": "8% AHA Gel Exfoliant (name match 100%)",
+   "inciList": "Water (Aqua), Glycolic Acid (alpha hydroxy acid/exfoliant), Sodium Hydroxide (pH adjuster), Chamomilla Recutita Matricaria Flower Extract (chamomile/skin-soothing), Aloe Barbadensis Leaf Juice (hydration), Camellia Oleifera Leaf Extract (green tea/antioxidant/skin-soothing), Sodium Hyaluronate (skin replenishing), Panthenol (hydration), Sodium PCA (skin replenishing), Propylene Glycol (hydration), Butylene Glycol (hydration), Hydroxyethylcellulose (texture-enhancing), Polyquaternium-10 (texture-enhancing), Phenoxyethanol (preservative), Sodium Benzoate (preservative)",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #5 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61K3KKmGsyL._AC_UL320_.jpg"
@@ -92192,7 +92536,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -92201,25 +92548,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-perfecting-8-aha-gel-exfoliant",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "8% AHA Gel Exfoliant",
+   "inciMatchScore": 1,
+   "inciText": "Water (Aqua), Glycolic Acid (alpha hydroxy acid/exfoliant), Sodium Hydroxide (pH adjuster), Chamomilla Recutita Matricaria Flower Extract (chamomile/skin-soothing), Aloe Barbadensis Leaf Juice (hydration), Camellia Oleifera Leaf Extract (green tea/antioxidant/skin-soothing), Sodium Hyaluronate (skin replenishing), Panthenol (hydration), Sodium PCA (skin replenishing), Propylene Glycol (hydration), Butylene Glycol (hydration), Hydroxyethylcellulose (texture-enhancing), Polyquaternium-10 (texture-enhancing), Phenoxyethanol (preservative), Sodium Benzoate (preservative)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "panthenol",
+    "sodium pca",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -92701,15 +93086,16 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹2060/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -92726,13 +93112,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/2-salicylic-acid-serum-10ml",
+   "inciMatchedName": "2% Salicylic Acid Serum for Active Acne - 10ml (name match 100%)",
+   "inciList": "Aqua, Salix Alba (Willow) Bark Extract, Salicylic Acid, Ethoxydiglycol, Glycerin, Hamamelis Virginiana (Witch Hazel) Extract, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Hydroxyethylcellulose, Sodium Benzoate, Potassium Sorbate, Sodium Metabisulfite, Sodium Hydroxide & Disodium EDTA",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51W1McnF86L._AC_UL320_.jpg"
@@ -92752,7 +93141,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -92761,25 +93153,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/2-salicylic-acid-serum-10ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Serum for Active Acne - 10ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Salix Alba (Willow) Bark Extract, Salicylic Acid, Ethoxydiglycol, Glycerin, Hamamelis Virginiana (Witch Hazel) Extract, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Hydroxyethylcellulose, Sodium Benzoate, Potassium Sorbate, Sodium Metabisulfite, Sodium Hydroxide & Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -101562,16 +101981,18 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹165/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.8,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -101588,13 +102009,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-smoothening-body-lotion-250-ml",
+   "inciMatchedName": "Smoothening Body Lotion - 250 ml (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Lactic Acid, Cetyl Alcohol, Cyclopentasiloxane, Glyceryl Monostearate, Propanediol, Stearic Acid, Ethyl Olivate, Sodium Hydroxide, Cetostearyl Alcohol, Emulsifying Wax, Glycerine, Niacinamide, Fragrance, Salicylic Acid, Phenoxyethanol, Olive Oil Methyl Ester, Sodium Benzoate, Potassium Sorbate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Isohexadecane, Oat (Avena sativa) Meal Extract, Citrus Grandis Fruit Extract, Sodium Gluconate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Polyisobutene, Ethylhexylglycerin, Polysorbate 80, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitan Oleate, Sorbitan Isostearate, Sodium Hyaluronate, Ceramide NP",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); salicylic acid (#16 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uTrtzsFjL._AC_UL320_.jpg"
@@ -101627,7 +102051,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -101636,27 +102063,100 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-smoothening-body-lotion-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Smoothening Body Lotion - 250 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Lactic Acid, Cetyl Alcohol, Cyclopentasiloxane, Glyceryl Monostearate, Propanediol, Stearic Acid, Ethyl Olivate, Sodium Hydroxide, Cetostearyl Alcohol, Emulsifying Wax, Glycerine, Niacinamide, Fragrance, Salicylic Acid, Phenoxyethanol, Olive Oil Methyl Ester, Sodium Benzoate, Potassium Sorbate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Isohexadecane, Oat (Avena sativa) Meal Extract, Citrus Grandis Fruit Extract, Sodium Gluconate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Polyisobutene, Ethylhexylglycerin, Polysorbate 80, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitan Oleate, Sorbitan Isostearate, Sodium Hyaluronate, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -101861,18 +102361,17 @@ const CTPRODUCTS = [
   "capacityLine": "236 ml",
   "materialLine": "salicylic acid (BHA) + mandelic acid + PHA",
   "featureLine": "Scrub / exfoliant · ₹504/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Made by Galderma (dermatology / pharma maker)",
-   "Well-reviewed: 4.4★ from 0 ratings"
+   "gluconolactone high on the INCI list (moderate evidence); mandelic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 7.5,
+   "skin": 10,
+   "trust": 10,
    "experience": 3.2
   },
   "fullSpec": {
@@ -101889,13 +102388,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/products/product-categories/cetaphil-gentle-exfoliating-sa-lotion/3499320017282.html",
+   "inciMatchedName": "Cetaphil Gentle Exfoliating SA Lotion (name match 100%)",
+   "inciList": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID",
+   "evidenceActives": "gluconolactone (#6 on list, moderate evidence); mandelic acid (#9 on list, moderate evidence); salicylic acid (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61T4VljYMLL._AC_UL320_.jpg"
@@ -101918,7 +102420,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -101928,25 +102433,112 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/products/product-categories/cetaphil-gentle-exfoliating-sa-lotion/3499320017282.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Gentle Exfoliating SA Lotion",
+   "inciMatchScore": 1,
+   "inciText": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -146123,15 +146715,16 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "glycolic acid + green tea",
   "featureLine": "Scrub / exfoliant · Fragrance-free · ₹6233/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -146148,13 +146741,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-perfecting-8-aha-gel-exfoliant",
+   "inciMatchedName": "8% AHA Gel Exfoliant (name match 94%)",
+   "inciList": "Water (Aqua), Glycolic Acid (alpha hydroxy acid/exfoliant), Sodium Hydroxide (pH adjuster), Chamomilla Recutita Matricaria Flower Extract (chamomile/skin-soothing), Aloe Barbadensis Leaf Juice (hydration), Camellia Oleifera Leaf Extract (green tea/antioxidant/skin-soothing), Sodium Hyaluronate (skin replenishing), Panthenol (hydration), Sodium PCA (skin replenishing), Propylene Glycol (hydration), Butylene Glycol (hydration), Hydroxyethylcellulose (texture-enhancing), Polyquaternium-10 (texture-enhancing), Phenoxyethanol (preservative), Sodium Benzoate (preservative)",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #5 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g2+W2FjLL._AC_UL320_.jpg"
@@ -146176,7 +146772,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -146185,25 +146784,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-perfecting-8-aha-gel-exfoliant",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "8% AHA Gel Exfoliant",
+   "inciMatchScore": 0.94,
+   "inciText": "Water (Aqua), Glycolic Acid (alpha hydroxy acid/exfoliant), Sodium Hydroxide (pH adjuster), Chamomilla Recutita Matricaria Flower Extract (chamomile/skin-soothing), Aloe Barbadensis Leaf Juice (hydration), Camellia Oleifera Leaf Extract (green tea/antioxidant/skin-soothing), Sodium Hyaluronate (skin replenishing), Panthenol (hydration), Sodium PCA (skin replenishing), Propylene Glycol (hydration), Butylene Glycol (hydration), Hydroxyethylcellulose (texture-enhancing), Polyquaternium-10 (texture-enhancing), Phenoxyethanol (preservative), Sodium Benzoate (preservative)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "panthenol",
+    "sodium pca",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -149345,15 +149982,16 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "PHA",
   "featureLine": "Scrub / exfoliant · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); gluconolactone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.6,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 5
   },
   "fullSpec": {
@@ -149370,13 +150008,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-pha-toner-200ml",
+   "inciMatchedName": "Alltimate Pha Toner 200ml (name match 100%)",
+   "inciList": "Water/Eau, Propanediol, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Urea, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Dipropylene Glycol, Tromethamine, Carnitine, Allantoin, Salicylic Acid, Sodium Polyacrylate, Hydrolyzed Hyaluronic Acid, Citric Acid, Serine, Arginine, Dipotassium Glycyrrhizate, Gluconolactone, Beta-Glucan",
+   "evidenceActives": "salicylic acid (#12 on list, strong evidence); gluconolactone (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #4 on INCI, dipotassium glycyrrhizate #18 on INCI; Irritation — beta-glucan #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41QxRsTLWWL._AC_UL320_.jpg"
@@ -149402,7 +150043,12 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -149411,25 +150057,103 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-pha-toner-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Alltimate Pha Toner 200ml",
+   "inciMatchScore": 1,
+   "inciText": "Water/Eau, Propanediol, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Urea, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Dipropylene Glycol, Tromethamine, Carnitine, Allantoin, Salicylic Acid, Sodium Polyacrylate, Hydrolyzed Hyaluronic Acid, Citric Acid, Serine, Arginine, Dipotassium Glycyrrhizate, Gluconolactone, Beta-Glucan",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "hydrolyzed hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -161070,15 +161794,15 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Scrub / exfoliant · ₹230/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.9,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -161095,13 +161819,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/jovees-herbal-night-ritual-moisturizer-prevents-dark-spots-reduces-fine-line-skin-renewal-rejuvenation-nourishes-hydrates-skin-exfoliates-all-skin-types-100ml",
+   "inciMatchedName": "Jovees Night Ritual Moisturizer | Prevents Dark Spots | Reduces Fine Line | Skin Renewal  & Rejuvenation (name match 95%)",
+   "inciList": "Papaya fruit extract, Pomegranate fruit extract, Aloe Vera extract, Wheat germ oil, Jojoba oil, Almond oil, Shea butter, Argan oil, Phytosqualane, Vitamin E, Hydrovance, Diheptyl Succinate & Capryloyl Glycerin, Cetyl alcohol, Glyceryl stearate & PEG-100 stearate, Cetearyl alcohol & Ceteareth-20, Bees wax, Zemea, Phenoxyethanol & Ethyl hexyl glycerin, Perfume, Sodium gluconate, Purified water",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51EL5PaQqiL._AC_UL320_.jpg"
@@ -161121,7 +161848,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -161130,27 +161859,96 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/jovees-herbal-night-ritual-moisturizer-prevents-dark-spots-reduces-fine-line-skin-renewal-rejuvenation-nourishes-hydrates-skin-exfoliates-all-skin-types-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Jovees Night Ritual Moisturizer | Prevents Dark Spots | Reduces Fine Line | Skin Renewal  & Rejuvenation",
+   "inciMatchScore": 0.95,
+   "inciText": "Papaya fruit extract, Pomegranate fruit extract, Aloe Vera extract, Wheat germ oil, Jojoba oil, Almond oil, Shea butter, Argan oil, Phytosqualane, Vitamin E, Hydrovance, Diheptyl Succinate & Capryloyl Glycerin, Cetyl alcohol, Glyceryl stearate & PEG-100 stearate, Cetearyl alcohol & Ceteareth-20, Bees wax, Zemea, Phenoxyethanol & Ethyl hexyl glycerin, Perfume, Sodium gluconate, Purified water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "shea butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Jovees Herbal Care India",
     "kind": "d2c",
@@ -164008,15 +164806,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant · ₹1048/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 9,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -164033,13 +164832,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-11",
+   "inciMatchedName": "60ml - 25% AHA, 2% BHA, 5% PHA Peeling Solution (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); gluconolactone (#7 on list, moderate evidence); salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71LasgpYgnL._AC_UL320_.jpg"
@@ -164072,7 +164874,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -164081,25 +164887,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-11",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "60ml - 25% AHA, 2% BHA, 5% PHA Peeling Solution",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -166723,15 +167599,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant · ₹2797/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -166748,13 +167625,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-30ml",
+   "inciMatchedName": "25% AHA, 2% BHA, 5% PHA Peeling Solution, 30ml (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); gluconolactone (#7 on list, moderate evidence); salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uw5UTvWXL._AC_UL320_.jpg"
@@ -166787,7 +167667,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -166796,25 +167680,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "25% AHA, 2% BHA, 5% PHA Peeling Solution, 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -170649,15 +171603,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "glycolic acid + hyaluronic acid + kojic acid",
   "featureLine": "Scrub / exfoliant · ₹1597/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); gluconolactone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.6,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -170674,13 +171629,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/watermelon-10-glycolic-super-glow-serum-for-smooth-luminous-glowing-skin-controls-pigmentation-excess-oil-oily-dull-skin",
+   "inciMatchedName": "Watermelon & 10% Glycolic Serum (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Ethoxydiglycol, Propanediol, Butylene Glycol, Sodium Hydroxide, Citrullus Lanatus (Watermelon) Fruit Extract, Rubus Chamaemorus Fruit Extract, Kojic acid, Sodium Hyaluronate, Sodium Polyglutamate, Laminaria digitata extract, Hydrogenated lecithin, Cetyl-PG hydroxyethyl palmitamide, Ceramide 1, 2,3,4,6II, Cholesterol, 1,2-hexanediol, Gluconolactone, Panthenol, Xanthan Gum, Allantoin, C18-22 Hydroxyalkyl Hydroxypropyl Guar, Sodium Gluconate, Disodium EDTA, Phenoxyethanol & Ethylhexylglycerine",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); gluconolactone (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — kojic acid #9 on INCI; Irritation — ceramide eos #15 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514Rvpwcr0L._AC_UL320_.jpg"
@@ -170705,7 +171663,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -170714,25 +171676,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/watermelon-10-glycolic-super-glow-serum-for-smooth-luminous-glowing-skin-controls-pigmentation-excess-oil-oily-dull-skin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Watermelon & 10% Glycolic Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Ethoxydiglycol, Propanediol, Butylene Glycol, Sodium Hydroxide, Citrullus Lanatus (Watermelon) Fruit Extract, Rubus Chamaemorus Fruit Extract, Kojic acid, Sodium Hyaluronate, Sodium Polyglutamate, Laminaria digitata extract, Hydrogenated lecithin, Cetyl-PG hydroxyethyl palmitamide, Ceramide 1, 2,3,4,6II, Cholesterol, 1,2-hexanediol, Gluconolactone, Panthenol, Xanthan Gum, Allantoin, C18-22 Hydroxyalkyl Hydroxypropyl Guar, Sodium Gluconate, Disodium EDTA, Phenoxyethanol & Ethylhexylglycerine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "ceramide eos",
+    "cholesterol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

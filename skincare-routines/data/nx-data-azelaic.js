@@ -37279,15 +37279,16 @@ const NXPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + Glycolic acid",
   "featureLine": "Gel · Paraben-free · ₹2393/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -37305,14 +37306,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/acne-spot-corrector-gel",
+   "inciMatchedName": "Acne Spot Corrector with Salicylic Acid (name match 84%)",
+   "inciList": "Aqua, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propylene glycol, Ethoxydiglycol, Salicylic acid, Glycolic acid, Potassium Azeloyl diglycinate, Phenoxyethanol, Niacinamide, D- Panthenol, Chondrus crispus Extract, Azelaic acid, Ethylhexylglycerin, Polyacrylate cross polymer-6, Octenidine HCl, Phytic acid, Citric Acid, Triethanolamine",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); glycolic acid (#6 on list, strong evidence); niacinamide (#9 on list, strong evidence); azelaic acid (#12 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71oXapWnt7L._SL1500_.jpg"
@@ -37350,7 +37353,9 @@ const NXPRODUCTS = [
    "target:acne",
    "target:dark-spots",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -37358,25 +37363,68 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/acne-spot-corrector-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Acne Spot Corrector with Salicylic Acid",
+   "inciMatchScore": 0.84,
+   "inciText": "Aqua, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propylene glycol, Ethoxydiglycol, Salicylic acid, Glycolic acid, Potassium Azeloyl diglycinate, Phenoxyethanol, Niacinamide, D- Panthenol, Chondrus crispus Extract, Azelaic acid, Ethylhexylglycerin, Polyacrylate cross polymer-6, Octenidine HCl, Phytic acid, Citric Acid, Triethanolamine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "azelaic"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -39483,15 +39531,17 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Salicylic acid (BHA) + Azelaic acid + Green tea",
   "featureLine": "Serum · ₹1497/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); azelaic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 1.6
   },
   "fullSpec": {
@@ -39509,14 +39559,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/jovees-herbal-2-salicylic-acid-acne-control-serum-with-1-azelaic-acid-aloe-vera-and-green-tea-for-active-acne-oil-balancing-pore-tightening-for-all-skin-types-30-ml-30-ml",
+   "inciMatchedName": "2% Salicylic Acid Acne Control Serum With 1% Azelaic Acid (name match 100%)",
+   "inciList": "Glycerin, Aloe Vera extract, Witch hazel extract, Salicylic acid, Green tea extract, Azelaic acid, Potassium azeloyl diglycinate, Phenoxyethanol & Ethyl hexyl glycerin, Xanthan gum, Perfume, Sodium gluconate, Purified water",
+   "evidenceActives": "salicylic acid (#4 on list, strong evidence); azelaic acid (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI, azelaic acid #6 on INCI; Dark spots — product type, azelaic acid #6 on INCI; Irritation — product type, aloe barbadensis leaf extract #2 on INCI, azelaic acid #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614eCfzq-GL._SL1500_.jpg",
@@ -39546,7 +39598,8 @@ const NXPRODUCTS = [
    "target:acne",
    "target:dark-spots",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -39554,27 +39607,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/jovees-herbal-2-salicylic-acid-acne-control-serum-with-1-azelaic-acid-aloe-vera-and-green-tea-for-active-acne-oil-balancing-pore-tightening-for-all-skin-types-30-ml-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Acne Control Serum With 1% Azelaic Acid",
+   "inciMatchScore": 1,
+   "inciText": "Glycerin, Aloe Vera extract, Witch hazel extract, Salicylic acid, Green tea extract, Azelaic acid, Potassium azeloyl diglycinate, Phenoxyethanol & Ethyl hexyl glycerin, Xanthan gum, Perfume, Sodium gluconate, Purified water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Jovees Herbal Care India",
     "kind": "d2c",

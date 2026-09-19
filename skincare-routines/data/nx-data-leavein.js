@@ -18411,16 +18411,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Colloidal oatmeal + Peptides + Avocado",
   "featureLine": "Leave-in conditioner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethiconol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl salicylate, citronellol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.1,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -18438,11 +18441,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/lbp-avocado-oil-peptide-waves-leave-in-conditioner",
+   "inciMatchedName": "Avocado Oil & Peptide Waves Leave-In Conditioner (name match 100%)",
+   "inciList": "Aqua, C11-13 Isoalkane (And) Isohexadecane (And) Dimethiconol, C15-19 Alkane, Propylene Glycol, Acrylates Copolymer, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Vp/VA Copolymer, Fragrance, Persea Gratissima (Avocado) Oil^, Avena Sativa (Oat) Peptide, Lactic ACID, Ammonium Hydroxide, Pentylene Glycol, 1,2-hexanediol, Caprylyl Glycol, Disodium Edta, Phenoxyethanol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool",
+   "evidenceActives": "dimethiconol (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: benzyl salicylate, citronellol, geraniol, hexyl cinnamal, limonene, linalool (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -18474,7 +18479,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -18482,27 +18488,76 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/lbp-avocado-oil-peptide-waves-leave-in-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Avocado Oil & Peptide Waves Leave-In Conditioner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C11-13 Isoalkane (And) Isohexadecane (And) Dimethiconol, C15-19 Alkane, Propylene Glycol, Acrylates Copolymer, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Vp/VA Copolymer, Fragrance, Persea Gratissima (Avocado) Oil^, Avena Sativa (Oat) Peptide, Lactic ACID, Ammonium Hydroxide, Pentylene Glycol, 1,2-hexanediol, Caprylyl Glycol, Disodium Edta, Phenoxyethanol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "acrylates copolymer",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "vp/va copolymer",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "citronellol",
+      "geraniol",
+      "hexyl cinnamal",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

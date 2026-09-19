@@ -7854,17 +7854,18 @@ const NXPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "Retinol + Peptides",
   "featureLine": "Serum · ₹2050/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "retinol high on the INCI list (strong evidence); tocopherol high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 1,649 ratings"
   ],
   "cons": [
-   "Only 2 ingredients named — formula unscored"
+   "Drying alcohol high in the list: alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.6,
+   "skin": 8.1,
+   "trust": 7,
    "experience": 7.4
   },
   "fullSpec": {
@@ -7883,14 +7884,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (1,649 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 0.2% Retinol, 1% Peptide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciMatchedName": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide (name match 95%)",
+   "listingIngredientLine": "0.2% Retinol, 1% Peptide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "evidenceActives": "retinol (#5 on list, strong evidence); tocopherol (#8 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence)",
+   "safetyFlags": "Drying alcohol high in the list: alcohol (−1)",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 1,649 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/f/n/b/30-0-2-retinol-night-face-serum-for-anti-aging-fine-lines-original-imagwfwzd4vtpk6g.jpeg?q=90",
@@ -7916,7 +7920,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -7924,27 +7930,73 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "0.2% Retinol, 1% Peptide",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Deconstruct Skincare",
     "kind": "d2c",
@@ -83050,15 +83102,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Peptides + Glutathione + Snail mucin",
   "featureLine": "Serum · ₹4237/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); adenosine high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -83076,14 +83129,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-vegan-mucin-peptide-8-serum",
+   "inciMatchedName": "Alltimate Vegan Mucin Peptide 8 Serum 30ml (name match 85%)",
+   "inciList": "Water/Eau, Glycerin, Niacinamide, Polyglycerin-3, Butylene Glycol, 1,2-Hexanediol, Panthenol, Adenosine, Dioscorea Opposita (Wild Yam) Root Extract, Glutathione, Arginine/Lysine Polypeptide, Acetyl Tetrapeptide-9, Acetyl Hexapeptide-8, Oligopeptide-107 Sh-Oligopeptide-1, Copper Tripeptide-1, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Allantoin, Undecane, Tridecane, Glycine, Desamido Collagen, Serine, Arginine, Sodium Polyacrylate, Carbomer, Glyceryl Acrylate/Acrylic Acid Copolymer, Polyglyceryl-10 Stearate, Polyglyceryl-10 Oleate, Citric Acid, Cholesterol, Hydrogenated Lecithin, Peg-8 Caprylic/Capric Glycerides, Polysorbate 20, Tocopherol, Sodium Lactate, Sorbic Acid, Tromethamine, Caprylyl Glycol, Alcohol Denat",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); adenosine (#8 on list, moderate evidence); acetyl hexapeptide-8 (#13 on list, moderate evidence); copper tripeptide-1 (#15 on list, moderate evidence); palmitoyl tripeptide-1 (#16 on list, moderate evidence); palmitoyl tetrapeptide-7 (#17 on list, moderate evidence); tocopherol (#35 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Aging — product type, adenosine #8 on INCI, acetyl hexapeptide-8 #13 on INCI, copper tripeptide-1 #15 on INCI, palmitoyl tripeptide-1 #16 on INCI, palmitoyl tetrapeptide-7 #17 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41-KGNtPKUL._SL1000_.jpg",
@@ -83113,8 +83168,13 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -83122,25 +83182,136 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-vegan-mucin-peptide-8-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Alltimate Vegan Mucin Peptide 8 Serum 30ml",
+   "inciMatchScore": 0.85,
+   "inciText": "Water/Eau, Glycerin, Niacinamide, Polyglycerin-3, Butylene Glycol, 1,2-Hexanediol, Panthenol, Adenosine, Dioscorea Opposita (Wild Yam) Root Extract, Glutathione, Arginine/Lysine Polypeptide, Acetyl Tetrapeptide-9, Acetyl Hexapeptide-8, Oligopeptide-107 Sh-Oligopeptide-1, Copper Tripeptide-1, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Allantoin, Undecane, Tridecane, Glycine, Desamido Collagen, Serine, Arginine, Sodium Polyacrylate, Carbomer, Glyceryl Acrylate/Acrylic Acid Copolymer, Polyglyceryl-10 Stearate, Polyglyceryl-10 Oleate, Citric Acid, Cholesterol, Hydrogenated Lecithin, Peg-8 Caprylic/Capric Glycerides, Polysorbate 20, Tocopherol, Sodium Lactate, Sorbic Acid, Tromethamine, Caprylyl Glycol, Alcohol Denat",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "panthenol",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -132324,17 +132495,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Peptides + Collagen + Glycerin",
   "featureLine": "Serum · ₹6613/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "palmitoyl tripeptide-1 high on the INCI list (moderate evidence); palmitoyl tetrapeptide-7 high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.6★ from 0 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.6,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -132352,11 +132525,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Another way to buy ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciMatchedName": "collagen lifter serum 40ml (name match 82%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
+   "evidenceActives": "palmitoyl tripeptide-1 (#11 on list, moderate evidence); palmitoyl tetrapeptide-7 (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl alcohol, geraniol, coumarin, hexyl cinnamal (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 0 ratings",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -132393,7 +132568,8 @@ const NXPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -132401,27 +132577,87 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter serum 40ml",
+   "inciMatchScore": 0.82,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.85,
+   "actives": [
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "coumarin",
+      "hexyl cinnamal"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -133805,16 +134041,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Ceramides",
   "featureLine": "Serum · ₹7663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -133832,11 +134070,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciMatchedName": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml) (name match 80%)",
+   "inciList": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
+   "evidenceActives": "niacinamide (#27 on list, strong evidence); sodium hyaluronate (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings",
    "concernBasis": "Aging — product type (matching only — not proof it works)"
@@ -133869,7 +134109,9 @@ const NXPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -133877,25 +134119,82 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml)",
+   "inciMatchScore": 0.8,
+   "inciText": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide eop",
+    "ceramide np",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -153337,15 +153636,17 @@ const NXPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "Retinol + Peptides + Collagen",
   "featureLine": "Serum · Fragrance-free · ₹1997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Drying alcohol high in the list: alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.6,
+   "skin": 8.1,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -153363,14 +153664,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciMatchedName": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide (name match 96%)",
+   "inciList": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "evidenceActives": "retinol (#5 on list, strong evidence); tocopherol (#8 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence)",
+   "safetyFlags": "Drying alcohol high in the list: alcohol (−1)",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bL392S-TL._SL1500_.jpg",
@@ -153402,7 +153705,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -153410,27 +153715,73 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Deconstruct Skincare",
     "kind": "d2c",
@@ -169239,15 +169590,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Peptides + Caffeine",
   "featureLine": "Serum · ₹3343/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); adenosine high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7.9,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -169265,14 +169617,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-niacinamide-10-serum",
+   "inciMatchedName": "Alltimate Niacinamide 10% Serum 30ml (name match 100%)",
+   "inciList": "Water/Eau, Niacinamide, Butylene Glycol, Propanediol, Panthenol, Bis-Peg-18 Methyl Ether Dimethyl Silane, 1,2-Hexanediol, Caffeine, Polysorbate 20, Glycosyl Trehalose, Troxerutin, Hydrogenated Starch Hydrolysate, Sarcosine, Allantoin, Polyacrylate Crosspolymer-6, Pentylene Glycol, Xanthan Gum, Adenosine, Disodium Edta, Serine, Arginine, Hydroxyphenyl Propamidobenzoic Acid, Citric Acid, Tocopherol, Ascorbyl Palmitate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); adenosine (#18 on list, moderate evidence); tocopherol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type, adenosine #18 on INCI; Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51b8oBl7JeL._SL1500_.jpg",
@@ -169305,8 +169659,13 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -169314,25 +169673,95 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-niacinamide-10-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Alltimate Niacinamide 10% Serum 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Water/Eau, Niacinamide, Butylene Glycol, Propanediol, Panthenol, Bis-Peg-18 Methyl Ether Dimethyl Silane, 1,2-Hexanediol, Caffeine, Polysorbate 20, Glycosyl Trehalose, Troxerutin, Hydrogenated Starch Hydrolysate, Sarcosine, Allantoin, Polyacrylate Crosspolymer-6, Pentylene Glycol, Xanthan Gum, Adenosine, Disodium Edta, Serine, Arginine, Hydroxyphenyl Propamidobenzoic Acid, Citric Acid, Tocopherol, Ascorbyl Palmitate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

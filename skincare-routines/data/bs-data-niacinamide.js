@@ -18607,6 +18607,1079 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-9shldu",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+   "inciMatchedName": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide (name match 100%)",
+   "inciList": "Aqua, Decyl Glucoside, Glycerin, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Xylitylglucoside, Anhydroxylitol, Xylitol,Sodium Cocoyl Isethionate, Salicylic Acid, Aloe Barbadensis Extract, Chamomilla Recutita Extract, PEG-120 Methyl Glucoside Dioleate,Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Sodium Gluconate, Menthyl lactate",
+   "evidenceActives": "niacinamide (#13 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #10 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-22.webp?v=1779361975"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "claim:oil-control",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Decyl Glucoside, Glycerin, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Xylitylglucoside, Anhydroxylitol, Xylitol,Sodium Cocoyl Isethionate, Salicylic Acid, Aloe Barbadensis Extract, Chamomilla Recutita Extract, PEG-120 Methyl Glucoside Dioleate,Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Sodium Gluconate, Menthyl lactate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1wvjzns",
+  "brand": "Deconstruct",
+  "model": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciMatchedName": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); sodium hyaluronate (#36 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Oil_Control_Serum_with_3__Niacinamide_2__Salicylic_Acid_With_Liposomal_Technology.webp?v=1782482394"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/pore-control-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "claim:oil-control",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-g79ks0",
+  "brand": "Deconstruct",
+  "model": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+  "price": 524,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Hyaluronic acid",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum (name match 100%)",
+   "inciList": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#5 on list, moderate evidence); niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-11.webp?v=1779361773"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "free:oil-free",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "butylene glycol",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-19cdi1q",
+  "brand": "Deconstruct",
+  "model": "Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Typ…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/fluid-brightening-sunscreen-with-spf50",
+   "inciMatchedName": "Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Types (name match 100%)",
+   "inciList": "Aqua, C12-15 Alkyl Benzoate (and) Diethylamino Hydroxybenzoyl Hexyl Benzoate (and) Ethylhexyl Triazone (and) Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (and) Phospholipids (and) Polysorbate 80 (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Ethylhexyl Salicylate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Niacinamide, Propanediol, Behenyl Alcohol (and) Polyglyceryl-10 Pentastearate (and) Sodium Stearoyl Lactylate, Undecane (and) Tridecane, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Acrylates Copolymer (and) Lecithin, Allantoin, Disodium EDTA, Sodium Anisate",
+   "evidenceActives": "niacinamide (#15 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Fluid_Brightening_Sunscreen_SPF_50_PA_5__Niacinamide_In_Vivo_Tested_All_Skin_Types.webp?v=1782482332"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/fluid-brightening-sunscreen-with-spf50",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:emulsion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/fluid-brightening-sunscreen-with-spf50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Types",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-15 Alkyl Benzoate (and) Diethylamino Hydroxybenzoyl Hexyl Benzoate (and) Ethylhexyl Triazone (and) Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (and) Phospholipids (and) Polysorbate 80 (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Ethylhexyl Salicylate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Niacinamide, Propanediol, Behenyl Alcohol (and) Polyglyceryl-10 Pentastearate (and) Sodium Stearoyl Lactylate, Undecane (and) Tridecane, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Acrylates Copolymer (and) Lecithin, Allantoin, Disodium EDTA, Sodium Anisate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1i800kt",
+  "brand": "Deconstruct",
+  "model": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Kojic acid",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: menthol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.1,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Kojic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+   "inciMatchedName": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Aqua (and) Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and), Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Niacinamide, Butylene Glycol,Glycerin, Betaine, AMPS/HEMA crosspolymer (and) C13-15 alkane (and) Coco-glucoside, Kojic Acid Dipalmitate, Licorice Extract, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Petrolatum, Cetearyl Olivate, Sorbitan Olivate, Menthol",
+   "evidenceActives": "niacinamide (#9 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Lotion (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Listing_Image_V2Artboard_17_converted.webp?v=1769873902"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Aqua (and) Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and), Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Niacinamide, Butylene Glycol,Glycerin, Betaine, AMPS/HEMA crosspolymer (and) C13-15 alkane (and) Coco-glucoside, Kojic Acid Dipalmitate, Licorice Extract, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Petrolatum, Cetearyl Olivate, Sorbitan Olivate, Menthol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "glycerin",
+    "panthenol",
+    "petrolatum"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-yh1mgr",
+  "brand": "Deconstruct",
+  "model": "Dark Spot Clearing Serum with Liposomal Technology | 5% Niacinamide & 2% Alpha Arbutin | C…",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Alpha arbutin",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Alpha arbutin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/clearing-serum",
+   "inciMatchedName": "Dark Spot Clearing Serum with Liposomal Technology | 5% Niacinamide & 2% Alpha Arbutin | Clinically Tested (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Alpha Arbutin, 3-O-Ethyl Ascorbic Acid, Tocopheryl Acetate, Dictyopteris Membranacea, Pentylene Glycol, Propanediol, Phenoxyethanol & Ethylhexylglycerin, Sodium PCA, Trehalose, Disodium EDTA, Sodium Metabisulphite, Sodium Anisate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); alpha-arbutin (#3 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, alpha-arbutin #3 on INCI, 3-o-ethyl ascorbic acid #4 on INCI; Aging — 3-o-ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/clearing.webp?v=1780471648"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/clearing-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Dark Spot Clearing Serum with Liposomal Technology | 5% Niacinamide & 2% Alpha Arbutin | Clinically Tested",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:alpha-arbutin",
+   "claim:dark-spots",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/clearing-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Dark Spot Clearing Serum with Liposomal Technology | 5% Niacinamide & 2% Alpha Arbutin | Clinically Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Alpha Arbutin, 3-O-Ethyl Ascorbic Acid, Tocopheryl Acetate, Dictyopteris Membranacea, Pentylene Glycol, Propanediol, Phenoxyethanol & Ethylhexylglycerin, Sodium PCA, Trehalose, Disodium EDTA, Sodium Metabisulphite, Sodium Anisate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "sodium pca"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1ncowrl",
+  "brand": "Deconstruct",
+  "model": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin",
+  "price": 524,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Alpha arbutin",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Alpha arbutin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+   "inciMatchedName": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Glycerin, Xylitylglucoside (and) anhydroxylitol (and) xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan gum, Guar gum, Alpha Arbutin, EDTA, Brassica Campestris (Rapeseed) Seed Oil, Glycyrrhiza Glabra (Licorice)Root Extract, Polyglyceryl-3 Diisostearate, Althaea Officinalis Root Extract, Oryza Sativa (Rice) Bran Extract, Palmaria Palmata extract, Bellis Perennis (Daisy) Flower Extract",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); alpha-arbutin (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-5.webp?v=1779360865"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:alpha-arbutin",
+   "claim:brightening",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Glycerin, Xylitylglucoside (and) anhydroxylitol (and) xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan gum, Guar gum, Alpha Arbutin, EDTA, Brassica Campestris (Rapeseed) Seed Oil, Glycyrrhiza Glabra (Licorice)Root Extract, Polyglyceryl-3 Diisostearate, Althaea Officinalis Root Extract, Oryza Sativa (Rice) Bran Extract, Palmaria Palmata extract, Bellis Perennis (Daisy) Flower Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-h6lw78",
   "brand": "The Derma Co",
   "model": "1% Kojic Acid Face Wash with Niacinamide & Alpha Arbutin For Dark Spots & Pigmentation - 2…",

@@ -56635,17 +56635,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid + Ceramides",
   "featureLine": "Gel",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "dimethicone high on the INCI list (moderate evidence); squalane high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 560 ratings"
   ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.7
   },
   "fullSpec": {
@@ -56663,15 +56663,18 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (560 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Multi Molecular Hyaluronic Acid, Ceramide Complex, Marine Algae Extract \"",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/hydro-multi-hyaluronic-acid-moisturiser-100-gm-hp",
+   "inciMatchedName": "Hydro+ Multi Hyaluronic Acid Moisturiser | HP (name match 100%)",
+   "listingIngredientLine": "Multi Molecular Hyaluronic Acid, Ceramide Complex, Marine Algae Extract \" (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Myristyl Myristate, Caprylic/Capric Triglyceride, Propylene Glycol, Cetearyl Alcohol, Glyceryl Monostearate, Dimethicone, Aloe Barbadensis (Aloe Vera) Leaf Juice, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol, Carbomer , Tocopheryl Acetate, Triethanolamine, Xylitylglucoside & Anhydroxylitol & Xylitol, Sodium PCA & Sodium Lactate & Arginine & Aspartic Acid & PCA & Glycine & Alanine & Serine & Valine & Proline & Threonine & Isoleucine & Histidine & Phenylalanine, Squalane, Ceramide NP & Ceramide AP & Ceramide EOP & Phytosphingosine & Cholesterol & Sodium Lauroyl Lactylate & Xanthan Gum, Sodium Hyaluronate, Saccharide Isomerate & Phenethyl Alcohol, Panthenol, Disodium EDTA, Allantoin",
+   "evidenceActives": "dimethicone (#7 on list, moderate evidence); squalane (#16 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); panthenol (#20 on list, moderate evidence); allantoin (#22 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Anapure Biocos Plot no:911, Phase 2 Ind. Area, 1, 160002 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 560 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/n/u/-original-imahn8c66rbhw78k.jpeg?q=90",
@@ -56697,7 +56700,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:irritation",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -56705,25 +56710,87 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Multi Molecular Hyaluronic Acid, Ceramide Complex, Marine Algae Extract \"",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/hydro-multi-hyaluronic-acid-moisturiser-100-gm-hp",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydro+ Multi Hyaluronic Acid Moisturiser | HP",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Myristyl Myristate, Caprylic/Capric Triglyceride, Propylene Glycol, Cetearyl Alcohol, Glyceryl Monostearate, Dimethicone, Aloe Barbadensis (Aloe Vera) Leaf Juice, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol, Carbomer , Tocopheryl Acetate, Triethanolamine, Xylitylglucoside & Anhydroxylitol & Xylitol, Sodium PCA & Sodium Lactate & Arginine & Aspartic Acid & PCA & Glycine & Alanine & Serine & Valine & Proline & Threonine & Isoleucine & Histidine & Phenylalanine, Squalane, Ceramide NP & Ceramide AP & Ceramide EOP & Phytosphingosine & Cholesterol & Sodium Lauroyl Lactylate & Xanthan Gum, Sodium Hyaluronate, Saccharide Isomerate & Phenethyl Alcohol, Panthenol, Disodium EDTA, Allantoin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "squalane",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -62965,15 +63032,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Ceramides",
   "featureLine": "Cream",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); cholesterol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.6
   },
   "fullSpec": {
@@ -62991,15 +63059,18 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (821 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Ceramides, Bisabolol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciMatchedName": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol (name match 92%)",
+   "listingIngredientLine": "Ceramides, Bisabolol (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "evidenceActives": "centella asiatica extract (#4 on list, moderate evidence); cholesterol (#11 on list, moderate evidence); ceramide ap (#12 on list, moderate evidence); ceramide eop (#13 on list, moderate evidence); ceramide np (#14 on list, moderate evidence); bisabolol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 821 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, centella asiatica extract #4 on INCI, ceramide ap #12 on INCI, ceramide eop #13 on INCI, ceramide np #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/x/o/-original-imahhy36mqkhajsk.jpeg?q=90",
@@ -63020,7 +63091,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:irritation",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -63028,25 +63101,79 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Ceramides, Bisabolol",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "cholesterol",
+    "ceramide ap",
+    "ceramide eop",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -68883,17 +69010,17 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Hyaluronic acid + Ceramides + Vitamin B5 / panthenol",
   "featureLine": "Cream · Paraben-free · ₹734/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 764 ratings"
   ],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.9
   },
   "fullSpec": {
@@ -68912,14 +69039,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (764 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 0.5% Ceramide Complex, 0.3% Ectoin, 1% Panthenol, Hyaluronic Acid Complex, Calendula Extract",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciMatchedName": "Acne Control Moisturizer with Ectoin & Ceramides (name match 100%)",
+   "listingIngredientLine": "0.5% Ceramide Complex, 0.3% Ectoin, 1% Panthenol, Hyaluronic Acid Complex, Calendula Extract (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#7 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 764 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #10 on INCI, ceramide np #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/g/j/50-acne-control-moisturiser-with-ectoin-ceramides-for-acne-prone-original-imahgkggehvnp7rz.jpeg?q=90",
@@ -68951,7 +69081,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:irritation",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -68959,25 +69091,63 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "0.5% Ceramide Complex, 0.3% Ectoin, 1% Panthenol, Hyaluronic Acid Complex, Calendula Extract",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Acne Control Moisturizer with Ectoin & Ceramides",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -96538,15 +96708,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "Ceramides + Vitamin B5 / panthenol",
   "featureLine": "Gel · Fragrance-free · ₹947/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -96564,14 +96735,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/vitamin-b12-repair-complex-5-5-face-moisturizer",
+   "inciMatchedName": "B12 + Repair Complex 5.5% Face Moisturizer (name match 96%)",
+   "inciList": "Water/Aqua, Cyclopentasiloxane, Glycerin, Panthenol, Hydrogenated Polyisobutene, PEG/PPG-18/18 Dimethicone, Dimethicone Crosspolymer, Betaine, Allantoin, Cetyl PEG/PPG-10/1 Dimethicone, Cyanocobalamin, Ceramide NP, Dipropylene Glycol, Hydrogenated Lecithin, Glyceryl Stearate, Ceramide NS, Ceramide AS, Ceramide AP, Cholesterol, Carbomer, Ceramide EOP, Sucrose Distearate, Phenoxyethanol, Pentylene Glycol, Magnesium Sulphate Heptahydrate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); panthenol (#4 on list, moderate evidence); allantoin (#9 on list, limited evidence); ceramide np (#12 on list, moderate evidence); ceramide ns (#16 on list, moderate evidence); ceramide ap (#18 on list, moderate evidence); cholesterol (#19 on list, moderate evidence); ceramide eop (#21 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #4 on INCI, ceramide np #12 on INCI, ceramide ns #16 on INCI, ceramide ap #18 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qy1nrDm1L._SL1500_.jpg",
@@ -96606,7 +96779,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -96614,25 +96789,98 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/vitamin-b12-repair-complex-5-5-face-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "B12 + Repair Complex 5.5% Face Moisturizer",
+   "inciMatchScore": 0.96,
+   "inciText": "Water/Aqua, Cyclopentasiloxane, Glycerin, Panthenol, Hydrogenated Polyisobutene, PEG/PPG-18/18 Dimethicone, Dimethicone Crosspolymer, Betaine, Allantoin, Cetyl PEG/PPG-10/1 Dimethicone, Cyanocobalamin, Ceramide NP, Dipropylene Glycol, Hydrogenated Lecithin, Glyceryl Stearate, Ceramide NS, Ceramide AS, Ceramide AP, Cholesterol, Carbomer, Ceramide EOP, Sucrose Distearate, Phenoxyethanol, Pentylene Glycol, Magnesium Sulphate Heptahydrate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol",
+    "ceramide np",
+    "ceramide ns",
+    "ceramide ap",
+    "cholesterol",
+    "ceramide eop"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -100455,15 +100703,16 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Ceramides + Chamomile",
   "featureLine": "Cream · Fragrance-free · ₹696/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); cholesterol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -100481,14 +100730,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciMatchedName": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol (name match 100%)",
+   "inciList": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "evidenceActives": "centella asiatica extract (#4 on list, moderate evidence); cholesterol (#11 on list, moderate evidence); ceramide ap (#12 on list, moderate evidence); ceramide eop (#13 on list, moderate evidence); ceramide np (#14 on list, moderate evidence); bisabolol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, centella asiatica extract #4 on INCI, ceramide ap #12 on INCI, ceramide eop #13 on INCI, ceramide np #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41rdbNuGhrL._SL1080_.jpg",
@@ -100522,7 +100773,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -100530,25 +100783,79 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "cholesterol",
+    "ceramide ap",
+    "ceramide eop",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -130240,15 +130547,16 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Ceramides + Vitamin B5 / panthenol",
   "featureLine": "Cream · ₹734/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -130266,14 +130574,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciMatchedName": "Acne Control Moisturizer with Ectoin & Ceramides (name match 100%)",
+   "inciList": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#7 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #10 on INCI, ceramide np #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41j6SBQXO8L._SL1080_.jpg",
@@ -130306,7 +130616,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -130314,25 +130626,63 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Acne Control Moisturizer with Ectoin & Ceramides",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -131258,15 +131608,16 @@ const NXPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Hyaluronic acid + Ceramides",
   "featureLine": "Cream · ₹239/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); squalane high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -131284,14 +131635,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/hydro-multi-hyaluronic-acid-moisturiser-100-gm-hp",
+   "inciMatchedName": "Hydro+ Multi Hyaluronic Acid Moisturiser | HP (name match 100%)",
+   "inciList": "Aqua, Myristyl Myristate, Caprylic/Capric Triglyceride, Propylene Glycol, Cetearyl Alcohol, Glyceryl Monostearate, Dimethicone, Aloe Barbadensis (Aloe Vera) Leaf Juice, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol, Carbomer , Tocopheryl Acetate, Triethanolamine, Xylitylglucoside & Anhydroxylitol & Xylitol, Sodium PCA & Sodium Lactate & Arginine & Aspartic Acid & PCA & Glycine & Alanine & Serine & Valine & Proline & Threonine & Isoleucine & Histidine & Phenylalanine, Squalane, Ceramide NP & Ceramide AP & Ceramide EOP & Phytosphingosine & Cholesterol & Sodium Lauroyl Lactylate & Xanthan Gum, Sodium Hyaluronate, Saccharide Isomerate & Phenethyl Alcohol, Panthenol, Disodium EDTA, Allantoin",
+   "evidenceActives": "dimethicone (#7 on list, moderate evidence); squalane (#16 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); panthenol (#20 on list, moderate evidence); allantoin (#22 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J923Bk+OL._SL1200_.jpg",
@@ -131323,7 +131676,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -131331,25 +131686,87 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/hydro-multi-hyaluronic-acid-moisturiser-100-gm-hp",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydro+ Multi Hyaluronic Acid Moisturiser | HP",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Myristyl Myristate, Caprylic/Capric Triglyceride, Propylene Glycol, Cetearyl Alcohol, Glyceryl Monostearate, Dimethicone, Aloe Barbadensis (Aloe Vera) Leaf Juice, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol, Carbomer , Tocopheryl Acetate, Triethanolamine, Xylitylglucoside & Anhydroxylitol & Xylitol, Sodium PCA & Sodium Lactate & Arginine & Aspartic Acid & PCA & Glycine & Alanine & Serine & Valine & Proline & Threonine & Isoleucine & Histidine & Phenylalanine, Squalane, Ceramide NP & Ceramide AP & Ceramide EOP & Phytosphingosine & Cholesterol & Sodium Lauroyl Lactylate & Xanthan Gum, Sodium Hyaluronate, Saccharide Isomerate & Phenethyl Alcohol, Panthenol, Disodium EDTA, Allantoin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "squalane",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -131370,15 +131787,16 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Ceramides + Vitamin B5 / panthenol",
   "featureLine": "Gel · Fragrance-free · ₹758/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -131396,14 +131814,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/vitamin-b12-repair-complex-5-5-face-moisturizer",
+   "inciMatchedName": "B12 + Repair Complex 5.5% Face Moisturizer (name match 96%)",
+   "inciList": "Water/Aqua, Cyclopentasiloxane, Glycerin, Panthenol, Hydrogenated Polyisobutene, PEG/PPG-18/18 Dimethicone, Dimethicone Crosspolymer, Betaine, Allantoin, Cetyl PEG/PPG-10/1 Dimethicone, Cyanocobalamin, Ceramide NP, Dipropylene Glycol, Hydrogenated Lecithin, Glyceryl Stearate, Ceramide NS, Ceramide AS, Ceramide AP, Cholesterol, Carbomer, Ceramide EOP, Sucrose Distearate, Phenoxyethanol, Pentylene Glycol, Magnesium Sulphate Heptahydrate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); panthenol (#4 on list, moderate evidence); allantoin (#9 on list, limited evidence); ceramide np (#12 on list, moderate evidence); ceramide ns (#16 on list, moderate evidence); ceramide ap (#18 on list, moderate evidence); cholesterol (#19 on list, moderate evidence); ceramide eop (#21 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #4 on INCI, ceramide np #12 on INCI, ceramide ns #16 on INCI, ceramide ap #18 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71IsCBVJzUL._SL1500_.jpg",
@@ -131438,7 +131858,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -131446,25 +131868,98 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/vitamin-b12-repair-complex-5-5-face-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "B12 + Repair Complex 5.5% Face Moisturizer",
+   "inciMatchScore": 0.96,
+   "inciText": "Water/Aqua, Cyclopentasiloxane, Glycerin, Panthenol, Hydrogenated Polyisobutene, PEG/PPG-18/18 Dimethicone, Dimethicone Crosspolymer, Betaine, Allantoin, Cetyl PEG/PPG-10/1 Dimethicone, Cyanocobalamin, Ceramide NP, Dipropylene Glycol, Hydrogenated Lecithin, Glyceryl Stearate, Ceramide NS, Ceramide AS, Ceramide AP, Cholesterol, Carbomer, Ceramide EOP, Sucrose Distearate, Phenoxyethanol, Pentylene Glycol, Magnesium Sulphate Heptahydrate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol",
+    "ceramide np",
+    "ceramide ns",
+    "ceramide ap",
+    "cholesterol",
+    "ceramide eop"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const WASHES = [
  {
@@ -153,7 +153,7 @@ const WASHES = [
      "position": 34,
      "core": false,
      "trace": true,
-     "src": "bha"
+     "src": "bpo"
     }
    ],
    "support": [
@@ -885,7 +885,7 @@ const WASHES = [
  {
   "id": "be-bodywise-itm85e571c6772bb",
   "brand": "Be Bodywise",
-  "model": "Active Acne Body Wash | With 2.5% BP, , Glycerin Vera...more",
+  "model": "Active Acne Body Wash | With 2.5% BP, , Glycerin Vera: Buy Be Bodywise Active Acne Body Wa…",
   "price": 349,
   "capacityLine": "250 ml",
   "materialLine": "glycerin",
@@ -935,7 +935,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-active-acne-body-wash-2-5-bp-glycerin-vera/p/itm85e571c6772bb",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise Active Acne Body Wash | With 2.5% BP, , Glycerin Vera...more",
+  "title": "Be Bodywise Active Acne Body Wash | With 2.5% BP, , Glycerin Vera: Buy Be Bodywise Active Acne Body Wash | With 2.5% BP, , Glycerin Vera at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -1422,15 +1422,16 @@ const WASHES = [
   "capacityLine": "Volume not stated",
   "materialLine": "salicylic acid",
   "featureLine": "Claims not stated",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.8
   },
   "fullSpec": {
@@ -1448,14 +1449,17 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (1,921 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciMatchedName": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne (name match 88%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "evidenceActives": "glycerin (#7 on list, strong evidence); lactic acid (#8 on list, strong evidence); glycolic acid (#9 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 1,921 ratings"
+   "buyerEvidence": "4.1★ from 1,921 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/z/t/d/-original-imahhy36u5yx2kcy.jpeg?q=90",
@@ -1475,23 +1479,64 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+   "inciMatchScore": 0.88,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "disodium cocoamphodiacetate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1504,19 +1549,19 @@ const WASHES = [
    "buyers": "4.1★ from 1,921 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
  {
   "id": "the-plant-fix-plix-itm5f6a19e6fe06d",
   "brand": "The Plant Fix Plix",
-  "model": "Pineapple 5% Lactic Acid Body Wash (236 ml)",
+  "model": "Pineapple 5% Lactic Acid Body Wash: Buy The Plant Fix Plix Pineapple 5% Lactic Acid Body W…",
   "price": 164,
-  "capacityLine": "236 ml",
+  "capacityLine": "Volume not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "₹69/100ml",
+  "featureLine": "Claims not stated",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1529,8 +1574,8 @@ const WASHES = [
    "experience": 6.9
   },
   "fullSpec": {
-   "volume": "236 ml",
-   "pricePer100ml": "₹69/100ml",
+   "volume": "Not stated in listing",
+   "pricePer100ml": "Not stated in listing",
    "format": "Body wash",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -1561,13 +1606,12 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/plant-fix-plix-pineapple-5-lactic-acid-exfoliating-body-wash-all-skin-types/p/itm5f6a19e6fe06d",
   "buyStore": "Flipkart",
-  "title": "The Plant Fix Plix Pineapple 5% Lactic Acid Body Wash (236 ml)",
+  "title": "The Plant Fix Plix Pineapple 5% Lactic Acid Body Wash: Buy The Plant Fix Plix Pineapple 5% Lactic Acid Body Wash at Low",
   "tags": [
    "scope:body",
    "format:wash",
    "ing:lactic-acid",
    "aud:unisex",
-   "size:large",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -2217,17 +2261,17 @@ const WASHES = [
   "capacityLine": "825 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Moisturizing · ₹10/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 2,972 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.7,
+   "skin": 10,
+   "trust": 8,
    "experience": 8.1
   },
   "fullSpec": {
@@ -2245,11 +2289,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.4/5 (2,972 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-moisturizing-body-wash-with-rice-water-hydrating-lily-for-dewy-glass-skin-500-ml",
+   "inciMatchedName": "Rice Water Moisturizing Body Wash with Rice Water & Hydrating Lily for Dewy Glass Skin - 500 ml (name match 83%)",
+   "inciList": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Decyl Glucoside, Sorbeth-230 Tetraoleate, Sorbitan Laurate, Sodium Methyl Cocoyl Taurate, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Oryza Sativa (Rice) Water, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Cocoyl Apple Amino Acids, Hydroxyethyl Urea, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Benzophenone-4, Citric Acid, Niacinamide, Sodium PCA, Sodium Lauroyl Oat Amino Acids, Sodium Gluconate, Panthenol, CI 20285",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo Herbal Products (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 2,972 ratings"
@@ -2274,23 +2320,75 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-moisturizing-body-wash-with-rice-water-hydrating-lily-for-dewy-glass-skin-500-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rice Water Moisturizing Body Wash with Rice Water & Hydrating Lily for Dewy Glass Skin - 500 ml",
+   "inciMatchScore": 0.83,
+   "inciText": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Decyl Glucoside, Sorbeth-230 Tetraoleate, Sorbitan Laurate, Sodium Methyl Cocoyl Taurate, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Oryza Sativa (Rice) Water, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Cocoyl Apple Amino Acids, Hydroxyethyl Urea, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Benzophenone-4, Citric Acid, Niacinamide, Sodium PCA, Sodium Lauroyl Oat Amino Acids, Sodium Gluconate, Panthenol, CI 20285",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "benzophenone-4",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "glycerin",
+    "decyl glucoside",
+    "sodium methyl cocoyl taurate",
+    "niacinamide",
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -2303,8 +2401,8 @@ const WASHES = [
    "buyers": "4.4★ from 2,972 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -2411,15 +2509,16 @@ const WASHES = [
   "capacityLine": "Volume not stated",
   "materialLine": "salicylic acid",
   "featureLine": "Claims not stated",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.8
   },
   "fullSpec": {
@@ -2437,13 +2536,16 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (1,921 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciMatchedName": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne (name match 88%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "evidenceActives": "glycerin (#7 on list, strong evidence); lactic acid (#8 on list, strong evidence); glycolic acid (#9 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 1,921 ratings"
+   "buyerEvidence": "4.1★ from 1,921 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/e/p/m/400-exfoliating-body-wash-2-salicylic-acid-prevents-body-acne-original-imahyy5ffxsstdrf.jpeg?q=90",
@@ -2463,23 +2565,64 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+   "inciMatchScore": 0.88,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "disodium cocoamphodiacetate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -2492,8 +2635,8 @@ const WASHES = [
    "buyers": "4.1★ from 1,921 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -2814,10 +2957,10 @@ const WASHES = [
    "Well-reviewed: 4.4★ from 10,901 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume, fragrance"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 8.1,
+   "ingredients": 8,
    "skin": 8.3,
    "trust": 7,
    "experience": 8.2
@@ -2842,9 +2985,9 @@ const WASHES = [
    "inciSourceUrl": "https://bebodywise.com/product/5-niacinamide-body-wash",
    "inciMatchedName": "5 niacinamide body wash (name match 92%)",
    "listingIngredientLine": "Niacinamide, Aloe Vera Extract (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200. Formulated Without Soap, Paraben, Mineral Oil, Fragrance, Sulphate, Silicone, Cruelty",
+   "inciList": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200",
    "evidenceActives": "avena sativa kernel extract (#13 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume, fragrance (−0.8)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Unit Ii, Plot No. 36, Himunda Industrial Area Phase - Iv. Bhatolikalan, Baddi, Dist. Solan, (H.P) - 173205 Mfg. Lic. No.: Him/Cos/18/266 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 10,901 ratings",
@@ -2882,11 +3025,11 @@ const WASHES = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 niacinamide body wash",
    "inciMatchScore": 0.92,
-   "inciText": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200. Formulated Without Soap, Paraben, Mineral Oil, Fragrance, Sulphate, Silicone, Cruelty",
+   "inciText": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.81,
+   "recognised": 0.86,
    "actives": [
     {
      "name": "niacinamide",
@@ -2919,14 +3062,6 @@ const WASHES = [
      "core": false,
      "trace": true,
      "src": "aha"
-    },
-    {
-     "name": "mineral oil",
-     "grade": "B",
-     "position": 23,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
     }
    ],
    "support": [
@@ -2941,8 +3076,7 @@ const WASHES = [
      "id": "fragrance",
      "label": "Added fragrance (parfum)",
      "names": [
-      "perfume",
-      "fragrance"
+      "perfume"
      ],
      "penalty": 0.8,
      "src": "acdsFragrance"
@@ -4416,17 +4550,17 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Paraben-free · Moisturizing · ₹105/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycolic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 3,194 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 8,
    "experience": 8.1
   },
   "fullSpec": {
@@ -4444,11 +4578,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.4/5 (3,194 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/watermelon-shower-gel",
+   "inciMatchedName": "Watermelon Cooling Glycolic Acid Shower Gel (name match 73%)",
+   "inciList": "Aqua, Potassium Laureth Phosphate, Sodium Cocoyl Glycinate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Polyacrylate-33, Disodium Cocoamphodiacetate, IFRA Certified Allergen Free Fragrance, Citrullus Lanatus (Watermelon) Fruit Extract, Cucumis Sativus (Cucumber) Fruit Extract, Glycolic Acid, Guar Hydroxypropyltrimonium Chloride, PEG- 7 Glyceryl Cocoate, Glycerine, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Disodium EDTA, Citric Acid",
+   "evidenceActives": "glycolic acid (#11 on list, strong evidence); glycerin (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.4★ from 3,194 ratings"
   },
@@ -4475,23 +4611,56 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/watermelon-shower-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Watermelon Cooling Glycolic Acid Shower Gel",
+   "inciMatchScore": 0.73,
+   "inciText": "Aqua, Potassium Laureth Phosphate, Sodium Cocoyl Glycinate, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Polyacrylate-33, Disodium Cocoamphodiacetate, IFRA Certified Allergen Free Fragrance, Citrullus Lanatus (Watermelon) Fruit Extract, Cucumis Sativus (Cucumber) Fruit Extract, Glycolic Acid, Guar Hydroxypropyltrimonium Chloride, PEG- 7 Glyceryl Cocoate, Glycerine, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Disodium EDTA, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "sodium cocoyl glycinate",
+    "sodium c14-16 olefin sulfonate",
+    "cocamidopropyl betaine",
+    "disodium cocoamphodiacetate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -4504,8 +4673,8 @@ const WASHES = [
    "buyers": "4.4★ from 3,194 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -4517,17 +4686,19 @@ const WASHES = [
   "capacityLine": "Volume not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Exfoliating",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
    "Well-reviewed: 4.3★ from 9,321 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, geraniol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.8,
+   "skin": 5.9,
+   "trust": 7,
    "experience": 7.9
   },
   "fullSpec": {
@@ -4545,14 +4716,17 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (9,321 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/brightening-body-wash-with-glycolic-acid-niacinamide-hula-hoop-v4",
+   "inciMatchedName": "Brightening Body Wash (name match 100%)",
+   "inciList": "Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl betaine, Glycerin, Decyl glucoside, Acrylates Copolymer, Niacinamide, Lactic acid, Coco-Glucoside, Glyceryl Oleate, Fragrance, Phenoxyethanol, Betaine, Polyquaternium-7, Castoryl maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Polyacrylate Crosspolymer-6, Ethylhexylglycerin, Mica, Titanium dioxide, Sodium hydroxide, Disodium EDTA, Limonene, Geraniol, Linalool, Citronellol, Hexylcinnamaldehyde, Benzyl salicylate, Benzyl alcohol, Benzyl benzoate, Citral, CI 14720",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); lactic acid (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, geraniol, linalool, citronellol, benzyl salicylate, benzyl alcohol, benzyl benzoate, citral (−2); Harsh anionic surfactant (SLS/ALS): ammonium lauryl sulfate (−0.7)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Archeesh Laboratories (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 9,321 ratings"
+   "buyerEvidence": "4.3★ from 9,321 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/b/t/6/250-hula-hoop-brightening-body-wash-exfoliates-reduces-tan-1-original-imahjhjjvgeqadkw.jpeg?q=90",
@@ -4572,25 +4746,102 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/brightening-body-wash-with-glycolic-acid-niacinamide-hula-hoop-v4",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Body Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl betaine, Glycerin, Decyl glucoside, Acrylates Copolymer, Niacinamide, Lactic acid, Coco-Glucoside, Glyceryl Oleate, Fragrance, Phenoxyethanol, Betaine, Polyquaternium-7, Castoryl maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Polyacrylate Crosspolymer-6, Ethylhexylglycerin, Mica, Titanium dioxide, Sodium hydroxide, Disodium EDTA, Limonene, Geraniol, Linalool, Citronellol, Hexylcinnamaldehyde, Benzyl salicylate, Benzyl alcohol, Benzyl benzoate, Citral, CI 14720",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin",
+    "decyl glucoside",
+    "niacinamide",
+    "coco-glucoside"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "geraniol",
+      "linalool",
+      "citronellol",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "benzyl benzoate",
+      "citral"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "sls",
+     "label": "Harsh anionic surfactant (SLS/ALS)",
+     "names": [
+      "ammonium lauryl sulfate"
+     ],
+     "penalty": 0.7,
+     "src": "surfactants"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -4601,8 +4852,8 @@ const WASHES = [
    "buyers": "4.3★ from 9,321 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -5232,7 +5483,7 @@ const WASHES = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/hyaluronic-acid-body-wash",
    "inciMatchedName": "hyaluronic acid body wash (name match 100%)",
-   "inciList": "Ingredient Names Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Sodium Cocoamphoacetate, Cocamide MEA, Helianthus Annuus (Sunflower) Seed Oil, Glycol Distearate, Perfume, Phenoxyethanol (and) Ethylhexylglycerin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Betaine, Guar Hydroxypropyltrimonium Chloride, Allantoin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Hyaluronic Acid. Formulated Without Paraben, Sulfate, Soap, Alcohol, Silicone, Allergen, Mineral Oil, Cruelty",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Sodium Cocoamphoacetate, Cocamide MEA, Helianthus Annuus (Sunflower) Seed Oil, Glycol Distearate, Perfume, Phenoxyethanol (and) Ethylhexylglycerin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Betaine, Guar Hydroxypropyltrimonium Chloride, Allantoin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Hyaluronic Acid",
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -5268,11 +5519,11 @@ const WASHES = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "hyaluronic acid body wash",
    "inciMatchScore": 1,
-   "inciText": "Ingredient Names Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Sodium Cocoamphoacetate, Cocamide MEA, Helianthus Annuus (Sunflower) Seed Oil, Glycol Distearate, Perfume, Phenoxyethanol (and) Ethylhexylglycerin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Betaine, Guar Hydroxypropyltrimonium Chloride, Allantoin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Hyaluronic Acid. Formulated Without Paraben, Sulfate, Soap, Alcohol, Silicone, Allergen, Mineral Oil, Cruelty",
+   "inciText": "Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Sodium Cocoamphoacetate, Cocamide MEA, Helianthus Annuus (Sunflower) Seed Oil, Glycol Distearate, Perfume, Phenoxyethanol (and) Ethylhexylglycerin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Betaine, Guar Hydroxypropyltrimonium Chloride, Allantoin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Hyaluronic Acid",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 1,
    "actives": [
     {
      "name": "glycerin",
@@ -5355,12 +5606,12 @@ const WASHES = [
      "src": "vitc"
     },
     {
-     "name": "mineral oil",
+     "name": "hyaluronic acid",
      "grade": "B",
-     "position": 32,
+     "position": 26,
      "core": false,
      "trace": true,
-     "src": "petrolatum"
+     "src": "ha"
     }
    ],
    "support": [
@@ -5373,7 +5624,8 @@ const WASHES = [
     "ceramide eop",
     "cholesterol",
     "sodium lauroyl lactylate",
-    "butyrospermum parkii butter"
+    "butyrospermum parkii butter",
+    "hyaluronic acid"
    ],
    "formulaNotes": [],
    "flags": [
@@ -7667,7 +7919,7 @@ const WASHES = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
    "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
-   "inciList": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -7706,11 +7958,11 @@ const WASHES = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 salicylic acid body wash",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.86,
+   "recognised": 0.89,
    "actives": [
     {
      "name": "salicylic acid",
@@ -9604,7 +9856,7 @@ const WASHES = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
    "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
-   "inciList": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -9643,11 +9895,11 @@ const WASHES = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 salicylic acid body wash",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.86,
+   "recognised": 0.89,
    "actives": [
     {
      "name": "salicylic acid",
@@ -11256,17 +11508,17 @@ const WASHES = [
   "capacityLine": "1400 ml",
   "materialLine": "salicylic acid",
   "featureLine": "Paraben-free · Exfoliating · ₹10/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 46,644 ratings"
   ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.9
   },
   "fullSpec": {
@@ -11284,13 +11536,17 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (46,644 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Salicylic Acid, Pentavitin, Chamomile Extract",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
+   "listingIngredientLine": "Salicylic Acid, Pentavitin, Chamomile Extract (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 46,644 ratings"
+   "buyerEvidence": "4.3★ from 46,644 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/6/t/q/-original-imahpjxyqyqbyggd.jpeg?q=90",
@@ -11317,23 +11573,55 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Salicylic Acid, Pentavitin, Chamomile Extract",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1 salicylic acid body wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium lauroyl sarcosinate",
+    "coco-glucoside",
+    "cocamidopropyl betaine"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -11346,8 +11634,8 @@ const WASHES = [
    "buyers": "4.3★ from 46,644 ratings"
   },
   "filters": {
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -11558,17 +11846,17 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid",
   "featureLine": "Paraben-free · Exfoliating · ₹105/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "salicylic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 3,481 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8,
    "experience": 8.2
   },
   "fullSpec": {
@@ -11586,13 +11874,16 @@ const WASHES = [
    "skinType": "Oily Skin, Normal Skin, Sensitive Skin",
    "rating": "4.4/5 (3,481 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/salicylic-shower-gel",
+   "inciMatchedName": "Cica + 1% Salicylic Acid Exfoliating Shower Gel (name match 83%)",
+   "inciList": "1% Salicylic Acid, Cica, Niacinamide, Green Tea Aqua, Potassium Laureth Phosphate, Sodium Cocoyl Glycinate, Sodium C14-16 Olefin Sulfonate, Polyacrylate - 33, Disodium Cocoamphoacetate, Cocamidopropyl Betaine, IFRA Certified Allergen Free Fragrance, Salicylic Acid, Niacinamide, Centella Asiatica (Cica) Extract, Camellia Sinensis (Green Tea) Leaf Extract, Citric Acid, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Glycerine, PEG-7 Glyceryl Cocoate, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#1 on list, strong evidence); glycerin (#20 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 3,481 ratings"
+   "buyerEvidence": "4.4★ from 3,481 ratings",
+   "concernBasis": "Acne — salicylic acid #1 on INCI, niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — centella asiatica extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/t/m/u/250-cica-salicylic-exfoliating-shower-gel-reduces-body-acne-original-imahfcsf77hyhqyg.jpeg?q=90",
@@ -11623,23 +11914,84 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/salicylic-shower-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cica + 1% Salicylic Acid Exfoliating Shower Gel",
+   "inciMatchScore": 0.83,
+   "inciText": "1% Salicylic Acid, Cica, Niacinamide, Green Tea Aqua, Potassium Laureth Phosphate, Sodium Cocoyl Glycinate, Sodium C14-16 Olefin Sulfonate, Polyacrylate - 33, Disodium Cocoamphoacetate, Cocamidopropyl Betaine, IFRA Certified Allergen Free Fragrance, Salicylic Acid, Niacinamide, Centella Asiatica (Cica) Extract, Camellia Sinensis (Green Tea) Leaf Extract, Citric Acid, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Glycerine, PEG-7 Glyceryl Cocoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "sodium cocoyl glycinate",
+    "sodium c14-16 olefin sulfonate",
+    "disodium cocoamphodiacetate",
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -11652,8 +12004,8 @@ const WASHES = [
    "buyers": "4.4★ from 3,481 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -12107,11 +12459,11 @@ const WASHES = [
  {
   "id": "chandrika-itme4697980ba46c",
   "brand": "Chandrika",
-  "model": "With Glycerine Ayurveda Gel Bathing Bar Soap,| Jojoba O...more",
+  "model": "by Wipro With Glycerine Ayurveda Gel Bathing Bar Soap,| Jojoba Oil for Moisturized Skin",
   "price": 197,
   "capacityLine": "Volume not stated",
   "materialLine": "glycerin",
-  "featureLine": "Claims not stated",
+  "featureLine": "Moisturizing",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 14,470 ratings"
@@ -12133,7 +12485,7 @@ const WASHES = [
    "freeFrom": "Not stated in listing",
    "phBalanced": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
+   "skinBenefit": "Moisturizing/hydrating",
    "fragrance": "Not stated in listing",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
@@ -12158,13 +12510,15 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/chandrika-wipro-glycerine-ayurveda-gel-bathing-bar-soap-jojoba-oil-moisturized-skin/p/itme4697980ba46c",
   "buyStore": "Flipkart",
-  "title": "Chandrika With Glycerine Ayurveda Gel Bathing Bar Soap,| Jojoba O...more",
+  "title": "Chandrika by Wipro With Glycerine Ayurveda Gel Bathing Bar Soap,| Jojoba Oil for Moisturized Skin",
   "tags": [
    "scope:unstated",
    "format:gel",
+   "format:oil",
    "format:bar",
    "ing:glycerin",
    "ing:jojoba",
+   "claim:hydrating",
    "claim:ayurvedic",
    "aud:unisex",
    "rating:4.0",
@@ -14897,6 +15251,7 @@ const WASHES = [
    "ing:cucumber",
    "ing:lemon",
    "ing:chamomile",
+   "ing:menthol",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -23243,15 +23598,18 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "₹103/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.5,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 5.1
   },
   "fullSpec": {
@@ -23269,11 +23627,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (61 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-waterlily-and-oil-shower-gel-89042560006590213.html",
+   "inciMatchedName": "nivea waterlily and oil shower gel 89042560006590213 (name match 85%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Helianthus Annuus Seed Oil, Glycerin, Caprylyl/Capryl Glucoside, Sodium Chloride, Citric Acid, Cellulose, Cellulose Gum, Mannitol, Microcrystalline Cellulose, Algin, Tocopherol, Sodium Benzoate, Benzoic Acid, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Perfume, CI 77492, CI 16035\"}]]}]",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: linalool, alpha-isomethyl ionone, limonene, citronellol (−1.2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 61 ratings"
   },
@@ -23298,25 +23658,93 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-waterlily-and-oil-shower-gel-89042560006590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea waterlily and oil shower gel 89042560006590213",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Helianthus Annuus Seed Oil, Glycerin, Caprylyl/Capryl Glucoside, Sodium Chloride, Citric Acid, Cellulose, Cellulose Gum, Mannitol, Microcrystalline Cellulose, Algin, Tocopherol, Sodium Benzoate, Benzoic Acid, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Perfume, CI 77492, CI 16035\"}]]}]",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "decyl glucoside",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "citronellol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -23327,8 +23755,8 @@ const WASHES = [
    "buyers": "4.2★ from 61 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -24672,16 +25100,19 @@ const WASHES = [
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "lemon/citrus",
   "featureLine": "Paraben-free · ₹118/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.5,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -24699,11 +25130,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-waterlily-and-oil-shower-gel-89042560006590213.html",
+   "inciMatchedName": "nivea waterlily and oil shower gel 89042560006590213 (name match 87%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Helianthus Annuus Seed Oil, Glycerin, Caprylyl/Capryl Glucoside, Sodium Chloride, Citric Acid, Cellulose, Cellulose Gum, Mannitol, Microcrystalline Cellulose, Algin, Tocopherol, Sodium Benzoate, Benzoic Acid, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Perfume, CI 77492, CI 16035\"}]]}]",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: linalool, alpha-isomethyl ionone, limonene, citronellol (−1.2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -24731,25 +25164,93 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-waterlily-and-oil-shower-gel-89042560006590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea waterlily and oil shower gel 89042560006590213",
+   "inciMatchScore": 0.87,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Helianthus Annuus Seed Oil, Glycerin, Caprylyl/Capryl Glucoside, Sodium Chloride, Citric Acid, Cellulose, Cellulose Gum, Mannitol, Microcrystalline Cellulose, Algin, Tocopherol, Sodium Benzoate, Benzoic Acid, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Perfume, CI 77492, CI 16035\"}]]}]",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "decyl glucoside",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "citronellol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -24760,8 +25261,8 @@ const WASHES = [
    "buyers": "No buyer ratings yet"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -37637,16 +38138,19 @@ const WASHES = [
   "capacityLine": "500 ml",
   "materialLine": "lemon/citrus",
   "featureLine": "₹90/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "Only 2 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: hexyl cinnamal, linalool",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
+   "ingredients": 5.4,
+   "skin": 7.2,
+   "trust": 8,
    "experience": 0
   },
   "fullSpec": {
@@ -37664,11 +38168,14 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Jojoba, Lemon",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciMatchedName": "Lemongrass & Jojoba Shower Gel, 500 ml (name match 88%)",
+   "listingIngredientLine": "Jojoba, Lemon (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: hexyl cinnamal, linalool, benzyl salicylate, geraniol (−1.2); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -37691,25 +38198,77 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Jojoba, Lemon",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lemongrass & Jojoba Shower Gel, 500 ml",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hexyl cinnamal",
+      "linalool",
+      "benzyl salicylate",
+      "geraniol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -37720,8 +38279,8 @@ const WASHES = [
    "buyers": "No buyer ratings yet"
   },
   "filters": {
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -37927,15 +38486,18 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "lemon/citrus",
   "featureLine": "₹56/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: hexyl cinnamal, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.4,
+   "skin": 7.2,
+   "trust": 8,
    "experience": 4.5
   },
   "fullSpec": {
@@ -37953,11 +38515,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (25 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciMatchedName": "Lemongrass & Jojoba Shower Gel, 500 ml (name match 90%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: hexyl cinnamal, linalool, benzyl salicylate, geraniol (−1.2); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 25 ratings"
   },
@@ -37981,25 +38545,77 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lemongrass & Jojoba Shower Gel, 500 ml",
+   "inciMatchScore": 0.9,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hexyl cinnamal",
+      "linalool",
+      "benzyl salicylate",
+      "geraniol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -38010,8 +38626,8 @@ const WASHES = [
    "buyers": "4.2★ from 25 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -42218,17 +42834,19 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "lemon/citrus",
   "featureLine": "₹54/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 5★ from 5 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: hexyl cinnamal, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.4,
+   "skin": 7.2,
+   "trust": 8,
    "experience": 6.1
   },
   "fullSpec": {
@@ -42246,11 +42864,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "5/5 (5 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciMatchedName": "Lemongrass & Jojoba Shower Gel, 500 ml (name match 90%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: hexyl cinnamal, linalool, benzyl salicylate, geraniol (−1.2); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "5★ from 5 ratings"
   },
@@ -42274,25 +42894,77 @@ const WASHES = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lemongrass & Jojoba Shower Gel, 500 ml",
+   "inciMatchScore": 0.9,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hexyl cinnamal",
+      "linalool",
+      "benzyl salicylate",
+      "geraniol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -42303,8 +42975,8 @@ const WASHES = [
    "buyers": "5★ from 5 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -42654,17 +43326,19 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "lemon/citrus",
   "featureLine": "₹159/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.6★ from 23 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: hexyl cinnamal, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.4,
+   "skin": 7.2,
+   "trust": 8,
    "experience": 5.8
   },
   "fullSpec": {
@@ -42682,11 +43356,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.6/5 (23 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-250-ml",
+   "inciMatchedName": "Lemongrass & Jojoba Shower Gel, 250 ml (name match 87%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: hexyl cinnamal, linalool, benzyl salicylate, geraniol (−1.2); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.6★ from 23 ratings"
   },
@@ -42711,25 +43387,77 @@ const WASHES = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lemongrass & Jojoba Shower Gel, 250 ml",
+   "inciMatchScore": 0.87,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hexyl cinnamal",
+      "linalool",
+      "benzyl salicylate",
+      "geraniol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -42740,8 +43468,8 @@ const WASHES = [
    "buyers": "4.6★ from 23 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -42953,17 +43681,19 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "₹142/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 183 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: linalool, butylphenyl methylpropional"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.4,
+   "skin": 8,
+   "trust": 8,
    "experience": 6.4
   },
   "fullSpec": {
@@ -42981,11 +43711,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.4/5 (183 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/blackcurrant-bearberry-shower-gel-250-ml",
+   "inciMatchedName": "Blackcurrant & Bearberry Shower Gel, 250 ml (name match 96%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Acrylates Copolymer, Glycerin, Sodium Hydroxide, Blackcurrant Extract, Bearberry Extract, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, Tetrasodium EDTA, Butylated Hydroxytoluene, Linalool, Butylphenyl Methylpropional, Limonene, Coumarin, CI 17200, CI 74160",
+   "evidenceActives": "glycerin (#9 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool, butylphenyl methylpropional, limonene, coumarin (−1.2)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.4★ from 183 ratings"
   },
@@ -43008,25 +43740,68 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/blackcurrant-bearberry-shower-gel-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Blackcurrant & Bearberry Shower Gel, 250 ml",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Acrylates Copolymer, Glycerin, Sodium Hydroxide, Blackcurrant Extract, Bearberry Extract, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, Tetrasodium EDTA, Butylated Hydroxytoluene, Linalool, Butylphenyl Methylpropional, Limonene, Coumarin, CI 17200, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "butylphenyl methylpropional",
+      "limonene",
+      "coumarin"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -43037,8 +43812,8 @@ const WASHES = [
    "buyers": "4.4★ from 183 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -45761,17 +46536,19 @@ const WASHES = [
   "capacityLine": "500 ml",
   "materialLine": "lemon/citrus",
   "featureLine": "₹71/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.6★ from 28 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: hexyl cinnamal, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.4,
+   "skin": 7.2,
+   "trust": 8,
    "experience": 5.9
   },
   "fullSpec": {
@@ -45789,11 +46566,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.6/5 (28 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciMatchedName": "Lemongrass & Jojoba Shower Gel, 500 ml (name match 97%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: hexyl cinnamal, linalool, benzyl salicylate, geraniol (−1.2); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.6★ from 28 ratings"
   },
@@ -45816,25 +46595,77 @@ const WASHES = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/lemongrass-jojoba-shower-gel-500-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lemongrass & Jojoba Shower Gel, 500 ml",
+   "inciMatchScore": 0.97,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Hydrogenated Jojoba Oil, Lemon Grass Extract, Seaweed Extract, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Hexyl Cinnamal, Linalool, Benzyl Salicylate, D-Limonene, Geraniol, CI 42090, CI 19140",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hexyl cinnamal",
+      "linalool",
+      "benzyl salicylate",
+      "geraniol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -45845,8 +46676,8 @@ const WASHES = [
    "buyers": "4.6★ from 28 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -47186,17 +48017,19 @@ const WASHES = [
   "capacityLine": "500 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "₹65/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.8★ from 21 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl salicylate, butylphenyl methylpropional",
+   "Formaldehyde-releasing preservative: dmdm hydantoin"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.5,
+   "skin": 7.7,
+   "trust": 8,
    "experience": 6.4
   },
   "fullSpec": {
@@ -47214,11 +48047,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.8/5 (21 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/fiama-shower-gel-patchouli-macadamia-body-wash-with-skin-conditioners-for-soft-glowing-skin-1-5l-pouch",
+   "inciMatchedName": "Fiama Shower Gel Patchouli & Macadamia, Body Wash with Skin Conditioners for Soft Glowing Skin, 1.5L pouch (name match 86%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance with Patchouli Oil, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Macadamia Nut Oil, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Mica, Titanium Dioxide, Tin Dioxide, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Geraniol, Linalool, CI 45100, CI 11680",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl salicylate, butylphenyl methylpropional, citronellol, geraniol, linalool (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.8★ from 21 ratings"
   },
@@ -47243,25 +48078,77 @@ const WASHES = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/fiama-shower-gel-patchouli-macadamia-body-wash-with-skin-conditioners-for-soft-glowing-skin-1-5l-pouch",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fiama Shower Gel Patchouli & Macadamia, Body Wash with Skin Conditioners for Soft Glowing Skin, 1.5L pouch",
+   "inciMatchScore": 0.86,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance with Patchouli Oil, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Macadamia Nut Oil, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Mica, Titanium Dioxide, Tin Dioxide, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Geraniol, Linalool, CI 45100, CI 11680",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "butylphenyl methylpropional",
+      "citronellol",
+      "geraniol",
+      "linalool"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -47272,8 +48159,8 @@ const WASHES = [
    "buyers": "4.8★ from 21 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -47770,15 +48657,18 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "₹130/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.6,
+   "skin": 6.6,
+   "trust": 8,
    "experience": 2.3
   },
   "fullSpec": {
@@ -47796,11 +48686,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "3.8/5 (4 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/peach-avocado-shower-gel-250-ml",
+   "inciMatchedName": "Peach & Avocado Shower Gel, 250 ml (name match 96%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Peach Extract, Avocado Extract, Lactose, Cellulose, Tocopheryl Acetate, Hydroxypropyl Methylcellulose, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Geraniol, Limonene, Linalool, CI 14700, CI 19140, CI 77491",
+   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate, citronellol, geraniol, limonene, linalool (−1.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "3.8★ from 4 ratings"
   },
@@ -47824,25 +48716,87 @@ const WASHES = [
    "size:large",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/peach-avocado-shower-gel-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Peach & Avocado Shower Gel, 250 ml",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Fragrance, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Glycerin, Sodium Hydroxide, Peach Extract, Avocado Extract, Lactose, Cellulose, Tocopheryl Acetate, Hydroxypropyl Methylcellulose, DMDM Hydantoin, Tetrasodium EDTA, Butylated Hydroxytoluene, Sodium Chloride, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Geraniol, Limonene, Linalool, CI 14700, CI 19140, CI 77491",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "alpha-isomethyl ionone",
+      "benzyl salicylate",
+      "citronellol",
+      "geraniol",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1.8,
+     "src": "eu1223"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -47853,8 +48807,8 @@ const WASHES = [
    "buyers": "3.8★ from 4 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -58377,7 +59331,8 @@ const WASHES = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 240 ratings"
+   "buyerEvidence": "4.2★ from 240 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/1/h/brightening-spf-50-pa-sunscreen-body-lotion-raspberry-body-wash-original-imahc3ygmwhfssgj.jpeg?q=90",
@@ -58398,6 +59353,7 @@ const WASHES = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:caffeine",
    "ing:coffee",
@@ -60766,7 +61722,7 @@ const WASHES = [
  {
   "id": "cucibelle-itm26f26f1e8577a",
   "brand": "CUCIBELLE",
-  "model": "Salicylic Acid Body Wash 2% for Body Acne Coffee Scrub ...more",
+  "model": "Salicylic Acid Body Wash 2% for Body Acne Coffee Scrub Cleanser 200ml: Buy CUCIBELLE Salic…",
   "price": 360,
   "capacityLine": "200 ml",
   "materialLine": "tea tree + coffee + glycerin",
@@ -60819,7 +61775,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/cucibelle-salicylic-acid-body-wash-2-acne-coffee-scrub-cleanser-200ml/p/itm26f26f1e8577a",
   "buyStore": "Flipkart",
-  "title": "CUCIBELLE Salicylic Acid Body Wash 2% for Body Acne Coffee Scrub ...more",
+  "title": "CUCIBELLE Salicylic Acid Body Wash 2% for Body Acne Coffee Scrub Cleanser 200ml: Buy CUCIBELLE Salicylic Acid Body Wash 2% for Body Acne Coffee Scrub Cleanser 200ml at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -68269,7 +69225,8 @@ const WASHES = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/z/n/b/100-activated-charcoal-deep-detox-body-wash-oil-control-deep-original-imahz5v4jxqwbz3m.jpeg?q=90",
@@ -68287,6 +69244,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:charcoal",
    "ing:lemon",
    "claim:oil-control",
@@ -74145,6 +75103,7 @@ const WASHES = [
    "ing:almond",
    "ing:glycerin",
    "ing:lavender",
+   "ing:menthol",
    "claim:cooling",
    "skin:all",
    "aud:women",
@@ -75699,6 +76658,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:charcoal",
+   "ing:menthol",
    "claim:hydrating",
    "claim:odour",
    "claim:intimate-hygiene",
@@ -76958,6 +77918,7 @@ const WASHES = [
    "ing:coffee",
    "ing:rose",
    "ing:charcoal",
+   "ing:menthol",
    "claim:brightening",
    "claim:odour",
    "claim:cooling",
@@ -86466,10 +87427,10 @@ const WASHES = [
  {
   "id": "blestaaa-itmd51bab23249c2",
   "brand": "blestaaa",
-  "model": "essentialss Exfoliating Body Wash 5% Glycolic Acid| Sali...more",
+  "model": "essentialss Exfoliating Body Wash 5% Glycolic Acid| Salicylic Acid | Vitamin B3: Buy blest…",
   "price": 246,
   "capacityLine": "Volume not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "salicylic acid",
   "featureLine": "Exfoliating",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -86489,7 +87450,7 @@ const WASHES = [
    "volume": "Not stated in listing",
    "pricePer100ml": "Not stated in listing",
    "format": "Body wash",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "salicylic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "phBalanced": "Not stated in listing",
    "dermTested": "Not stated in listing",
@@ -86518,10 +87479,12 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/blestaaa-essentialss-exfoliating-body-wash-5-glycolic-acid-salicylic-acid-vitamin-b3/p/itmd51bab23249c2",
   "buyStore": "Flipkart",
-  "title": "blestaaa essentialss Exfoliating Body Wash 5% Glycolic Acid| Sali...more",
+  "title": "blestaaa essentialss Exfoliating Body Wash 5% Glycolic Acid| Salicylic Acid | Vitamin B3: Buy blestaaa essentialss Exfoliating Body Wash 5% Glycolic Acid| Salicylic Acid | Vitamin B3 at Low",
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "aud:unisex",
@@ -88180,7 +89143,7 @@ const WASHES = [
  {
   "id": "blestaaa-essentialss-itmd2ae08ec55bab",
   "brand": "blestaaa essentialss",
-  "model": "5% AHA Exfoliating Body Wash with Salicylic ...more",
+  "model": "5% AHA Exfoliating Body Wash with Salicylic Acid & Vitamin B3|: Buy blestaaa essentialss 5…",
   "price": 81,
   "capacityLine": "500 ml",
   "materialLine": "salicylic acid + sandalwood",
@@ -88231,7 +89194,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/blestaaa-essentialss-5-aha-exfoliating-body-wash-salicylic-acid-vitamin-b3/p/itmd2ae08ec55bab",
   "buyStore": "Flipkart",
-  "title": "blestaaa essentialss 5% AHA Exfoliating Body Wash with Salicylic ...more",
+  "title": "blestaaa essentialss 5% AHA Exfoliating Body Wash with Salicylic Acid & Vitamin B3|: Buy blestaaa essentialss 5% AHA Exfoliating Body Wash with Salicylic Acid & Vitamin B3| at Low",
   "tags": [
    "scope:body",
    "format:wash",
@@ -90850,17 +91813,17 @@ const WASHES = [
   "capacityLine": "825 ml",
   "materialLine": "aloe vera",
   "featureLine": "Moisturizing · ₹10/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 683 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.7,
+   "skin": 10,
+   "trust": 8,
    "experience": 6.8
   },
   "fullSpec": {
@@ -90878,11 +91841,13 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (683 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/aloe-vera-moisturizing-body-wash-with-aloe-vera-calming-jasmine-for-soft-soothed-skin-500-ml",
+   "inciMatchedName": "Aloe Vera Moisturizing Body Wash with Aloe Vera & Calming Jasmine For Soft & Soothed Skin – 500 ml (name match 83%)",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Decyl Glucoside, Sorbeth-230 Tetraoleate, Sorbitan Laurate, Sodium Methyl Cocoyl Taurate, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Aloe Barbadensis Leaf (Aloe Vera Extract), Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera Extract, Sodium Cocoyl Apple Amino Acids, Hydroxyethyl Urea, Sodium Benzoate, Cremophor® RH 40, Benzophenone-4, Citric Acid, Niacinamide, Sodium PCA, Sodium Lauroyl Oat Amino Acids, Sodium Gluconate, D-Panthenol, CI 19140 & 42051 (Food Grade Color)",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo Herbal Products (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 683 ratings"
@@ -90908,23 +91873,75 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/aloe-vera-moisturizing-body-wash-with-aloe-vera-calming-jasmine-for-soft-soothed-skin-500-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Aloe Vera Moisturizing Body Wash with Aloe Vera & Calming Jasmine For Soft & Soothed Skin – 500 ml",
+   "inciMatchScore": 0.83,
+   "inciText": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Decyl Glucoside, Sorbeth-230 Tetraoleate, Sorbitan Laurate, Sodium Methyl Cocoyl Taurate, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Aloe Barbadensis Leaf (Aloe Vera Extract), Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera Extract, Sodium Cocoyl Apple Amino Acids, Hydroxyethyl Urea, Sodium Benzoate, Cremophor® RH 40, Benzophenone-4, Citric Acid, Niacinamide, Sodium PCA, Sodium Lauroyl Oat Amino Acids, Sodium Gluconate, D-Panthenol, CI 19140 & 42051 (Food Grade Color)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "benzophenone-4",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "glycerin",
+    "decyl glucoside",
+    "sodium methyl cocoyl taurate",
+    "niacinamide",
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -90937,8 +91954,8 @@ const WASHES = [
    "buyers": "4.3★ from 683 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -93669,6 +94686,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:strawberry",
    "ing:chamomile",
+   "ing:menthol",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -99626,7 +100644,7 @@ const WASHES = [
  {
   "id": "be-bodywise-itme2906f5a64706",
   "brand": "Be Bodywise",
-  "model": "2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, ...more",
+  "model": "2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel: Buy Be B…",
   "price": 126,
   "capacityLine": "Volume not stated",
   "materialLine": "Key ingredients not stated",
@@ -99647,7 +100665,7 @@ const WASHES = [
   "fullSpec": {
    "volume": "Not stated in listing",
    "pricePer100ml": "Not stated in listing",
-   "format": "Body wash",
+   "format": "Shower gel",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "phBalanced": "Not stated in listing",
@@ -99677,12 +100695,14 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-2-aha-bha-exfoliating-body-wash-1-glycolic-acid-lactic-acid-shower-gel/p/itme2906f5a64706",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, ...more",
+  "title": "Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel: Buy Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel at Low",
   "tags": [
    "scope:body",
+   "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
+   "ing:lactic-acid",
    "ing:aha",
    "claim:exfoliating",
    "aud:unisex",
@@ -104399,6 +105419,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:milk",
    "ing:lavender",
+   "ing:menthol",
    "claim:brightening",
    "claim:hydrating",
    "claim:cooling",
@@ -112488,6 +113509,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:glycerin",
+   "ing:menthol",
    "claim:acne",
    "claim:hydrating",
    "claim:odour",
@@ -116757,6 +117779,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "ing:menthol",
    "claim:ayurvedic",
    "claim:cooling",
    "skin:all",
@@ -118656,6 +119679,7 @@ const WASHES = [
    "ing:coffee",
    "ing:green-tea",
    "ing:lavender",
+   "ing:menthol",
    "claim:ayurvedic",
    "claim:cooling",
    "skin:all",
@@ -119827,6 +120851,7 @@ const WASHES = [
    "ing:jojoba",
    "ing:avocado",
    "ing:chamomile",
+   "ing:menthol",
    "claim:brightening",
    "skin:all",
    "aud:women",
@@ -125343,6 +126368,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:oil",
+   "ing:menthol",
    "claim:odour",
    "skin:all",
    "free:paraben",
@@ -125741,6 +126767,7 @@ const WASHES = [
    "format:gel",
    "format:foam",
    "ing:glycerin",
+   "ing:menthol",
    "claim:cooling",
    "skin:all",
    "aud:men",
@@ -126782,6 +127809,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "ing:menthol",
    "claim:odour",
    "claim:cooling",
    "skin:all",
@@ -131143,17 +132171,19 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "₹103/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 225 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.5,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 6.5
   },
   "fullSpec": {
@@ -131171,11 +132201,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (225 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-waterlily-and-oil-shower-gel-89042560006590213.html",
+   "inciMatchedName": "nivea waterlily and oil shower gel 89042560006590213 (name match 85%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Helianthus Annuus Seed Oil, Glycerin, Caprylyl/Capryl Glucoside, Sodium Chloride, Citric Acid, Cellulose, Cellulose Gum, Mannitol, Microcrystalline Cellulose, Algin, Tocopherol, Sodium Benzoate, Benzoic Acid, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Perfume, CI 77492, CI 16035\"}]]}]",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: linalool, alpha-isomethyl ionone, limonene, citronellol (−1.2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 225 ratings"
   },
@@ -131199,25 +132231,93 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-waterlily-and-oil-shower-gel-89042560006590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea waterlily and oil shower gel 89042560006590213",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Helianthus Annuus Seed Oil, Glycerin, Caprylyl/Capryl Glucoside, Sodium Chloride, Citric Acid, Cellulose, Cellulose Gum, Mannitol, Microcrystalline Cellulose, Algin, Tocopherol, Sodium Benzoate, Benzoic Acid, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Perfume, CI 77492, CI 16035\"}]]}]",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "decyl glucoside",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "citronellol"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -131228,8 +132328,8 @@ const WASHES = [
    "buyers": "4.4★ from 225 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -141233,7 +142333,8 @@ const WASHES = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/combo-kit/s/l/g/basil-parsley-body-wash-200ml-morning-nectar-soap-150gm-set-2-2-original-imahpfxxenhqyxvc.jpeg?q=90",
@@ -141254,6 +142355,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:turmeric",
    "ing:honey",
    "ing:papaya",
@@ -146606,6 +147708,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:milk",
+   "ing:menthol",
    "claim:exfoliating",
    "claim:ayurvedic",
    "claim:cooling",
@@ -146713,6 +147816,7 @@ const WASHES = [
    "ing:rose",
    "ing:charcoal",
    "ing:milk",
+   "ing:menthol",
    "claim:de-tan",
    "claim:exfoliating",
    "claim:cooling",
@@ -147955,7 +149059,7 @@ const WASHES = [
    "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
    "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
    "listingIngredientLine": "Citrus, Exotic, Fresh, Woody, Aqua, Argan Oil, Jasminae, Mint (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -147994,11 +149098,11 @@ const WASHES = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 salicylic acid body wash",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.86,
+   "recognised": 0.89,
    "actives": [
     {
      "name": "salicylic acid",
@@ -149275,6 +150379,7 @@ const WASHES = [
    "format:foam",
    "format:wash",
    "format:kit",
+   "ing:menthol",
    "claim:hydrating",
    "claim:cooling",
    "skin:all",
@@ -149631,15 +150736,18 @@ const WASHES = [
   "capacityLine": "500 ml",
   "materialLine": "glycerin + vitamin E",
   "featureLine": "Paraben-free · Moisturizing · ₹126/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermafique official website (www.dermafique.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.6,
+   "skin": 8,
+   "trust": 8,
    "experience": 3.2
   },
   "fullSpec": {
@@ -149657,11 +150765,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermafique official website (www.dermafique.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dermafique.com/products/aqua-surge-hydrating-shower-gel-500ml",
+   "inciMatchedName": "Aqua Surge Hydrating Shower Gel 500ml (name match 80%)",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, PEG 400, Sodium Cocoyl Glycinate, Cocamide MEA, Acrylates Copolymer, Decyl Glucoside, PEG-7 Glyceryl Cocoate, Fragrance, Disodium Cocoyl Glutamate, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Lauric Acid, Phenoxyethanol, Sodium Hydroxide, Sodium Lactate, Tetrasodium EDTA, Sodium PCA, Sodium Hyaluronate, Tocopheryl Acetate, Panthenol, Glycerin, Sodium Ascorbyl Phosphate, Seaweed, Sea Minerals Extract, Limonene, Linalool, Citronellol, Coumarin",
+   "evidenceActives": "glycerin (#23 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, linalool, citronellol, coumarin (−1.2)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -149694,25 +150804,98 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermafique official website (www.dermafique.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dermafique.com/products/aqua-surge-hydrating-shower-gel-500ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Aqua Surge Hydrating Shower Gel 500ml",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, PEG 400, Sodium Cocoyl Glycinate, Cocamide MEA, Acrylates Copolymer, Decyl Glucoside, PEG-7 Glyceryl Cocoate, Fragrance, Disodium Cocoyl Glutamate, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Lauric Acid, Phenoxyethanol, Sodium Hydroxide, Sodium Lactate, Tetrasodium EDTA, Sodium PCA, Sodium Hyaluronate, Tocopheryl Acetate, Panthenol, Glycerin, Sodium Ascorbyl Phosphate, Seaweed, Sea Minerals Extract, Limonene, Linalool, Citronellol, Coumarin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "sodium cocoyl glycinate",
+    "decyl glucoside",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "citronellol",
+      "coumarin"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -149723,8 +150906,8 @@ const WASHES = [
    "buyers": "4.4★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -149938,16 +151121,17 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "glycerin + mint/menthol",
   "featureLine": "Exfoliating · Moisturizing · ₹105/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -149965,11 +151149,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-odour-control-body-wash-250ml",
+   "inciMatchedName": "Odour Control Body Wash - 250 ml (name match 100%)",
+   "inciList": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -149984,6 +151170,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:glycerin",
+   "ing:menthol",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -149995,25 +151182,106 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-odour-control-body-wash-250ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Odour Control Body Wash - 250 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -150024,8 +151292,8 @@ const WASHES = [
    "buyers": "4.1★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -150909,15 +152177,16 @@ const WASHES = [
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid + niacinamide",
   "featureLine": "Exfoliating · Moisturizing · ₹166/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9.4,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -150935,13 +152204,16 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/salicylic-acid-lha-02-body-wash",
+   "inciMatchedName": "Salicylic Acid + LHA 2% Body Wash (name match 100%)",
+   "inciList": "Water/Aqua, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Acrylates Crosspolymer-4, Glycerin, Sodium Lauroamphoacetate, Salicylic Acid, Capryloyl Salicylic Acid, Sodium PCA, Betaine, Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+   "evidenceActives": "glycerin (#7 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #9 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51t5JQHln1L._AC_UL320_.jpg"
@@ -150968,23 +152240,60 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/salicylic-acid-lha-02-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid + LHA 2% Body Wash",
+   "inciMatchScore": 1,
+   "inciText": "Water/Aqua, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Acrylates Crosspolymer-4, Glycerin, Sodium Lauroamphoacetate, Salicylic Acid, Capryloyl Salicylic Acid, Sodium PCA, Betaine, Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "sodium lauroyl sarcosinate",
+    "coco-glucoside",
+    "cocamidopropyl betaine",
+    "glycerin",
+    "sodium lauroamphoacetate",
+    "sodium pca",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -150997,8 +152306,8 @@ const WASHES = [
    "buyers": "4.2★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -151676,10 +152985,10 @@ const WASHES = [
    "avena sativa kernel extract high on the INCI list (moderate evidence)"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume, fragrance"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 8.1,
+   "ingredients": 8,
    "skin": 8.3,
    "trust": 7,
    "experience": 2.9
@@ -151703,9 +153012,9 @@ const WASHES = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/5-niacinamide-body-wash",
    "inciMatchedName": "5 niacinamide body wash (name match 88%)",
-   "inciList": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200. Formulated Without Soap, Paraben, Mineral Oil, Fragrance, Sulphate, Silicone, Cruelty",
+   "inciList": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200",
    "evidenceActives": "avena sativa kernel extract (#13 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume, fragrance (−0.8)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
@@ -151747,11 +153056,11 @@ const WASHES = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 niacinamide body wash",
    "inciMatchScore": 0.88,
-   "inciText": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200. Formulated Without Soap, Paraben, Mineral Oil, Fragrance, Sulphate, Silicone, Cruelty",
+   "inciText": "Aqua, Acrylate Copolymer, Cocamidopropyl Betaine, Coco Glucoside, Sodium Lauroyl Sarcosinate, Niacinamide, Triethanolamine, Aloe Barbadensis (Aloe Vera) Leaf Extract, Erythritol, Perfume, Phenoxyethanol and Ethylhexylglycerin, Avena Sativa (Oat) Kernel Extract, Polysorbate-20, Blue Beads, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Disodium EDTA, Natural Vitamin E, CI 17200",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.81,
+   "recognised": 0.86,
    "actives": [
     {
      "name": "niacinamide",
@@ -151784,14 +153093,6 @@ const WASHES = [
      "core": false,
      "trace": true,
      "src": "aha"
-    },
-    {
-     "name": "mineral oil",
-     "grade": "B",
-     "position": 23,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
     }
    ],
    "support": [
@@ -151806,8 +153107,7 @@ const WASHES = [
      "id": "fragrance",
      "label": "Added fragrance (parfum)",
      "names": [
-      "perfume",
-      "fragrance"
+      "perfume"
      ],
      "penalty": 0.8,
      "src": "acdsFragrance"
@@ -155320,15 +156620,17 @@ const WASHES = [
   "capacityLine": "240 ml",
   "materialLine": "aloe vera",
   "featureLine": "Sulfate/SLS-free · Moisturizing · ₹119/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 3.2
   },
   "fullSpec": {
@@ -155346,11 +156648,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/vanilla-caramello-body-wash-by-plum-body-lovin",
+   "inciMatchedName": "Vanilla Caramello Body Wash by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Sodium Laureth Sulphate, Cocamidopropyl Betaine, Glycerin, Sodium Lauroyl Sarcosinate, Glycol Distearate, Fragrance, Caramel, Aloe Barbadensis Extract, Phenoxyethanol, Ethylhexylglycerin, Cetyl Alcohol, Sodium Chloride, Sodium Lactate, Disodium EDTA, Panthenol, Benzophenone-4, Sodium Hydroxide, CI 15985",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -155377,25 +156681,74 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/vanilla-caramello-body-wash-by-plum-body-lovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vanilla Caramello Body Wash by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Sodium Laureth Sulphate, Cocamidopropyl Betaine, Glycerin, Sodium Lauroyl Sarcosinate, Glycol Distearate, Fragrance, Caramel, Aloe Barbadensis Extract, Phenoxyethanol, Ethylhexylglycerin, Cetyl Alcohol, Sodium Chloride, Sodium Lactate, Disodium EDTA, Panthenol, Benzophenone-4, Sodium Hydroxide, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "benzophenone-4",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin",
+    "sodium lauroyl sarcosinate",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -155406,8 +156759,8 @@ const WASHES = [
    "buyers": "4.4★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -155932,15 +157285,16 @@ const WASHES = [
   "capacityLine": "375 ml",
   "materialLine": "salicylic acid",
   "featureLine": "Sulfate/SLS-free · Exfoliating · ₹120/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.2
   },
   "fullSpec": {
@@ -155958,13 +157312,16 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717l3AQFEWL._AC_UL320_.jpg"
@@ -155988,23 +157345,55 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1 salicylic acid body wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium lauroyl sarcosinate",
+    "coco-glucoside",
+    "cocamidopropyl betaine"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -156017,8 +157406,8 @@ const WASHES = [
    "buyers": "4.4★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -157941,15 +159330,18 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "mint/menthol",
   "featureLine": "₹66/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.6,
+   "skin": 8.1,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -157967,11 +159359,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-cool-kick-shower-gel-89042560006280213.html",
+   "inciMatchedName": "nivea men cool kick shower gel 89042560006280213 (name match 91%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Perfume, Glycerin, Glyceryl Glucoside, Menthol, Sodium Chloride, Alcohol Denat., Glycol Distearate, Helianthus Annuus Seed Oil, PEG-40 Hydrogenated Castor Oil, Polyquaternium-7, Citric Acid, Laureth-4, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, CI 42090, CI 16035, Linalool, Limonene, Butylphenyl Methylpropional",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: linalool, limonene, butylphenyl methylpropional (−0.9); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -157986,6 +159380,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "format:kit",
+   "ing:menthol",
    "claim:odour",
    "claim:cooling",
    "free:derm",
@@ -157993,25 +159388,92 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-cool-kick-shower-gel-89042560006280213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea men cool kick shower gel 89042560006280213",
+   "inciMatchScore": 0.91,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Perfume, Glycerin, Glyceryl Glucoside, Menthol, Sodium Chloride, Alcohol Denat., Glycol Distearate, Helianthus Annuus Seed Oil, PEG-40 Hydrogenated Castor Oil, Polyquaternium-7, Citric Acid, Laureth-4, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, CI 42090, CI 16035, Linalool, Limonene, Butylphenyl Methylpropional",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "limonene",
+      "butylphenyl methylpropional"
+     ],
+     "penalty": 0.9,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -158022,8 +159484,8 @@ const WASHES = [
    "buyers": "4.2★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -158617,7 +160079,8 @@ const WASHES = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71j-RqRCTlL._AC_UL320_.jpg"
@@ -158634,6 +160097,7 @@ const WASHES = [
    "format:bar",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "ing:jojoba",
    "ing:coconut",
@@ -159547,6 +161011,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "format:roll-on",
+   "ing:menthol",
    "claim:acne",
    "claim:dry-skin-relief",
    "claim:antiperspirant",
@@ -160392,15 +161857,16 @@ const WASHES = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid",
   "featureLine": "Exfoliating · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -160418,13 +161884,16 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71yhu7PKpEL._AC_UL320_.jpg"
@@ -160449,23 +161918,55 @@ const WASHES = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1 salicylic acid body wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium lauroyl sarcosinate",
+    "coco-glucoside",
+    "cocamidopropyl betaine"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -160478,8 +161979,8 @@ const WASHES = [
    "buyers": "4.3★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -164020,15 +165521,18 @@ const WASHES = [
   "capacityLine": "500 ml",
   "materialLine": "salicylic acid + mint/menthol",
   "featureLine": "₹47/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dettol official website (www.dettol.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum",
+   "EU-declared fragrance allergen: limonene, hexyl cinnamal"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7.5,
+   "skin": 6.1,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -164046,11 +165550,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dettol official website (www.dettol.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dettol.co.in/personal-hygiene/bodywashes-shower-gels/dettol-cool-shower-gel-250-ml/",
+   "inciMatchedName": "dettol cool shower gel 250 ml (name match 83%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-8, Glycerin, Parfum, Sodium Chloride, Salicylic Acid, Citric Acid, Tetrasodium EDTA, Polyquaternium-10, Menthol, Limonene, Sodium Benzoate, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Sodium Hydroxide, Citral, Coumarin, Eucalyptol, Camphor, Methylchloroisothiazolinone and Methylisothiazolinone, CI 42090, CI 60730",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−0.8); EU-declared fragrance allergen: limonene, hexyl cinnamal, linalool, benzyl salicylate, citral, coumarin (−1.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8); Essential oil / volatile sensitiser: menthol, camphor (−0.5)",
    "maker": "Reckitt — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -164065,30 +165571,112 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:menthol",
    "claim:odour",
    "aud:men",
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dettol official website (www.dettol.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dettol.co.in/personal-hygiene/bodywashes-shower-gels/dettol-cool-shower-gel-250-ml/",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "dettol cool shower gel 250 ml",
+   "inciMatchScore": 0.83,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-8, Glycerin, Parfum, Sodium Chloride, Salicylic Acid, Citric Acid, Tetrasodium EDTA, Polyquaternium-10, Menthol, Limonene, Sodium Benzoate, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Sodium Hydroxide, Citral, Coumarin, Eucalyptol, Camphor, Methylchloroisothiazolinone and Methylisothiazolinone, CI 42090, CI 60730",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "hexyl cinnamal",
+      "linalool",
+      "benzyl salicylate",
+      "citral",
+      "coumarin"
+     ],
+     "penalty": 1.8,
+     "src": "eu1223"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 0.8,
+     "src": "sccsMi"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol",
+      "camphor"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Reckitt",
     "kind": "global",
@@ -164099,8 +165687,8 @@ const WASHES = [
    "buyers": "4.2★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -164443,15 +166031,17 @@ const WASHES = [
   "capacityLine": "200 ml",
   "materialLine": "lemon/citrus",
   "featureLine": "Sulfate/SLS-free · Moisturizing · ₹109/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.9,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -164469,11 +166059,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/blanc-body-wash-200ml-3",
+   "inciMatchedName": "Blanc Body Wash (200ml) (name match 92%)",
+   "inciList": "Purified Water, Sodium Lauryl Ether Sulphate, Cocamidopropyl Betaine, Glycerine, Orange (Citrus Aurantium Dulcis) Peel (Mandarin) Extract, Sodium Chloride, Phenoxyethanol, Liquorice (Glycyrrhiza Glabra) Extract, Moringa Oleifera Leaf Extract, Bergamot (Citrus Aurantium Bergamia Fruit) Extract, Turmeric Extract, Citric Acid, Fragrance",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -164495,25 +166087,64 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/blanc-body-wash-200ml-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Blanc Body Wash (200ml)",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Sodium Lauryl Ether Sulphate, Cocamidopropyl Betaine, Glycerine, Orange (Citrus Aurantium Dulcis) Peel (Mandarin) Extract, Sodium Chloride, Phenoxyethanol, Liquorice (Glycyrrhiza Glabra) Extract, Moringa Oleifera Leaf Extract, Bergamot (Citrus Aurantium Bergamia Fruit) Extract, Turmeric Extract, Citric Acid, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Emami",
     "kind": "india",
@@ -164524,8 +166155,8 @@ const WASHES = [
    "buyers": "4★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -164963,6 +166594,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:wash",
+   "ing:menthol",
    "claim:cooling",
    "aud:men",
    "size:xl",
@@ -165056,6 +166688,7 @@ const WASHES = [
    "format:wash",
    "ing:niacinamide",
    "ing:charcoal",
+   "ing:menthol",
    "claim:exfoliating",
    "claim:odour",
    "claim:cooling",
@@ -166342,6 +167975,7 @@ const WASHES = [
    "format:foam",
    "format:wash",
    "ing:glycerin",
+   "ing:menthol",
    "claim:hydrating",
    "claim:cooling",
    "aud:men",
@@ -169286,15 +170920,17 @@ const WASHES = [
   "capacityLine": "240 ml",
   "materialLine": "aloe vera",
   "featureLine": "Sulfate/SLS-free · Moisturizing · ₹125/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -169312,11 +170948,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/vanilla-vibes-body-wash-by-plum-bodylovin",
+   "inciMatchedName": "Vanilla Vibes Body Wash by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Lauroyl Sarcosinate, Glycol Distearate, Fragrance, Cetyl Alcohol, Vanilla Planifolia (Vanilla) Extract, Sodium Lactate, Aloe Barbadensis Extract, Olea Europaea (Olive) Extract, Disodium EDTA, Panthenol, Benzophenone-4, Caramel, Phenoxyethanol, Ethylhexylglycerin, CI 15985, CI 16255, CI 42090, Sodium Chloride, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -169347,25 +170985,74 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/vanilla-vibes-body-wash-by-plum-bodylovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vanilla Vibes Body Wash by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycerin, Sodium Lauroyl Sarcosinate, Glycol Distearate, Fragrance, Cetyl Alcohol, Vanilla Planifolia (Vanilla) Extract, Sodium Lactate, Aloe Barbadensis Extract, Olea Europaea (Olive) Extract, Disodium EDTA, Panthenol, Benzophenone-4, Caramel, Phenoxyethanol, Ethylhexylglycerin, CI 15985, CI 16255, CI 42090, Sodium Chloride, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "benzophenone-4",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin",
+    "sodium lauroyl sarcosinate",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -169376,8 +171063,8 @@ const WASHES = [
    "buyers": "4.3★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -170250,6 +171937,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:hyaluronic-acid",
+   "ing:polyglutamic-acid",
    "claim:hydrating",
    "skin:dry",
    "free:paraben",
@@ -170792,6 +172480,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -171182,15 +172871,16 @@ const WASHES = [
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid",
   "featureLine": "₹161/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -171208,13 +172898,16 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciMatchedName": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne (name match 89%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "evidenceActives": "glycerin (#7 on list, strong evidence); lactic acid (#8 on list, strong evidence); glycolic acid (#9 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41uGOSuNM0L._AC_UL320_.jpg"
@@ -171234,23 +172927,64 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+   "inciMatchScore": 0.89,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "disodium cocoamphodiacetate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -171263,8 +172997,8 @@ const WASHES = [
    "buyers": "4.1★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -172650,15 +174384,17 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "sandalwood",
   "featureLine": "₹40/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: citronellol, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -172676,11 +174412,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/fiama-golden-sandalwood-patchouli-body-wash-shower-gel-250-ml",
+   "inciMatchedName": "Fiama Golden Sandalwood & Patchouli Body wash Shower Gel 250 ml (name match 96%)",
+   "inciList": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Fragrance with Sandalwood Oil and Patchouli, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Acrylates Copolymer, Glycerin, Sodium Hydroxide, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, Tetrasodium EDTA, Butylated Hydroxytoluene, Citronellol, Linalool, Geraniol, Hexyl Cinnamal, Benzyl Salicylate, CI 14700, CI 19140, CI 77266",
+   "evidenceActives": "glycerin (#10 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: citronellol, linalool, geraniol, hexyl cinnamal, benzyl salicylate (−1.5)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -172701,25 +174439,60 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/fiama-golden-sandalwood-patchouli-body-wash-shower-gel-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fiama Golden Sandalwood & Patchouli Body wash Shower Gel 250 ml",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Fragrance with Sandalwood Oil and Patchouli, PEG-40 Hydrogenated Castor Oil, PEG-7 Glyceryl Cocoate, Acrylates Copolymer, Glycerin, Sodium Hydroxide, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, Tetrasodium EDTA, Butylated Hydroxytoluene, Citronellol, Linalool, Geraniol, Hexyl Cinnamal, Benzyl Salicylate, CI 14700, CI 19140, CI 77266",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "citronellol",
+      "linalool",
+      "geraniol",
+      "hexyl cinnamal",
+      "benzyl salicylate"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -172730,8 +174503,8 @@ const WASHES = [
    "buyers": "4.3★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -179190,16 +180963,18 @@ const WASHES = [
   "capacityLine": "275 ml",
   "materialLine": "charcoal",
   "featureLine": "Paraben-free · ₹108/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Clensta official website (clensta.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -179217,11 +180992,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceUrl": "https://clensta.com/products/purifying-detoxifying-body-wash-with-activated-charcoal-and-chamomile-extract",
+   "inciMatchedName": "Purifying & Detoxifying Body Wash With 0.4% Activated Charcoal & 0.3% Chamomile Extract (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Sodium Cocoyl Apple Amino Acids, Glycerin, Fragrance, Sodium Benzoate, Sodium PCA, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Activated Charcoal Powder, Sodium Hydroxide, Chamomile Extract, Sodium Gluconate, D Panthenol (Pro-Vitamin B5) & Color C.I. 77266",
+   "evidenceActives": "glycerin (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 0 ratings"
   },
@@ -179243,25 +181020,51 @@ const WASHES = [
    "size:xl",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://clensta.com/products/purifying-detoxifying-body-wash-with-activated-charcoal-and-chamomile-extract",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Purifying & Detoxifying Body Wash With 0.4% Activated Charcoal & 0.3% Chamomile Extract",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Sodium Cocoyl Apple Amino Acids, Glycerin, Fragrance, Sodium Benzoate, Sodium PCA, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Activated Charcoal Powder, Sodium Hydroxide, Chamomile Extract, Sodium Gluconate, D Panthenol (Pro-Vitamin B5) & Color C.I. 77266",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "decyl glucoside",
+    "glycerin",
+    "sodium pca"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -179272,8 +181075,8 @@ const WASHES = [
    "buyers": "3★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -182457,6 +184260,7 @@ const WASHES = [
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:charcoal",
+   "ing:menthol",
    "claim:cooling",
    "free:oil-free",
    "aud:women",
@@ -189714,6 +191518,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -196663,6 +198468,7 @@ const WASHES = [
    "format:foam",
    "format:bar",
    "format:wash",
+   "format:shave-cream",
    "ing:green-tea",
    "ing:centella-cica",
    "ing:papaya",
@@ -198247,6 +200053,7 @@ const WASHES = [
    "format:wash",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
+   "ing:menthol",
    "claim:hydrating",
    "claim:barrier",
    "claim:long-lasting",
@@ -220620,15 +222427,17 @@ const WASHES = [
   "capacityLine": "200 ml",
   "materialLine": "turmeric + lemon/citrus",
   "featureLine": "₹125/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.9,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -220646,11 +222455,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/body-wash-bergamot-mandarin-1",
+   "inciMatchedName": "Body Wash | Bergamot & Mandarin (name match 94%)",
+   "inciList": "Purified Water (Aqua), Sodium Laureth Ether Sulfate, Glycerine, Cocamidopropyt Betaine, Sodium Chloride, Citric Acid, Phenoxyethanol, Glycyrrhiza Glabra (Liquorice) Extract, Moringe Oleifera Leaf (Drumstick) Extract, Turmeric (Curcuma Longa Root) Extract, Orange (Citrus Aurantium Dulcis) Peel (Mandarin) Extract, Bergamot (Citrus Aurantium Bergamia Fruit) Extract, C 15985, Fragrance",
+   "evidenceActives": "glycerin (#3 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -220672,25 +222483,64 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/body-wash-bergamot-mandarin-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Body Wash | Bergamot & Mandarin",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified Water (Aqua), Sodium Laureth Ether Sulfate, Glycerine, Cocamidopropyt Betaine, Sodium Chloride, Citric Acid, Phenoxyethanol, Glycyrrhiza Glabra (Liquorice) Extract, Moringe Oleifera Leaf (Drumstick) Extract, Turmeric (Curcuma Longa Root) Extract, Orange (Citrus Aurantium Dulcis) Peel (Mandarin) Extract, Bergamot (Citrus Aurantium Bergamia Fruit) Extract, C 15985, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "cocamidopropyl betaine"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Emami",
     "kind": "india",
@@ -220701,8 +222551,8 @@ const WASHES = [
    "buyers": "4★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -221133,6 +222983,7 @@ const WASHES = [
    "format:wash",
    "ing:magnesium",
    "ing:sea-salt",
+   "ing:menthol",
    "claim:cooling",
    "aud:unisex",
    "size:large",

@@ -60260,17 +60260,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 32,131 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -60287,14 +60287,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (32,131 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-body-lotion-with-vitamin-c-honey-for-skin-brightening-600-ml",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Body Lotion with Vitamin C & Honey for Skin Brightening - 600 ml (name match 83%)",
+   "inciList": "Aqua, Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid, Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); urea (#12 on list, strong evidence); allantoin (#19 on list, limited evidence); cocos nucifera oil (#29 on list, limited evidence); panthenol (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Kapco International Ltd, Plot 11, Sector 3, Parwanoo, Himachal Pradesh (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 32,131 ratings"
+   "buyerEvidence": "4.3★ from 32,131 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/g/l/b/400-vitamin-c-daily-glow-body-lotion-for-skin-brightening-with-enriched-transparent-original-imah6xdnxmkfym3n.png?q=90",
@@ -60313,7 +60316,11 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -60322,25 +60329,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-body-lotion-with-vitamin-c-honey-for-skin-brightening-600-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Body Lotion with Vitamin C & Honey for Skin Brightening - 600 ml",
+   "inciMatchScore": 0.83,
+   "inciText": "Aqua, Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid, Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -106455,15 +106541,18 @@ const CTPRODUCTS = [
   "capacityLine": "600 ml",
   "materialLine": "hyaluronic acid + almond",
   "featureLine": "Oil · ₹54/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, citronellol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.1,
+   "skin": 5.5,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -106480,11 +106569,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciMatchedName": "nivea nourishing lotion body milk 40058087252980213 (name match 100%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#6 on list, moderate evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence); tocopherol (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, alpha-isomethyl ionone, limonene, benzyl alcohol, benzyl salicylate (−2); Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -106509,7 +106600,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -106518,27 +106610,121 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea nourishing lotion body milk 40058087252980213",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "maris sal",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "benzyl alcohol",
+      "benzyl salicylate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -109762,16 +109948,18 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "urea",
   "featureLine": "Oil · ₹253/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.1,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -109788,13 +109976,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thriveco.in/products/smoothing-body-lotion",
+   "inciMatchedName": "Smoothing Body Lotion, 150 ml (name match 100%)",
+   "inciList": "AQUA, CAPRYLIC CAPRIC TRIGLYCERIDE, CETOSTEARYL ALCOHOL, DIMETHICONE, GLYCERYL STEARATE, PEG-100 STEARATE, ISOAMYL LAURATE, LACTIC ACID, PROPANEDIOL, MADHUCA INDICA OIL, ARGININE, CETYL ALCOHOL, CETEARETH-20, HYDROXYETHYL UREA, TRIETHANOLAMINE, ALLANTOIN, NIACINAMIDE, PHENOXYETHANOL & ETHYLHEXYLGLYCERIN, SODIUM PCA, XANTHAN GUM, PANTHENOL, POLYACRYLATE-13, POLYISOBUTENE, POLYSORBATE 20, SODIUM HYALURONATE, PERFUME, TETRASODIUM EDTA",
+   "evidenceActives": "dimethicone (#4 on list, moderate evidence); lactic acid (#7 on list, strong evidence); allantoin (#15 on list, limited evidence); niacinamide (#16 on list, strong evidence); panthenol (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — niacinamide #16 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61l5PuWE+NL._AC_UL320_.jpg"
@@ -109817,7 +110008,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -109826,27 +110021,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thriveco.in/products/smoothing-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Smoothing Body Lotion, 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "AQUA, CAPRYLIC CAPRIC TRIGLYCERIDE, CETOSTEARYL ALCOHOL, DIMETHICONE, GLYCERYL STEARATE, PEG-100 STEARATE, ISOAMYL LAURATE, LACTIC ACID, PROPANEDIOL, MADHUCA INDICA OIL, ARGININE, CETYL ALCOHOL, CETEARETH-20, HYDROXYETHYL UREA, TRIETHANOLAMINE, ALLANTOIN, NIACINAMIDE, PHENOXYETHANOL & ETHYLHEXYLGLYCERIN, SODIUM PCA, XANTHAN GUM, PANTHENOL, POLYACRYLATE-13, POLYISOBUTENE, POLYSORBATE 20, SODIUM HYALURONATE, PERFUME, TETRASODIUM EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol",
+    "niacinamide",
+    "sodium pca",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -109865,16 +110126,18 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹165/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.6,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -109891,13 +110154,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-smoothening-body-lotion-250-ml",
+   "inciMatchedName": "Smoothening Body Lotion - 250 ml (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Lactic Acid, Cetyl Alcohol, Cyclopentasiloxane, Glyceryl Monostearate, Propanediol, Stearic Acid, Ethyl Olivate, Sodium Hydroxide, Cetostearyl Alcohol, Emulsifying Wax, Glycerine, Niacinamide, Fragrance, Salicylic Acid, Phenoxyethanol, Olive Oil Methyl Ester, Sodium Benzoate, Potassium Sorbate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Isohexadecane, Oat (Avena sativa) Meal Extract, Citrus Grandis Fruit Extract, Sodium Gluconate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Polyisobutene, Ethylhexylglycerin, Polysorbate 80, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitan Oleate, Sorbitan Isostearate, Sodium Hyaluronate, Ceramide NP",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); glycerin (#13 on list, strong evidence); niacinamide (#14 on list, strong evidence); ceramide np (#36 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uTrtzsFjL._AC_UL320_.jpg"
@@ -109930,7 +110196,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -109939,27 +110208,100 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-smoothening-body-lotion-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Smoothening Body Lotion - 250 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Lactic Acid, Cetyl Alcohol, Cyclopentasiloxane, Glyceryl Monostearate, Propanediol, Stearic Acid, Ethyl Olivate, Sodium Hydroxide, Cetostearyl Alcohol, Emulsifying Wax, Glycerine, Niacinamide, Fragrance, Salicylic Acid, Phenoxyethanol, Olive Oil Methyl Ester, Sodium Benzoate, Potassium Sorbate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Isohexadecane, Oat (Avena sativa) Meal Extract, Citrus Grandis Fruit Extract, Sodium Gluconate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Polyisobutene, Ethylhexylglycerin, Polysorbate 80, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitan Oleate, Sorbitan Isostearate, Sodium Hyaluronate, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -113838,17 +114180,17 @@ const CTPRODUCTS = [
   "capacityLine": "245 ml",
   "materialLine": "niacinamide",
   "featureLine": "Lotion · Fragrance-free · ₹603/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9.5,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.2
   },
   "fullSpec": {
@@ -113865,13 +114207,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/product-range/healthy-radiance/cetaphil-bright-healthy-radiance-brightening-lotion/3499320011532.html",
+   "inciMatchedName": "Cetaphil Bright Healthy Radiance Brightening Lotion (name match 95%)",
+   "inciList": "Aqua, Glycerin, Hydrogenated Polydecene, Niacinamide, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetearyl Alcohol, Butyrospermum Parkii Butter, Glyceryl Stearate, Butylene Glycol, Anhydroxylitol, Betaine, Citric Acid, Dimethicone, Ethylhexylglycerin, Hyaluronic Acid, Hydrolyzed Cicer Seed Extract, Hydrolyzed Hyaluronic Acid, Palmitic Acid, Pancratium Maritimum Extract, Polyglyceryl-2 Stearate ,Propanediol, Rhododendron Chrysanthemum Leaf Extract, Sodium Hyaluronate, Stearic Acid, Stearyl Alcohol, Tocopherol, Tricholoma Matsutake Extract, Xylitol, Xylitylglucoside",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#4 on list, strong evidence); butyrospermum parkii butter (#9 on list, moderate evidence); dimethicone (#15 on list, moderate evidence); tocopherol (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/515xX0IgLBL._AC_UL320_.jpg"
@@ -113894,7 +114239,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -113904,25 +114253,108 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/product-range/healthy-radiance/cetaphil-bright-healthy-radiance-brightening-lotion/3499320011532.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Bright Healthy Radiance Brightening Lotion",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Glycerin, Hydrogenated Polydecene, Niacinamide, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetearyl Alcohol, Butyrospermum Parkii Butter, Glyceryl Stearate, Butylene Glycol, Anhydroxylitol, Betaine, Citric Acid, Dimethicone, Ethylhexylglycerin, Hyaluronic Acid, Hydrolyzed Cicer Seed Extract, Hydrolyzed Hyaluronic Acid, Palmitic Acid, Pancratium Maritimum Extract, Polyglyceryl-2 Stearate ,Propanediol, Rhododendron Chrysanthemum Leaf Extract, Sodium Hyaluronate, Stearic Acid, Stearyl Alcohol, Tocopherol, Tricholoma Matsutake Extract, Xylitol, Xylitylglucoside",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butyrospermum parkii butter",
+    "butylene glycol",
+    "dimethicone",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -121760,15 +122192,16 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "vitamin C + honey",
   "featureLine": "Lotion · ₹64/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -121785,13 +122218,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml (name match 100%)",
+   "inciList": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); urea (#12 on list, strong evidence); allantoin (#19 on list, limited evidence); cocos nucifera oil (#29 on list, limited evidence); panthenol (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51f1o0ax00L._AC_UL320_.jpg"
@@ -121814,7 +122250,11 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -121823,25 +122263,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -125126,16 +125645,18 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "aloe vera + honey + almond",
   "featureLine": "Lotion · ₹36/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -125152,11 +125673,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/aloe-hydration-body-lotion",
+   "inciMatchedName": "Aloe Hydration Body Lotion with Honey | 24-Hour Intense Moisture - 400 ml (name match 82%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, Glyceryl Stearate SE, Cetostearyl Alcohol, Stearic Acid, Cetyl Alcohol, Mel (Honey), Helianthus Annus (Sunflower) Seed Oil, Octyl Methoxycinnamate, Phenoxyethanol, Propanediol, Cocos Nucifera (Coconut) Oil, Polysorbate 20, Perfume, Titanium Dioxide, Dimethicone, Niacinamide (Vitamin B3), Disodium EDTA, Allantoin, Prunus Amygdalus (Almond) Oil, Carbomer, Zinc Oxide, Cucurbita Pepo (Pumpkin) Seed Oil, Persea Gratissima (Avocado) Oil, Tocopheryl Acetate (Vitamin E), Panthenol (Vitamin B5), Potassium Hydroxide, Aloe Barbadensis Leaf Extract, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Linoleic Acid (and) Linolenic Acid (Vitamin F), 3-O Ethyl Ascorbic Acid (Vitamin C), Hyaluronic Acid",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); helianthus annuus seed oil (#9 on list, moderate evidence); cocos nucifera oil (#13 on list, limited evidence); dimethicone (#17 on list, moderate evidence); niacinamide (#18 on list, strong evidence); allantoin (#20 on list, limited evidence); tocopheryl acetate (#26 on list, moderate evidence); panthenol (#27 on list, moderate evidence); aloe barbadensis leaf extract (#29 on list, moderate evidence); butyrospermum parkii butter (#31 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -125179,7 +125702,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -125188,27 +125712,174 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/aloe-hydration-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Aloe Hydration Body Lotion with Honey | 24-Hour Intense Moisture - 400 ml",
+   "inciMatchScore": 0.82,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, Glyceryl Stearate SE, Cetostearyl Alcohol, Stearic Acid, Cetyl Alcohol, Mel (Honey), Helianthus Annus (Sunflower) Seed Oil, Octyl Methoxycinnamate, Phenoxyethanol, Propanediol, Cocos Nucifera (Coconut) Oil, Polysorbate 20, Perfume, Titanium Dioxide, Dimethicone, Niacinamide (Vitamin B3), Disodium EDTA, Allantoin, Prunus Amygdalus (Almond) Oil, Carbomer, Zinc Oxide, Cucurbita Pepo (Pumpkin) Seed Oil, Persea Gratissima (Avocado) Oil, Tocopheryl Acetate (Vitamin E), Panthenol (Vitamin B5), Potassium Hydroxide, Aloe Barbadensis Leaf Extract, Mangifera Indica (Mango) Seed Butter, Butyrospermum Parkii (Shea) Butter, Linoleic Acid (and) Linolenic Acid (Vitamin F), 3-O Ethyl Ascorbic Acid (Vitamin C), Hyaluronic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "dimethicone",
+    "niacinamide",
+    "panthenol",
+    "butyrospermum parkii butter",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -131466,16 +132137,18 @@ const CTPRODUCTS = [
   "capacityLine": "320 ml",
   "materialLine": "colloidal oatmeal + shea butter",
   "featureLine": "Oil · ₹123/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Iba official website (www.ibacosmetics.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -131492,11 +132165,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Iba official website (www.ibacosmetics.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.ibacosmetics.com/products/iba-oatmeal-shea-moisture-boost-body-lotion",
+   "inciMatchedName": "Iba Oatmeal & Shea Moisture Boost Body Lotion,320 ml (name match 100%)",
+   "inciList": "Dm Water, C14-16 Alpha Olefin Sulfonate, Cocoamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Acrylate Copolymer, Decyl Glucoside, Coco Glucoside, Polyquaternium 7, Phenoxyethanol And Triethylene Glycol, Perfume, Disodium Cocoamphodiacetate, Coco Glucoside & Glyceryl Oleate, Glycerine, Sodium Hydroxide, Disodium Edta, Mica & Titanium Dioxide, Butyrospermum Parkii (Shea Butter), Avena Sativa (Oat) Kernel Flour, Olive (Olea Europea) Oil, Moringa (Moringa Olifera) Oil",
+   "evidenceActives": "glycerin (#13 on list, strong evidence); butyrospermum parkii butter (#17 on list, moderate evidence); avena sativa kernel flour (#18 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -131520,7 +132195,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -131529,27 +132205,65 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Iba official website (www.ibacosmetics.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.ibacosmetics.com/products/iba-oatmeal-shea-moisture-boost-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Iba Oatmeal & Shea Moisture Boost Body Lotion,320 ml",
+   "inciMatchScore": 1,
+   "inciText": "Dm Water, C14-16 Alpha Olefin Sulfonate, Cocoamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Acrylate Copolymer, Decyl Glucoside, Coco Glucoside, Polyquaternium 7, Phenoxyethanol And Triethylene Glycol, Perfume, Disodium Cocoamphodiacetate, Coco Glucoside & Glyceryl Oleate, Glycerine, Sodium Hydroxide, Disodium Edta, Mica & Titanium Dioxide, Butyrospermum Parkii (Shea Butter), Avena Sativa (Oat) Kernel Flour, Olive (Olea Europea) Oil, Moringa (Moringa Olifera) Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "avena sativa kernel flour",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "oat"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -131568,17 +132282,19 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "peptides + shea butter",
   "featureLine": "Oil · ₹175/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Clensta official website (clensta.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); cocos nucifera oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -131595,11 +132311,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceUrl": "https://clensta.com/products/warming-body-lotion-with-ginger-oil-shea-butter",
+   "inciMatchedName": "Warming Body Lotion With Ginger Oil, Shea Butter 200 ml (name match 100%)",
+   "inciList": "Aqua, Glycerin, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Coconut Oil, Stearic Acid, Iso Propyl Myristate, Olive Oil, Sodium Hydroxide, Emulsifying Wax, Tween 20, Xylitol and Glucose and Anhydro Xylitol and Phonex Dactylifera Extract and Aloevera Extract, Shea Butter, Almond Oil, Carbomer, Phenoxyethanol, Fragrance, Sodium Benzoate, Vanillyl Butyl Ether,Potassium Sorbate, Sodium Gluconate, Ginger Oil",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); cocos nucifera oil (#5 on list, limited evidence); shea butter (#17 on list, moderate evidence); prunus amygdalus dulcis oil (#18 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -131623,7 +132341,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -131632,27 +132351,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://clensta.com/products/warming-body-lotion-with-ginger-oil-shea-butter",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Warming Body Lotion With Ginger Oil, Shea Butter 200 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Coconut Oil, Stearic Acid, Iso Propyl Myristate, Olive Oil, Sodium Hydroxide, Emulsifying Wax, Tween 20, Xylitol and Glucose and Anhydro Xylitol and Phonex Dactylifera Extract and Aloevera Extract, Shea Butter, Almond Oil, Carbomer, Phenoxyethanol, Fragrance, Sodium Benzoate, Vanillyl Butyl Ether,Potassium Sorbate, Sodium Gluconate, Ginger Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "shea butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -132072,15 +132837,16 @@ const CTPRODUCTS = [
   "capacityLine": "800 ml (pack of 2)",
   "materialLine": "vitamin C + honey",
   "featureLine": "Lotion · ₹69/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -132097,13 +132863,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml (name match 100%)",
+   "inciList": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); urea (#12 on list, strong evidence); allantoin (#19 on list, limited evidence); cocos nucifera oil (#29 on list, limited evidence); panthenol (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rBxp6l1DL._AC_UL320_.jpg"
@@ -132126,7 +132895,11 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -132135,25 +132908,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -140065,17 +140917,17 @@ const CTPRODUCTS = [
   "capacityLine": "295 ml",
   "materialLine": "shea butter",
   "featureLine": "Cream / gel · ₹922/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9.2,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.9
   },
   "fullSpec": {
@@ -140092,13 +140944,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/body-moisturizers/cetaphil-restoraderm-skin-restoring-body-moisturizer/8906005271259.html",
+   "inciMatchedName": "Cetaphil Restoraderm Skin Restoring Body Moisturizer (name match 100%)",
+   "inciList": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Disodium Ethylene Dicocamide PEG-15 Disulphate, Behenyl Alcohol Glyceryl Stearate, Glyceryl Stearate Citrate, Helianthus Annuus Seed Oil, Pentylene Glycol, Sorbitol, Cetearyl Alcohol & Ceteareth-20, Butyrospermum Parkii Butter, Cyclopentasiloxane & Dimethiconol, Cyclopentasiloxane, Tocopheryl Acetate, Cetyl Alcohol, Sodium Pyrrolidone Carboxylic Acid, Arginine, Niacinamide, Sodium Polyacrylate, Caprylyl Glycol, Allatoin, Panthenol, Citric Acid, Disodium EDTA, Sodium Hyaulronate, Hydroxypalmitoyl Sphinganine",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); helianthus annuus seed oil (#7 on list, moderate evidence); butyrospermum parkii butter (#11 on list, moderate evidence); tocopheryl acetate (#14 on list, moderate evidence); niacinamide (#18 on list, strong evidence); allantoin (#21 on list, limited evidence); panthenol (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI; Irritation — panthenol #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41SOJ6lGVQL._AC_UL320_.jpg"
@@ -140115,7 +140970,12 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -140125,25 +140985,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/body-moisturizers/cetaphil-restoraderm-skin-restoring-body-moisturizer/8906005271259.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Restoraderm Skin Restoring Body Moisturizer",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Disodium Ethylene Dicocamide PEG-15 Disulphate, Behenyl Alcohol Glyceryl Stearate, Glyceryl Stearate Citrate, Helianthus Annuus Seed Oil, Pentylene Glycol, Sorbitol, Cetearyl Alcohol & Ceteareth-20, Butyrospermum Parkii Butter, Cyclopentasiloxane & Dimethiconol, Cyclopentasiloxane, Tocopheryl Acetate, Cetyl Alcohol, Sodium Pyrrolidone Carboxylic Acid, Arginine, Niacinamide, Sodium Polyacrylate, Caprylyl Glycol, Allatoin, Panthenol, Citric Acid, Disodium EDTA, Sodium Hyaulronate, Hydroxypalmitoyl Sphinganine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "niacinamide",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -141188,15 +142127,16 @@ const CTPRODUCTS = [
   "capacityLine": "180 g",
   "materialLine": "niacinamide + petrolatum + ceramides",
   "featureLine": "Lotion · ₹158/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -141213,13 +142153,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+   "inciMatchedName": "Niacinamide 5% Body Lotion (name match 100%)",
+   "inciList": "Water/Aqua, Glycerin, Niacinamide, Caprylic/Capric Triglyceride, Cyclopentasiloxane, Isododecane, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Betaine, Petrolatum, Stearic Acid, Phenoxyethanol, Cetearyl Alcohol, Carbomer, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); dimethicone (#7 on list, moderate evidence); petrolatum (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cWnlWUJOL._SL1280_.jpg",
@@ -141248,7 +142191,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -141257,25 +142204,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide 5% Body Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Water/Aqua, Glycerin, Niacinamide, Caprylic/Capric Triglyceride, Cyclopentasiloxane, Isododecane, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Betaine, Petrolatum, Stearic Acid, Phenoxyethanol, Cetearyl Alcohol, Carbomer, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "dimethicone",
+    "petrolatum"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -145635,15 +146620,18 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "hyaluronic acid + almond + vitamin E",
   "featureLine": "Serum · ₹65/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, citronellol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.1,
+   "skin": 5.5,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -145660,11 +146648,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciMatchedName": "nivea nourishing lotion body milk 40058087252980213 (name match 100%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#6 on list, moderate evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence); tocopherol (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, alpha-isomethyl ionone, limonene, benzyl alcohol, benzyl salicylate (−2); Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -145697,7 +146687,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -145706,27 +146697,121 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea nourishing lotion body milk 40058087252980213",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "maris sal",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "benzyl alcohol",
+      "benzyl salicylate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -149888,16 +150973,18 @@ const CTPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion · ₹225/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.6,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -149914,11 +151001,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+   "inciMatchedName": "Vanilla Caramello Body Lotion by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); helianthus annuus seed oil (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#13 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -149943,7 +151032,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -149952,27 +151042,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vanilla Caramello Body Lotion by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -156538,16 +157691,18 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "peptides + shea butter",
   "featureLine": "Oil · ₹106/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Clensta official website (clensta.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); cocos nucifera oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0.6
   },
   "fullSpec": {
@@ -156564,11 +157719,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceUrl": "https://clensta.com/products/warming-lotion-with-ginger-oil-shea-butter",
+   "inciMatchedName": "Warming Body Lotion With Ginger Oil, Shea Butter 400 ml (name match 100%)",
+   "inciList": "Aqua, Glycerin, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Coconut Oil, Stearic Acid, Iso Propyl Myristate, Olive Oil, Sodium Hydroxide, Emulsifying Wax, Tween 20, Xylitol and Glucose and Anhydro Xylitol and Phonex Dactylifera Extract and Aloevera Extract, Shea Butter, Almond Oil, Carbomer, Phenoxyethanol, Fragrance, Sodium Benzoate, Vanillyl Butyl Ether,Potassium Sorbate, Sodium Gluconate, Ginger Oil",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); cocos nucifera oil (#5 on list, limited evidence); shea butter (#17 on list, moderate evidence); prunus amygdalus dulcis oil (#18 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 0 ratings"
   },
@@ -156597,7 +157754,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -156606,27 +157764,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://clensta.com/products/warming-lotion-with-ginger-oil-shea-butter",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Warming Body Lotion With Ginger Oil, Shea Butter 400 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Coconut Oil, Stearic Acid, Iso Propyl Myristate, Olive Oil, Sodium Hydroxide, Emulsifying Wax, Tween 20, Xylitol and Glucose and Anhydro Xylitol and Phonex Dactylifera Extract and Aloevera Extract, Shea Butter, Almond Oil, Carbomer, Phenoxyethanol, Fragrance, Sodium Benzoate, Vanillyl Butyl Ether,Potassium Sorbate, Sodium Gluconate, Ginger Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "shea butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -158045,16 +159249,18 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "ceramides + peptides",
   "featureLine": "Lotion · ₹578/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mintree official website (mintree.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "petrolatum high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -158071,11 +159277,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mintree official website (mintree.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mintree.in/products/oud-body-lotion-200ml",
+   "inciMatchedName": "HYDRATING Oud Body Lotion 200 ml (name match 75%)",
+   "inciList": "Water (Aqua), Himalayan Glacial Water, Propylene Glycol, Organic Glycerin, Caprylic Capric Triglyceride, Glyceryl Stearate (and) PEG-100 Stearate, Organic Shea Butter, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum (and) Lecithin (and) Sclerotium Gum (and) Pullulan, Petrolatum, Stearic Acid, Isododecane, White Turmeric Extract (Curcuma zedoariarosc root extract), Anhydrous Betaine, D-Panthenol, Cetostearyl Alcohol, Triethanolamine, Allantoin, Trisodium Ethylenediamine Disuccinate, Carbomer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Argan Oil, Bitter Almond Mandelic Acid, Olive Fruit Oil, Agarwood Essential Oil, Bilberry Extract (Vaccinium myrtillus fruit extract), Ginger Root Extract (Zingiber officinale root extract), Cucumber Extract (Cucumis sativus fruit extract), Licorice Extract (Glycyrrhiza glabra root extract), Aloevera Extract (Aloe barbadensis leaf extract), Coconut Fruit Extract (Cocos nucifera fruit extract), Gotu Kola Extract (Centella asiatica leaf extract), Lemon Peel Extract (Citrus limon peel extract), Vitamin E, Rosehip Oil, Japanese Honeysuckle Flower Extract (Lonicera japonica flower extract), Olive Squalene, Witch Hazel Extract (Hamamelis virginiana leaf extract), Vitamin C, Niacinamide , Green Tea Extract (Camellia sinensis leaf extract), Chamomile Oil, Ceramide EOS, Mulberry Extract (Morus alba root extract), Vitamin A, Polyphenol, Beta Carotene, Soy Oil, Coenzyme Q10, Ceramide NG, Ceramide NP, Omega 3 Fatty Acid, Ceramide AP, Cold Pressed Babassu Seed Butter, Indian Sandalwood Oil, Ceramide EOP, Resveratrol, Saffron Essential Oil, Hyaluronic Acid, Peptide, Alpha Arbutin, Fragrance",
+   "evidenceActives": "petrolatum (#14 on list, strong evidence); panthenol (#19 on list, moderate evidence); allantoin (#22 on list, limited evidence); argania spinosa kernel oil (#26 on list, moderate evidence); tocopherol (#38 on list, moderate evidence); niacinamide (#44 on list, strong evidence); ceramide eos (#47 on list, moderate evidence); ceramide np (#55 on list, moderate evidence); ceramide ap (#57 on list, moderate evidence); ceramide eop (#60 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -158100,7 +159308,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -158109,27 +159318,167 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mintree official website (mintree.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mintree.in/products/oud-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "HYDRATING Oud Body Lotion 200 ml",
+   "inciMatchScore": 0.75,
+   "inciText": "Water (Aqua), Himalayan Glacial Water, Propylene Glycol, Organic Glycerin, Caprylic Capric Triglyceride, Glyceryl Stearate (and) PEG-100 Stearate, Organic Shea Butter, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum (and) Lecithin (and) Sclerotium Gum (and) Pullulan, Petrolatum, Stearic Acid, Isododecane, White Turmeric Extract (Curcuma zedoariarosc root extract), Anhydrous Betaine, D-Panthenol, Cetostearyl Alcohol, Triethanolamine, Allantoin, Trisodium Ethylenediamine Disuccinate, Carbomer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Argan Oil, Bitter Almond Mandelic Acid, Olive Fruit Oil, Agarwood Essential Oil, Bilberry Extract (Vaccinium myrtillus fruit extract), Ginger Root Extract (Zingiber officinale root extract), Cucumber Extract (Cucumis sativus fruit extract), Licorice Extract (Glycyrrhiza glabra root extract), Aloevera Extract (Aloe barbadensis leaf extract), Coconut Fruit Extract (Cocos nucifera fruit extract), Gotu Kola Extract (Centella asiatica leaf extract), Lemon Peel Extract (Citrus limon peel extract), Vitamin E, Rosehip Oil, Japanese Honeysuckle Flower Extract (Lonicera japonica flower extract), Olive Squalene, Witch Hazel Extract (Hamamelis virginiana leaf extract), Vitamin C, Niacinamide , Green Tea Extract (Camellia sinensis leaf extract), Chamomile Oil, Ceramide EOS, Mulberry Extract (Morus alba root extract), Vitamin A, Polyphenol, Beta Carotene, Soy Oil, Coenzyme Q10, Ceramide NG, Ceramide NP, Omega 3 Fatty Acid, Ceramide AP, Cold Pressed Babassu Seed Butter, Indian Sandalwood Oil, Ceramide EOP, Resveratrol, Saffron Essential Oil, Hyaluronic Acid, Peptide, Alpha Arbutin, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 43,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 44,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 47,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 55,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 57,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 60,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 61,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 63,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 65,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "petrolatum",
+    "panthenol",
+    "niacinamide",
+    "ceramide eos",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -165613,17 +166962,18 @@ const CTPRODUCTS = [
   "capacityLine": "237 ml",
   "materialLine": "hyaluronic acid",
   "featureLine": "Oil · ₹581/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
    "Made by Galderma (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9,
+   "skin": 9.5,
+   "trust": 10,
    "experience": 2.9
   },
   "fullSpec": {
@@ -165640,13 +166990,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/body-moisturizers/cetaphil-optimal-hydration-replenishing-lotion/8906005274632.html",
+   "inciMatchedName": "Cetaphil Optimal Hydration Replenishing Lotion (name match 94%)",
+   "inciList": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Ceteareth-20, Panthenol, Niacinamide, Tocopheryl Acetate, Dimethicone, Persea Gratissima Oil, Helianthus Annuus Seed Oil, Pantolactone, Glyceryl Stearate, Sodium Benzoate, Benzyl Alcohol, Citric Acid",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); panthenol (#6 on list, moderate evidence); niacinamide (#7 on list, strong evidence); tocopheryl acetate (#8 on list, moderate evidence); dimethicone (#9 on list, moderate evidence); helianthus annuus seed oil (#11 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51R5qcJZ2AL._AC_UL320_.jpg"
@@ -165669,7 +167022,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -165679,27 +167036,99 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/body-moisturizers/cetaphil-optimal-hydration-replenishing-lotion/8906005274632.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Optimal Hydration Replenishing Lotion",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Ceteareth-20, Panthenol, Niacinamide, Tocopheryl Acetate, Dimethicone, Persea Gratissima Oil, Helianthus Annuus Seed Oil, Pantolactone, Glyceryl Stearate, Sodium Benzoate, Benzyl Alcohol, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol",
+    "niacinamide",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Galderma",
     "kind": "pharma",
@@ -170136,15 +171565,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion · ₹95/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.6,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -170161,11 +171592,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+   "inciMatchedName": "Vanilla Caramello Body Lotion by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); helianthus annuus seed oil (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#13 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -170190,7 +171623,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -170199,27 +171633,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vanilla Caramello Body Lotion by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -173596,17 +175093,17 @@ const CTPRODUCTS = [
   "capacityLine": "295 ml",
   "materialLine": "shea butter",
   "featureLine": "Cream / gel · ₹884/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9.2,
+   "skin": 10,
+   "trust": 10,
    "experience": 3.5
   },
   "fullSpec": {
@@ -173623,13 +175120,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/body-moisturizers/cetaphil-restoraderm-skin-restoring-body-moisturizer/8906005271259.html",
+   "inciMatchedName": "Cetaphil Restoraderm Skin Restoring Body Moisturizer (name match 100%)",
+   "inciList": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Disodium Ethylene Dicocamide PEG-15 Disulphate, Behenyl Alcohol Glyceryl Stearate, Glyceryl Stearate Citrate, Helianthus Annuus Seed Oil, Pentylene Glycol, Sorbitol, Cetearyl Alcohol & Ceteareth-20, Butyrospermum Parkii Butter, Cyclopentasiloxane & Dimethiconol, Cyclopentasiloxane, Tocopheryl Acetate, Cetyl Alcohol, Sodium Pyrrolidone Carboxylic Acid, Arginine, Niacinamide, Sodium Polyacrylate, Caprylyl Glycol, Allatoin, Panthenol, Citric Acid, Disodium EDTA, Sodium Hyaulronate, Hydroxypalmitoyl Sphinganine",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); helianthus annuus seed oil (#7 on list, moderate evidence); butyrospermum parkii butter (#11 on list, moderate evidence); tocopheryl acetate (#14 on list, moderate evidence); niacinamide (#18 on list, strong evidence); allantoin (#21 on list, limited evidence); panthenol (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI; Irritation — panthenol #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ccMUtQKAL._AC_UL320_.jpg"
@@ -173646,7 +175146,12 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -173656,25 +175161,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/body-moisturizers/cetaphil-restoraderm-skin-restoring-body-moisturizer/8906005271259.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Restoraderm Skin Restoring Body Moisturizer",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Disodium Ethylene Dicocamide PEG-15 Disulphate, Behenyl Alcohol Glyceryl Stearate, Glyceryl Stearate Citrate, Helianthus Annuus Seed Oil, Pentylene Glycol, Sorbitol, Cetearyl Alcohol & Ceteareth-20, Butyrospermum Parkii Butter, Cyclopentasiloxane & Dimethiconol, Cyclopentasiloxane, Tocopheryl Acetate, Cetyl Alcohol, Sodium Pyrrolidone Carboxylic Acid, Arginine, Niacinamide, Sodium Polyacrylate, Caprylyl Glycol, Allatoin, Panthenol, Citric Acid, Disodium EDTA, Sodium Hyaulronate, Hydroxypalmitoyl Sphinganine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "niacinamide",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -175231,15 +176815,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion · ₹99/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.6,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -175256,11 +176842,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+   "inciMatchedName": "Hazelnut Eclair Body Lotion by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); helianthus annuus seed oil (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#13 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -175285,7 +176873,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -175294,27 +176883,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hazelnut Eclair Body Lotion by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -188616,15 +190268,18 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "almond",
   "featureLine": "Oil · ₹91/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, citronellol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.1,
+   "skin": 5.5,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -188641,11 +190296,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciMatchedName": "nivea nourishing lotion body milk 40058087252980213 (name match 80%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#6 on list, moderate evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence); tocopherol (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, alpha-isomethyl ionone, limonene, benzyl alcohol, benzyl salicylate (−2); Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -188668,7 +190325,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -188677,27 +190335,121 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea nourishing lotion body milk 40058087252980213",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "maris sal",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "benzyl alcohol",
+      "benzyl salicylate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -206204,15 +207956,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + aloe vera + almond",
   "featureLine": "Oil · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); aloe barbadensis leaf extract high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -206229,13 +207983,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/niacinamide-body-lotion",
+   "inciMatchedName": "niacinamide body lotion (name match 88%)",
+   "inciList": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence); glycerin (#5 on list, strong evidence); tocopherol (#7 on list, moderate evidence); prunus amygdalus dulcis oil (#11 on list, moderate evidence); cocos nucifera oil (#12 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #6 on INCI; Aging — 3-o-ethyl ascorbic acid #6 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bg9bm03qL._AC_UL320_.jpg"
@@ -206261,7 +208018,12 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -206270,27 +208032,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/niacinamide-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "niacinamide body lotion",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",

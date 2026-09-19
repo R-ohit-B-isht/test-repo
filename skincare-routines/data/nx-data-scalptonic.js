@@ -14504,16 +14504,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Redensyl + Anagain + Baicapil",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "larix europaea wood extract high on the INCI list (limited evidence); rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 6.9
   },
   "fullSpec": {
@@ -14531,11 +14533,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4/5 (34,383 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bareanatomy.com/products/advanced-hair-growth-serum",
+   "inciMatchedName": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml (name match 73%)",
+   "inciList": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "larix europaea wood extract (#5 on list, limited evidence); rosmarinus officinalis leaf extract (#24 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "(A)- Onesto Labs Private Limited, Plot No. 309, Sector-06, IMT Manesar, Gurugram, Haryana-122052 Mfg. Lic. No.: COS8HR2023000002 (B)- Naturis Cosmetics Pvt. Ltd., 1, EPIP, SIDCO Industrial Complex, Baribrahmana, Jammu-181133, Jammu & Kashmir. M.L.NO: JK/21-22/COS-8/334 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 34,383 ratings"
@@ -14561,7 +14565,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -14569,25 +14575,70 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bareanatomy.com/products/advanced-hair-growth-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml",
+   "inciMatchScore": 0.73,
+   "inciText": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "larix europaea wood extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "hydrolyzed rice protein",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "rosemary"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -14608,17 +14659,17 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Caffeine + Rice water + Redensyl",
   "featureLine": "Roll-on · ₹9967/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); caffeine high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.6★ from 243 ratings"
   ],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.2
   },
   "fullSpec": {
@@ -14636,11 +14687,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.6/5 (243 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum-roll-on",
+   "inciMatchedName": "Hair Growth Serum Concentrate Roll-On | 30ml (name match 100%)",
+   "listingIngredientLine": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence); caffeine (#12 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.6★ from 243 ratings"
   },
@@ -14672,7 +14726,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -14680,25 +14736,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Growth Serum Concentrate Roll-On | 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.78,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -15243,15 +15334,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Redensyl + Anagain",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); caffeine high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
@@ -15269,11 +15361,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (49,965 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Redensyl, Anagain, Baicapil, Caffeine, Biotin & Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum",
+   "inciMatchedName": "Hair Growth Serum Concentrate (name match 100%)",
+   "listingIngredientLine": "Redensyl, Anagain, Baicapil, Caffeine, Biotin & Rice Water (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence); caffeine (#12 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "declaredManufacturer": "WishCare, 28, B.T. Road, Kolkata- 700002 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 49,965 ratings"
@@ -15298,7 +15393,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -15306,25 +15403,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Redensyl, Anagain, Baicapil, Caffeine, Biotin & Rice Water",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Growth Serum Concentrate",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.78,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -15345,15 +15477,16 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Caffeine + Rice water + Redensyl",
   "featureLine": "Serum · ₹2645/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); caffeine high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
@@ -15371,11 +15504,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (49,965 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin, Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum",
+   "inciMatchedName": "Hair Growth Serum Concentrate (name match 100%)",
+   "listingIngredientLine": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin, Rice Water (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence); caffeine (#12 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 49,965 ratings"
   },
@@ -15406,7 +15542,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -15414,25 +15552,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin, Rice Water",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Growth Serum Concentrate",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.78,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -70542,15 +70715,16 @@ const NXPRODUCTS = [
   "capacityLine": "20 ml",
   "materialLine": "Caffeine + Rice water + Redensyl",
   "featureLine": "Serum · ₹13225/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); caffeine high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
@@ -70568,11 +70742,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (49,965 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum",
+   "inciMatchedName": "Hair Growth Serum Concentrate (name match 100%)",
+   "listingIngredientLine": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence); caffeine (#12 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 49,965 ratings"
   },
@@ -70603,7 +70780,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -70611,25 +70790,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Growth Serum Concentrate",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.78,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -71872,17 +72086,17 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Caffeine + Rice water + Redensyl",
   "featureLine": "Roll-on · ₹29900/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); caffeine high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.6★ from 243 ratings"
   ],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.2
   },
   "fullSpec": {
@@ -71900,11 +72114,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.6/5 (243 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum-roll-on",
+   "inciMatchedName": "Hair Growth Serum Concentrate Roll-On | 30ml (name match 100%)",
+   "listingIngredientLine": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence); caffeine (#12 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.6★ from 243 ratings"
   },
@@ -71937,7 +72154,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -71945,25 +72164,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Growth Serum Concentrate Roll-On | 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.78,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -92007,15 +92261,16 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Caffeine + Rice water + Redensyl",
   "featureLine": "Roll-on · ₹2990/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); caffeine high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.5
   },
   "fullSpec": {
@@ -92033,11 +92288,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.8/5 (6 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: 3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum-roll-on",
+   "inciMatchedName": "Hair Growth Serum Concentrate Roll-On | 30ml (name match 100%)",
+   "listingIngredientLine": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence); caffeine (#12 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "3.8★ from 6 ratings"
   },
@@ -92074,7 +92332,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -92082,25 +92342,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin & Rice Water",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/hair-growth-serum-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Growth Serum Concentrate Roll-On | 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Glycerine, Fermented Rice Water, Anagain, Redensyl, Baicapil, Cetrimonium Chloride, Plant Keratin, Rosemary Extract, Saw Palmetto, Caffeine, Biotin, Oryza Sativa (Rice) Extract (and) Sodium DNA (and) 1,2-Hexandiol (and) Aqua, Ethyl Hexyl Glycerine, Xanthan Gum, Vitamin E, Cocamidopropyl Betaine, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.78,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -107703,15 +107998,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Anagain + Rosemary",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "pisum sativum sprout extract high on the INCI list (limited evidence); rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 6.7
   },
   "fullSpec": {
@@ -107729,11 +108025,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (1,490 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rosemary-hair-growth-scalp-serum-50-ml",
+   "inciMatchedName": "Rosemary Hair Growth Scalp Serum with 95% Pure Rosemary Oil Extract & 4% Anagain - 50 ml (name match 100%)",
+   "inciList": "Aqua, Propylene Glycol, Pisum Sativum (Pea) Sprout Extract, Polyquaternium-73, Ocimum Basilicum Hairy Root (Sweet Basil) Culture Extract, Glycerin, Nasturtium Officinale (Watercress) Extract, Tropaeolum Majus (Nasturtium) Extract, Niacinamide, D-Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Trigonella Foenum Graecum (Fenugreek) Seed Extract, Allantoin, Phenoxyethanol, Sodium Benzoate, Caffeine, Hydroxyethyl Cellulose",
+   "evidenceActives": "pisum sativum sprout extract (#3 on list, limited evidence); rosmarinus officinalis leaf extract (#11 on list, limited evidence); caffeine (#16 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Bio Avenues (An ISO 9001:2015 Certified Co.) D-29, Industrial Focal Point, Derabassi, Punjab, India - 140507 M. : 143-Cos.-Pb. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 1,490 ratings"
@@ -107757,7 +108055,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -107765,25 +108065,70 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rosemary-hair-growth-scalp-serum-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rosemary Hair Growth Scalp Serum with 95% Pure Rosemary Oil Extract & 4% Anagain - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Pisum Sativum (Pea) Sprout Extract, Polyquaternium-73, Ocimum Basilicum Hairy Root (Sweet Basil) Culture Extract, Glycerin, Nasturtium Officinale (Watercress) Extract, Tropaeolum Majus (Nasturtium) Extract, Niacinamide, D-Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Trigonella Foenum Graecum (Fenugreek) Seed Extract, Allantoin, Phenoxyethanol, Sodium Benzoate, Caffeine, Hydroxyethyl Cellulose",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "pisum sativum sprout extract",
+     "grade": "C",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -107804,15 +108149,15 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Wash / cleanser",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 3.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 7
   },
   "fullSpec": {
@@ -107830,11 +108175,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (2,536 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Piroctone olamine, Prebiotic, Salicylic Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciMatchedName": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic (name match 76%)",
+   "listingIngredientLine": "Piroctone olamine, Prebiotic, Salicylic Acid (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 2,536 ratings"
@@ -107859,7 +108207,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -107867,25 +108217,44 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Piroctone olamine, Prebiotic, Salicylic Acid",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "dandruffIndia"
+    }
+   ],
+   "support": [
+    "sodium pca"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -224262,8 +224631,8 @@ const NXPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
-   "inciSourceUrl": "https://bareanatomy.com/products/rosemary-rice-water-hair-growth-spray-pack-of-2",
-   "inciMatchedName": "Rosemary & Rice Water Hair Growth Spray For Hair Growth and Thickness - 200 ml | Pack of 2 (name match 93%)",
+   "inciSourceUrl": "https://bareanatomy.com/products/rosemary-rice-water-hair-growth-spray",
+   "inciMatchedName": "Rosemary & Rice Water | Hair Growth Spray - 200 ml (name match 93%)",
    "inciList": "Purified Water, Rosmarinus Officinalis (Rosemary) Extract, Propanediol, Propylene Glycol, Oryza Sativa (Rice) Bran Extract, Glycerin, Rosmarinus Officinalis (Rosemary) Leaf Oil, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Polysorbate 20, Sodium Gluconate, Sodium Benzoate, Phenoxyethanol, Citric Acid",
    "evidenceActives": "rosmarinus officinalis leaf oil (#7 on list, moderate evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
@@ -224314,9 +224683,9 @@ const NXPRODUCTS = [
    "inci": "full",
    "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://bareanatomy.com/products/rosemary-rice-water-hair-growth-spray-pack-of-2",
+   "inciSourceUrl": "https://bareanatomy.com/products/rosemary-rice-water-hair-growth-spray",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Rosemary & Rice Water Hair Growth Spray For Hair Growth and Thickness - 200 ml | Pack of 2",
+   "inciMatchedTitle": "Rosemary & Rice Water | Hair Growth Spray - 200 ml",
    "inciMatchScore": 0.93,
    "inciText": "Purified Water, Rosmarinus Officinalis (Rosemary) Extract, Propanediol, Propylene Glycol, Oryza Sativa (Rice) Bran Extract, Glycerin, Rosmarinus Officinalis (Rosemary) Leaf Oil, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Polysorbate 20, Sodium Gluconate, Sodium Benzoate, Phenoxyethanol, Citric Acid",
    "inciUnverified": null,
@@ -230632,15 +231001,15 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Glycolic acid + Hyaluronic acid + Ceramides",
   "featureLine": "Toner · ₹283/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.3,
+   "skin": 10,
+   "trust": 8,
    "experience": 3.8
   },
   "fullSpec": {
@@ -230658,11 +231027,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/7-glycolic-acid-hydrating-toner-with-glycolic-acid-hyaluronic-acid-for-gentle-exfoliation-150-ml",
+   "inciMatchedName": "7% Glycolic Acid Hydrating Toner with Glycolic Acid & Hyaluronic Acid For Gentle Exfoliation - 150 ml (name match 92%)",
+   "inciList": "Purified Water, Glycolic Acid, Triethanolamine, Glycerine, Sodium Hyaluronate, Hordeum vulgare Seed Extract, Aloe vera Juice, Phenoxyethanol, Ethylhexylglycerine, Allantoin, Hydroxyethylcellulose, Laminaria Digitata Extract & Cetyl-PG Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Olea Europaea (Olive) Leaf Extract, Xylitylglucoside, Anhydroxylitol and Xylitol",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -230690,7 +231061,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -230698,25 +231071,45 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/7-glycolic-acid-hydrating-toner-with-glycolic-acid-hyaluronic-acid-for-gentle-exfoliation-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "7% Glycolic Acid Hydrating Toner with Glycolic Acid & Hyaluronic Acid For Gentle Exfoliation - 150 ml",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Glycolic Acid, Triethanolamine, Glycerine, Sodium Hyaluronate, Hordeum vulgare Seed Extract, Aloe vera Juice, Phenoxyethanol, Ethylhexylglycerine, Allantoin, Hydroxyethylcellulose, Laminaria Digitata Extract & Cetyl-PG Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Olea Europaea (Olive) Leaf Extract, Xylitylglucoside, Anhydroxylitol and Xylitol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -250762,15 +251155,15 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + Piroctone olamine",
   "featureLine": "Serum · Fragrance-free · ₹467/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -250788,11 +251181,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciMatchedName": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic (name match 100%)",
+   "inciList": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -250827,7 +251222,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -250835,25 +251232,44 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "dandruffIndia"
+    }
+   ],
+   "support": [
+    "sodium pca"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -270482,15 +270898,16 @@ const NXPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Serum · ₹439/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.5,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -270508,11 +270925,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciMatchedName": "collagen lifter serum 40ml (name match 88%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl alcohol, geraniol, coumarin, hexyl cinnamal (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -270542,7 +270961,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -270550,27 +270970,87 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter serum 40ml",
+   "inciMatchScore": 0.88,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.85,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "coumarin",
+      "hexyl cinnamal"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -271270,16 +271750,18 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Serum · ₹998/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -271297,11 +271779,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bareanatomy.com/products/anti-dandruff-serum",
+   "inciMatchedName": "Advanced Anti-Dandruff Serum  With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml (name match 100%)",
+   "inciList": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#14 on list, limited evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -271330,7 +271814,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -271338,27 +271823,82 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bareanatomy.com/products/anti-dandruff-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Dandruff Serum  With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "teaTreeDandruff"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -305110,15 +305650,16 @@ const NXPRODUCTS = [
   "capacityLine": "40 ml",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Serum · ₹673/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.5,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -305136,11 +305677,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciMatchedName": "collagen lifter serum 40ml (name match 88%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl alcohol, geraniol, coumarin, hexyl cinnamal (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -305170,7 +305713,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -305178,27 +305722,87 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter serum 40ml",
+   "inciMatchScore": 0.88,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.85,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "coumarin",
+      "hexyl cinnamal"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -322145,16 +322749,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Rosemary",
   "featureLine": "Mist / spray · Paraben-free · ₹284/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sanfe official website (sanfe.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.1,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -322172,11 +322778,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sanfe official website (sanfe.in) — product page › Ingredients",
+   "inciSourceUrl": "https://sanfe.in/products/sanfe-anti-hairfall-rosemary-water-spray",
+   "inciMatchedName": "Sanfe 5% Rosemary Anti Hairfall Spray - 100ml (name match 100%)",
+   "inciList": "Aqua, Zemea Propanediol, Propylene Glycol, Rosemary Extract, Glycerine, PEG-12 Dimethicone, EDTA",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#4 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -322209,7 +322817,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -322217,25 +322827,44 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sanfe official website (sanfe.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://sanfe.in/products/sanfe-anti-hairfall-rosemary-water-spray",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sanfe 5% Rosemary Anti Hairfall Spray - 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Zemea Propanediol, Propylene Glycol, Rosemary Extract, Glycerine, PEG-12 Dimethicone, EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

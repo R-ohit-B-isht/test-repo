@@ -42045,15 +42045,16 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "PHA",
   "featureLine": "Toner · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9.7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -42071,13 +42072,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-pha-toner-200ml",
+   "inciMatchedName": "Alltimate Pha Toner 200ml (name match 100%)",
+   "inciList": "Water/Eau, Propanediol, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Urea, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Dipropylene Glycol, Tromethamine, Carnitine, Allantoin, Salicylic Acid, Sodium Polyacrylate, Hydrolyzed Hyaluronic Acid, Citric Acid, Serine, Arginine, Dipotassium Glycyrrhizate, Gluconolactone, Beta-Glucan",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); glycerin (#7 on list, strong evidence); allantoin (#11 on list, limited evidence); salicylic acid (#12 on list, strong evidence); gluconolactone (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #4 on INCI, dipotassium glycyrrhizate #18 on INCI; Irritation — beta-glucan #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41QxRsTLWWL._SL1000_.jpg",
@@ -42107,7 +42111,12 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -42115,25 +42124,103 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-pha-toner-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Alltimate Pha Toner 200ml",
+   "inciMatchScore": 1,
+   "inciText": "Water/Eau, Propanediol, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Urea, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Dipropylene Glycol, Tromethamine, Carnitine, Allantoin, Salicylic Acid, Sodium Polyacrylate, Hydrolyzed Hyaluronic Acid, Citric Acid, Serine, Arginine, Dipotassium Glycyrrhizate, Gluconolactone, Beta-Glucan",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "hydrolyzed hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -42823,16 +42910,18 @@ const NXPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Glycolic acid + Lactic acid + Strawberry",
   "featureLine": "Scrub · ₹180/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.8,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -42850,11 +42939,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/namyaa-body-scrub-with-10-aha-bha-200g",
+   "inciMatchedName": "Namyaa Body Scrub with 10% AHA BHA 200g (name match 100%)",
+   "inciList": "Aqua, Triethanolamine, Caprylic/Capric Triglyceride, Glycolic Acid, Lactic Acid, Glycerin, Pumice scrub, Cetearyl Alcohol, Glyceryl Stearate (and) PEG-100 Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Cetyl Alcohol, Phenoxyethanol (and) Ethylhexylglycerin, Decyl Glucoside, Kaolin, Salicylic Acid, Allantoin, Fragrance (Parfum), Disodium EDTA",
+   "evidenceActives": "glycolic acid (#4 on list, strong evidence); lactic acid (#5 on list, strong evidence); glycerin (#6 on list, strong evidence); salicylic acid (#19 on list, strong evidence); allantoin (#20 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -42879,7 +42970,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -42887,27 +42979,88 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/namyaa-body-scrub-with-10-aha-bha-200g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Namyaa Body Scrub with 10% AHA BHA 200g",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Triethanolamine, Caprylic/Capric Triglyceride, Glycolic Acid, Lactic Acid, Glycerin, Pumice scrub, Cetearyl Alcohol, Glyceryl Stearate (and) PEG-100 Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Cetyl Alcohol, Phenoxyethanol (and) Ethylhexylglycerin, Decyl Glucoside, Kaolin, Salicylic Acid, Allantoin, Fragrance (Parfum), Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -47306,15 +47459,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
   "featureLine": "Other · ₹2877/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -47332,13 +47486,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-30ml",
+   "inciMatchedName": "25% AHA, 2% BHA, 5% PHA Peeling Solution, 30ml (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); glycerin (#5 on list, strong evidence); gluconolactone (#7 on list, moderate evidence); salicylic acid (#8 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence); panthenol (#21 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uw5UTvWXL._SL1500_.jpg",
@@ -47375,7 +47532,11 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -47383,25 +47544,95 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "25% AHA, 2% BHA, 5% PHA Peeling Solution, 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

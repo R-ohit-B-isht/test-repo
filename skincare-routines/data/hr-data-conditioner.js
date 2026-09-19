@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -4877,18 +4877,20 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Argan oil + Avocado",
   "featureLine": "Conditioner",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "cetrimonium chloride high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.5★ from 1,013 ratings"
   ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6,
+   "skin": 6.1,
+   "trust": 5.5,
    "experience": 7.7
   },
   "fullSpec": {
@@ -4906,11 +4908,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (1,013 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Argan Oil, Murumuru, Plant Protein, Avocado Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/hair-care-conditioner",
+   "inciMatchedName": "Collagen & Argan Oil Hair Care Conditioner For Dry & Damaged Hair - 250 ml (name match 85%)",
+   "listingIngredientLine": "Argan Oil, Murumuru, Plant Protein, Avocado Oil (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Aloe Barbadensis (Aloe) Leaf Extract, Cetyl Alcohol, Cetearyl Alcohol, Cetearyl Olivate (and) Sorbitan Olivate, Heptyl Undecylenate, Cetrimonium Chloride, Glycerin, Polyquaternium 73, Behentrimonium Chloride, Cocamidopropyl PG-Dimonium Chloride, Orbignya Speciosa Kernel Oil (and) Astrocaryum Murumuru Fruit Extract, Linoleic acid and Linolenic acid (Vit F), Niacinamide (Vit B3), Panthenol (Vit B5), Tocopheryl acetate (Vit E), Biotin (Vit B7), Persea Gratissima (Avocado) Oil, Rosmarinus officinalis (Rosemary) leaf oil, Argania Spinosa (Argan) Kernel Oil, Cedrus deodora (Cedar) Wood Oil, Mentha Piperita (Peppermint) Oil, Guar Hydroxypropyltrimonium Chloride, Polyquaternium 10, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Hydrolyzed Collagen, Pisum Sativum (Pea) Peptide, Glycyrrhiza Glabra (Licorice) Root Extract, Perfume, Disodium EDTA",
+   "evidenceActives": "cetrimonium chloride (#8 on list, moderate evidence); glycerin (#9 on list, strong evidence); behentrimonium chloride (#11 on list, moderate evidence); panthenol (#18 on list, limited evidence); argania spinosa kernel oil (#23 on list, limited evidence); guar hydroxypropyltrimonium chloride (#26 on list, moderate evidence); polyquaternium-10 (#27 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Health Star Naturals Pvt Ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.5★ from 1,013 ratings"
@@ -4936,7 +4941,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -4944,27 +4950,116 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Argan Oil, Murumuru, Plant Protein, Avocado Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/hair-care-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Collagen & Argan Oil Hair Care Conditioner For Dry & Damaged Hair - 250 ml",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Aloe Barbadensis (Aloe) Leaf Extract, Cetyl Alcohol, Cetearyl Alcohol, Cetearyl Olivate (and) Sorbitan Olivate, Heptyl Undecylenate, Cetrimonium Chloride, Glycerin, Polyquaternium 73, Behentrimonium Chloride, Cocamidopropyl PG-Dimonium Chloride, Orbignya Speciosa Kernel Oil (and) Astrocaryum Murumuru Fruit Extract, Linoleic acid and Linolenic acid (Vit F), Niacinamide (Vit B3), Panthenol (Vit B5), Tocopheryl acetate (Vit E), Biotin (Vit B7), Persea Gratissima (Avocado) Oil, Rosmarinus officinalis (Rosemary) leaf oil, Argania Spinosa (Argan) Kernel Oil, Cedrus deodora (Cedar) Wood Oil, Mentha Piperita (Peppermint) Oil, Guar Hydroxypropyltrimonium Chloride, Polyquaternium 10, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Hydrolyzed Collagen, Pisum Sativum (Pea) Peptide, Glycyrrhiza Glabra (Licorice) Root Extract, Perfume, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil",
+      "mentha piperita oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -5147,15 +5242,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Rosemary",
   "featureLine": "Conditioner",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 3 ingredients named — formula unscored"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 5.6,
+   "skin": 8.1,
+   "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
@@ -5173,11 +5271,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (11,555 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Spanish Rosemary, Rosemary Leaf Oil, Biotin",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/spanish-rosemary-biotin-anti-hairfall-conditioner",
+   "inciMatchedName": "Spanish Rosemary & Biotin Anti-Hairfall Conditioner (name match 100%)",
+   "listingIngredientLine": "Spanish Rosemary, Rosemary Leaf Oil, Biotin (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Lauryl Glucoside, Acrylates Copolymer, Glycerin, Coco-Glucoside, Sodium Cocoyl Glycinate, Dimethicone, Laureth- 4, Laureth- 23, Polyquaternium-44, Polyquaternium-22, Phenoxyethanol, Ethylhexylglycerin, Ethylene Glycol Distearate, Sodium Gluconate, Sodium Hydroxide, Biotin, Rosmarinus Officinalis (Rosemary) Leaf Oil, Perfume",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); dimethicone (#9 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "declaredManufacturer": "Naturis Cosmetics Pvt. Ltd, 1-EPIP, SIDCO Industrial Complex, Bari Brahmana, Jammu (J&K), India - 181133 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 11,555 ratings"
@@ -5201,7 +5302,8 @@ const HAIRPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -5209,27 +5311,82 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Spanish Rosemary, Rosemary Leaf Oil, Biotin",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/spanish-rosemary-biotin-anti-hairfall-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Spanish Rosemary & Biotin Anti-Hairfall Conditioner",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Lauryl Glucoside, Acrylates Copolymer, Glycerin, Coco-Glucoside, Sodium Cocoyl Glycinate, Dimethicone, Laureth- 4, Laureth- 23, Polyquaternium-44, Polyquaternium-22, Phenoxyethanol, Ethylhexylglycerin, Ethylene Glycol Distearate, Sodium Gluconate, Sodium Hydroxide, Biotin, Rosmarinus Officinalis (Rosemary) Leaf Oil, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "acrylates copolymer",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -60684,17 +60841,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + Coconut + Milk",
   "featureLine": "Conditioner",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); amodimethicone high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.4★ from 2,447 ratings"
   ],
   "cons": [
-   "Only 2 ingredients named — formula unscored"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.9,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 7.9
   },
   "fullSpec": {
@@ -60712,11 +60870,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (2,447 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Coconut Milk, Peptides",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-conditioner-strengthens-hair-enhances-hairs-shine-100-vegan-makes-hair-soft-prevents-hair-breakage",
+   "inciMatchedName": "Coconut Milk & Peptides Conditioner For Soft & Shiny Hair (name match 100%)",
+   "listingIngredientLine": "Coconut Milk, Peptides (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Isopropyl Alcohol, Amodimethicone, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Extract, Pisum Sativum (Pea) Peptide, Glycerin, Glycosphingolipids, Xanthan Gum, Squalane, Phenoxyethanol, Ethylhexylglycerin, Phenyl Trimethicone, Fragrance, Butylated Hydroxytoluene, Disodium EDTA, Citric Acid",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); amodimethicone (#5 on list, moderate evidence); cocos nucifera oil (#6 on list, moderate evidence); butyrospermum parkii butter (#7 on list, limited evidence); glycerin (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "declaredManufacturer": "Pritam International Pvt. Ltd., Raipur, Uttarakhand - 247667. M. L. No. 10/C/UA/2013 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 2,447 ratings"
@@ -60742,7 +60903,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -60750,27 +60912,82 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Coconut Milk, Peptides",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-conditioner-strengthens-hair-enhances-hairs-shine-100-vegan-makes-hair-soft-prevents-hair-breakage",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Coconut Milk & Peptides Conditioner For Soft & Shiny Hair",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Isopropyl Alcohol, Amodimethicone, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Extract, Pisum Sativum (Pea) Peptide, Glycerin, Glycosphingolipids, Xanthan Gum, Squalane, Phenoxyethanol, Ethylhexylglycerin, Phenyl Trimethicone, Fragrance, Butylated Hydroxytoluene, Disodium EDTA, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin",
+    "squalane"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -125888,7 +126105,7 @@ const HAIRPRODUCTS = [
   "model": "ALOROSE CONDITIONER SHMAPOO FOR STRONG & SILKY HAIRS PACK OF 100ml x 4",
   "price": 678,
   "capacityLine": "100 ml",
-  "materialLine": "Biotin + Peppermint / menthol",
+  "materialLine": "Menthol + Biotin + Peppermint / menthol",
   "featureLine": "Conditioner · ₹678/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -125908,7 +126125,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹678/100ml",
    "format": "Conditioner",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Biotin, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Menthol, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Shine / gloss (seller claim — not clinical proof)",
@@ -125942,6 +126159,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:conditioner",
+   "ing:menthol",
    "ing:biotin",
    "ing:peppermint-menthol",
    "concern:dandruff",
@@ -132384,18 +132602,20 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Argan oil",
   "featureLine": "Conditioner · Paraben-free",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Herbal Essences official website (herbalessences.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "behentrimonium methosulfate high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)",
    "Well-reviewed: 4.4★ from 3,170 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol, benzyl benzoate",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.2,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 8.1
   },
   "fullSpec": {
@@ -132413,11 +132633,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.4/5 (3,170 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Herbal Essences official website (herbalessences.com) — product page › Ingredients",
+   "inciSourceUrl": "https://herbalessences.com/en-us/our-products/argan-oil-paraben-free-repair-conditioner/",
+   "inciMatchedName": "argan oil paraben free repair conditioner (name match 95%)",
+   "inciList": "Ingredients/ingrédients: WATER, STEARYL ALCOHOL, BEHENTRIMONIUM METHOSULFATE, CAMELLIA OLEIFERA SEED OIL, ALOE BARBADENSIS LEAF JUICE, ARGANIA SPINOSA KERNEL OIL, HISTIDINE, CETYL ALCOHOL, FRAGRANCE, BIS-AMINOPROPYL DIMETHICONE, BENZYL ALCOHOL, DICETYLDIMONIUM CHLORIDE, OLEIC ACID, SODIUM BENZOATE, DISODIUM EDTA, CITRIC ACID, BENZYL BENZOATE, HEXYL CINNAMAL, LIMONENE",
+   "evidenceActives": "behentrimonium methosulfate (#3 on list, moderate evidence); argania spinosa kernel oil (#6 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol, benzyl benzoate, hexyl cinnamal, limonene (−1.2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 3,170 ratings"
   },
@@ -132442,7 +132664,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -132450,27 +132673,66 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Herbal Essences official website (herbalessences.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://herbalessences.com/en-us/our-products/argan-oil-paraben-free-repair-conditioner/",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "argan oil paraben free repair conditioner",
+   "inciMatchScore": 0.95,
+   "inciText": "Ingredients/ingrédients: WATER, STEARYL ALCOHOL, BEHENTRIMONIUM METHOSULFATE, CAMELLIA OLEIFERA SEED OIL, ALOE BARBADENSIS LEAF JUICE, ARGANIA SPINOSA KERNEL OIL, HISTIDINE, CETYL ALCOHOL, FRAGRANCE, BIS-AMINOPROPYL DIMETHICONE, BENZYL ALCOHOL, DICETYLDIMONIUM CHLORIDE, OLEIC ACID, SODIUM BENZOATE, DISODIUM EDTA, CITRIC ACID, BENZYL BENZOATE, HEXYL CINNAMAL, LIMONENE",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium methosulfate",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol",
+      "benzyl benzoate",
+      "hexyl cinnamal",
+      "limonene"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -132602,18 +132864,20 @@ const HAIRPRODUCTS = [
   "capacityLine": "251 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Conditioner · ₹424/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moroccanoil official website (in.moroccanoil.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); stearamidopropyl dimethylamine high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.4★ from 8 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: butylphenyl methylpropional, hydroxyisohexyl 3-cyclohexene carboxaldehyde",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.2,
+   "skin": 5.8,
+   "trust": 5.5,
    "experience": 4.5
   },
   "fullSpec": {
@@ -132631,11 +132895,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (8 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moroccanoil official website (in.moroccanoil.com) — product page › Ingredients",
+   "inciSourceUrl": "https://in.moroccanoil.com/products/moisture-repair-conditioner",
+   "inciMatchedName": "Moisture Repair Conditioner (name match 98%)",
+   "inciList": "AQUA/WATER/EAU, BEHENTRIMONIUM CHLORIDE, CETEARYL ALCOHOL, STEARAMIDOPROPYL DIMETHYLAMINE, PPG-3 BENZYL ETHER MYRISTATE, PEG-40 CASTOR OIL, GLYCERIN, ISOPROPYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROLYZED VEGETABLE PROTEIN PG-PROPYL SILANETRIOL, ARGANIA SPINOSA (ARGAN) KERNEL OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, PERSEA GRATISSIMA (AVOCADO) OIL, KERATIN AMINO ACIDS, HYDROLYZED KERATIN, SODIUM PCA, SILK AMINO ACIDS, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF EXTRACT, LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, AMODIMETHICONE, TRIDECETH-12, C11-15 PARETH-7, LAURETH-9, PANTHENOL, PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE, PPG-1 TRIDECETH-6, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-37, PROPYLENE GLYCOL, CINNAMIDOPROPYLTRIMONIUM CHLORIDE, DISODIUM EDTA, PARFUM/FRAGRANCE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, CITRIC ACID, CI 19140 (YELLOW 5), CI 17200 (RED 33), SODIUM BENZOATE, POTASSIUM SORBATE, BUTYLPHENYL METHYLPROPIONAL, HYDROXYISOHEXYL 3-CYCLOHEXENE CARBOXALDEHYDE, LINALOOL, ALPHA- ISOMETHYL IONONE. MOMRC01",
+   "evidenceActives": "behentrimonium chloride (#2 on list, moderate evidence); stearamidopropyl dimethylamine (#4 on list, moderate evidence); glycerin (#7 on list, strong evidence); cetrimonium chloride (#9 on list, moderate evidence); argania spinosa kernel oil (#11 on list, limited evidence); hydrolyzed keratin (#15 on list, limited evidence); amodimethicone (#21 on list, moderate evidence); panthenol (#24 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: butylphenyl methylpropional, hydroxyisohexyl 3-cyclohexene carboxaldehyde, linalool (−0.9)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 8 ratings"
   },
@@ -132659,7 +132925,8 @@ const HAIRPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -132667,27 +132934,133 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moroccanoil official website (in.moroccanoil.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://in.moroccanoil.com/products/moisture-repair-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Moisture Repair Conditioner",
+   "inciMatchScore": 0.98,
+   "inciText": "AQUA/WATER/EAU, BEHENTRIMONIUM CHLORIDE, CETEARYL ALCOHOL, STEARAMIDOPROPYL DIMETHYLAMINE, PPG-3 BENZYL ETHER MYRISTATE, PEG-40 CASTOR OIL, GLYCERIN, ISOPROPYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROLYZED VEGETABLE PROTEIN PG-PROPYL SILANETRIOL, ARGANIA SPINOSA (ARGAN) KERNEL OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, PERSEA GRATISSIMA (AVOCADO) OIL, KERATIN AMINO ACIDS, HYDROLYZED KERATIN, SODIUM PCA, SILK AMINO ACIDS, ROSMARINUS OFFICINALIS (ROSEMARY) LEAF EXTRACT, LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, AMODIMETHICONE, TRIDECETH-12, C11-15 PARETH-7, LAURETH-9, PANTHENOL, PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE, PPG-1 TRIDECETH-6, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-37, PROPYLENE GLYCOL, CINNAMIDOPROPYLTRIMONIUM CHLORIDE, DISODIUM EDTA, PARFUM/FRAGRANCE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, CITRIC ACID, CI 19140 (YELLOW 5), CI 17200 (RED 33), SODIUM BENZOATE, POTASSIUM SORBATE, BUTYLPHENYL METHYLPROPIONAL, HYDROXYISOHEXYL 3-CYCLOHEXENE CARBOXALDEHYDE, LINALOOL, ALPHA- ISOMETHYL IONONE. MOMRC01",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "butylphenyl methylpropional",
+      "hydroxyisohexyl 3-cyclohexene carboxaldehyde",
+      "linalool"
+     ],
+     "penalty": 0.9,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -134824,15 +135197,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Keratin",
   "featureLine": "Conditioner · Silicone-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "guar hydroxypropyltrimonium chloride high on the INCI list (moderate evidence); panthenol high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.5,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -134850,11 +135225,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/patua-keratin-hair-smoothing-conditioner",
+   "inciMatchedName": "Patuá & Keratin Hair Smoothening Conditioner (name match 87%)",
+   "inciList": "Aqua, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Cetyl Alcohol, Isoamyl Laurate, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Steareth 21, Prunus Amygdalus Dulcis (Sweet Almond ) Oil, Fragrance, Phenoxyethanol and Ethylhexylglycerine, Guar Hydroxypropyltrimonium chloride, Panthenol, Dicocoyl Pentaerythrityl Distearyl Citrate, Polyquaternium-7, Sodium PCA, Cocamidopropyl Betaine, Disodium Ethylenediaminetetraacetate, Pentaerythrityl Tetra-Di-t-Butyl Hydroxyhydrocinnamate, Argania Spinosa kernel oil, Hydrolyzed Plukenetia Volubilis seed Extract, Oenocarpus Bataua Fruit Oil, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Citric Acid",
+   "evidenceActives": "guar hydroxypropyltrimonium chloride (#13 on list, moderate evidence); panthenol (#14 on list, limited evidence); polyquaternium-7 (#16 on list, moderate evidence); argania spinosa kernel oil (#21 on list, limited evidence); hydrolyzed keratin (#24 on list, limited evidence); hydrolyzed wheat protein (#25 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -134877,7 +135254,8 @@ const HAIRPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -134885,27 +135263,97 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/patua-keratin-hair-smoothing-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Patuá & Keratin Hair Smoothening Conditioner",
+   "inciMatchScore": 0.87,
+   "inciText": "Aqua, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Cetyl Alcohol, Isoamyl Laurate, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Steareth 21, Prunus Amygdalus Dulcis (Sweet Almond ) Oil, Fragrance, Phenoxyethanol and Ethylhexylglycerine, Guar Hydroxypropyltrimonium chloride, Panthenol, Dicocoyl Pentaerythrityl Distearyl Citrate, Polyquaternium-7, Sodium PCA, Cocamidopropyl Betaine, Disodium Ethylenediaminetetraacetate, Pentaerythrityl Tetra-Di-t-Butyl Hydroxyhydrocinnamate, Argania Spinosa kernel oil, Hydrolyzed Plukenetia Volubilis seed Extract, Oenocarpus Bataua Fruit Oil, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-7",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "sodium pca"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -135577,16 +136025,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Argan oil + Lavender",
   "featureLine": "Conditioner · Paraben-free · ₹169/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -135604,11 +136054,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/argan-oil-and-lavender-paraben-free-anti-frizz-conditioner-200ml",
+   "inciMatchedName": "Argan Oil & Lavender Conditioner - 200 ml (name match 87%)",
+   "inciList": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cocos Nucifera(coconut) Oil, perfume, 1,2-Hexanediol, Benzyl Alcohol Disodium Edta, Acrylates/Beheneth-25 Methacrylate Copolymer, Argania Spinosa Kernel Oil, Lavandula Aungustilfoia (Lavender) Oil, Sodium Hydroxide",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); cocos nucifera oil (#4 on list, moderate evidence); argania spinosa kernel oil (#9 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -135630,7 +136082,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -135638,27 +136091,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/argan-oil-and-lavender-paraben-free-anti-frizz-conditioner-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Argan Oil & Lavender Conditioner - 200 ml",
+   "inciMatchScore": 0.87,
+   "inciText": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cocos Nucifera(coconut) Oil, perfume, 1,2-Hexanediol, Benzyl Alcohol Disodium Edta, Acrylates/Beheneth-25 Methacrylate Copolymer, Argania Spinosa Kernel Oil, Lavandula Aungustilfoia (Lavender) Oil, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -138683,15 +139171,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "180 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Conditioner · ₹115/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -138709,11 +139200,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/extraordinary-oil/extraordinary-oil-conditioner-180ml",
+   "inciMatchedName": "extraordinary oil conditioner 180ml (name match 92%)",
+   "inciList": "Water Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Ci 19140, Ci 14700, Ci 42090, Coconut Oil, Phenoxyethanol, Olive Fruit Oil, Argania Spinosa Kernel Oil, Trideceth-6, Chlorhexidine Digluconate, Limonene, Camelina Sativa Seed Oil, Jojoba Seed Oil, Benzyl Salicylate, Benzyl Alcohol, Linalool, Amodimethicone, Isopropyl Alcohol, Fragrance, Citric Acid, Cetrimonium Chloride, Sweet Almond Oil, Hexyl Cinnamal",
+   "evidenceActives": "behentrimonium chloride (#2 on list, moderate evidence); cocos nucifera oil (#7 on list, moderate evidence); argania spinosa kernel oil (#10 on list, limited evidence); amodimethicone (#19 on list, moderate evidence); cetrimonium chloride (#23 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, benzyl salicylate, benzyl alcohol, linalool, hexyl cinnamal (−1.5)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -138733,7 +139226,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -138741,27 +139235,99 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/extraordinary-oil/extraordinary-oil-conditioner-180ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "extraordinary oil conditioner 180ml",
+   "inciMatchScore": 0.92,
+   "inciText": "Water Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Ci 19140, Ci 14700, Ci 42090, Coconut Oil, Phenoxyethanol, Olive Fruit Oil, Argania Spinosa Kernel Oil, Trideceth-6, Chlorhexidine Digluconate, Limonene, Camelina Sativa Seed Oil, Jojoba Seed Oil, Benzyl Salicylate, Benzyl Alcohol, Linalool, Amodimethicone, Isopropyl Alcohol, Fragrance, Citric Acid, Cetrimonium Chloride, Sweet Almond Oil, Hexyl Cinnamal",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "linalool",
+      "hexyl cinnamal"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -143372,16 +143938,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "175 ml",
   "materialLine": "Argan oil + Keratin",
   "featureLine": "Conditioner · Paraben-free · ₹113/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (TRESemmé official website (www.tresemme.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, benzyl salicylate",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.9,
+   "skin": 4.8,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -143399,11 +143968,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "TRESemmé official website (www.tresemme.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.tresemme.in/products/tresemme-keratin-smooth-conditioner",
+   "inciMatchedName": "TRESemmé Keratin Smooth Conditioner (name match 92%)",
+   "inciList": "Water, Cetearyl Alcohol, Dimethicone and Amodimethicone and PEG-7 Propylheptyl Ether and Cetrimonium Chloride, Behentrimonium Chloride, Perfume, Stearamidopropyl Dimethylamine, Sodium Chloride, Lactic Acid, Disodium EDTA, Hydrolyzed Keratin, Argania Spinosa Kernel (Argan) Oil, Methylchloroisothiazolinone and Methylisothiazolinone, Linalool, Benzyl salicylate, Citronellol, Alpha-Isomethyl Ionone, Hexyl Cinnamal",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); amodimethicone (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); behentrimonium chloride (#7 on list, moderate evidence); stearamidopropyl dimethylamine (#9 on list, moderate evidence); hydrolyzed keratin (#13 on list, limited evidence); argania spinosa kernel oil (#14 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: linalool, benzyl salicylate, citronellol, alpha-isomethyl ionone, hexyl cinnamal (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -143428,7 +143999,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -143436,27 +144008,127 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "TRESemmé official website (www.tresemme.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.tresemme.in/products/tresemme-keratin-smooth-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "TRESemmé Keratin Smooth Conditioner",
+   "inciMatchScore": 0.92,
+   "inciText": "Water, Cetearyl Alcohol, Dimethicone and Amodimethicone and PEG-7 Propylheptyl Ether and Cetrimonium Chloride, Behentrimonium Chloride, Perfume, Stearamidopropyl Dimethylamine, Sodium Chloride, Lactic Acid, Disodium EDTA, Hydrolyzed Keratin, Argania Spinosa Kernel (Argan) Oil, Methylchloroisothiazolinone and Methylisothiazolinone, Linalool, Benzyl salicylate, Citronellol, Alpha-Isomethyl Ionone, Hexyl Cinnamal",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "benzyl salicylate",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "hexyl cinnamal"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 0.8,
+     "src": "sccsMi"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -151166,15 +151838,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "175 ml",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Conditioner · ₹161/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: linalool, benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.8,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 1.6
   },
   "fullSpec": {
@@ -151192,11 +151867,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-conditioner-175ml",
+   "inciMatchedName": "collagen lifter conditioner 175ml (name match 92%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, LACTIC ACID, SODIUM LAURETH SULFATE, SODIUM HYDROXIDE, SODIUM LACTATE, PHENOXYETHANOL, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LINALOOL, BENZYL ALCOHOL, AMODIMETHICONE, ISOPROPYL ALCOHOL, GERANYL ACETATE, GERANIOL, CARBOMER, CETRIMONIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALE NES, BUTYLENE GLYCOL, HEXYL CINNAMAL",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence); behentrimonium chloride (#5 on list, moderate evidence); amodimethicone (#18 on list, moderate evidence); cetrimonium chloride (#23 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: linalool, benzyl alcohol, geraniol, hexyl cinnamal (−1.2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3.9★ from 0 ratings"
   },
@@ -151216,7 +151893,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -151224,27 +151902,94 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-conditioner-175ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter conditioner 175ml",
+   "inciMatchScore": 0.92,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, LACTIC ACID, SODIUM LAURETH SULFATE, SODIUM HYDROXIDE, SODIUM LACTATE, PHENOXYETHANOL, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LINALOOL, BENZYL ALCOHOL, AMODIMETHICONE, ISOPROPYL ALCOHOL, GERANYL ACETATE, GERANIOL, CARBOMER, CETRIMONIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALE NES, BUTYLENE GLYCOL, HEXYL CINNAMAL",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "hexyl cinnamal"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -166024,16 +166769,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "335 ml",
   "materialLine": "Argan oil + Keratin",
   "featureLine": "Conditioner · Paraben-free · ₹83/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (TRESemmé official website (www.tresemme.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, benzyl salicylate",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.9,
+   "skin": 4.8,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -166051,11 +166799,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "TRESemmé official website (www.tresemme.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.tresemme.in/products/tresemme-keratin-smooth-conditioner-340ml",
+   "inciMatchedName": "TRESemmé Keratin Smooth Conditioner - 335ml (name match 92%)",
+   "inciList": "Water, Cetearyl Alcohol, Dimethicone and Amodimethicone and PEG-7 Propylheptyl Ether and Cetrimonium Chloride, Behentrimonium Chloride, Perfume, Stearamidopropyl Dimethylamine, Sodium Chloride, Lactic Acid, Disodium EDTA, Hydrolyzed Keratin, Argania Spinosa Kernel (Argan) Oil, Methylchloroisothiazolinone and Methylisothiazolinone, Linalool, Benzyl salicylate, Citronellol, Alpha-Isomethyl Ionone, Hexyl Cinnamal",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); amodimethicone (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); behentrimonium chloride (#7 on list, moderate evidence); stearamidopropyl dimethylamine (#9 on list, moderate evidence); hydrolyzed keratin (#13 on list, limited evidence); argania spinosa kernel oil (#14 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: linalool, benzyl salicylate, citronellol, alpha-isomethyl ionone, hexyl cinnamal (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -166080,7 +166830,8 @@ const HAIRPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -166088,27 +166839,127 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "TRESemmé official website (www.tresemme.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.tresemme.in/products/tresemme-keratin-smooth-conditioner-340ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "TRESemmé Keratin Smooth Conditioner - 335ml",
+   "inciMatchScore": 0.92,
+   "inciText": "Water, Cetearyl Alcohol, Dimethicone and Amodimethicone and PEG-7 Propylheptyl Ether and Cetrimonium Chloride, Behentrimonium Chloride, Perfume, Stearamidopropyl Dimethylamine, Sodium Chloride, Lactic Acid, Disodium EDTA, Hydrolyzed Keratin, Argania Spinosa Kernel (Argan) Oil, Methylchloroisothiazolinone and Methylisothiazolinone, Linalool, Benzyl salicylate, Citronellol, Alpha-Isomethyl Ionone, Hexyl Cinnamal",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "benzyl salicylate",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "hexyl cinnamal"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 0.8,
+     "src": "sccsMi"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -166844,15 +167695,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "340 ml",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Conditioner · ₹126/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: linalool, benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.8,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 1.6
   },
   "fullSpec": {
@@ -166870,11 +167724,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-conditioner-175ml",
+   "inciMatchedName": "collagen lifter conditioner 175ml (name match 92%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, LACTIC ACID, SODIUM LAURETH SULFATE, SODIUM HYDROXIDE, SODIUM LACTATE, PHENOXYETHANOL, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LINALOOL, BENZYL ALCOHOL, AMODIMETHICONE, ISOPROPYL ALCOHOL, GERANYL ACETATE, GERANIOL, CARBOMER, CETRIMONIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALE NES, BUTYLENE GLYCOL, HEXYL CINNAMAL",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence); behentrimonium chloride (#5 on list, moderate evidence); amodimethicone (#18 on list, moderate evidence); cetrimonium chloride (#23 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: linalool, benzyl alcohol, geraniol, hexyl cinnamal (−1.2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3.9★ from 0 ratings"
   },
@@ -166895,7 +167751,8 @@ const HAIRPRODUCTS = [
    "size:xl",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -166903,27 +167760,94 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-conditioner-175ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter conditioner 175ml",
+   "inciMatchScore": 0.92,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, LACTIC ACID, SODIUM LAURETH SULFATE, SODIUM HYDROXIDE, SODIUM LACTATE, PHENOXYETHANOL, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LINALOOL, BENZYL ALCOHOL, AMODIMETHICONE, ISOPROPYL ALCOHOL, GERANYL ACETATE, GERANIOL, CARBOMER, CETRIMONIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALE NES, BUTYLENE GLYCOL, HEXYL CINNAMAL",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "hexyl cinnamal"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -166942,16 +167866,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + Avocado",
   "featureLine": "Leave-in",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethiconol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl salicylate, citronellol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.1,
+   "skin": 5.2,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -166969,11 +167896,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/lbp-avocado-oil-peptide-waves-leave-in-conditioner",
+   "inciMatchedName": "Avocado Oil & Peptide Waves Leave-In Conditioner (name match 100%)",
+   "inciList": "Aqua, C11-13 Isoalkane (And) Isohexadecane (And) Dimethiconol, C15-19 Alkane, Propylene Glycol, Acrylates Copolymer, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Vp/VA Copolymer, Fragrance, Persea Gratissima (Avocado) Oil^, Avena Sativa (Oat) Peptide, Lactic ACID, Ammonium Hydroxide, Pentylene Glycol, 1,2-hexanediol, Caprylyl Glycol, Disodium Edta, Phenoxyethanol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool",
+   "evidenceActives": "dimethiconol (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl salicylate, citronellol, geraniol, hexyl cinnamal, limonene, linalool (−1.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings"
   },
@@ -166995,7 +167924,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -167003,27 +167933,76 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/lbp-avocado-oil-peptide-waves-leave-in-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Avocado Oil & Peptide Waves Leave-In Conditioner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C11-13 Isoalkane (And) Isohexadecane (And) Dimethiconol, C15-19 Alkane, Propylene Glycol, Acrylates Copolymer, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Vp/VA Copolymer, Fragrance, Persea Gratissima (Avocado) Oil^, Avena Sativa (Oat) Peptide, Lactic ACID, Ammonium Hydroxide, Pentylene Glycol, 1,2-hexanediol, Caprylyl Glycol, Disodium Edta, Phenoxyethanol, Benzyl Salicylate, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "acrylates copolymer",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "vp/va copolymer",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "citronellol",
+      "geraniol",
+      "hexyl cinnamal",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1.8,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -178956,7 +179935,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Leave In Conditioner 100ml with Polyglutamic Acid | 100H Hydration, Frizz Con…",
   "price": 345,
   "capacityLine": "100 ml",
-  "materialLine": "Hyaluronic acid",
+  "materialLine": "Hyaluronic acid + Polyglutamic acid",
   "featureLine": "Leave-in · Paraben-free · ₹345/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -178975,7 +179954,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹345/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Washes out easily, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
@@ -179013,6 +179992,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:texture-spray",
    "ing:hyaluronic-acid",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -179645,16 +180625,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "300 ml",
   "materialLine": "Shea butter",
   "featureLine": "Conditioner · ₹531/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Beauty Garage official website (beautygarage.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); cetrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -179672,11 +180654,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Beauty Garage official website (beautygarage.com) — product page › Ingredients",
+   "inciSourceUrl": "https://beautygarage.com/products/shea-curl-conditioner-for-curly-hair",
+   "inciMatchedName": "Shea Wavy Curl Conditioner (name match 82%)",
+   "inciList": "Aqua, Cetyl alcohol, Isopropyl myristate, Glycerin, Simmondsia chinensis seed oil, Hydrogenated ethylhexyl olivate, Hydrogenated olive oil unsaponifiables, Aloe barbadensis leaf juice, Fragrance, Cetrimonium chloride, Sodium benzoate, Calendula officinalis flower oil, Olea europaea fruit oil, Butyrospermum parkii butter, Vitis vinifera seed oil, Zingiber officinale root, Citric acid, Rosmarinus officinalis leaf extract, Benzophenone-3, Hydrolyzed wheat protein, Polyurethane-14, Hydrolyzed keratin",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); cetrimonium chloride (#10 on list, moderate evidence); butyrospermum parkii butter (#14 on list, limited evidence); hydrolyzed wheat protein (#20 on list, limited evidence); hydrolyzed keratin (#22 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -179698,7 +180682,8 @@ const HAIRPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -179706,27 +180691,97 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Beauty Garage official website (beautygarage.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beautygarage.com/products/shea-curl-conditioner-for-curly-hair",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Shea Wavy Curl Conditioner",
+   "inciMatchScore": 0.82,
+   "inciText": "Aqua, Cetyl alcohol, Isopropyl myristate, Glycerin, Simmondsia chinensis seed oil, Hydrogenated ethylhexyl olivate, Hydrogenated olive oil unsaponifiables, Aloe barbadensis leaf juice, Fragrance, Cetrimonium chloride, Sodium benzoate, Calendula officinalis flower oil, Olea europaea fruit oil, Butyrospermum parkii butter, Vitis vinifera seed oil, Zingiber officinale root, Citric acid, Rosmarinus officinalis leaf extract, Benzophenone-3, Hydrolyzed wheat protein, Polyurethane-14, Hydrolyzed keratin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "rosemary"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -182079,15 +183134,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Conditioner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -182105,11 +183163,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/extraordinary-oil/extraordinary-oil-conditioner-180ml",
+   "inciMatchedName": "extraordinary oil conditioner 180ml (name match 88%)",
+   "inciList": "Water Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Ci 19140, Ci 14700, Ci 42090, Coconut Oil, Phenoxyethanol, Olive Fruit Oil, Argania Spinosa Kernel Oil, Trideceth-6, Chlorhexidine Digluconate, Limonene, Camelina Sativa Seed Oil, Jojoba Seed Oil, Benzyl Salicylate, Benzyl Alcohol, Linalool, Amodimethicone, Isopropyl Alcohol, Fragrance, Citric Acid, Cetrimonium Chloride, Sweet Almond Oil, Hexyl Cinnamal",
+   "evidenceActives": "behentrimonium chloride (#2 on list, moderate evidence); cocos nucifera oil (#7 on list, moderate evidence); argania spinosa kernel oil (#10 on list, limited evidence); amodimethicone (#19 on list, moderate evidence); cetrimonium chloride (#23 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, benzyl salicylate, benzyl alcohol, linalool, hexyl cinnamal (−1.5)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -182127,7 +183187,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -182135,27 +183196,99 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/extraordinary-oil/extraordinary-oil-conditioner-180ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "extraordinary oil conditioner 180ml",
+   "inciMatchScore": 0.88,
+   "inciText": "Water Cetearyl Alcohol, Behentrimonium Chloride, Cetyl Esters, Ci 19140, Ci 14700, Ci 42090, Coconut Oil, Phenoxyethanol, Olive Fruit Oil, Argania Spinosa Kernel Oil, Trideceth-6, Chlorhexidine Digluconate, Limonene, Camelina Sativa Seed Oil, Jojoba Seed Oil, Benzyl Salicylate, Benzyl Alcohol, Linalool, Amodimethicone, Isopropyl Alcohol, Fragrance, Citric Acid, Cetrimonium Chloride, Sweet Almond Oil, Hexyl Cinnamal",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "linalool",
+      "hexyl cinnamal"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -192143,16 +193276,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "190 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Conditioner · ₹129/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Revlon official website (revlon.com, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); behentrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum",
+   "EU-declared fragrance allergen: benzyl alcohol, alpha-isomethyl ionone",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 6,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -192170,11 +193306,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Revlon official website (revlon.com, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://revlon.com/products/colorsilk-after-color-conditioner",
+   "inciMatchedName": "ColorSilk™ After Color Conditioner (name match 82%)",
+   "inciList": "Aqua/Water/Eau Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Bis-Hydroxy/Methoxy Amodimethicone, Citric Acid, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxypropylammonium Gluconate, Hydroxypropylgluconamide, Is,opropyl Alcohol, Parfum (Fragrance), Benzyl Alcohol, Phenoxyethanol, Sodium Benzoate, Tartaric Acid, Alpha-Isomethyl Ionone, Hexamethylindanopyran. B06839",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); behentrimonium chloride (#3 on list, moderate evidence); hydrolyzed soy protein (#7 on list, limited evidence); hydrolyzed wheat protein (#8 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−0.8); EU-declared fragrance allergen: benzyl alcohol, alpha-isomethyl ionone (−0.6)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -192192,7 +193330,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -192200,27 +193339,82 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Revlon official website (revlon.com, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://revlon.com/products/colorsilk-after-color-conditioner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "ColorSilk™ After Color Conditioner",
+   "inciMatchScore": 0.82,
+   "inciText": "Aqua/Water/Eau Cetearyl Alcohol, Glycerin, Behentrimonium Chloride, Bis-Hydroxy/Methoxy Amodimethicone, Citric Acid, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Hydrolyzed Wheat Protein, Hydroxypropylammonium Gluconate, Hydroxypropylgluconamide, Is,opropyl Alcohol, Parfum (Fragrance), Benzyl Alcohol, Phenoxyethanol, Sodium Benzoate, Tartaric Acid, Alpha-Isomethyl Ionone, Hexamethylindanopyran. B06839",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed soy protein",
+     "grade": "C",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol",
+      "alpha-isomethyl ionone"
+     ],
+     "penalty": 0.6,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -212708,15 +213902,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "175 g",
   "materialLine": "Peptides + Coconut + Milk",
   "featureLine": "Conditioner · ₹177/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -212734,11 +213930,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-conditioner-strengthens-hair-enhances-hairs-shine-100-vegan-makes-hair-soft-prevents-hair-breakage",
+   "inciMatchedName": "Coconut Milk & Peptides Conditioner For Soft & Shiny Hair (name match 100%)",
+   "inciList": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Isopropyl Alcohol, Amodimethicone, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Extract, Pisum Sativum (Pea) Peptide, Glycerin, Glycosphingolipids, Xanthan Gum, Squalane, Phenoxyethanol, Ethylhexylglycerin, Phenyl Trimethicone, Fragrance, Butylated Hydroxytoluene, Disodium EDTA, Citric Acid",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); amodimethicone (#5 on list, moderate evidence); cocos nucifera oil (#6 on list, moderate evidence); butyrospermum parkii butter (#7 on list, limited evidence); glycerin (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -212763,7 +213961,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -212771,27 +213970,82 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-conditioner-strengthens-hair-enhances-hairs-shine-100-vegan-makes-hair-soft-prevents-hair-breakage",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Coconut Milk & Peptides Conditioner For Soft & Shiny Hair",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Cetearyl Alcohol, Behentrimonium Chloride, Isopropyl Alcohol, Amodimethicone, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Extract, Pisum Sativum (Pea) Peptide, Glycerin, Glycosphingolipids, Xanthan Gum, Squalane, Phenoxyethanol, Ethylhexylglycerin, Phenyl Trimethicone, Fragrance, Butylated Hydroxytoluene, Disodium EDTA, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin",
+    "squalane"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -214147,16 +215401,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Argan oil + Lavender",
   "featureLine": "Conditioner · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -214174,11 +215430,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/argan-oil-and-lavender-paraben-free-anti-frizz-conditioner-400ml",
+   "inciMatchedName": "Argan Oil & Lavender Conditioner - 400 ml (name match 94%)",
+   "inciList": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cocos Nucifera(coconut) Oil, perfume, 1,2-Hexanediol, Benzyl Alcohol Disodium Edta, Acrylates/Beheneth-25 Methacrylate Copolymer, Argania Spinosa Kernel Oil, Lavandula Aungustilfoia (Lavender) Oil, Sodium Hydroxide",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); cocos nucifera oil (#4 on list, moderate evidence); argania spinosa kernel oil (#9 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -214201,7 +215459,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -214209,27 +215468,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/argan-oil-and-lavender-paraben-free-anti-frizz-conditioner-400ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Argan Oil & Lavender Conditioner - 400 ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Water, Cetearyl Alcohol, Behentrimonium Chloride, Cocos Nucifera(coconut) Oil, perfume, 1,2-Hexanediol, Benzyl Alcohol Disodium Edta, Acrylates/Beheneth-25 Methacrylate Copolymer, Argania Spinosa Kernel Oil, Lavandula Aungustilfoia (Lavender) Oil, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -215508,7 +216802,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Leave In Conditioner 50ml with Polyglutamic Acid | 100H Hydration, Frizz Cont…",
   "price": 172,
   "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Polyglutamic acid",
   "featureLine": "Leave-in · Paraben-free · ₹344/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -215527,7 +216821,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹344/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Heat protection (seller claim — not clinical proof)",
@@ -215557,6 +216851,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "format:leave-in",
    "format:heat-protectant",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:dryness",
    "concern:heat-protection",
@@ -220655,16 +221950,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Shea butter + Keratin",
   "featureLine": "Conditioner · ₹532/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Earth Collective official website (theearthcollective.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (limited evidence); behentrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -220682,11 +221979,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Earth Collective official website (theearthcollective.in) — product page › Ingredients",
+   "inciSourceUrl": "https://theearthcollective.in/products/co-wash",
+   "inciMatchedName": "Co-Wash | Best Cleansing Conditioner for Curly, Dry, & Frizzy Hair | Ideal for Swimmers & Fitness Enthusiasts (name match 100%)",
+   "inciList": "Hydroxypropyl Starch Phosphate, Shea Butter, Veg Keratin – Aqua, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Cetostearyl Alcohol, Amodimethicone & Cetrimonium Chloride & Trideceth-12, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Decyl Glucoside, Phenoxyethanol & Ethyl Hexyl Glycerine, D Panthenol, Polyquaternium 10, Disodium Edetate, Water, Fragrance",
+   "evidenceActives": "shea butter (#2 on list, limited evidence); behentrimonium chloride (#12 on list, moderate evidence); glycerin (#13 on list, strong evidence); polyquaternium-10 (#17 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -220713,7 +222012,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -220721,27 +222021,73 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Earth Collective official website (theearthcollective.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theearthcollective.in/products/co-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Co-Wash | Best Cleansing Conditioner for Curly, Dry, & Frizzy Hair | Ideal for Swimmers & Fitness Enthusiasts",
+   "inciMatchScore": 1,
+   "inciText": "Hydroxypropyl Starch Phosphate, Shea Butter, Veg Keratin – Aqua, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Cetostearyl Alcohol, Amodimethicone & Cetrimonium Chloride & Trideceth-12, Cetyl Alcohol, Behentrimonium Chloride, Glycerin, Decyl Glucoside, Phenoxyethanol & Ethyl Hexyl Glycerine, D Panthenol, Polyquaternium 10, Disodium Edetate, Water, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -220760,16 +222106,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Ginseng",
   "featureLine": "Leave-in · Sulfate/SLS-free · ₹479/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -220787,11 +222135,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/weightless-leave-in-conditioner",
+   "inciMatchedName": "Weightless Leave-In Conditioner (name match 100%)",
+   "inciList": "Purified Water, Cetostearyl Alcohol, Behentrimonium Chloride, Medium Chain Triglyceride, Quaternium-91, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol, Cetrimonium Methosulfate, Butyrospermum Parkii (Shea) Butter, Polyquaternium-11, Polyquaternium-7, Panax Ginseng Extract, Polyquaternium-10, Sodium Gluconate, Theobroma Grandiflorum (Cupuacu) Seed Butter, Tocopheryl Acetate, Saccharide Isomerate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin, PG-Hydroxyethylcellulose Cocodimonium Chloride, Lactobacillus/Tomato Fruit Ferment Extract, Oryza Sativa (Rice) Seed Extract, Keratin Amino Acids, Leuconostoc Radish Root Ferment Filtrate, Citric Acid, Sodium Citrate, Acyl Coenzyme A Desaturase",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); butyrospermum parkii butter (#9 on list, limited evidence); polyquaternium-7 (#11 on list, moderate evidence); polyquaternium-10 (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -220814,7 +222164,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -220822,27 +222173,80 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/weightless-leave-in-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Weightless Leave-In Conditioner",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cetostearyl Alcohol, Behentrimonium Chloride, Medium Chain Triglyceride, Quaternium-91, Mangifera Indica (Mango) Seed Butter, Phenoxyethanol, Cetrimonium Methosulfate, Butyrospermum Parkii (Shea) Butter, Polyquaternium-11, Polyquaternium-7, Panax Ginseng Extract, Polyquaternium-10, Sodium Gluconate, Theobroma Grandiflorum (Cupuacu) Seed Butter, Tocopheryl Acetate, Saccharide Isomerate, Linum Usitatissimum (Flax) Seed Extract, Salvia Hispanica (Chia) Seed Extract, Fragrance, Ethylhexylglycerin, PG-Hydroxyethylcellulose Cocodimonium Chloride, Lactobacillus/Tomato Fruit Ferment Extract, Oryza Sativa (Rice) Seed Extract, Keratin Amino Acids, Leuconostoc Radish Root Ferment Filtrate, Citric Acid, Sodium Citrate, Acyl Coenzyme A Desaturase",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-11",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "polyquaternium-7",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

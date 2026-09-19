@@ -28754,6 +28754,465 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-43oxr6",
+  "brand": "Deconstruct",
+  "model": "Hyaluronic Acid Hydrating Face Wash - 0.5% Amino Acids + 0.1% Hyaluronic acid",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Hyaluronic acid",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/hyaluronic-acid-hydrating-face-wash",
+   "inciMatchedName": "Hyaluronic Acid Hydrating Face Wash - 0.5% Amino Acids + 0.1% Hyaluronic acid (name match 100%)",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Sodium Methyl 2-Sulfolaurate (and) Disodium 2-Sulfolaurate, Glycerin Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Maltooligosyl Glucoside (and) Hydrogenated Starch Hydrolysate, Sodium PCA (and) Panthenol (and) Glycerin (and) Sodium Hyaluronate (and) Proline (and) Hydroxyproline, Sodium PCA, Caprylic Capric Triglyceride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Silica, Phenoxyethanol, Ethylhexylglycerin,Betaine, Proline, Serine, Inositol, Sodium Gluconate, Hyaluronic Acid",
+   "evidenceActives": "panthenol (#12 on list, moderate evidence); glycerin (#13 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #12 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-10.webp?v=1779362110"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/hyaluronic-acid-hydrating-face-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Hyaluronic Acid Hydrating Face Wash - 0.5% Amino Acids + 0.1% Hyaluronic acid",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/hyaluronic-acid-hydrating-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hyaluronic Acid Hydrating Face Wash - 0.5% Amino Acids + 0.1% Hyaluronic acid",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Sodium Methyl 2-Sulfolaurate (and) Disodium 2-Sulfolaurate, Glycerin Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Maltooligosyl Glucoside (and) Hydrogenated Starch Hydrolysate, Sodium PCA (and) Panthenol (and) Glycerin (and) Sodium Hyaluronate (and) Proline (and) Hydroxyproline, Sodium PCA, Caprylic Capric Triglyceride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Silica, Phenoxyethanol, Ethylhexylglycerin,Betaine, Proline, Serine, Inositol, Sodium Gluconate, Hyaluronic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium methyl cocoyl taurate",
+    "sodium pca",
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-9shldu",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+   "inciMatchedName": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide (name match 100%)",
+   "inciList": "Aqua, Decyl Glucoside, Glycerin, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Xylitylglucoside, Anhydroxylitol, Xylitol,Sodium Cocoyl Isethionate, Salicylic Acid, Aloe Barbadensis Extract, Chamomilla Recutita Extract, PEG-120 Methyl Glucoside Dioleate,Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Sodium Gluconate, Menthyl lactate",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); salicylic acid (#10 on list, strong evidence); niacinamide (#13 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #10 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-22.webp?v=1779361975"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "claim:oil-control",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Decyl Glucoside, Glycerin, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Xylitylglucoside, Anhydroxylitol, Xylitol,Sodium Cocoyl Isethionate, Salicylic Acid, Aloe Barbadensis Extract, Chamomilla Recutita Extract, PEG-120 Methyl Glucoside Dioleate,Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Sodium Gluconate, Menthyl lactate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "decyl glucoside",
+    "glycerin",
+    "sodium lauroyl sarcosinate",
+    "sodium methyl cocoyl taurate",
+    "sodium cocoyl isethionate",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1vh7ysh",
+  "brand": "Deconstruct",
+  "model": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: menthol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.7,
+   "skin": 8.8,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+   "inciMatchedName": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Decyl Glucoside, Hydroxypropyl Starch Phosphate, Glyceryl stearate & PEG 100 Stearate, Stearic Acid, Glycol Distearate, Niacinamide, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Glycyrrhiza Glabra (Licorice) Root Extract, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum, 3-O- Ethyl Ascorbic Acid, Sodium Gluconate, Titanium Dioxide, Menthol, Triethanolamine, Citric Acid",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#10 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.3)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI, glycyrrhiza glabra root extract #14 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-2.webp?v=1779362558"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Decyl Glucoside, Hydroxypropyl Starch Phosphate, Glyceryl stearate & PEG 100 Stearate, Stearic Acid, Glycol Distearate, Niacinamide, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Glycyrrhiza Glabra (Licorice) Root Extract, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum, 3-O- Ethyl Ascorbic Acid, Sodium Gluconate, Titanium Dioxide, Menthol, Triethanolamine, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium cocoyl isethionate",
+    "glycerin",
+    "decyl glucoside",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-1c123ov",
   "brand": "The Derma Co",
   "model": "2.5% Benzoyl Peroxide Gel Face Wash with Glycerin & Allantoin for Active Acne - 100 ml (Pa…",

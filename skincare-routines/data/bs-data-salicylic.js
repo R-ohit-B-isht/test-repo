@@ -12606,6 +12606,1018 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-ks4v70",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Gel Sunscreen",
+  "price": 337,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-gel-sunscreen",
+   "inciMatchedName": "Salicylic Acid Gel Sunscreen (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Glyceryl Stearate & PEG-100 Stearate, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Salicylic Acid, Triethanolamine, Undecane (and) Tridecane, Sodium Carbomer, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Phenoxyethanol (and) Ethylhexylglycerin, Glyceryl Dibehenate, Hydrated Silica, Glycine Soja (Soybean) Oil (and) Daucus Carota Sativa (Carrot) Root Extract (and) Beta-Carotene (and) Tocopherol, Sodium Gluconate, Ectoin, Dehydroxanthan Gum, Carbomer, Chlorophyllin-Copper Complex",
+   "evidenceActives": "salicylic acid (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #18 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/lifestyle_salicy_ic_sunscreen_1.webp?v=1784633205"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/salicylic-acid-gel-sunscreen",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Gel Sunscreen",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "water:unstated",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Gel Sunscreen",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Glyceryl Stearate & PEG-100 Stearate, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Salicylic Acid, Triethanolamine, Undecane (and) Tridecane, Sodium Carbomer, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Phenoxyethanol (and) Ethylhexylglycerin, Glyceryl Dibehenate, Hydrated Silica, Glycine Soja (Soybean) Oil (and) Daucus Carota Sativa (Carrot) Root Extract (and) Beta-Carotene (and) Tocopherol, Sodium Gluconate, Ectoin, Dehydroxanthan Gum, Carbomer, Chlorophyllin-Copper Complex",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-9shldu",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+   "inciMatchedName": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide (name match 100%)",
+   "inciList": "Aqua, Decyl Glucoside, Glycerin, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Xylitylglucoside, Anhydroxylitol, Xylitol,Sodium Cocoyl Isethionate, Salicylic Acid, Aloe Barbadensis Extract, Chamomilla Recutita Extract, PEG-120 Methyl Glucoside Dioleate,Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Sodium Gluconate, Menthyl lactate",
+   "evidenceActives": "salicylic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #10 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-22.webp?v=1779361975"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "claim:oil-control",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Oil Control Face Wash | 2% Salicylic acid + 1.5% Niacinamide",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Decyl Glucoside, Glycerin, Sodium Lauroyl Sarcosinate, Sodium Methyl Cocoyl Taurate, Xylitylglucoside, Anhydroxylitol, Xylitol,Sodium Cocoyl Isethionate, Salicylic Acid, Aloe Barbadensis Extract, Chamomilla Recutita Extract, PEG-120 Methyl Glucoside Dioleate,Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Betaine, Sodium Gluconate, Menthyl lactate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1wvjzns",
+  "brand": "Deconstruct",
+  "model": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciMatchedName": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
+   "evidenceActives": "salicylic acid (#6 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #6 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Oil_Control_Serum_with_3__Niacinamide_2__Salicylic_Acid_With_Liposomal_Technology.webp?v=1782482394"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/pore-control-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "claim:oil-control",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-p955bk",
+  "brand": "Deconstruct",
+  "model": "Exfoliating AHA BHA PHA Serum with Liposomal Technology",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + AHA + PHA",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), AHA, PHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-aha-bha-pha-serum-with-liposomal-technology",
+   "inciMatchedName": "Exfoliating AHA BHA PHA Serum with Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, Lactic Acid, Camellia Sinensis Leaf Extract, Sodium Hydroxide, Pentylene Glycol, Glycolic Acid, Tartaric Acid, Mandelic Acid, Glucono delta lactone, 1,3 Butylene Glycol, PEG-8, Salicylic Acid, Isostearamidopropyl Ethyldimonium Ethosulfate, Sodium Hydroxide, Isostearamidopropyl Dimethylamine, Isostearic Acid, Propylene Glycol, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mannitol, Phosphatidylcholine, Glycerin, Glycolic Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Ceramide NP, Xanthan Gum, Sodium Chloride, Phenoxyethanol & Ethylhexyl glycerin, Hydroxyethylcellulose, Lactococcus ferment lysate, Sodium Metabisulphite, Vaccinium Angustifolium Extract, Disodium EDTA, Melaleuca Alternifolia Leaf Extract",
+   "evidenceActives": "mandelic acid (#8 on list, moderate evidence); salicylic acid (#12 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #12 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/AHA_BHA_PHA.png?v=1784633433"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/exfoliating-aha-bha-pha-serum-with-liposomal-technology",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Exfoliating AHA BHA PHA Serum with Liposomal Technology",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:pha",
+   "claim:exfoliating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-aha-bha-pha-serum-with-liposomal-technology",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating AHA BHA PHA Serum with Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Lactic Acid, Camellia Sinensis Leaf Extract, Sodium Hydroxide, Pentylene Glycol, Glycolic Acid, Tartaric Acid, Mandelic Acid, Glucono delta lactone, 1,3 Butylene Glycol, PEG-8, Salicylic Acid, Isostearamidopropyl Ethyldimonium Ethosulfate, Sodium Hydroxide, Isostearamidopropyl Dimethylamine, Isostearic Acid, Propylene Glycol, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mannitol, Phosphatidylcholine, Glycerin, Glycolic Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Ceramide NP, Xanthan Gum, Sodium Chloride, Phenoxyethanol & Ethylhexyl glycerin, Hydroxyethylcellulose, Lactococcus ferment lysate, Sodium Metabisulphite, Vaccinium Angustifolium Extract, Disodium EDTA, Melaleuca Alternifolia Leaf Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1ovs83t",
+  "brand": "Deconstruct",
+  "model": "Hydrocolloid Acne Pimple Patch with 2% Salicylic Acid & 0.2% Tea Tree Oil | 36 Patches, 3 …",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Tea tree + Hydrocolloid",
+  "featureLine": "Pimple patch",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Pimple patch",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Hydrocolloid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Pimple Patch (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/APP_listing.webp?v=1769876463"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/acne-pimple-patch",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Hydrocolloid Acne Pimple Patch with 2% Salicylic Acid & 0.2% Tea Tree Oil | 36 Patches, 3 Sizes",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:patch",
+   "ing:salicylic-acid-bha",
+   "ing:tea-tree",
+   "ing:hydrocolloid",
+   "claim:acne",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-12p08jd",
+  "brand": "Deconstruct",
+  "model": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+  "price": 449,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.8,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciMatchedName": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic (name match 100%)",
+   "inciList": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Scalp Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Anti_Dandruff_Serum_for_Scalp_-_0.5_Piroctone_Olamine_2_Salicylic_acid_1_Prebiotic.webp?v=1786102623"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "sodium pca"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1i9i3ao",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+  "price": 262,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.8,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciMatchedName": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Salicylic_Acid_Body_Wash.webp?v=1782482331"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+  "tags": [
+   "scope:body",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "claim:acne",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-gnj9wq",
   "brand": "The Derma Co",
   "model": "2% Sali-Cinamide Anti-Acne Face Wash with 2% Salicylic Acid & 2% Niacinamide - 200ml",

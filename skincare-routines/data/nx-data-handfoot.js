@@ -140778,18 +140778,19 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Lactic acid + Urea + Glycerin",
   "featureLine": "Roll-on · ₹460/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pokonut official website (pokonut.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.8★ from 88 ratings"
   ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 5.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 7.2
   },
   "fullSpec": {
@@ -140808,13 +140809,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.8/5 (88 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Urea (20%), Glycerin, Olive Oil, Lactic Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pokonut official website (pokonut.com) — product page › Ingredients",
+   "inciSourceUrl": "https://pokonut.com/products/stretch-mark-roll-on",
+   "inciMatchedName": "Stretch Mark Roll On (name match 77%)",
+   "listingIngredientLine": "Urea (20%), Glycerin, Olive Oil, Lactic Acid (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Aloe Barbadensis (Aloe Vera) Leaf Extract, Polysorbate 20, Glycerin, Caprylic/Capric Triglyceride, Cetostearyl Alcohol, Glyceryl Monostearate, Phenoxyethanol, Curcuma Longa (Turmeric) Extract, Fragrance, Glycyrrhiza Glabra (Licorice/Mulethi) Root Extract, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Adansonia Digitata (Baobab) Seed Oil, Butyrospermum Parkii (Shea) Butter, Ethylhexylglycerin, Rosa Rubiginosa (Rosehip) Seed Oil, Sodium Gluconate, Tocopheryl Acetate (Vitamin E), Astragalus Membranaceus Root Extract, Codonopsis Pilosula Extract, Sodium Hyaluronate (Hyaluronic Acid), Citric Acid, Sodium Benzoate, Potassium Sorbate, Copper Peptide",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); butyrospermum parkii butter (#15 on list, moderate evidence); tocopheryl acetate (#19 on list, moderate evidence); sodium hyaluronate (#22 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 88 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -140848,7 +140853,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -140856,27 +140863,98 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Urea (20%), Glycerin, Olive Oil, Lactic Acid",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Pokonut official website (pokonut.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://pokonut.com/products/stretch-mark-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Stretch Mark Roll On",
+   "inciMatchScore": 0.77,
+   "inciText": "Purified Water, Aloe Barbadensis (Aloe Vera) Leaf Extract, Polysorbate 20, Glycerin, Caprylic/Capric Triglyceride, Cetostearyl Alcohol, Glyceryl Monostearate, Phenoxyethanol, Curcuma Longa (Turmeric) Extract, Fragrance, Glycyrrhiza Glabra (Licorice/Mulethi) Root Extract, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Adansonia Digitata (Baobab) Seed Oil, Butyrospermum Parkii (Shea) Butter, Ethylhexylglycerin, Rosa Rubiginosa (Rosehip) Seed Oil, Sodium Gluconate, Tocopheryl Acetate (Vitamin E), Astragalus Membranaceus Root Extract, Codonopsis Pilosula Extract, Sodium Hyaluronate (Hyaluronic Acid), Citric Acid, Sodium Benzoate, Potassium Sorbate, Copper Peptide",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -221299,17 +221377,18 @@ const NXPRODUCTS = [
   "capacityLine": "120 ml (pack of 2)",
   "materialLine": "Lactic acid + Urea + Allantoin",
   "featureLine": "Cream · Sulfate/SLS-free · ₹348/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fixderma official website (fixderma.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "urea high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
    "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 8.5,
+   "skin": 8.5,
+   "trust": 10,
    "experience": 1.9
   },
   "fullSpec": {
@@ -221327,11 +221406,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fixderma official website (fixderma.com) — product page › Ingredients",
+   "inciSourceUrl": "https://fixderma.com/products/foot-cream-for-cracked-heels-copy",
+   "inciMatchedName": "Fixderma Foot Cream for Cracked Heels (name match 85%)",
+   "inciList": "Aqua, Urea, Lactic Acid, Emulsifying Wax, Petrolatum, Glycerol, Paraffinum Liquidum, Cetearyl Alcohol, Stearic Acid, Cyclopentasiloxane, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Menthol Crystals, Xanthan Gum, Disodium EDTA, Fragrance",
+   "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); petrolatum (#5 on list, strong evidence); paraffinum liquidum (#7 on list, moderate evidence); allantoin (#13 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -221367,7 +221448,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -221376,27 +221458,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fixderma official website (fixderma.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://fixderma.com/products/foot-cream-for-cracked-heels-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fixderma Foot Cream for Cracked Heels",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Urea, Lactic Acid, Emulsifying Wax, Petrolatum, Glycerol, Paraffinum Liquidum, Cetearyl Alcohol, Stearic Acid, Cyclopentasiloxane, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Menthol Crystals, Xanthan Gum, Disodium EDTA, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "urea",
+    "petrolatum"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Fixderma India (dermatology company)",
     "kind": "pharma",
@@ -242225,17 +242361,18 @@ const NXPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "Lactic acid + Urea + Allantoin",
   "featureLine": "Cream · Sulfate/SLS-free · ₹315/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fixderma official website (fixderma.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "urea high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
    "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 8.5,
+   "skin": 8.5,
+   "trust": 10,
    "experience": 1.9
   },
   "fullSpec": {
@@ -242253,11 +242390,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fixderma official website (fixderma.com) — product page › Ingredients",
+   "inciSourceUrl": "https://fixderma.com/products/foot-cream-for-cracked-heels-copy",
+   "inciMatchedName": "Fixderma Foot Cream for Cracked Heels (name match 85%)",
+   "inciList": "Aqua, Urea, Lactic Acid, Emulsifying Wax, Petrolatum, Glycerol, Paraffinum Liquidum, Cetearyl Alcohol, Stearic Acid, Cyclopentasiloxane, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Menthol Crystals, Xanthan Gum, Disodium EDTA, Fragrance",
+   "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); petrolatum (#5 on list, strong evidence); paraffinum liquidum (#7 on list, moderate evidence); allantoin (#13 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -242292,7 +242431,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -242301,27 +242441,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fixderma official website (fixderma.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://fixderma.com/products/foot-cream-for-cracked-heels-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fixderma Foot Cream for Cracked Heels",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Urea, Lactic Acid, Emulsifying Wax, Petrolatum, Glycerol, Paraffinum Liquidum, Cetearyl Alcohol, Stearic Acid, Cyclopentasiloxane, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Menthol Crystals, Xanthan Gum, Disodium EDTA, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "urea",
+    "petrolatum"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Fixderma India (dermatology company)",
     "kind": "pharma",

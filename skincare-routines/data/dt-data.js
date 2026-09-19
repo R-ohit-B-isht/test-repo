@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const DETANS = [
  {
@@ -462,15 +462,17 @@ const DETANS = [
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask · Paraben-free · ₹689/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 7.2
   },
   "fullSpec": {
@@ -487,11 +489,13 @@ const DETANS = [
    "skinType": "All Skin Types",
    "rating": "4.1/5 (40,504 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciMatchedName": "Skin Radiance De-Tan Mask (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
+   "evidenceActives": "lactic acid (#31 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 40,504 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -523,7 +527,8 @@ const DETANS = [
    "rating:4.0",
    "store:flipkart",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Mask",
@@ -535,27 +540,105 @@ const DETANS = [
    "natural": false,
    "freefrom": true,
    "exfoliating": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Radiance De-Tan Mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -11139,6 +11222,7 @@ const DETANS = [
    "ing:collagen",
    "ing:kojic-acid",
    "ing:milk",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -31461,6 +31545,7 @@ const DETANS = [
    "claim:de-tan",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -37699,7 +37784,8 @@ const DETANS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: hexyl cinnamal, linalool (−1); Harsh anionic surfactant (SLS/ALS): sodium lauryl sulfate (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/c/v/50-proffessional-d-tan-pack-for-instant-tan-removing-for-men-original-imahncqgrghpugdq.jpeg?q=90",
@@ -37716,6 +37802,7 @@ const DETANS = [
    "format:cream",
    "format:pack",
    "format:scrub",
+   "water:unstated",
    "ing:zinc",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -38588,7 +38675,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/w/p/100-oxy-de-tan-cream-tan-removal-skin-brightening-cream-for-even-original-imahhnn9fd4twsjb.jpeg?q=90",
@@ -38603,6 +38691,7 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -39148,7 +39237,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 24 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/c/h/200-detan-face-body-cream-200ml-removes-tan-dark-spots-brightens-original-imahm8sqtcwymcac.jpeg?q=90",
@@ -39164,6 +39254,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:turmeric",
    "ing:honey",
    "ing:vitamin-e",
@@ -40670,7 +40761,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 7 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/h/5/50-de-tan-glow-night-cream-natural-brightening-face-cream-with-original-imahpbseuzf3nqmg.jpeg?q=90",
@@ -40688,6 +40780,7 @@ const DETANS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -40794,7 +40887,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/8/50-de-tan-glow-night-cream-50g-skin-brightening-ubtan-night-original-imahph5gfshx9gar.jpeg?q=90",
@@ -40813,6 +40907,7 @@ const DETANS = [
    "format:scrub",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:rice-water",
    "ing:turmeric",
    "ing:saffron",
@@ -40920,7 +41015,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/i/q/50-de-tan-night-cream-for-men-women-glow-skin-cream-dr-brain-original-imahph5jm9v22bnw.jpeg?q=90",
@@ -40939,6 +41035,7 @@ const DETANS = [
    "format:scrub",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:rice-water",
    "ing:turmeric",
    "ing:saffron",
@@ -41048,7 +41145,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/p/50-de-tan-glow-night-cream-with-saffron-turmeric-licorice-for-original-imahpbrdmnchanfj.jpeg?q=90",
@@ -41066,6 +41164,7 @@ const DETANS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -41285,7 +41384,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/j/3/50-professional-care-d-tan-for-instant-tan-removing-and-dark-original-imahngvza2u5qhd8.jpeg?q=90",
@@ -41302,6 +41402,7 @@ const DETANS = [
    "format:cream",
    "format:scrub",
    "format:capsule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glutathione",
    "claim:brightening",
@@ -42135,7 +42236,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/4/3/400-de-tan-face-cream-daily-glow-face-cream-for-bright-skin-original-imahf6dgdggg9v7j.jpeg?q=90",
@@ -42153,6 +42255,7 @@ const DETANS = [
    "format:lotion",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -43991,7 +44094,8 @@ const DETANS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/s/o/200-de-tan-face-mask-for-skin-brightening-tan-removal-glowing-original-imahncybkuyhz4sz.jpeg?q=90",
@@ -44008,6 +44112,7 @@ const DETANS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:clay",
    "ing:glycerin",
    "claim:brightening",
@@ -46938,7 +47043,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/e/u/50-skinluxe-glow-de-tan-cream-reclaim-your-natural-radiance-quat-original-imahcdbfkazzqpgt.jpeg?q=90",
@@ -46955,6 +47061,7 @@ const DETANS = [
    "format:gel",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:green-tea",
@@ -47287,7 +47394,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 41 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/w/l/200-d-tan-massage-cream-face-body-tan-removing-brightening-original-imahn79wwfeyqgha.jpeg?q=90",
@@ -47302,6 +47410,7 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
@@ -47643,7 +47752,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/y/z/50-skin-brightening-ubtan-night-cream-50-g-myps-cream-original-imahpyghqemqj2fm.jpeg?q=90",
@@ -47659,6 +47769,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:peel",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:ubtan",
@@ -47765,7 +47876,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/d/e/50-khadi-detan-face-cream-reduces-tan-sun-damage-pigmentation-original-imahh8wypkwgjevw.jpeg?q=90",
@@ -47787,6 +47899,7 @@ const DETANS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:green-tea",
    "ing:rose",
@@ -48009,7 +48122,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/5/f/s/200-brazilian-bella-detan-pack-200g-cream-yana-original-imahndyhdunnwhta.jpeg?q=90",
@@ -48031,6 +48145,7 @@ const DETANS = [
    "format:peel",
    "format:powder",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -48142,7 +48257,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/7/m/7/200-brazilian-bella-detan-pack-tanning-removal-cream-for-face-original-imahndzcwptwayaa.jpeg?q=90",
@@ -48162,6 +48278,7 @@ const DETANS = [
    "format:peel",
    "format:powder",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -48270,7 +48387,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/e/g/v/200-bella-detan-face-pack-for-spot-reduction-fresh-polished-skin-original-imahnf39hpnmn4ja.jpeg?q=90",
@@ -48289,6 +48407,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -48751,7 +48870,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/e/z/5/200-brazilian-bella-detan-pack-full-body-whitening-cream-skin-original-imahndyh7qgmrr6w.jpeg?q=90",
@@ -48771,6 +48891,7 @@ const DETANS = [
    "format:peel",
    "format:powder",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -48878,7 +48999,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/d/f/m/200-brazilian-bella-detan-pack-tan-removal-cream-for-body-cream-original-imahndy3wrvkkrwe.jpeg?q=90",
@@ -48900,6 +49022,7 @@ const DETANS = [
    "format:powder",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -49007,7 +49130,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/j/e/b/200-brazilian-bella-detan-pack-skin-whitening-cream-body-original-imahndzcghrh3jyk.jpeg?q=90",
@@ -49029,6 +49153,7 @@ const DETANS = [
    "format:powder",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -49137,7 +49262,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/d/y/200-brazilian-bella-detan-pack-for-body-instant-result-cream-original-imahndzcseg4zgfx.jpeg?q=90",
@@ -49156,6 +49282,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -49385,7 +49512,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/l/a/e/200-brazilian-bella-detan-pack-tan-removal-cream-for-face-body-original-imahndzdyadftume.jpeg?q=90",
@@ -49407,6 +49535,7 @@ const DETANS = [
    "format:powder",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -49520,7 +49649,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/7/g/a/200-bella-detan-face-pack-for-spot-reduction-fresh-polished-skin-original-imahnf2hcmqqhdds.jpeg?q=90",
@@ -49539,6 +49669,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -51992,7 +52123,6 @@ const DETANS = [
    "format:peel-off",
    "format:pack",
    "format:peel",
-   "format:body-wax",
    "ing:kojic-acid",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -52700,7 +52830,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/8/u/r/200-brazilian-bella-detan-pack-tanning-removal-cream-for-women-original-imahndy33gvxtdrz.jpeg?q=90",
@@ -52719,6 +52850,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -52825,7 +52957,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/d/v/v/200-brazilian-bella-detan-pack-skin-whitening-cream-body-original-imahndyay75unkgd.jpeg?q=90",
@@ -52844,6 +52977,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -61199,7 +61333,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/z/3/100-instant-d-tan-korean-cream-for-smooth-bright-looking-skin-original-imahncm2c3mbv3v8.jpeg?q=90",
@@ -61215,6 +61350,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
@@ -61528,7 +61664,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/i/h/100-korean-detan-removal-cream-anti-tan-radiance-formula-womake-original-imahzmheehhqyfpk.jpeg?q=90",
@@ -61546,6 +61683,7 @@ const DETANS = [
    "format:lotion",
    "format:pack",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:de-tan",
@@ -61755,7 +61893,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 9 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/v/0/de-tan-cream-sun-tan-removal-for-brightens-skin-tone-newsio-original-imagzzt7qaxwanqk.jpeg?q=90",
@@ -61771,6 +61910,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "skin:all",
@@ -62914,7 +63054,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/q/g/100-korean-d-tan-cream-for-face-body-tan-removal-care-aasmp-original-imahpxs4gmpfmvah.jpeg?q=90"
@@ -62925,6 +63066,7 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -64099,7 +64241,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/l/r/200-0-korean-d-tan-removal-cream-face-skin-brightening-tan-original-imahnwss8kf4phfr.jpeg?q=90",
@@ -64118,6 +64261,7 @@ const DETANS = [
    "format:lotion",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:saffron",
    "ing:honey",
@@ -64566,7 +64710,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/f/s/400-de-tan-cream-for-face-body-tan-removal-cream-400-ml-wylco-original-imahgndfyyj6udas.jpeg?q=90",
@@ -64583,6 +64728,7 @@ const DETANS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:honey",
    "ing:glycerin",
@@ -66760,6 +66906,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -70256,15 +70403,17 @@ const DETANS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask · Paraben-free",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 7.2
   },
   "fullSpec": {
@@ -70281,11 +70430,13 @@ const DETANS = [
    "skinType": "All Skin Types",
    "rating": "4.1/5 (40,504 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciMatchedName": "Skin Radiance De-Tan Mask (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
+   "evidenceActives": "lactic acid (#31 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 40,504 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -70317,7 +70468,8 @@ const DETANS = [
    "rating:4.0",
    "store:flipkart",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Mask",
@@ -70329,27 +70481,105 @@ const DETANS = [
    "natural": true,
    "freefrom": true,
    "exfoliating": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Radiance De-Tan Mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -70477,15 +70707,17 @@ const DETANS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "ubtan",
   "featureLine": "Mask",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 7.2
   },
   "fullSpec": {
@@ -70502,11 +70734,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (40,504 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciMatchedName": "Skin Radiance De-Tan Mask (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
+   "evidenceActives": "lactic acid (#31 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Anaika Industry (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 40,504 ratings",
@@ -70531,7 +70765,8 @@ const DETANS = [
    "rating:4.0",
    "store:flipkart",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Mask",
@@ -70543,27 +70778,105 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Radiance De-Tan Mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -73274,7 +73587,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/v/k/f/550-de-tan-face-pack-orange-peel-multani-mitti-aloe-vera-powder-original-imah34yekqdchnr6.jpeg?q=90",
@@ -73294,6 +73608,7 @@ const DETANS = [
    "format:peel",
    "format:powder",
    "sun:mineral",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:clay",
    "ing:licorice",
@@ -84529,7 +84844,7 @@ const DETANS = [
  {
   "id": "trambex-itm1f3feaba152c9",
   "brand": "Trambex",
-  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali...more",
+  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Trambe…",
   "price": 88,
   "capacityLine": "250 ml",
   "materialLine": "glycolic acid + AHA/BHA",
@@ -84579,7 +84894,7 @@ const DETANS = [
   ],
   "buyUrl": "https://www.flipkart.com/trambex-7-aha-bha-exfoliating-body-wash-de-tan-glycolic-salicylic-acid-shower-gel/p/itm1f3feaba152c9",
   "buyStore": "Flipkart",
-  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali...more",
+  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -84647,7 +84962,7 @@ const DETANS = [
  {
   "id": "trambex-itm12ef14c23522a",
   "brand": "Trambex",
-  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali...more",
+  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid: Buy Trambex 7% AHA BH…",
   "price": 100,
   "capacityLine": "250 ml",
   "materialLine": "glycolic acid + AHA/BHA",
@@ -84694,7 +85009,7 @@ const DETANS = [
   ],
   "buyUrl": "https://www.flipkart.com/trambex-7-aha-bha-exfoliating-body-wash-de-tan-glycolic-salicylic-acid/p/itm12ef14c23522a",
   "buyStore": "Flipkart",
-  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali...more",
+  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid: Buy Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid at Low",
   "tags": [
    "scope:body",
    "format:wash",
@@ -91582,7 +91897,6 @@ const DETANS = [
    "format:essence",
    "format:peel",
    "format:wash",
-   "format:body-wax",
    "ing:lactic-acid",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -108551,7 +108865,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/x/y/de-tan-sun-protection-facial-kit-55gm-and-manicure-pedicure-kit-original-imah95nmffgkgzgz.jpeg?q=90",
@@ -108573,6 +108888,7 @@ const DETANS = [
    "format:kit",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aha",
    "ing:green-tea",
@@ -108674,7 +108990,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/8/z/55-de-tan-6-steps-facial-kit-for-women-for-tanning-and-sunburn-original-imahgvurtgmbs2yx.jpeg?q=90",
@@ -108690,6 +109007,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:resistant",
    "ing:rice-water",
    "ing:almond",
    "claim:de-tan",
@@ -114644,7 +114962,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/s/g/1000-de-tan-bleach-cream-with-activator-powder-natural-extracts-original-imahgbgqnvtzvswy.jpeg?q=90",
@@ -114663,6 +114982,7 @@ const DETANS = [
    "format:powder",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:de-tan",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -114757,7 +115077,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/w/b/l/de-tan-bleach-cream-with-activator-oxy-facial-kit-5-in-1-2-de-original-imagxhakkmmf4epe.jpeg?q=90",
@@ -114778,6 +115099,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:charcoal",
    "claim:de-tan",
@@ -115339,7 +115661,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/j/v/papaya-bleach-cream-with-activator-de-tan-facial-kit-5-in-1-2-original-imagxgz4yqdebfwh.jpeg?q=90",
@@ -115359,6 +115682,7 @@ const DETANS = [
    "format:scrub",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -116364,7 +116688,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/w/h/w/oxy-bleach-cream-with-activator-de-tan-facial-kit-5-in-1-2-oxy-original-imagxgz8tuycgqfq.jpeg?q=90",
@@ -116387,6 +116712,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -116596,7 +116922,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/p/w/s/de-tan-bleach-cream-with-activator-papaya-facial-kit-5-in-1-2-de-original-imagxmezabayu5ty.jpeg?q=90",
@@ -116616,6 +116943,7 @@ const DETANS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:papaya",
    "claim:brightening",
@@ -119209,7 +119537,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/i/v/haldi-chandan-bleach-cream-with-activator-de-tan-facial-kit-5-in-original-imagxgz6asfwjgtu.jpeg?q=90",
@@ -119230,6 +119559,7 @@ const DETANS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:turmeric",
    "ing:sandalwood",
@@ -123645,6 +123975,7 @@ const DETANS = [
    "format:powder",
    "format:wash",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -124005,6 +124336,7 @@ const DETANS = [
    "claim:whitening-claim",
    "claim:anti-aging",
    "claim:ayurvedic",
+   "claim:chapped-lips",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -126355,7 +126687,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/h/o/e/haldi-chandan-ubtan-face-pack-and-de-tan-face-pack-daily-original-imagxhkfhhxznmyh.jpeg?q=90",
@@ -126379,6 +126712,7 @@ const DETANS = [
    "spf:40",
    "pa:++++",
    "sun:hybrid",
+   "water:unstated",
    "ing:ceramides",
    "ing:turmeric",
    "ing:sandalwood",
@@ -142911,7 +143245,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/z/q/7/de-tan-face-body-scrub-450ml-de-tan-face-body-mask-glowing-skin-original-imahgj7tpbhhqezh.jpeg?q=90",
@@ -142934,6 +143269,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:de-tan",
@@ -145487,7 +145823,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/t/9/p/200-bella-detan-natural-face-pack-for-glowing-skin-removes-original-imahnf34vuf2pmrf.jpeg?q=90",
@@ -145506,6 +145843,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -145729,7 +146067,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/x/t/50-moisturising-korean-sunscreen-cream-40-afaraxia-original-imahngwedbavnasu.jpeg?q=90",
@@ -145748,6 +146087,7 @@ const DETANS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:probiotics",
@@ -145758,6 +146098,7 @@ const DETANS = [
    "claim:broad-spectrum",
    "claim:korean",
    "claim:spf-claim",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -147412,7 +147753,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 2 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/h/f/50-face-cream-anti-tan-sunburn-protection-50-nivaglow-original-imahmjtngzgjvkzt.jpeg?q=90",
@@ -147428,6 +147770,7 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "claim:de-tan",
    "claim:oil-control",
    "claim:hydrating",
@@ -147882,7 +148225,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/p/q/500-detan-cream-for-tan-removal-and-brightening-with-alpha-original-imaheegbmgnfewpb.jpeg?q=90",
@@ -147897,6 +148241,7 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:petrolatum",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -147959,7 +148304,7 @@ const DETANS = [
  {
   "id": "imfresh-itm5bf0422cc9f04",
   "brand": "imfresh",
-  "model": "Tan Out Exfoliating De Tan Body Serum Alpha-Arbutin + Vit...more",
+  "model": "Tan Out Exfoliating De Tan Body Serum Alpha-Arbutin + Vitamin C, For Arms & Neck 30 Tannin…",
   "price": 809,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C",
@@ -148005,7 +148350,7 @@ const DETANS = [
   ],
   "buyUrl": "https://www.flipkart.com/imfresh-tan-out-exfoliating-de-body-serum-alpha-arbutin-vitamin-c-arms-neck-30-tanning-liquid/p/itm5bf0422cc9f04",
   "buyStore": "Flipkart",
-  "title": "imfresh Tan Out Exfoliating De Tan Body Serum Alpha-Arbutin + Vit...more",
+  "title": "imfresh Tan Out Exfoliating De Tan Body Serum Alpha-Arbutin + Vitamin C, For Arms & Neck 30 Tanning Liquid",
   "tags": [
    "scope:body",
    "format:serum",
@@ -149355,7 +149700,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/6/v/50-sunscreen-for-tan-removal-full-body-all-skin-types-skin-original-imah3xrfbbn38mju.jpeg?q=90",
@@ -149373,6 +149719,7 @@ const DETANS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -149833,7 +150180,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/5/d/50-sunscreen-for-tan-removal-full-body-all-skin-types-skin-original-imah3xsaawetwuj3.jpeg?q=90",
@@ -149849,6 +150197,7 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:de-tan",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -149948,7 +150297,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/u/k/100-de-tan-whitening-body-lotion-remove-sun-tan-brighten-dull-original-imahmzcpukj3xauk.jpeg?q=90",
@@ -149967,6 +150317,7 @@ const DETANS = [
    "format:serum",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "ing:cucumber",
    "ing:almond",
@@ -150566,6 +150917,7 @@ const DETANS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -150862,15 +151214,17 @@ const DETANS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "ubtan + clay/mud + lactic acid",
   "featureLine": "Mask · Paraben-free · Exfoliating",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -150887,11 +151241,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciMatchedName": "Skin Radiance De-Tan Mask (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
+   "evidenceActives": "lactic acid (#31 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -150927,7 +151283,8 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Mask",
@@ -150939,27 +151296,105 @@ const DETANS = [
    "natural": true,
    "freefrom": true,
    "exfoliating": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Radiance De-Tan Mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -156012,15 +156447,18 @@ const DETANS = [
   "capacityLine": "100 ml",
   "materialLine": "lemon/citrus + walnut",
   "featureLine": "Scrub · Exfoliating · ₹299/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Hard abrasive particles (face): juglans regia shell powder"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.8,
+   "skin": 6.9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -156037,11 +156475,11 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Purified Water, Sorbitol, Sodium Lauroamphoacetate, Sodium C14-16 Olefin Sulfonate, Juglans Regia (Walnut) Shell Powder, Propylene Glycol, Cocamidopropyl Betaine, Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lactobionic Acid, Mandelic Acid, Citrus Limon (Pink Lemon) Fruit Extract, Oryza Sativa (Rice) Extract, Butyrospermum Parkii (Shea) Butter, 1-2 Hexanediol, Euterpe Oleracea (Acai Berry) Pulp Powder, PEG-40 Hydrogenated Castor Oil, Perlite, Xanthan Gum, Disodium EDTA, Phenoxyethanol, PEG 45M.",
+   "evidenceActives": "mandelic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Hard abrasive particles (face): juglans regia shell powder (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -156075,7 +156513,7 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full"
   ],
   "filters": {
    "format": "Scrub",
@@ -156087,27 +156525,89 @@ const DETANS = [
    "natural": true,
    "freefrom": false,
    "exfoliating": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Purified Water, Sorbitol, Sodium Lauroamphoacetate, Sodium C14-16 Olefin Sulfonate, Juglans Regia (Walnut) Shell Powder, Propylene Glycol, Cocamidopropyl Betaine, Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lactobionic Acid, Mandelic Acid, Citrus Limon (Pink Lemon) Fruit Extract, Oryza Sativa (Rice) Extract, Butyrospermum Parkii (Shea) Butter, 1-2 Hexanediol, Euterpe Oleracea (Acai Berry) Pulp Powder, PEG-40 Hydrogenated Castor Oil, Perlite, Xanthan Gum, Disodium EDTA, Phenoxyethanol, PEG 45M.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "juglans regia shell powder",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "juglans regia shell powder"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -159179,7 +159679,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71N5zdLSBxL._AC_UL320_.jpg"
@@ -159192,6 +159693,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:cucumber",
    "claim:de-tan",
    "claim:oil-control",
@@ -159288,7 +159790,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613PXKF-qhL._AC_UL320_.jpg"
@@ -159301,6 +159804,7 @@ const DETANS = [
    "format:pack",
    "format:peel",
    "format:powder",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:turmeric",
    "ing:saffron",
@@ -159404,7 +159908,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71GtUauubQL._AC_UL320_.jpg"
@@ -159417,6 +159922,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:cucumber",
    "claim:de-tan",
    "claim:oil-control",
@@ -168101,7 +168607,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Hju-BkNvL._AC_UL320_.jpg"
@@ -168112,6 +168619,7 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:scrub",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "claim:brightening",
@@ -178349,7 +178857,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qiZkdl5eL._AC_UL320_.jpg"
@@ -178362,6 +178871,7 @@ const DETANS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:brightening",
@@ -179503,7 +180013,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717scxN68uL._AC_UL320_.jpg"
@@ -179515,6 +180026,7 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:ubtan",
    "claim:brightening",
    "claim:de-tan",
@@ -181809,7 +182321,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71hUNMedPPL._AC_UL320_.jpg"
@@ -181823,6 +182336,7 @@ const DETANS = [
    "format:pack",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:de-tan",
@@ -182656,7 +183170,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51E3NtpSPfL._AC_UL320_.jpg"
@@ -182671,6 +183186,7 @@ const DETANS = [
    "format:patch",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:cucumber",
    "claim:brightening",
    "claim:de-tan",
@@ -186203,15 +186719,17 @@ const DETANS = [
   "capacityLine": "75 g",
   "materialLine": "ubtan + clay/mud + lactic acid",
   "featureLine": "Mask · ₹624/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -186228,11 +186746,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciMatchedName": "Skin Radiance De-Tan Mask (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
+   "evidenceActives": "lactic acid (#31 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -186260,7 +186780,8 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Mask",
@@ -186272,27 +186793,105 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Radiance De-Tan Mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -188928,15 +189527,16 @@ const DETANS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + papaya",
   "featureLine": "Wash / cleanser · Exfoliating",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -188953,11 +189553,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/super-glow-face-wash-v5",
+   "inciMatchedName": "Super Glow De-tan Face Wash (name match 94%)",
+   "inciList": "Aqua, Decyl Glucoside, Sodium Cocoamphoacetate, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Isethionate, Glycol Distearate, Castoryl Maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Phenoxyethanol, Ethylhexylglycerin, Papain, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol,Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyquaternium-7, Disodium EDTA, Triethanolamine, Allergen Free Fragrance, CI 16255, CI 15985",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -188982,7 +189584,9 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "format": "Wash / cleanser",
@@ -188994,25 +189598,61 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/super-glow-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Super Glow De-tan Face Wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Decyl Glucoside, Sodium Cocoamphoacetate, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Isethionate, Glycol Distearate, Castoryl Maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Phenoxyethanol, Ethylhexylglycerin, Papain, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol,Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyquaternium-7, Disodium EDTA, Triethanolamine, Allergen Free Fragrance, CI 16255, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -192692,15 +193332,16 @@ const DETANS = [
   "capacityLine": "100 g",
   "materialLine": "almond",
   "featureLine": "Scrub · Exfoliating · ₹185/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum",
+   "Hard abrasive particles (face): walnut shell powder"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.9,
+   "skin": 6.9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -192717,11 +193358,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/apricot-almond-face-scrub",
+   "inciMatchedName": "Jovees Apricot & Almond Face Scrub Infused With Wheatgerm Oil (name match 96%)",
+   "inciList": "Apricot oil, Almond oil, Wheatgerm oil, Aloe vera gel, Cetyl, Cetostearyl, Glyceryl stearate, Emulsifying wax, Capric Caprylic triglyceride, Glycerin, Walnut shell powder, Phenoxyethanol, Parfum, Purified water",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5); Hard abrasive particles (face): walnut shell powder (−0.8)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -192748,7 +193391,8 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Scrub",
@@ -192760,27 +193404,73 @@ const DETANS = [
    "natural": true,
    "freefrom": false,
    "exfoliating": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/apricot-almond-face-scrub",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Jovees Apricot & Almond Face Scrub Infused With Wheatgerm Oil",
+   "inciMatchScore": 0.96,
+   "inciText": "Apricot oil, Almond oil, Wheatgerm oil, Aloe vera gel, Cetyl, Cetostearyl, Glyceryl stearate, Emulsifying wax, Capric Caprylic triglyceride, Glycerin, Walnut shell powder, Phenoxyethanol, Parfum, Purified water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "walnut shell powder",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "walnut shell powder"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Jovees Herbal Care India",
     "kind": "d2c",
@@ -193325,13 +194015,13 @@ const DETANS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 1.6
   },
   "fullSpec": {
@@ -193348,9 +194038,9 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Water, Sodium Hydroxide, Coconut Oil, Olive Oil, Glycerin, Niacinamide (Vitamin B3), Lavender Oil, Kojic Acid, Blueberry Extract, Lactic Acid, Sandalwood Powder",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -193378,7 +194068,7 @@ const DETANS = [
    "rating:3.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "format": "Scrub",
@@ -193390,23 +194080,23 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Water, Sodium Hydroxide, Coconut Oil, Olive Oil, Glycerin, Niacinamide (Vitamin B3), Lavender Oil, Kojic Acid, Blueberry Extract, Lactic Acid, Sandalwood Powder",
+   "inciNote": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -202501,15 +203191,15 @@ const DETANS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "turmeric",
   "featureLine": "Pack · ₹169/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 3.8,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.6
   },
   "fullSpec": {
@@ -202526,11 +203216,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/de-tan-face-wash-withfreegifts",
+   "inciMatchedName": "De-Tan Face Wash I Moringa & Turmeric (name match 100%)",
+   "inciList": "Purified Aqua, Sodium C 14-16 Olefin Sulphonate, Acrylates Copolymer, Ethylene Glycol Distearate, Cocoamido Propyl Betaine, Decyl Glucoside, Glycerin, Potassium Hydroxide, Juglans Regia (Walnut) Granule, Phenoxyethanol, Curcuma Longa (Turmeric) Extract, Camellia Sinensis (Green Tea) Extract",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "3.9★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -202554,7 +203246,9 @@ const DETANS = [
    "rating:3.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "format": "Pack",
@@ -202566,25 +203260,36 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/de-tan-face-wash-withfreegifts",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "De-Tan Face Wash I Moringa & Turmeric",
+   "inciMatchScore": 1,
+   "inciText": "Purified Aqua, Sodium C 14-16 Olefin Sulphonate, Acrylates Copolymer, Ethylene Glycol Distearate, Cocoamido Propyl Betaine, Decyl Glucoside, Glycerin, Potassium Hydroxide, Juglans Regia (Walnut) Granule, Phenoxyethanol, Curcuma Longa (Turmeric) Extract, Camellia Sinensis (Green Tea) Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -202637,7 +203342,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ymgGIFhRL._AC_UL320_.jpg"
@@ -202649,6 +203355,7 @@ const DETANS = [
    "scope:face",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -203130,15 +203837,16 @@ const DETANS = [
   "capacityLine": "50 ml",
   "materialLine": "vitamin C + papaya",
   "featureLine": "Wash / cleanser · Exfoliating · ₹350/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -203155,11 +203863,13 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/super-glow-face-wash-v5",
+   "inciMatchedName": "Super Glow De-tan Face Wash (name match 94%)",
+   "inciList": "Aqua, Decyl Glucoside, Sodium Cocoamphoacetate, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Isethionate, Glycol Distearate, Castoryl Maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Phenoxyethanol, Ethylhexylglycerin, Papain, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol,Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyquaternium-7, Disodium EDTA, Triethanolamine, Allergen Free Fragrance, CI 16255, CI 15985",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -203185,7 +203895,9 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "format": "Wash / cleanser",
@@ -203197,25 +203909,61 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/super-glow-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Super Glow De-tan Face Wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Decyl Glucoside, Sodium Cocoamphoacetate, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Isethionate, Glycol Distearate, Castoryl Maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Phenoxyethanol, Ethylhexylglycerin, Papain, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol,Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyquaternium-7, Disodium EDTA, Triethanolamine, Allergen Free Fragrance, CI 16255, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -208389,7 +209137,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xFyF6QnhL._AC_UL320_.jpg"
@@ -208403,6 +209152,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
@@ -209734,7 +210484,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71N0jf9YocL._AC_UL320_.jpg"
@@ -209751,6 +210502,7 @@ const DETANS = [
    "format:peel",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:charcoal",
    "claim:de-tan",
    "claim:spf-claim",
@@ -211621,7 +212373,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FGqmEXDJL._AC_UL320_.jpg"
@@ -211636,6 +212389,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:turmeric",
    "claim:de-tan",
    "claim:broad-spectrum",
@@ -211831,7 +212585,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61reV7Cbk8L._AC_UL320_.jpg"
@@ -211845,6 +212600,7 @@ const DETANS = [
    "format:bar",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "claim:de-tan",
@@ -215391,7 +216147,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Qum1RMKcL._AC_UL320_.jpg"
@@ -215407,6 +216164,7 @@ const DETANS = [
    "format:roll-on",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:ubtan",
    "claim:de-tan",
    "claim:ayurvedic",
@@ -217709,7 +218467,8 @@ const DETANS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rY0jdcATL._AC_UL320_.jpg"
@@ -217722,6 +218481,7 @@ const DETANS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:de-tan",
@@ -225497,6 +226257,7 @@ const DETANS = [
    "ing:kojic-acid",
    "ing:coffee",
    "ing:walnut",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -232611,15 +233372,15 @@ const DETANS = [
   "capacityLine": "50 g",
   "materialLine": "aloe vera + mulberry",
   "featureLine": "Scrub · Exfoliating · ₹768/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.3,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -232636,14 +233397,16 @@ const DETANS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/red-vine-face-scrub-with-mulberry-aloe",
+   "inciMatchedName": "French Red Vine Youthful Glow Face Scrub (name match 83%)",
+   "inciList": "Purified Water, Glycerin, Rice Exfoliator, Propanediol, Morus Alba (Mulberry) Extract, Vitis Vinifera (Grape) Leaf Extract, Aloe Barbadensis Leaf Extract, Phenoxyethanol, Ethylhexylglycerin, Xylitylglucoside, Anhydroxylitol, Xylitol, Olive Oil PEG-7 Esters, Betaine, Carbomer, Xanthan Gum, Panthenol, Heptyl Glucoside, Sodium Gluconate, Perfume, CI.16185, C.I. 15985",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OnFqQFKFL._AC_UL320_.jpg"
@@ -232665,7 +233428,9 @@ const DETANS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "format": "Scrub",
@@ -232677,27 +233442,66 @@ const DETANS = [
    "natural": false,
    "freefrom": false,
    "exfoliating": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/red-vine-face-scrub-with-mulberry-aloe",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "French Red Vine Youthful Glow Face Scrub",
+   "inciMatchScore": 0.83,
+   "inciText": "Purified Water, Glycerin, Rice Exfoliator, Propanediol, Morus Alba (Mulberry) Extract, Vitis Vinifera (Grape) Leaf Extract, Aloe Barbadensis Leaf Extract, Phenoxyethanol, Ethylhexylglycerin, Xylitylglucoside, Anhydroxylitol, Xylitol, Olive Oil PEG-7 Esters, Betaine, Carbomer, Xanthan Gum, Panthenol, Heptyl Glucoside, Sodium Gluconate, Perfume, CI.16185, C.I. 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",

@@ -38496,6 +38496,1794 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-39brkn",
+  "brand": "Deconstruct",
+  "model": "2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
+   "inciMatchedName": "2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); ethylhexyl salicylate (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/hf_20260519_113254_e59476fd-1b5e-47c6-aa96-ba030e76f116.webp?v=1784634499"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-ks4v70",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Gel Sunscreen",
+  "price": 337,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.8,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-gel-sunscreen",
+   "inciMatchedName": "Salicylic Acid Gel Sunscreen (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Glyceryl Stearate & PEG-100 Stearate, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Salicylic Acid, Triethanolamine, Undecane (and) Tridecane, Sodium Carbomer, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Phenoxyethanol (and) Ethylhexylglycerin, Glyceryl Dibehenate, Hydrated Silica, Glycine Soja (Soybean) Oil (and) Daucus Carota Sativa (Carrot) Root Extract (and) Beta-Carotene (and) Tocopherol, Sodium Gluconate, Ectoin, Dehydroxanthan Gum, Carbomer, Chlorophyllin-Copper Complex",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); ethylhexyl salicylate (#15 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #18 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/lifestyle_salicy_ic_sunscreen_1.webp?v=1784633205"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/salicylic-acid-gel-sunscreen",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Gel Sunscreen",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "water:unstated",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/salicylic-acid-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Gel Sunscreen",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Glyceryl Stearate & PEG-100 Stearate, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Salicylic Acid, Triethanolamine, Undecane (and) Tridecane, Sodium Carbomer, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Phenoxyethanol (and) Ethylhexylglycerin, Glyceryl Dibehenate, Hydrated Silica, Glycine Soja (Soybean) Oil (and) Daucus Carota Sativa (Carrot) Root Extract (and) Beta-Carotene (and) Tocopherol, Sodium Gluconate, Ectoin, Dehydroxanthan Gum, Carbomer, Chlorophyllin-Copper Complex",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-tk6njj",
+  "brand": "Deconstruct",
+  "model": "Sunscreen Spray SPF 50",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: menthol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.3,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/sunscreen-spray-spf-50",
+   "inciMatchedName": "Sunscreen Spray SPF 50 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Methoxycinnamidopropyl Hydroxysultaine, Terephthalylidene Dicamphor Sulfonic Acid, Butylene Glycol, Polyglyceryl 10 Stearate, Niacinamide, Octylmethoxy Cinnamate, Centella Asiatica Extract, Phenoxyethanol (and) Ethylhexylglycerin, Citrus Sinensis Peel Extract, Tocopherol Acetate, Sodium Gluconate, Sodium Hydroxide, Menthol",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); terephthalylidene dicamphor sulfonic acid (#8 on list, strong evidence); niacinamide (#11 on list, strong evidence); centella asiatica extract (#13 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — centella asiatica extract #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Sunscreen_Spray_SPF_50.webp?v=1782482394"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/sunscreen-spray-spf-50",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Sunscreen Spray SPF 50",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:50",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/sunscreen-spray-spf-50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sunscreen Spray SPF 50",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Methoxycinnamidopropyl Hydroxysultaine, Terephthalylidene Dicamphor Sulfonic Acid, Butylene Glycol, Polyglyceryl 10 Stearate, Niacinamide, Octylmethoxy Cinnamate, Centella Asiatica Extract, Phenoxyethanol (and) Ethylhexylglycerin, Citrus Sinensis Peel Extract, Tocopherol Acetate, Sodium Gluconate, Sodium Hydroxide, Menthol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "terephthalylidene dicamphor sulfonic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide"
+   ],
+   "formulaNotes": [
+    "Avobenzone-type UVA filter without a photostabiliser"
+   ],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-vv53cw",
+  "brand": "Deconstruct",
+  "model": "Oats & Ceramide Gel Sunscreen SPF 50 PA++++ for Sensitive Skin | In-Vivo Tested",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Colloidal oatmeal + Ceramides",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Colloidal oatmeal, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oat-ceramide-gel-sunscreen",
+   "inciMatchedName": "Oats & Ceramide Gel Sunscreen SPF 50 PA++++ for Sensitive Skin | In-Vivo Tested (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Tanacetum Annuum Flower Extract, PEG-7 Glyceryl Cocoate, Ceramide NP, Hydrolyzed Oat Protein, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Ectoin",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); ethylhexyl salicylate (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #19 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/FIRST_IMAGE_TEMPOats_Ceramide_SS_50G_02_1.webp?v=1788255841"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/oat-ceramide-gel-sunscreen",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Oats & Ceramide Gel Sunscreen SPF 50 PA++++ for Sensitive Skin | In-Vivo Tested",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:colloidal-oatmeal",
+   "ing:ceramides",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oat-ceramide-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oats & Ceramide Gel Sunscreen SPF 50 PA++++ for Sensitive Skin | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Tanacetum Annuum Flower Extract, PEG-7 Glyceryl Cocoate, Ceramide NP, Hydrolyzed Oat Protein, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Ectoin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide np",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-nrdxrt",
+  "brand": "Deconstruct",
+  "model": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+  "price": 337,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.8,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciMatchedName": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#11 on list, strong evidence); ethylhexyl salicylate (#15 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Sunscreen_3.png?v=1781265058"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-18um70w",
+  "brand": "Deconstruct",
+  "model": "Invisible Cooling Sunscreen SPF 50 PA++++ | In-Vivo Tested",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyl methoxydibenzoylmethane high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.7,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "No white cast, SPF included, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/invisible-water-sunscreen-spf-50-with-encapsulated-uv-filter-technology",
+   "inciMatchedName": "Invisible Cooling Sunscreen SPF 50 PA++++ | In-Vivo Tested (name match 100%)",
+   "inciList": "Aqua, Polymethyl Methacrylate, Butyl Methoxy Dibenzoylmethane, Ethyl Hexyl Triazone, Butylene Glycol, Ethylhexyl Methoxycinnamate,Ethylhexyl Salicylate, Propanediol, Octocrylene, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, DMDM Hydantoin, Dibutyl Lauroyl Glutamide, Menthyl Lactate (and) PPG-26-Buteth-26 (and) PEG-40 Hydrogenated Castor Oil, Dibutyl Ethylhexanoyl Glutamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Stearoyl Glutamate, Triethanolamine,C.I 26100, Sclerotium gum, Xanthan gum",
+   "evidenceActives": "butyl methoxydibenzoylmethane (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); ethylhexyl methoxycinnamate (#6 on list, strong evidence); ethylhexyl salicylate (#7 on list, strong evidence); octocrylene (#9 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#10 on list, strong evidence)",
+   "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Invisible_Cooling_Sunscreen_SPF_50_PA_In-Vivo_Tested.webp?v=1782482394"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/invisible-water-sunscreen-spf-50-with-encapsulated-uv-filter-technology",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Invisible Cooling Sunscreen SPF 50 PA++++ | In-Vivo Tested",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:no-white-cast",
+   "claim:spf-claim",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/invisible-water-sunscreen-spf-50-with-encapsulated-uv-filter-technology",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invisible Cooling Sunscreen SPF 50 PA++++ | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Polymethyl Methacrylate, Butyl Methoxy Dibenzoylmethane, Ethyl Hexyl Triazone, Butylene Glycol, Ethylhexyl Methoxycinnamate,Ethylhexyl Salicylate, Propanediol, Octocrylene, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, DMDM Hydantoin, Dibutyl Lauroyl Glutamide, Menthyl Lactate (and) PPG-26-Buteth-26 (and) PEG-40 Hydrogenated Castor Oil, Dibutyl Ethylhexanoyl Glutamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Stearoyl Glutamate, Triethanolamine,C.I 26100, Sclerotium gum, Xanthan gum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-19cdi1q",
+  "brand": "Deconstruct",
+  "model": "Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Typ…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/fluid-brightening-sunscreen-with-spf50",
+   "inciMatchedName": "Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Types (name match 100%)",
+   "inciList": "Aqua, C12-15 Alkyl Benzoate (and) Diethylamino Hydroxybenzoyl Hexyl Benzoate (and) Ethylhexyl Triazone (and) Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (and) Phospholipids (and) Polysorbate 80 (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Ethylhexyl Salicylate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Niacinamide, Propanediol, Behenyl Alcohol (and) Polyglyceryl-10 Pentastearate (and) Sodium Stearoyl Lactylate, Undecane (and) Tridecane, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Acrylates Copolymer (and) Lecithin, Allantoin, Disodium EDTA, Sodium Anisate",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#2 on list, strong evidence); ethylhexyl triazone (#3 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#4 on list, strong evidence); ethylhexyl salicylate (#9 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); niacinamide (#15 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Fluid_Brightening_Sunscreen_SPF_50_PA_5__Niacinamide_In_Vivo_Tested_All_Skin_Types.webp?v=1782482332"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/fluid-brightening-sunscreen-with-spf50",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:emulsion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/fluid-brightening-sunscreen-with-spf50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fluid Brightening Sunscreen SPF 50 PA++++ | 5% Niacinamide | In Vivo Tested | All Skin Types",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-15 Alkyl Benzoate (and) Diethylamino Hydroxybenzoyl Hexyl Benzoate (and) Ethylhexyl Triazone (and) Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (and) Phospholipids (and) Polysorbate 80 (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Ethylhexyl Salicylate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Niacinamide, Propanediol, Behenyl Alcohol (and) Polyglyceryl-10 Pentastearate (and) Sodium Stearoyl Lactylate, Undecane (and) Tridecane, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Acrylates Copolymer (and) Lecithin, Allantoin, Disodium EDTA, Sodium Anisate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1i800kt",
+  "brand": "Deconstruct",
+  "model": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Kojic acid",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: menthol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.2,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Kojic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+   "inciMatchedName": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Aqua (and) Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and), Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Niacinamide, Butylene Glycol,Glycerin, Betaine, AMPS/HEMA crosspolymer (and) C13-15 alkane (and) Coco-glucoside, Kojic Acid Dipalmitate, Licorice Extract, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Petrolatum, Cetearyl Olivate, Sorbitan Olivate, Menthol",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#3 on list, strong evidence); butyl methoxydibenzoylmethane (#4 on list, strong evidence); benzophenone-3 (#5 on list, strong evidence); niacinamide (#9 on list, strong evidence); panthenol (#19 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Lotion (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Listing_Image_V2Artboard_17_converted.webp?v=1769873902"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Aqua (and) Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and), Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Niacinamide, Butylene Glycol,Glycerin, Betaine, AMPS/HEMA crosspolymer (and) C13-15 alkane (and) Coco-glucoside, Kojic Acid Dipalmitate, Licorice Extract, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Petrolatum, Cetearyl Olivate, Sorbitan Olivate, Menthol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "glycerin",
+    "panthenol",
+    "petrolatum"
+   ],
+   "formulaNotes": [
+    "Avobenzone-type UVA filter without a photostabiliser"
+   ],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1y545u9",
+  "brand": "Deconstruct",
+  "model": "Gel Sunscreen SPF 50 PA++++ for Oily Skin(Pack of 2) | Photostable Sunscreen with 4 New Ge…",
+  "price": 589,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/gel-sunscreen-combo-for-oily-skin",
+   "inciMatchedName": "Gel Sunscreen SPF 50 PA++++ for Oily Skin(Pack of 2) | Photostable Sunscreen with 4 New Gen UV Filters | Lightweight & Non-Greasy (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); ethylhexyl salicylate (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/new-products-placedArtboard-7.webp?v=1779782429"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/gel-sunscreen-combo-for-oily-skin",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Gel Sunscreen SPF 50 PA++++ for Oily Skin(Pack of 2) | Photostable Sunscreen with 4 New Gen UV Filters | Lightweight & Non-Greasy",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/gel-sunscreen-combo-for-oily-skin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Gel Sunscreen SPF 50 PA++++ for Oily Skin(Pack of 2) | Photostable Sunscreen with 4 New Gen UV Filters | Lightweight & Non-Greasy",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-10y9sgg",
+  "brand": "Deconstruct",
+  "model": "Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/gel-sunscreen-for-oily-skin",
+   "inciMatchedName": "Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); ethylhexyl salicylate (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Untitled-1GS_50G.webp?v=1780469745"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/gel-sunscreen-for-oily-skin",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/gel-sunscreen-for-oily-skin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-1pt0zyy",
   "brand": "The Derma Co",
   "model": "1% Hyaluronic Moisturizing Sunscreen Body Lotion In-Vivo Tested - 200 ml",

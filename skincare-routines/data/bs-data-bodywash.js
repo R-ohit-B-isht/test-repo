@@ -16764,6 +16764,151 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-1i9i3ao",
+  "brand": "Deconstruct",
+  "model": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+  "price": 262,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciMatchedName": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "evidenceActives": "glycerin (#7 on list, strong evidence); lactic acid (#8 on list, strong evidence); glycolic acid (#9 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Salicylic_Acid_Body_Wash.webp?v=1782482331"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+  "tags": [
+   "scope:body",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "claim:acne",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Body Wash - 1% salicylic acid + 2% glycolic acid | Fights body acne",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Lavender Water, Triethanolamine, Glycerin, Lactic Acid, Glycolic Acid, Xanthan Gum, Salicylic Acid, Cellulose, Phenoxyethanol (and) Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "sodium lauroyl sarcosinate",
+    "disodium cocoamphodiacetate",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-ltsvll",
   "brand": "The Derma Co",
   "model": "2% Sali-Cinamide Anti-Acne Body Wash - 250 ml",

@@ -2014,6 +2014,136 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-g79ks0",
+  "brand": "Deconstruct",
+  "model": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+  "price": 524,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Hyaluronic acid",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum (name match 100%)",
+   "inciList": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#5 on list, moderate evidence); niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-11.webp?v=1779361773"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "free:oil-free",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "butylene glycol",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-a6d6c7",
   "brand": "The Derma Co",
   "model": "10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid - 30ml",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -1393,7 +1393,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹525/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Peptides, Aloe vera, Vitamin B5 / panthenol, Piroctone olamine, Panthenol, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Peptides, Aloe vera, Vitamin B5 / panthenol, Menthol, Piroctone olamine, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Premature greying (claim), Scalp health (seller claim — not clinical proof)",
@@ -1429,6 +1429,7 @@ const HAIRPRODUCTS = [
    "ing:peptides",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
+   "ing:menthol",
    "ing:piroctone-olamine",
    "ing:panthenol",
    "ing:peppermint-menthol",
@@ -19218,7 +19219,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹3995/100ml",
    "format": "Serum",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Argan oil, Redensyl, Keratin, Panthenol, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Argan oil, Menthol, Redensyl, Keratin, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -19254,6 +19255,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:menthol",
    "ing:redensyl",
    "ing:keratin",
    "ing:panthenol",
@@ -33111,17 +33113,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Coconut + Rosemary",
   "featureLine": "Serum · ₹157/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -33139,11 +33143,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -33177,7 +33181,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -33185,27 +33189,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -33440,17 +33479,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Walnut + Vitamin E + Argan oil",
   "featureLine": "Serum · ₹77/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -33468,11 +33509,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -33512,7 +33553,7 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -33520,27 +33561,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -40854,17 +40930,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Almond + Vitamin E + Argan oil",
   "featureLine": "Serum · ₹135/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -40882,11 +40960,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -40925,7 +41003,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -40933,27 +41011,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -41409,16 +41522,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Argan oil + Coconut",
   "featureLine": "Serum · ₹154/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.1
   },
   "fullSpec": {
@@ -41436,11 +41551,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.9/5 (10 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 10 ratings"
   },
@@ -41472,7 +41587,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -41480,27 +41595,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -65425,17 +65575,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Coconut + Redensyl",
   "featureLine": "Serum · ₹157/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -65453,11 +65605,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -65493,7 +65645,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -65501,27 +65653,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -65652,17 +65839,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Coconut + Redensyl",
   "featureLine": "Serum · ₹148/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -65680,11 +65869,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -65719,7 +65908,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -65727,27 +65916,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -65884,17 +66108,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Argan oil + Coconut",
   "featureLine": "Serum · ₹154/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -65912,11 +66138,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -65953,7 +66179,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -65961,27 +66187,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -75282,17 +75543,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Argan oil + Coconut",
   "featureLine": "Serum · ₹157/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -75310,11 +75573,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -75350,7 +75613,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -75358,27 +75621,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -79780,17 +80078,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Coconut",
   "featureLine": "Serum · ₹135/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -79808,11 +80108,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -79845,7 +80145,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -79853,27 +80153,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -93219,17 +93554,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Almond + Vitamin E + Argan oil",
   "featureLine": "Serum · ₹135/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -93247,11 +93584,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -93286,7 +93623,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -93294,27 +93631,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -107107,17 +107479,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin E + Coconut + Redensyl",
   "featureLine": "Serum · ₹152/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -107135,11 +107509,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -107173,7 +107547,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -107181,27 +107555,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -121155,17 +121564,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Vitamin E + Argan oil + Keratin",
   "featureLine": "Serum · ₹1800/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); dimethiconol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -121183,11 +121594,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Cyclopentasiloxane, Dimethiconol, Silicone Crosspolymer, Phenyl Trimethicone, Hydrolyzed Keratin, Argan Oil, Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Cyclopentasiloxane, Dimethiconol, Silicone Crosspolymer, Phenyl Trimethicone, Hydrolyzed Keratin, Argan Oil, Vitamin E",
+   "evidenceActives": "cyclopentasiloxane (#1 on list, moderate evidence); dimethiconol (#2 on list, moderate evidence); hydrolyzed keratin (#5 on list, limited evidence); argania spinosa kernel oil (#6 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -121221,7 +121632,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -121229,24 +121641,57 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Cyclopentasiloxane, Dimethiconol, Silicone Crosspolymer, Phenyl Trimethicone, Hydrolyzed Keratin, Argan Oil, Vitamin E",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Cyclopentasiloxane, Dimethiconol, Silicone Crosspolymer, Phenyl Trimethicone, Hydrolyzed Keratin, Argan Oil, Vitamin E",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -143160,17 +143605,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Argan oil + Redensyl + Dimethicone / silicones",
   "featureLine": "Serum · ₹130/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 3.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -143188,11 +143635,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "evidenceActives": "cyclopentasiloxane (#2 on list, moderate evidence); argania spinosa kernel oil (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -143225,7 +143672,7 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -143233,27 +143680,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Light Liquid Paraffin, Cyclopentasiloxane, Phenyl Trimethicone, Argania Spinosa kernel oil, Perfume, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -167927,7 +168409,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹3395/100ml",
    "format": "Serum",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Argan oil, Redensyl, Keratin, Panthenol, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Argan oil, Menthol, Redensyl, Keratin, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -167964,6 +168446,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:menthol",
    "ing:redensyl",
    "ing:keratin",
    "ing:panthenol",
@@ -177314,16 +177797,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Avocado",
   "featureLine": "Serum · ₹297/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Biolage official website (www.biolage.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); dimethiconol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, hexyl cinnamal",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -177341,11 +177827,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Biolage official website (www.biolage.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.biolage.com/collections/smooth-proof/smooth-proof-serum",
+   "inciMatchedName": "smooth proof serum (name match 88%)",
+   "inciList": "Isododecane, Dimethicone, Dimethiconol, Parfum/fragrance, Limonene, Hexyl cinnamal, Glycerin, Camellia oleifera seed oil, Coumarin, Benzyl alcohol, Linalool, Amyl cinnamal, Geraniol, Isoeugenol, Alpha-isomethyl ionone, Hydroxycitronellal, Benzyl benzoate, Cinnamyl alcohol, Citronellol, Tocopherol",
+   "evidenceActives": "dimethicone (#2 on list, moderate evidence); dimethiconol (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, hexyl cinnamal, coumarin, benzyl alcohol, linalool, amyl cinnamal, geraniol, isoeugenol, alpha-isomethyl ionone, hydroxycitronellal, benzyl benzoate, cinnamyl alcohol, citronellol (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -177367,7 +177855,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -177375,27 +177864,86 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Biolage official website (www.biolage.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.biolage.com/collections/smooth-proof/smooth-proof-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "smooth proof serum",
+   "inciMatchScore": 0.88,
+   "inciText": "Isododecane, Dimethicone, Dimethiconol, Parfum/fragrance, Limonene, Hexyl cinnamal, Glycerin, Camellia oleifera seed oil, Coumarin, Benzyl alcohol, Linalool, Amyl cinnamal, Geraniol, Isoeugenol, Alpha-isomethyl ionone, Hydroxycitronellal, Benzyl benzoate, Cinnamyl alcohol, Citronellol, Tocopherol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "hexyl cinnamal",
+      "coumarin",
+      "benzyl alcohol",
+      "linalool",
+      "amyl cinnamal",
+      "geraniol",
+      "isoeugenol",
+      "alpha-isomethyl ionone",
+      "hydroxycitronellal",
+      "benzyl benzoate",
+      "cinnamyl alcohol",
+      "citronellol"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -194403,15 +194951,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Serum · ₹439/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.7,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -194429,11 +194980,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciMatchedName": "collagen lifter serum 40ml (name match 88%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
+   "evidenceActives": "amodimethicone (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl alcohol, geraniol, coumarin, hexyl cinnamal (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -194455,7 +195008,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -194463,27 +195017,87 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter serum 40ml",
+   "inciMatchScore": 0.88,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.85,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "coumarin",
+      "hexyl cinnamal"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -211997,16 +212611,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Peptides + Rosemary + Biotin",
   "featureLine": "Serum · ₹1298/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -212024,11 +212639,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bareanatomy.com/products/advanced-anti-grey-serum",
+   "inciMatchedName": "Advanced Anti-Grey Hair Serum With Silverfree Peptide, Rosemary & Biotin - 50 ml (name match 100%)",
+   "inciList": "Purified Water, Propanediol, Glycerin, Dimethyl Isosorbide, Palmitoyl Dipeptide-52, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hibiscus Sabdariffa Flower Extract, Biotin, Hydroxyethyl Urea, Betaine, Sodium Gluconate, Sodium Benzoate, Potassium Sorbate, Hydroxyethylcellulose, Citric Acid",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings"
   },
@@ -212052,7 +212669,9 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -212060,25 +212679,45 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bareanatomy.com/products/advanced-anti-grey-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Grey Hair Serum With Silverfree Peptide, Rosemary & Biotin - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Propanediol, Glycerin, Dimethyl Isosorbide, Palmitoyl Dipeptide-52, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hibiscus Sabdariffa Flower Extract, Biotin, Hydroxyethyl Urea, Betaine, Sodium Gluconate, Sodium Benzoate, Potassium Sorbate, Hydroxyethylcellulose, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -212295,15 +212934,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "40 ml",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Serum · ₹673/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.7,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -212321,11 +212963,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciMatchedName": "collagen lifter serum 40ml (name match 88%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
+   "evidenceActives": "amodimethicone (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl alcohol, geraniol, coumarin, hexyl cinnamal (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -212347,7 +212991,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -212355,27 +213000,87 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/collagen-lifter/collagen-lifter-serum-40ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "collagen lifter serum 40ml",
+   "inciMatchScore": 0.88,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, SODIUM LACTATE, PHENOXYETHANOL, ARGININE, MAGNESIUM SULFATE, TRIDECETH-6, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, DIMETHYL PHENETHYL ACETATE, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL ALCOHOL, BENZALDEHYDE, ISOPROPYL ALCOHOL, AMODIMETHICONE, GERANYL ACETATE, GERANIOL, CARVONE, CARBOMER, ROSE KETONES, CETYL ESTERS, CITRIC ACID, BUTYLENE GLYCOL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, CITRUS AURANTIUM PEEL OIL, CETRIMONIUM CHLORIDE, COUMARIN, HEXYL CINNAMAL, GLYCERIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.85,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl alcohol",
+      "geraniol",
+      "coumarin",
+      "hexyl cinnamal"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -223665,16 +224370,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Glycolic acid + Coconut",
   "featureLine": "Spray · ₹283/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed wheat protein high on the INCI list (limited evidence); panthenol high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.9,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 0
   },
   "fullSpec": {
@@ -223692,11 +224399,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/dream-curl-refresh-spray-150ml",
+   "inciMatchedName": "DREAM CURL REFRESH SPRAY - 150ML (name match 100%)",
+   "inciList": "Spray : Aqua, PEG-12 Dimethicone, Isobutylene/Dimethylaminopropylmaleimide/Ethoxylated Maleimide/Maleic Acid Copolymer, Camellia Oleifera Seed Oil (Shine Tonic), Glycerin, Hydrolyzed Wheat Protein, Cocos Nucifera (Coconut) Water, Linum Usitatissimum (Flaxseed) Seed Oil, Phytantriol, Polyquaternium-10, PG-Hydroxyethylcellulose Cocodimonium Chloride, Phenoxyethanol, Triethylene Glycol, Panthenol, Glycolic Acid, Fragrance",
+   "evidenceActives": "hydrolyzed wheat protein (#6 on list, limited evidence); panthenol (#14 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -223728,7 +224437,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -223736,27 +224446,81 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/dream-curl-refresh-spray-150ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "DREAM CURL REFRESH SPRAY - 150ML",
+   "inciMatchScore": 1,
+   "inciText": "Spray : Aqua, PEG-12 Dimethicone, Isobutylene/Dimethylaminopropylmaleimide/Ethoxylated Maleimide/Maleic Acid Copolymer, Camellia Oleifera Seed Oil (Shine Tonic), Glycerin, Hydrolyzed Wheat Protein, Cocos Nucifera (Coconut) Water, Linum Usitatissimum (Flaxseed) Seed Oil, Phytantriol, Polyquaternium-10, PG-Hydroxyethylcellulose Cocodimonium Chloride, Phenoxyethanol, Triethylene Glycol, Panthenol, Glycolic Acid, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -223874,7 +224638,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Leave In Conditioner 100ml with Polyglutamic Acid | 100H Hydration, Frizz Con…",
   "price": 345,
   "capacityLine": "100 ml",
-  "materialLine": "Hyaluronic acid",
+  "materialLine": "Hyaluronic acid + Polyglutamic acid",
   "featureLine": "Leave-in · Paraben-free · ₹345/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -223893,7 +224657,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹345/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Washes out easily, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
@@ -223931,6 +224695,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:texture-spray",
    "ing:hyaluronic-acid",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -231658,16 +232423,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Peptides + Rosemary + Biotin",
   "featureLine": "Serum · ₹1066/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -231685,11 +232451,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bareanatomy.com/products/advanced-anti-grey-serum",
+   "inciMatchedName": "Advanced Anti-Grey Hair Serum With Silverfree Peptide, Rosemary & Biotin - 50 ml (name match 100%)",
+   "inciList": "Purified Water, Propanediol, Glycerin, Dimethyl Isosorbide, Palmitoyl Dipeptide-52, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hibiscus Sabdariffa Flower Extract, Biotin, Hydroxyethyl Urea, Betaine, Sodium Gluconate, Sodium Benzoate, Potassium Sorbate, Hydroxyethylcellulose, Citric Acid",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings"
   },
@@ -231721,7 +232489,9 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -231729,25 +232499,45 @@ const HAIRPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bareanatomy.com/products/advanced-anti-grey-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Grey Hair Serum With Silverfree Peptide, Rosemary & Biotin - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Propanediol, Glycerin, Dimethyl Isosorbide, Palmitoyl Dipeptide-52, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hibiscus Sabdariffa Flower Extract, Biotin, Hydroxyethyl Urea, Betaine, Sodium Gluconate, Sodium Benzoate, Potassium Sorbate, Hydroxyethylcellulose, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -249333,7 +250123,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹853/100ml",
    "format": "Serum",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Peptides, Aloe vera, Vitamin B5 / panthenol, Glycerin, Piroctone olamine, Bhringraj, Amla, Panthenol, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Peptides, Aloe vera, Vitamin B5 / panthenol, Glycerin, Menthol, Piroctone olamine, Bhringraj, Amla, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
@@ -249367,6 +250157,7 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
+   "ing:menthol",
    "ing:piroctone-olamine",
    "ing:bhringraj",
    "ing:amla",
@@ -259786,17 +260577,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "75 ml",
   "materialLine": "Keratin + Marula oil",
   "featureLine": "Serum · ₹1199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (TRESemmé official website (www.tresemme.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cyclopentasiloxane high on the INCI list (moderate evidence); dimethiconol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: benzyl salicylate, coumarin",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -259814,11 +260607,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "TRESemmé official website (www.tresemme.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.tresemme.in/products/tresemme-keratin-smooth-hair-serum-100ml",
+   "inciMatchedName": "TRESemmé Keratin Smooth Serum 100ml (name match 90%)",
+   "inciList": "Cyclopentasiloxane, Dimethiconol, Perfume, Camellia Oleifera Seed Oil, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, Cocnut Oil, Sunflower Oil, Macademia Oil, Vitamin E",
+   "evidenceActives": "cyclopentasiloxane (#1 on list, moderate evidence); dimethiconol (#2 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, coumarin, hexyl cinnamal, limonene, linalool (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -259841,7 +260636,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -259849,27 +260645,75 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "TRESemmé official website (www.tresemme.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.tresemme.in/products/tresemme-keratin-smooth-hair-serum-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "TRESemmé Keratin Smooth Serum 100ml",
+   "inciMatchScore": 0.9,
+   "inciText": "Cyclopentasiloxane, Dimethiconol, Perfume, Camellia Oleifera Seed Oil, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene, Linalool, Cocnut Oil, Sunflower Oil, Macademia Oil, Vitamin E",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "coumarin",
+      "hexyl cinnamal",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -260678,15 +261522,16 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Peptides + Bond builder",
   "featureLine": "Serum · ₹484/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (WishCare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed keratin high on the INCI list (limited evidence); hydrolyzed wheat protein high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.2
   },
   "fullSpec": {
@@ -260704,11 +261549,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/triple-bond-repair-serum",
+   "inciMatchedName": "Triple Bond Repair Booster Serum (name match 95%)",
+   "inciList": "Aqua, Cetostearyl Alcohol, Cetyl Alcohol, Cetrimonium Chloride, Behentrimonium Chloride, Glyceryl Monostearate, Sodium Lactate, L-Arginine, Lactic Acid, Ceramides, Sea Kale Extract, Oligopeptide - 2, Hydrolyzed Collagen, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Sodium PCA, D-Panthenol, Vitamin E, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "hydrolyzed keratin (#14 on list, limited evidence); hydrolyzed wheat protein (#15 on list, limited evidence); panthenol (#17 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -260733,7 +261580,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -260741,25 +261590,69 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "WishCare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/triple-bond-repair-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Triple Bond Repair Booster Serum",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Cetostearyl Alcohol, Cetyl Alcohol, Cetrimonium Chloride, Behentrimonium Chloride, Glyceryl Monostearate, Sodium Lactate, L-Arginine, Lactic Acid, Ceramides, Sea Kale Extract, Oligopeptide - 2, Hydrolyzed Collagen, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Sodium PCA, D-Panthenol, Vitamin E, Sodium Benzoate, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -261074,7 +261967,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Leave In Conditioner 50ml with Polyglutamic Acid | 100H Hydration, Frizz Cont…",
   "price": 172,
   "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Polyglutamic acid",
   "featureLine": "Leave-in · Paraben-free · ₹344/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -261093,7 +261986,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹344/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Heat protection (seller claim — not clinical proof)",
@@ -261123,6 +262016,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "format:leave-in",
    "format:heat-protectant",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:dryness",
    "concern:heat-protection",

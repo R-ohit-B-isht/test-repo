@@ -10015,6 +10015,199 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-1i800kt",
+  "brand": "Deconstruct",
+  "model": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Kojic acid",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); kojic dipalmitate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: menthol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.5,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Kojic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+   "inciMatchedName": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Aqua (and) Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and), Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Niacinamide, Butylene Glycol,Glycerin, Betaine, AMPS/HEMA crosspolymer (and) C13-15 alkane (and) Coco-glucoside, Kojic Acid Dipalmitate, Licorice Extract, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Petrolatum, Cetearyl Olivate, Sorbitan Olivate, Menthol",
+   "evidenceActives": "niacinamide (#9 on list, strong evidence); kojic dipalmitate (#15 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Lotion (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Listing_Image_V2Artboard_17_converted.webp?v=1769873902"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Detan Body Sunscreen Lotion - 4% Niacinamide +1% Kojic Acid + SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Aqua (and) Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and), Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol, Niacinamide, Butylene Glycol,Glycerin, Betaine, AMPS/HEMA crosspolymer (and) C13-15 alkane (and) Coco-glucoside, Kojic Acid Dipalmitate, Licorice Extract, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Petrolatum, Cetearyl Olivate, Sorbitan Olivate, Menthol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "glycerin",
+    "panthenol",
+    "petrolatum"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "wild-oak-bs-12r30pt",
   "brand": "WILD OAK",
   "model": "De-Tan Body Wash- With Walnut Shell Powder for Exfoliation | Niacinamide, Alpha Arbutin, K…",

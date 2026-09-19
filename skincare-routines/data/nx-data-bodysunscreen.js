@@ -15592,16 +15592,19 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · Paraben-free · SPF 80 · ₹798/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 5.1
   },
   "fullSpec": {
@@ -15620,11 +15623,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4/5 (201 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml) (name match 75%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 201 ratings",
    "waterResistance": "Water resistance not stated in listing"
@@ -15654,7 +15659,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -15662,27 +15668,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+   "inciMatchScore": 0.75,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
    "support": [],
-   "formulaNotes": [],
-   "flags": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -26701,17 +26769,18 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 35 · ₹85/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "ethylhexyl salicylate high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 1,179 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 7.5
   },
   "fullSpec": {
@@ -26730,13 +26799,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (1,179 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/lily-miss-sunshine-by-plum-bodylovin",
+   "inciMatchedName": "Lily Miss Sunshine Sunscreen Body Lotion SPF 35 PA+++ by BodyLovin' (name match 95%)",
+   "inciList": "Aqua, Ethylhexyl Salicylate, Glycerin, Glyceryl Stearate, PEG-100 Stearate, C12-15 Alkyl Benzoate, Niacinamide, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Octocrylene, Fragrance, Aloe Barbadensis Leaf Juice, Phenylbenzimidazole Sulfonic Acid, Stearic Acid, Panthenol, Dibutyl Adipate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Silica, Dimethicone, Carbomer, Xanthan Gum, Sodium Gluconate",
+   "evidenceActives": "ethylhexyl salicylate (#2 on list, strong evidence); niacinamide (#5 on list, strong evidence); butyl methoxydibenzoylmethane (#7 on list, strong evidence); octocrylene (#8 on list, strong evidence); aloe barbadensis leaf juice (#10 on list, moderate evidence); phenylbenzimidazole sulfonic acid (#11 on list, strong evidence); panthenol (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 1,179 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -26765,7 +26837,10 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -26773,27 +26848,115 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/lily-miss-sunshine-by-plum-bodylovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lily Miss Sunshine Sunscreen Body Lotion SPF 35 PA+++ by BodyLovin'",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Ethylhexyl Salicylate, Glycerin, Glyceryl Stearate, PEG-100 Stearate, C12-15 Alkyl Benzoate, Niacinamide, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Octocrylene, Fragrance, Aloe Barbadensis Leaf Juice, Phenylbenzimidazole Sulfonic Acid, Stearic Acid, Panthenol, Dibutyl Adipate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Silica, Dimethicone, Carbomer, Xanthan Gum, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "panthenol",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -73453,8 +73616,8 @@ const NXPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
-   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
-   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml) (name match 100%)",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml) (name match 100%)",
    "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
    "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
@@ -73508,9 +73671,9 @@ const NXPRODUCTS = [
    "inci": "full",
    "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
    "inciMatchScore": 1,
    "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
    "inciUnverified": null,

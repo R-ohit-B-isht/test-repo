@@ -5782,6 +5782,330 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-zkfrkt",
+  "brand": "Deconstruct",
+  "model": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Retinol",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciMatchedName": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex (name match 100%)",
+   "inciList": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "evidenceActives": "retinol (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Retinol_cream_0889a824-4d5e-4041-8bbd-92615ea40f28.jpg?v=1769875874"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/retinol-cream",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "squalane",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-st9lk1",
+  "brand": "Deconstruct",
+  "model": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Retinol + Peptides",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Drying alcohol high in the list: alcohol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 8.1,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Retinol, Peptides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciMatchedName": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide (name match 100%)",
+   "inciList": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "evidenceActives": "retinol (#5 on list, strong evidence)",
+   "safetyFlags": "Drying alcohol high in the list: alcohol (−1)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — product type, retinol #5 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Untitled-1RETINOL_SERUM_30ML_02.webp?v=1779360786"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:retinol",
+   "ing:peptides",
+   "claim:anti-aging",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-1oa98oi",
   "brand": "The Derma Co",
   "model": "3000 PPM Retinol Microneedle Serum Shot with Squalene, Panthenol & Hyaluronic Acid for Ski…",

@@ -3920,16 +3920,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Body wax",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "thioglycolic acid high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 7.6
   },
   "fullSpec": {
@@ -3947,11 +3949,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (27,607 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Chamomile, Glycerine, Ewax, Cetanol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciMatchedName": "Intimate Hair Removal Cream (name match 92%)",
+   "listingIngredientLine": "Chamomile, Glycerine, Ewax, Cetanol (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
+   "evidenceActives": "thioglycolic acid (#4 on list, strong evidence); urea (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "R G Biocosmetic Pvt Ltd, C-65 Okhla Phase-1, New Delhi, 110020 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 27,607 ratings"
@@ -3978,7 +3983,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -3986,27 +3992,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Chamomile, Glycerine, Ewax, Cetanol",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intimate Hair Removal Cream",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "thioglycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "depilatory"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "urea"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -53040,16 +53091,19 @@ const NXPRODUCTS = [
   "capacityLine": "150 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Hair-removal cream / spray · ₹303/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Veet official website (www.veet.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "urea high on the INCI list (strong evidence); potassium thioglycolate high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum",
+   "EU-declared fragrance allergen: heyxl cinnamal, linalool",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 6,
+   "trust": 5.5,
    "experience": 2.8
   },
   "fullSpec": {
@@ -53067,11 +53121,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Veet official website (www.veet.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.veet.co.in/en/products/hair-removal-creams/veet-hair-removal-cream-underarm-pack/",
+   "inciMatchedName": "veet hair removal cream underarm pack (name match 88%)",
+   "inciList": "Aqua, Urea, Paraffinum Liquidum, Cetearyl Alcohol, Potassium Thioglycolate, Calcium Hydroxide, Talc, Ceteareth-20, Glycerin, Sorbitol, Parfum, Magnesium Trisilicate, Propylene Glycol, Lithium Magnesium Sodium Silicate, Sodium Gluconate, Tocopheryl Acetate, Aloe Barbadenis Leaf Juice, Heyxl Cinnamal, Linalool, Acrylates Copolymer, Butyphenyl, Methylpropional, CI 77891",
+   "evidenceActives": "urea (#2 on list, strong evidence); potassium thioglycolate (#5 on list, strong evidence); glycerin (#9 on list, strong evidence); aloe barbadensis leaf juice (#17 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−0.8); EU-declared fragrance allergen: heyxl cinnamal, linalool (−0.6)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 3 ratings"
   },
@@ -53098,7 +53154,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -53106,27 +53163,99 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Veet official website (www.veet.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.veet.co.in/en/products/hair-removal-creams/veet-hair-removal-cream-underarm-pack/",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "veet hair removal cream underarm pack",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Urea, Paraffinum Liquidum, Cetearyl Alcohol, Potassium Thioglycolate, Calcium Hydroxide, Talc, Ceteareth-20, Glycerin, Sorbitol, Parfum, Magnesium Trisilicate, Propylene Glycol, Lithium Magnesium Sodium Silicate, Sodium Gluconate, Tocopheryl Acetate, Aloe Barbadenis Leaf Juice, Heyxl Cinnamal, Linalool, Acrylates Copolymer, Butyphenyl, Methylpropional, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "potassium thioglycolate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "depilatory"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "urea",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "heyxl cinnamal",
+      "linalool"
+     ],
+     "penalty": 0.6,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -78941,18 +79070,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C",
   "featureLine": "Body wax",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "thioglycolic acid high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)",
    "Well-reviewed: 4.3★ from 11,500 ratings"
   ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 7.9
   },
   "fullSpec": {
@@ -78970,11 +79100,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (11,500 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Chamomile, Glycerine, Ewax, Cetanol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciMatchedName": "Intimate Hair Removal Cream (name match 92%)",
+   "listingIngredientLine": "Chamomile, Glycerine, Ewax, Cetanol (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
+   "evidenceActives": "thioglycolic acid (#4 on list, strong evidence); urea (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "R G Biocosmetic Pvt Ltd, C-65 Okhla Phase-1, New Delhi, 110020 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 11,500 ratings"
@@ -79003,7 +79136,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -79011,27 +79145,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Chamomile, Glycerine, Ewax, Cetanol",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intimate Hair Removal Cream",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "thioglycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "depilatory"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "urea"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -256955,16 +257134,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C",
   "featureLine": "Body wax",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "thioglycolic acid high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -256982,11 +257163,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciMatchedName": "Intimate Hair Removal Cream (name match 92%)",
+   "inciList": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
+   "evidenceActives": "thioglycolic acid (#4 on list, strong evidence); urea (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -257014,7 +257197,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -257022,27 +257206,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intimate Hair Removal Cream",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "thioglycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "depilatory"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "urea"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -343051,16 +343280,18 @@ const NXPRODUCTS = [
   "capacityLine": "120 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Hair-removal cream / spray · ₹187/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "thioglycolic acid high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -343078,11 +343309,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciMatchedName": "Intimate Hair Removal Cream (name match 100%)",
+   "inciList": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
+   "evidenceActives": "thioglycolic acid (#4 on list, strong evidence); urea (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -343106,7 +343339,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -343114,27 +343348,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/intimate-hair-removal-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intimate Hair Removal Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cetyl Alcohol, Ceteareth-20, Thioglycolic Acid, Calcium Hydroxide, Potassium Hydroxide, Glyceryl Monostearate (SE), Propylene Glycol, Paraffinum Liquidum, Urea, Hydroxyethyl Cellulose, Fragrance, Cetearyl Alcohol, Cetearyl Glucoside, Beta Glucan, Disodium EDTA, Butylated Hydroxytoluene (BHT), Magnesium Trisilicate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "thioglycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "depilatory"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "urea"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

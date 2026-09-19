@@ -88534,16 +88534,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Green tea + Cucumber + Mineral oil",
   "featureLine": "Micellar water",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Colorbar official website (www.colorbarcosmetics.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -88561,13 +88563,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Colorbar official website (www.colorbarcosmetics.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.colorbarcosmetics.com/products/ultimate-nail-enamel-remover",
+   "inciMatchedName": "Ultimate Nail Enamel Remover (name match 80%)",
+   "inciList": "Ethyl Acetate, Isopropyl Alcohol, Di Water, Glycerin, D-panthenol, Tocopheryl Acetate, Citric Acid, Potassium Sorbate, Sodium Benzoate, Perfume, Sodium Peg-7 Olive Oil Carboxylate, Propylene Glycol, Approved Colors",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#5 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41y7dD39IQL.jpg",
@@ -88596,7 +88601,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -88604,27 +88611,73 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Colorbar official website (www.colorbarcosmetics.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.colorbarcosmetics.com/products/ultimate-nail-enamel-remover",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ultimate Nail Enamel Remover",
+   "inciMatchScore": 0.8,
+   "inciText": "Ethyl Acetate, Isopropyl Alcohol, Di Water, Glycerin, D-panthenol, Tocopheryl Acetate, Citric Acid, Potassium Sorbate, Sodium Benzoate, Perfume, Sodium Peg-7 Olive Oil Carboxylate, Propylene Glycol, Approved Colors",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -91847,15 +91900,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Micellar water · ₹399/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (simple official website (www.simpleskincare.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -91873,13 +91927,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "simple official website (www.simpleskincare.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.simpleskincare.in/products/simple-water-boost-micellar-facial-wash-150ml",
+   "inciMatchedName": "Micellar Facial Wash 150ml (name match 85%)",
+   "inciList": "Water, Cocamidopropyl Betaine, Propylene Glycol, Hydroxypropyl Methylcellulose, Panthenol, Phenoxyethanol, Disodium edta, Iodopropynyl Butylcarbamate, Sodium hydroxide, Saccharide Isomerate(pentavitin), Glycerin, Tocopheryl acetate, Potassium chloride, Sodium chloride",
+   "evidenceActives": "panthenol (#5 on list, moderate evidence); glycerin (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qniU-8GPL._SL1500_.jpg",
@@ -91901,7 +91958,10 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -91909,25 +91969,62 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "simple official website (www.simpleskincare.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.simpleskincare.in/products/simple-water-boost-micellar-facial-wash-150ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Micellar Facial Wash 150ml",
+   "inciMatchScore": 0.85,
+   "inciText": "Water, Cocamidopropyl Betaine, Propylene Glycol, Hydroxypropyl Methylcellulose, Panthenol, Phenoxyethanol, Disodium edta, Iodopropynyl Butylcarbamate, Sodium hydroxide, Saccharide Isomerate(pentavitin), Glycerin, Tocopheryl acetate, Potassium chloride, Sodium chloride",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

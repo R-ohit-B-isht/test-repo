@@ -9033,17 +9033,17 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner · Paraben-free · ₹237/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 5,343 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 8.2
   },
   "fullSpec": {
@@ -9060,14 +9060,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (5,343 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-dewy-face-toner-with-96-pure-rice-water-extract-4-niacinamide-for-glass-skin-150-ml",
+   "inciMatchedName": "Rice Water Dewy Face Toner with 96% Pure Rice Water Extract & 4% Niacinamide for Glass Skin - 150 ml (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Glycerin, Oryza Sativa (Rice) Water, Propanediol, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Isopropyl Myristate, C12-15 Alkyl Benzoate, Hamamelis Virginiana (Witch Hazel) Extract, Phenoxyethanol, Ethylhexylglycerin, Methylpropanediol, Butylene Glycol, Panthenol, Glyceryl Stearate, Tween 20, Aloe Barbadensis (Aloe) Extract, Cetearyl Olivate, Sorbitan Olivate, Cucumis Sativus (Cucumber) Fruit Extract, Melaleuca Alternifolia Leaf Extract, Sodium Gluconate, Alpha Bisabolol, Citric Acid, Xanthan Gum",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); panthenol (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo Herbal Products (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 5,343 ratings"
+   "buyerEvidence": "4.4★ from 5,343 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/a/j/150-0-rice-water-dewy-face-toner-with-rice-water-4-niacinamide-enriched-transparent-original-imaheruafegdjagg.png?q=90",
@@ -9092,7 +9095,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -9101,25 +9108,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-dewy-face-toner-with-96-pure-rice-water-extract-4-niacinamide-for-glass-skin-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rice Water Dewy Face Toner with 96% Pure Rice Water Extract & 4% Niacinamide for Glass Skin - 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Glycerin, Oryza Sativa (Rice) Water, Propanediol, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Isopropyl Myristate, C12-15 Alkyl Benzoate, Hamamelis Virginiana (Witch Hazel) Extract, Phenoxyethanol, Ethylhexylglycerin, Methylpropanediol, Butylene Glycol, Panthenol, Glyceryl Stearate, Tween 20, Aloe Barbadensis (Aloe) Extract, Cetearyl Olivate, Sorbitan Olivate, Cucumis Sativus (Cucumber) Fruit Extract, Melaleuca Alternifolia Leaf Extract, Sodium Gluconate, Alpha Bisabolol, Citric Acid, Xanthan Gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -58025,18 +58071,20 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "ceramides + kojic acid + alpha arbutin",
   "featureLine": "Wash / cleanser · Paraben-free · ₹132/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 179 ratings"
   ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.5,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 6
   },
   "fullSpec": {
@@ -58053,11 +58101,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (179 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rice Water, Alpha-Arbutin, Ceramide, Kojic Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/rice-ceramide-face-toner",
+   "inciMatchedName": "Korean Ceramide + Rice Water Face Toner - 100 ml (name match 100%)",
+   "listingIngredientLine": "Rice Water, Alpha-Arbutin, Ceramide, Kojic Acid (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Glycerin, Polysorbate 20, Propanediol, Saccharum Officinarum (Sugar Cane) Extract (and) Vaccinium Myrtillus Extract (and) Citrus Aurantium Dulcis (Orange) Fruit Extract (and) Acer Saccharinum (Sugar Maple) Extract (and) Citrus Medica Limonum, Phenoxyethanol (and) Ethylhexylglycerin, Hamamelis virginiana (Witch Hazel) Leaf Oil, Perfume, Peg-40 Hydrogenated Castor Oil, Fermented Rice Water, Alpha-Arbutin, Ceramide, Imdermalab®PolysacGem\"(Sempervivum Tectorum Extract(and) Pullulan, Linum Usitatissimum(Linseed) Seed Extract(and) Tremella Fuciformis (Mushroom) Extract, (and)Ergothioneine, Acrylates Copolymer)\", Glycolic Acid, Rosa Damascena (Rose Flower) Water, Cucumis Sativus (Cucumber) Extract, Melaleuca Alternifolia(Tea Tree) Leaf Oil, Sodium Hydroxide, Niacinamide (Vitamin B3), Disodium EDTA, Kojic Acid, Simmondsia Chinensis (Jojoba) Oil, Tocopheryl Acetate (Vitamin E), Panthenol (Vitamin B5), Hyaluronic Acid, 3-O-Ethyl Ascorbic Acid (Vitamin C), CI 16255, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus (Almond) Oil, Linoleic Acid (and) Linolenic Acid (Vitamin F)",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); alpha-arbutin (#16 on list, moderate evidence); glycolic acid (#24 on list, strong evidence); melaleuca alternifolia leaf oil (#27 on list, moderate evidence); niacinamide (#29 on list, strong evidence); panthenol (#34 on list, moderate evidence); hyaluronic acid (#35 on list, moderate evidence); 3-o-ethyl ascorbic acid (#36 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 179 ratings"
   },
@@ -58094,7 +58145,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -58103,27 +58155,133 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rice Water, Alpha-Arbutin, Ceramide, Kojic Acid",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/rice-ceramide-face-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Korean Ceramide + Rice Water Face Toner - 100 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Polysorbate 20, Propanediol, Saccharum Officinarum (Sugar Cane) Extract (and) Vaccinium Myrtillus Extract (and) Citrus Aurantium Dulcis (Orange) Fruit Extract (and) Acer Saccharinum (Sugar Maple) Extract (and) Citrus Medica Limonum, Phenoxyethanol (and) Ethylhexylglycerin, Hamamelis virginiana (Witch Hazel) Leaf Oil, Perfume, Peg-40 Hydrogenated Castor Oil, Fermented Rice Water, Alpha-Arbutin, Ceramide, Imdermalab®PolysacGem\"(Sempervivum Tectorum Extract(and) Pullulan, Linum Usitatissimum(Linseed) Seed Extract(and) Tremella Fuciformis (Mushroom) Extract, (and)Ergothioneine, Acrylates Copolymer)\", Glycolic Acid, Rosa Damascena (Rose Flower) Water, Cucumis Sativus (Cucumber) Extract, Melaleuca Alternifolia(Tea Tree) Leaf Oil, Sodium Hydroxide, Niacinamide (Vitamin B3), Disodium EDTA, Kojic Acid, Simmondsia Chinensis (Jojoba) Oil, Tocopheryl Acetate (Vitamin E), Panthenol (Vitamin B5), Hyaluronic Acid, 3-O-Ethyl Ascorbic Acid (Vitamin C), CI 16255, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus (Almond) Oil, Linoleic Acid (and) Linolenic Acid (Vitamin F)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "teaTree"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 34,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "panthenol",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -77173,15 +77331,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "glycolic acid + green tea",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹185/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); camellia sinensis leaf extract high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.5,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -77198,11 +77358,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciMatchedName": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin (name match 94%)",
+   "inciList": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); camellia sinensis leaf extract (#4 on list, moderate evidence); glycolic acid (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -77228,7 +77390,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -77237,27 +77400,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -79154,15 +79354,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner · Alcohol-free · ₹261/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -79179,13 +79380,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-dewy-face-toner-with-96-pure-rice-water-extract-4-niacinamide-for-glass-skin-150-ml",
+   "inciMatchedName": "Rice Water Dewy Face Toner with 96% Pure Rice Water Extract & 4% Niacinamide for Glass Skin - 150 ml (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Glycerin, Oryza Sativa (Rice) Water, Propanediol, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Isopropyl Myristate, C12-15 Alkyl Benzoate, Hamamelis Virginiana (Witch Hazel) Extract, Phenoxyethanol, Ethylhexylglycerin, Methylpropanediol, Butylene Glycol, Panthenol, Glyceryl Stearate, Tween 20, Aloe Barbadensis (Aloe) Extract, Cetearyl Olivate, Sorbitan Olivate, Cucumis Sativus (Cucumber) Fruit Extract, Melaleuca Alternifolia Leaf Extract, Sodium Gluconate, Alpha Bisabolol, Citric Acid, Xanthan Gum",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); panthenol (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yzf2F1idL._AC_UL320_.jpg"
@@ -79207,7 +79411,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -79216,25 +79424,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-dewy-face-toner-with-96-pure-rice-water-extract-4-niacinamide-for-glass-skin-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rice Water Dewy Face Toner with 96% Pure Rice Water Extract & 4% Niacinamide for Glass Skin - 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Glycerin, Oryza Sativa (Rice) Water, Propanediol, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Isopropyl Myristate, C12-15 Alkyl Benzoate, Hamamelis Virginiana (Witch Hazel) Extract, Phenoxyethanol, Ethylhexylglycerin, Methylpropanediol, Butylene Glycol, Panthenol, Glyceryl Stearate, Tween 20, Aloe Barbadensis (Aloe) Extract, Cetearyl Olivate, Sorbitan Olivate, Cucumis Sativus (Cucumber) Fruit Extract, Melaleuca Alternifolia Leaf Extract, Sodium Gluconate, Alpha Bisabolol, Citric Acid, Xanthan Gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -81062,15 +81309,16 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "niacinamide + glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹344/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.6,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -81087,13 +81335,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciMatchedName": "Exfoliating 7% Glycolic Acid Toner (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); niacinamide (#4 on list, strong evidence); panthenol (#5 on list, moderate evidence); oryza sativa extract (#15 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/419JE-AJmxL._AC_UL320_.jpg"
@@ -81113,7 +81364,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -81122,25 +81378,87 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating 7% Glycolic Acid Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "panthenol",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -108878,16 +109196,18 @@ const CTPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "glycolic acid + green tea",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹280/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); camellia sinensis leaf extract high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.5,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -108904,11 +109224,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciMatchedName": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin (name match 94%)",
+   "inciList": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); camellia sinensis leaf extract (#4 on list, moderate evidence); glycolic acid (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -108934,7 +109256,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -108943,27 +109266,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/green-tea-alcohol-free-pore-tightening-face-toner-for-oily-acne-prone-skin-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Green Tea Alcohol-Free Pore Tightening Face Toner For Oily & Acne-Prone Skin",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Glycerin, Peg-40 Hydrogenated Castor Oil, Camellia Sinensis (Green Tea) Leaf Extract, Sodium Gluconate, Phenoxyethanol, Glycolic Acid, Ethylhexylglycerin, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -125832,15 +126192,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "glycolic acid + hyaluronic acid + ceramides",
   "featureLine": "Scrub / exfoliant · ₹283/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -125857,11 +126218,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/7-glycolic-acid-hydrating-toner-with-glycolic-acid-hyaluronic-acid-for-gentle-exfoliation-150-ml",
+   "inciMatchedName": "7% Glycolic Acid Hydrating Toner with Glycolic Acid & Hyaluronic Acid For Gentle Exfoliation - 150 ml (name match 92%)",
+   "inciList": "Purified Water, Glycolic Acid, Triethanolamine, Glycerine, Sodium Hyaluronate, Hordeum vulgare Seed Extract, Aloe vera Juice, Phenoxyethanol, Ethylhexylglycerine, Allantoin, Hydroxyethylcellulose, Laminaria Digitata Extract & Cetyl-PG Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Olea Europaea (Olive) Leaf Extract, Xylitylglucoside, Anhydroxylitol and Xylitol",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); sodium hyaluronate (#5 on list, moderate evidence); allantoin (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -125885,7 +126248,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -125894,25 +126259,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/7-glycolic-acid-hydrating-toner-with-glycolic-acid-hyaluronic-acid-for-gentle-exfoliation-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "7% Glycolic Acid Hydrating Toner with Glycolic Acid & Hyaluronic Acid For Gentle Exfoliation - 150 ml",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Glycolic Acid, Triethanolamine, Glycerine, Sodium Hyaluronate, Hordeum vulgare Seed Extract, Aloe vera Juice, Phenoxyethanol, Ethylhexylglycerine, Allantoin, Hydroxyethylcellulose, Laminaria Digitata Extract & Cetyl-PG Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Olea Europaea (Olive) Leaf Extract, Xylitylglucoside, Anhydroxylitol and Xylitol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -134101,15 +134502,16 @@ const CTPRODUCTS = [
   "capacityLine": "190 ml",
   "materialLine": "niacinamide",
   "featureLine": "Toner · Fragrance-free · ₹1174/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -134126,13 +134528,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-balancing-pore-reducing-toner",
+   "inciMatchedName": "Pore-Reducing Toner (name match 88%)",
+   "inciList": "Water (Aqua), Glycerin, Butylene Glycol, Niacinamide, Polysorbate 20, Adenosine, Anthemis Nobilis (Chamomile) Flower Extract, Arctium Lappa (Burdock) Root Extract, Hydrolyzed Jojoba Esters, Sodium PCA, Panthenol, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Tetrahexyldecyl Ascorbate (vitamin C/antioxidant), Oleth-10, Sodium Lauroyl Lactylate, Caprylyl Glycol, Hexylene Glycol, Sodium Citrate, Xanthan Gum, Trisodium EDTA, Phenoxyethanol. Read more Read more",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#4 on list, strong evidence); panthenol (#11 on list, moderate evidence); sodium hyaluronate (#12 on list, moderate evidence); ceramide np (#13 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, tetrahexyldecyl ascorbate #18 on INCI; Aging — adenosine #6 on INCI, tetrahexyldecyl ascorbate #18 on INCI; Irritation — panthenol #11 on INCI, ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WPHPdmRHL._AC_UL320_.jpg"
@@ -134154,7 +134559,13 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -134163,25 +134574,117 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-balancing-pore-reducing-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Pore-Reducing Toner",
+   "inciMatchScore": 0.88,
+   "inciText": "Water (Aqua), Glycerin, Butylene Glycol, Niacinamide, Polysorbate 20, Adenosine, Anthemis Nobilis (Chamomile) Flower Extract, Arctium Lappa (Burdock) Root Extract, Hydrolyzed Jojoba Esters, Sodium PCA, Panthenol, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Tetrahexyldecyl Ascorbate (vitamin C/antioxidant), Oleth-10, Sodium Lauroyl Lactylate, Caprylyl Glycol, Hexylene Glycol, Sodium Citrate, Xanthan Gum, Trisodium EDTA, Phenoxyethanol. Read more Read more",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "tetrahexyldecyl ascorbate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "niacinamide",
+    "sodium pca",
+    "panthenol",
+    "sodium hyaluronate",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -178469,19 +178972,17 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹175/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.3,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -178498,17 +178999,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
-   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 88%)",
-   "listingIngredientLine": "NATURAL (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
-   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/5/t/1/250-heartleaf-77-soothing-toner-anua-original-imahgg8ehx59wyn8.jpeg?q=90",
@@ -178535,10 +179032,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -178547,89 +179041,25 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
-   "inciSourceRegion": "US",
-   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
-   "inciMatchScore": 0.88,
-   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 0.96,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 4,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "centella asiatica extract",
-     "grade": "B",
-     "position": 12,
-     "core": true,
-     "trace": true,
-     "src": "centella"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 18,
-     "core": true,
-     "trace": true,
-     "src": "ha"
-    },
-    {
-     "name": "hydrolyzed hyaluronic acid",
-     "grade": "B",
-     "position": 20,
-     "core": true,
-     "trace": true,
-     "src": "ha"
-    },
-    {
-     "name": "sodium acetylated hyaluronate",
-     "grade": "B",
-     "position": 21,
-     "core": true,
-     "trace": true,
-     "src": "ha"
-    },
-    {
-     "name": "hyaluronic acid",
-     "grade": "B",
-     "position": 22,
-     "core": true,
-     "trace": true,
-     "src": "ha"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "butylene glycol",
-    "panthenol",
-    "sodium hyaluronate",
-    "hydrolyzed hyaluronic acid",
-    "hyaluronic acid"
-   ],
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "NATURAL",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -214890,15 +215320,16 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "PHA",
   "featureLine": "Scrub / exfoliant · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9.3,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 5
   },
   "fullSpec": {
@@ -214915,13 +215346,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-pha-toner-200ml",
+   "inciMatchedName": "Alltimate Pha Toner 200ml (name match 100%)",
+   "inciList": "Water/Eau, Propanediol, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Urea, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Dipropylene Glycol, Tromethamine, Carnitine, Allantoin, Salicylic Acid, Sodium Polyacrylate, Hydrolyzed Hyaluronic Acid, Citric Acid, Serine, Arginine, Dipotassium Glycyrrhizate, Gluconolactone, Beta-Glucan",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); glycerin (#7 on list, strong evidence); allantoin (#11 on list, limited evidence); salicylic acid (#12 on list, strong evidence); hydrolyzed hyaluronic acid (#14 on list, moderate evidence); gluconolactone (#19 on list, moderate evidence); beta-glucan (#20 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #4 on INCI, dipotassium glycyrrhizate #18 on INCI; Irritation — beta-glucan #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41QxRsTLWWL._AC_UL320_.jpg"
@@ -214947,7 +215381,12 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -214956,25 +215395,103 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-pha-toner-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Alltimate Pha Toner 200ml",
+   "inciMatchScore": 1,
+   "inciText": "Water/Eau, Propanediol, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Urea, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Dipropylene Glycol, Tromethamine, Carnitine, Allantoin, Salicylic Acid, Sodium Polyacrylate, Hydrolyzed Hyaluronic Acid, Citric Acid, Serine, Arginine, Dipotassium Glycyrrhizate, Gluconolactone, Beta-Glucan",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "hydrolyzed hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

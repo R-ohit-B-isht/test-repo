@@ -83206,15 +83206,17 @@ const CTPRODUCTS = [
   "capacityLine": "75 g",
   "materialLine": "lactic acid + clay/mud + ubtan",
   "featureLine": "Mask / pack · ₹639/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "kaolin high on the INCI list (limited evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.2,
+   "skin": 8.8,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -83231,11 +83233,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciMatchedName": "Skin Radiance De-Tan Mask (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
+   "evidenceActives": "kaolin (#2 on list, limited evidence); glycerin (#3 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -83261,7 +83265,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -83270,27 +83275,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/skin-radiance-mask-m",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Radiance De-Tan Mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, C15-19 alkane, Behenyl Alcohol, Paraffinum Liquidum, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, PEG - 8, PEG 40 hydrogenated castor oil, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Betaine, Silica, Cetearyl Alcohol, Cetearyl Glucoside, Titanium Dioxide, Dimethicone, Phenoxyethanol, Allantoin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia senegal gum, Xanthan gum, Ethylhexylglycerin, Octenidine HCl, Citric acid, Sodium benzoate, Disodium EDTA, Menthone Glycerin Acetal, Menthol, Lactic acid, Allergen Free Fragrance, CI 12490, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",

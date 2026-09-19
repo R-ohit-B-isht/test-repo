@@ -19125,15 +19125,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + Centella / cica",
   "featureLine": "Serum · ₹1717/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
+   "ingredients": 8.6,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -19151,14 +19152,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: Purified Water (Aqua), Propanediol (1,3-Propanediol; Humectant), Niacinamide (Vitamin B3; Nicotinamide), Ethoxydiglycol (DEGEE; Diethylene Glycol Monoethyl Ether; Solvent), Butylene Glycol (1,3-Butanediol; Humectant) & Rosa Canina Fruit Extract (Rosehip Extract; Antioxidant), PEG-8 (Polyethylene Glycol-8; Humectant/Solvent), Salicylic Acid (BHA; Beta Hydroxy Acid; Exfoliant), Isostearamidopropyl E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/sali-cinamide-anti-acne-serum-with-2-salicylic-acid-5-niacinamide-30ml",
+   "inciMatchedName": "Sali-Cinamide Anti-Acne Serum with 2% Salicylic Acid & 5% Niacinamide - 30ml (name match 94%)",
+   "listingIngredientLine": "Purified Water (Aqua), Propanediol (1,3-Propanediol; Humectant), Niacinamide (Vitamin B3; Nicotinamide), Ethoxydiglycol (DEGEE; Diethylene Glycol Monoethyl Ether; Solvent), Butylene Glycol (1,3-Butanediol; Humectant) & Rosa Canina Fruit Extract (Rosehip Extract; Antioxidant), PEG-8 (Polyethylene Gly (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Aqua, 1,3-Propanediol, Ethoxydiglycol, Niacinamide, Salicylic Acid, Dimethyl Isosorbide, Glycerin, Pentylene Glycol, Methylpropanediol, Pullulan, Sodium Hyaluronate, Xanthan Gum, Hordeum Vulgare Extract, Methyl Gluceth-20, Algin, PEG-40 Hydrogenated Castor Oil, Ethylhexylglycerin, Phenoxyethanol, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Tris(Tetramethylhydroxypiperidinol) Citrate, Propylene Glycol, Citric Acid, Calcium Chloride, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); glycerin (#7 on list, strong evidence); sodium hyaluronate (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #5 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51iVazM8+aL._AC_UL320_.jpg"
@@ -19187,8 +19191,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:irritation",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -19196,25 +19204,70 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Purified Water (Aqua), Propanediol (1,3-Propanediol; Humectant), Niacinamide (Vitamin B3; Nicotinamide), Ethoxydiglycol (DEGEE; Diethylene Glycol Monoethyl Ether; Solvent), Butylene Glycol (1,3-Butanediol; Humectant) & Rosa Canina Fruit Extract (Rosehip Extract; Antioxidant), PEG-8 (Polyethylene Glycol-8; Humectant/Solvent), Salicylic Acid (BHA; Beta Hydroxy Acid; Exfoliant), Isostearamidopropyl E",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.62,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/sali-cinamide-anti-acne-serum-with-2-salicylic-acid-5-niacinamide-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sali-Cinamide Anti-Acne Serum with 2% Salicylic Acid & 5% Niacinamide - 30ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, 1,3-Propanediol, Ethoxydiglycol, Niacinamide, Salicylic Acid, Dimethyl Isosorbide, Glycerin, Pentylene Glycol, Methylpropanediol, Pullulan, Sodium Hyaluronate, Xanthan Gum, Hordeum Vulgare Extract, Methyl Gluceth-20, Algin, PEG-40 Hydrogenated Castor Oil, Ethylhexylglycerin, Phenoxyethanol, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Tris(Tetramethylhydroxypiperidinol) Citrate, Propylene Glycol, Citric Acid, Calcium Chloride, Sodium Benzoate, Potassium Sorbate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

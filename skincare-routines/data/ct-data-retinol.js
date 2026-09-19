@@ -10245,17 +10245,18 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "retinol + peptides",
   "featureLine": "Serum · ₹2050/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "retinol high on the INCI list (strong evidence)",
    "Well-reviewed: 4.3★ from 1,644 ratings"
   ],
   "cons": [
-   "Only 2 ingredients named — formula unscored"
+   "Drying alcohol high in the list: alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 5.9,
+   "skin": 8.1,
+   "trust": 7,
    "experience": 7.4
   },
   "fullSpec": {
@@ -10272,14 +10273,17 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (1,644 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 0.2% Retinol, 1% Peptide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciMatchedName": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide (name match 95%)",
+   "listingIngredientLine": "0.2% Retinol, 1% Peptide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "evidenceActives": "retinol (#5 on list, strong evidence)",
+   "safetyFlags": "Drying alcohol high in the list: alcohol (−1)",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 1,644 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/k/r/n/60-0-2-retinol-anti-aging-face-serum-with-peptide-reduces-fine-original-imagwfwrgu8fwdzy.jpeg?q=90",
@@ -10305,7 +10309,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -10314,27 +10320,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "0.2% Retinol, 1% Peptide",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-and-peptide-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol & Peptide Serum for Anti-aging - 0.2% Retinol + 1% Peptide",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Pentylene Glycol (and) Lecithin (and) Alcohol (and) Retinol (and) Polysorbate 20 (and) Potassium Phosphate (and) Tocopherol, Pisum Sativum (Pea) Extract, Glycerin, Phenoxyethanol (and) Ethylhexylglycerin, Palmaria Palmata extract, Xanthan Gum, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate, Sodium Hyaluronate, Betaine, Tocopherol,Tocotrienol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Deconstruct Skincare",
     "kind": "d2c",
@@ -10580,17 +10632,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol + hyaluronic acid",
   "featureLine": "Serum · Paraben-free · ₹2240/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (La Roche-Posay official website (www.laroche-posay.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "retinyl palmitate high on the INCI list (limited evidence)",
    "Made by L'Oréal Dermatological Beauty (dermatology / pharma maker)"
   ],
   "cons": [
-   "Only 4 ingredients named — formula unscored"
+   "Added fragrance (parfum): parfum/fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8.3,
+   "ingredients": 5.1,
+   "skin": 8.5,
+   "trust": 10,
    "experience": 2.6
   },
   "fullSpec": {
@@ -10607,14 +10660,17 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "3.6/5 (25 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Retinol, Vitamin B3, Hyaluronic Acid, Glycerin",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "La Roche-Posay official website (www.laroche-posay.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.laroche-posay.co.in/mela-b3/mela-b3-serum",
+   "inciMatchedName": "mela b3 serum (name match 82%)",
+   "listingIngredientLine": "Retinol, Vitamin B3, Hyaluronic Acid, Glycerin (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "AQUA/WATER/EAU, DIMETHICONE, NIACINAMIDE, GLYCERIN, PROPYLENE GLYCOL, POLYSILICONE-11, SILICA, BIS-PEG/PPG-16/16 PEG/PPG-16/16 DIMETHICONE, CYSTOSEIRA TAMARISCIFOLIA EXTRACT, 2-MERCAPTONICOTINOYL GLYCINE, PEG-20 METHYL GLUCOSE SESQUISTEARATE, SODIUM HYALURONATE, SODIUM HYDROXIDE, SODIUM THIOSULFATE, CARNOSINE, POLOXAMER 338, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, DIPOTASSIUM GLYCYRRHIZATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAPRYLOYL SALICYLIC ACID, CAPRYLYL GLYCOL, CITRIC ACID, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, XANTHAN GUM, PENTYLENE GLYCOL, OCTYLDODECANOL, RETINYL PALMITATE, TOCOPHEROL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, PHENOXYETHANOL, CI 17200/RED 33, PARFUM/FRAGRANCE",
+   "evidenceActives": "retinyl palmitate (#27 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "3.6★ from 25 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, dipotassium glycyrrhizate #18 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/n/6/i/30-pure-retinol-face-serum-with-vitamin-b3-anti-aging-face-serum-original-imagxk3vd6trhbzj.jpeg?q=90",
@@ -10643,8 +10699,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -10654,27 +10713,107 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Retinol, Vitamin B3, Hyaluronic Acid, Glycerin",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "La Roche-Posay official website (www.laroche-posay.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.laroche-posay.co.in/mela-b3/mela-b3-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "mela b3 serum",
+   "inciMatchScore": 0.82,
+   "inciText": "AQUA/WATER/EAU, DIMETHICONE, NIACINAMIDE, GLYCERIN, PROPYLENE GLYCOL, POLYSILICONE-11, SILICA, BIS-PEG/PPG-16/16 PEG/PPG-16/16 DIMETHICONE, CYSTOSEIRA TAMARISCIFOLIA EXTRACT, 2-MERCAPTONICOTINOYL GLYCINE, PEG-20 METHYL GLUCOSE SESQUISTEARATE, SODIUM HYALURONATE, SODIUM HYDROXIDE, SODIUM THIOSULFATE, CARNOSINE, POLOXAMER 338, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, DIPOTASSIUM GLYCYRRHIZATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAPRYLOYL SALICYLIC ACID, CAPRYLYL GLYCOL, CITRIC ACID, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, XANTHAN GUM, PENTYLENE GLYCOL, OCTYLDODECANOL, RETINYL PALMITATE, TOCOPHEROL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, PHENOXYETHANOL, CI 17200/RED 33, PARFUM/FRAGRANCE",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "niacinamide",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal Dermatological Beauty",
     "kind": "pharma",
@@ -11395,17 +11534,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol",
   "featureLine": "Serum · ₹2543/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (La Roche-Posay official website (www.laroche-posay.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "retinyl palmitate high on the INCI list (limited evidence)",
    "Made by L'Oréal Dermatological Beauty (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 5.1,
+   "skin": 8.5,
+   "trust": 10,
    "experience": 3.8
   },
   "fullSpec": {
@@ -11422,14 +11562,16 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.1/5 (13 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "La Roche-Posay official website (www.laroche-posay.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.laroche-posay.co.in/mela-b3/mela-b3-serum",
+   "inciMatchedName": "mela b3 serum (name match 85%)",
+   "inciList": "AQUA/WATER/EAU, DIMETHICONE, NIACINAMIDE, GLYCERIN, PROPYLENE GLYCOL, POLYSILICONE-11, SILICA, BIS-PEG/PPG-16/16 PEG/PPG-16/16 DIMETHICONE, CYSTOSEIRA TAMARISCIFOLIA EXTRACT, 2-MERCAPTONICOTINOYL GLYCINE, PEG-20 METHYL GLUCOSE SESQUISTEARATE, SODIUM HYALURONATE, SODIUM HYDROXIDE, SODIUM THIOSULFATE, CARNOSINE, POLOXAMER 338, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, DIPOTASSIUM GLYCYRRHIZATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAPRYLOYL SALICYLIC ACID, CAPRYLYL GLYCOL, CITRIC ACID, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, XANTHAN GUM, PENTYLENE GLYCOL, OCTYLDODECANOL, RETINYL PALMITATE, TOCOPHEROL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, PHENOXYETHANOL, CI 17200/RED 33, PARFUM/FRAGRANCE",
+   "evidenceActives": "retinyl palmitate (#27 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.1★ from 13 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, dipotassium glycyrrhizate #18 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/d/x/v/30-pure-retinol-serum-with-vitamin-b3-anti-aging-face-serum-1-la-original-imagxz2bcqyeucw7.jpeg?q=90",
@@ -11456,8 +11598,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -11467,27 +11612,107 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "La Roche-Posay official website (www.laroche-posay.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.laroche-posay.co.in/mela-b3/mela-b3-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "mela b3 serum",
+   "inciMatchScore": 0.85,
+   "inciText": "AQUA/WATER/EAU, DIMETHICONE, NIACINAMIDE, GLYCERIN, PROPYLENE GLYCOL, POLYSILICONE-11, SILICA, BIS-PEG/PPG-16/16 PEG/PPG-16/16 DIMETHICONE, CYSTOSEIRA TAMARISCIFOLIA EXTRACT, 2-MERCAPTONICOTINOYL GLYCINE, PEG-20 METHYL GLUCOSE SESQUISTEARATE, SODIUM HYALURONATE, SODIUM HYDROXIDE, SODIUM THIOSULFATE, CARNOSINE, POLOXAMER 338, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, DIPOTASSIUM GLYCYRRHIZATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAPRYLOYL SALICYLIC ACID, CAPRYLYL GLYCOL, CITRIC ACID, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, XANTHAN GUM, PENTYLENE GLYCOL, OCTYLDODECANOL, RETINYL PALMITATE, TOCOPHEROL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, PHENOXYETHANOL, CI 17200/RED 33, PARFUM/FRAGRANCE",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "niacinamide",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal Dermatological Beauty",
     "kind": "pharma",
@@ -21322,15 +21547,15 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol",
   "featureLine": "Cream / gel",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.9
   },
   "fullSpec": {
@@ -21347,11 +21572,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4/5 (7,818 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Encapsulated Retinol, Olive oil, Amino acids, Hyaluronic acid, Marula oil, Multi peptides",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/defender-multi-peptide-retinol-night-anti-ageing-cream-test",
+   "inciMatchedName": "Defender Multi Peptide Retinol Night Anti Ageing Cream | Test (name match 75%)",
+   "listingIngredientLine": "Encapsulated Retinol, Olive oil, Amino acids, Hyaluronic acid, Marula oil, Multi peptides (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Isopropyl Myristate, Glyceryl Monostearate, Cetearyl Olivate & Sorbitan Olivate, Cetostearyl Alcohol, Dimethicone, Caprylic/Caprictriglyceride, Cocos Nucifera (Coconut) Oil, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer & Hydrogenated Polydecene & Lauryl Glucoside, Phenoxyethanol, Helianthus Annuus Seed Oil & Alcohol & Glyceryl Monooleate, Glycyrrhiza Glabra (Licorice) Root Extract, Allantoin, Mauritia Flexuosa (Buriti) Fruit Oil, Retinol & Polysorbate 20 & Butylated Hydroxy Anisol, Lecithin & Acetyl Glutamine & SH-Oligopeptide-1 & SH-Oligopeptide-2 & SH-Polypeptide-1 & SH-Polypeptide-9 & SH-Polypeptide-11 & Bacillus/Soybean Ferment Extract & Sodium Hyaluronate & Caprylyl Glycol & Butylene Glycol, Hexapeptide-11 & Leuconostoc/Radish Root Ferment Filtrate, Sodium Hyaluronate, Tocopheryl Acetate, Bisabolol, Adansonia Digitate (Baobab) Oil, Caffeine, Butylated Hydroxytoluene, Disodium EDTA, Sclerocarya Birrea (Marula) Fruit Oil, Ubiquinone",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Percos India Private Limited, Haridwar, Uttrakhand, India (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 7,818 ratings",
@@ -21377,7 +21605,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -21386,25 +21616,101 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Encapsulated Retinol, Olive oil, Amino acids, Hyaluronic acid, Marula oil, Multi peptides",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/defender-multi-peptide-retinol-night-anti-ageing-cream-test",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Defender Multi Peptide Retinol Night Anti Ageing Cream | Test",
+   "inciMatchScore": 0.75,
+   "inciText": "Aqua, Propylene Glycol, Isopropyl Myristate, Glyceryl Monostearate, Cetearyl Olivate & Sorbitan Olivate, Cetostearyl Alcohol, Dimethicone, Caprylic/Caprictriglyceride, Cocos Nucifera (Coconut) Oil, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer & Hydrogenated Polydecene & Lauryl Glucoside, Phenoxyethanol, Helianthus Annuus Seed Oil & Alcohol & Glyceryl Monooleate, Glycyrrhiza Glabra (Licorice) Root Extract, Allantoin, Mauritia Flexuosa (Buriti) Fruit Oil, Retinol & Polysorbate 20 & Butylated Hydroxy Anisol, Lecithin & Acetyl Glutamine & SH-Oligopeptide-1 & SH-Oligopeptide-2 & SH-Polypeptide-1 & SH-Polypeptide-9 & SH-Polypeptide-11 & Bacillus/Soybean Ferment Extract & Sodium Hyaluronate & Caprylyl Glycol & Butylene Glycol, Hexapeptide-11 & Leuconostoc/Radish Root Ferment Filtrate, Sodium Hyaluronate, Tocopheryl Acetate, Bisabolol, Adansonia Digitate (Baobab) Oil, Caffeine, Butylated Hydroxytoluene, Disodium EDTA, Sclerocarya Birrea (Marula) Fruit Oil, Ubiquinone",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "caffeine"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -22890,15 +23196,15 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "retinol",
   "featureLine": "Cream / gel · ₹730/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 4.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.1
   },
   "fullSpec": {
@@ -22915,11 +23221,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (583 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: ,Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Olive Oil Polyglyceryl-6 Esters, Sodium Stearoyl Lactylate,",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/defender-multi-peptide-retinol-night-anti-ageing-cream-test",
+   "inciMatchedName": "Defender Multi Peptide Retinol Night Anti Ageing Cream | Test (name match 75%)",
+   "listingIngredientLine": ",Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Olive Oil Polyglyceryl-6 Esters, Sodium Stearoyl Lactylate, (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Propylene Glycol, Isopropyl Myristate, Glyceryl Monostearate, Cetearyl Olivate & Sorbitan Olivate, Cetostearyl Alcohol, Dimethicone, Caprylic/Caprictriglyceride, Cocos Nucifera (Coconut) Oil, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer & Hydrogenated Polydecene & Lauryl Glucoside, Phenoxyethanol, Helianthus Annuus Seed Oil & Alcohol & Glyceryl Monooleate, Glycyrrhiza Glabra (Licorice) Root Extract, Allantoin, Mauritia Flexuosa (Buriti) Fruit Oil, Retinol & Polysorbate 20 & Butylated Hydroxy Anisol, Lecithin & Acetyl Glutamine & SH-Oligopeptide-1 & SH-Oligopeptide-2 & SH-Polypeptide-1 & SH-Polypeptide-9 & SH-Polypeptide-11 & Bacillus/Soybean Ferment Extract & Sodium Hyaluronate & Caprylyl Glycol & Butylene Glycol, Hexapeptide-11 & Leuconostoc/Radish Root Ferment Filtrate, Sodium Hyaluronate, Tocopheryl Acetate, Bisabolol, Adansonia Digitate (Baobab) Oil, Caffeine, Butylated Hydroxytoluene, Disodium EDTA, Sclerocarya Birrea (Marula) Fruit Oil, Ubiquinone",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Anapure Biocos Plot no:911, Phase 2 Ind. Area, 1, 160002 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 583 ratings",
@@ -22945,7 +23254,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -22954,25 +23265,101 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": ",Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Olive Oil Polyglyceryl-6 Esters, Sodium Stearoyl Lactylate,",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/defender-multi-peptide-retinol-night-anti-ageing-cream-test",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Defender Multi Peptide Retinol Night Anti Ageing Cream | Test",
+   "inciMatchScore": 0.75,
+   "inciText": "Aqua, Propylene Glycol, Isopropyl Myristate, Glyceryl Monostearate, Cetearyl Olivate & Sorbitan Olivate, Cetostearyl Alcohol, Dimethicone, Caprylic/Caprictriglyceride, Cocos Nucifera (Coconut) Oil, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer & Hydrogenated Polydecene & Lauryl Glucoside, Phenoxyethanol, Helianthus Annuus Seed Oil & Alcohol & Glyceryl Monooleate, Glycyrrhiza Glabra (Licorice) Root Extract, Allantoin, Mauritia Flexuosa (Buriti) Fruit Oil, Retinol & Polysorbate 20 & Butylated Hydroxy Anisol, Lecithin & Acetyl Glutamine & SH-Oligopeptide-1 & SH-Oligopeptide-2 & SH-Polypeptide-1 & SH-Polypeptide-9 & SH-Polypeptide-11 & Bacillus/Soybean Ferment Extract & Sodium Hyaluronate & Caprylyl Glycol & Butylene Glycol, Hexapeptide-11 & Leuconostoc/Radish Root Ferment Filtrate, Sodium Hyaluronate, Tocopheryl Acetate, Bisabolol, Adansonia Digitate (Baobab) Oil, Caffeine, Butylated Hydroxytoluene, Disodium EDTA, Sclerocarya Birrea (Marula) Fruit Oil, Ubiquinone",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "caffeine"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -22993,15 +23380,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol",
   "featureLine": "Cream / gel",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 5.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.3
   },
   "fullSpec": {
@@ -23018,15 +23406,18 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (463 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: 0.1% Retinol, 1% Beta-Glucan Complex|",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciMatchedName": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex (name match 100%)",
+   "listingIngredientLine": "0.1% Retinol, 1% Beta-Glucan Complex| (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "evidenceActives": "retinol (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 463 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/y/-original-imahhy36bnztbe9a.jpeg?q=90",
@@ -23046,8 +23437,12 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -23056,25 +23451,88 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "0.1% Retinol, 1% Beta-Glucan Complex|",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "squalane",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -76417,15 +76875,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹1657/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -76442,14 +76901,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/retinol-anti-ageing-night-serum-v3",
+   "inciMatchedName": "0.15% Beginner-friendly Retinol Night Serum (name match 100%)",
+   "inciList": "Aqua, Propylene glycol, Dicaprylyl Carbonate, Dimethicone, Caprylic/capric triglyceride, Cetearyl Olivate, Sorbitan Olivate, Glyceryl monostearate, Propanediol, Behenyl alcohol, Retinol, Poloxamer 235, Epigallocatechin Gallate, Polysorbate 20, BHT, BHA, Sodium Ascorbate, Betaine, Niacinamide, Garcinia indica seed butter, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polymethylsilsesquioxane, Phenoxyethanol, Tocopherol, Allantoin, Palmitoyl Glycine, Sodium hyaluronate, Ethylhexylglycerin, Octenidine HCl, Ammonium Acryloyldimethyltaurate/VP Copolymer, Disodium EDTA, Sodium hydroxide, Allergen free fragrance",
+   "evidenceActives": "retinol (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI; Aging — product type, retinol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41GFgqMtJnL._SL1080_.jpg",
@@ -76480,8 +76941,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -76490,25 +76955,95 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/retinol-anti-ageing-night-serum-v3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "0.15% Beginner-friendly Retinol Night Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene glycol, Dicaprylyl Carbonate, Dimethicone, Caprylic/capric triglyceride, Cetearyl Olivate, Sorbitan Olivate, Glyceryl monostearate, Propanediol, Behenyl alcohol, Retinol, Poloxamer 235, Epigallocatechin Gallate, Polysorbate 20, BHT, BHA, Sodium Ascorbate, Betaine, Niacinamide, Garcinia indica seed butter, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polymethylsilsesquioxane, Phenoxyethanol, Tocopherol, Allantoin, Palmitoyl Glycine, Sodium hyaluronate, Ethylhexylglycerin, Octenidine HCl, Ammonium Acryloyldimethyltaurate/VP Copolymer, Disodium EDTA, Sodium hydroxide, Allergen free fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "epigallocatechin gallate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -93232,15 +93767,15 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "retinol + peptides",
   "featureLine": "Cream / gel · ₹598/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -93257,11 +93792,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/defender-multi-peptide-retinol-night-anti-ageing-cream-test",
+   "inciMatchedName": "Defender Multi Peptide Retinol Night Anti Ageing Cream | Test (name match 77%)",
+   "inciList": "Aqua, Propylene Glycol, Isopropyl Myristate, Glyceryl Monostearate, Cetearyl Olivate & Sorbitan Olivate, Cetostearyl Alcohol, Dimethicone, Caprylic/Caprictriglyceride, Cocos Nucifera (Coconut) Oil, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer & Hydrogenated Polydecene & Lauryl Glucoside, Phenoxyethanol, Helianthus Annuus Seed Oil & Alcohol & Glyceryl Monooleate, Glycyrrhiza Glabra (Licorice) Root Extract, Allantoin, Mauritia Flexuosa (Buriti) Fruit Oil, Retinol & Polysorbate 20 & Butylated Hydroxy Anisol, Lecithin & Acetyl Glutamine & SH-Oligopeptide-1 & SH-Oligopeptide-2 & SH-Polypeptide-1 & SH-Polypeptide-9 & SH-Polypeptide-11 & Bacillus/Soybean Ferment Extract & Sodium Hyaluronate & Caprylyl Glycol & Butylene Glycol, Hexapeptide-11 & Leuconostoc/Radish Root Ferment Filtrate, Sodium Hyaluronate, Tocopheryl Acetate, Bisabolol, Adansonia Digitate (Baobab) Oil, Caffeine, Butylated Hydroxytoluene, Disodium EDTA, Sclerocarya Birrea (Marula) Fruit Oil, Ubiquinone",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Aging — product type (matching only — not proof it works)"
@@ -93286,7 +93823,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -93295,25 +93834,101 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/defender-multi-peptide-retinol-night-anti-ageing-cream-test",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Defender Multi Peptide Retinol Night Anti Ageing Cream | Test",
+   "inciMatchScore": 0.77,
+   "inciText": "Aqua, Propylene Glycol, Isopropyl Myristate, Glyceryl Monostearate, Cetearyl Olivate & Sorbitan Olivate, Cetostearyl Alcohol, Dimethicone, Caprylic/Caprictriglyceride, Cocos Nucifera (Coconut) Oil, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer & Hydrogenated Polydecene & Lauryl Glucoside, Phenoxyethanol, Helianthus Annuus Seed Oil & Alcohol & Glyceryl Monooleate, Glycyrrhiza Glabra (Licorice) Root Extract, Allantoin, Mauritia Flexuosa (Buriti) Fruit Oil, Retinol & Polysorbate 20 & Butylated Hydroxy Anisol, Lecithin & Acetyl Glutamine & SH-Oligopeptide-1 & SH-Oligopeptide-2 & SH-Polypeptide-1 & SH-Polypeptide-9 & SH-Polypeptide-11 & Bacillus/Soybean Ferment Extract & Sodium Hyaluronate & Caprylyl Glycol & Butylene Glycol, Hexapeptide-11 & Leuconostoc/Radish Root Ferment Filtrate, Sodium Hyaluronate, Tocopheryl Acetate, Bisabolol, Adansonia Digitate (Baobab) Oil, Caffeine, Butylated Hydroxytoluene, Disodium EDTA, Sclerocarya Birrea (Marula) Fruit Oil, Ubiquinone",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "caffeine"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -94452,15 +95067,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "retinol",
   "featureLine": "Cream / gel · ₹918/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -94477,14 +95093,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciMatchedName": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex (name match 100%)",
+   "inciList": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "evidenceActives": "retinol (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41RjKDNjk6L._AC_UL320_.jpg"
@@ -94501,8 +95119,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -94511,25 +95133,88 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "squalane",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -100215,16 +100900,18 @@ const CTPRODUCTS = [
   "capacityLine": "75 g",
   "materialLine": "vitamin C + niacinamide + retinol",
   "featureLine": "Sunscreen · SPF 30 · ₹256/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -100241,11 +100928,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/nourish-all-day-cream",
+   "inciMatchedName": "Nourish All Day Cream with SPF 30 PA++ - 75 gm (name match 100%)",
+   "inciList": "Aqua, Glyceryl Stearate, Ethylhexyl Methoxycinnamate, Glycerin, Isopropyl Myristate, Cocos Nucifera (Coconut) Oil, Ceto-Stearyl Alcohol, Zinc Oxide, Ethylhexyl Salicylate, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Perfume, Cetearyl Olivate (and) Sorbitan Olivate, Caprylic/Capric Triglyceride, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline (and) Water, Phenoxyethanol, Niacinamide (Vitamin B3), Glycolic Acid, Titanium Dioxide, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Silanetriol (and) Hyaluronic Acid (and) Methylpropanediol (and) Citric Acid (and) Water (Aqua), Disodium EDTA, 3-O Ethyl Ascorbic Acid (Vitamin C), Retinol, Tocopheryl Acetate (Vitamin E), Triticum Vulgare (Wheat) Germ Oil, Ceramide 3, Linoleic Acid (and) Linolenic Acid (Vitamin F), Prunus Amygdalus (Almond) Oil, Simmondsia Chinensis (Jojoba) Oil, Moringa Oleifera Seed Oil, Panthenol (Vitamin B5)",
+   "evidenceActives": "retinol (#41 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -100277,7 +100966,8 @@ const CTPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -100286,27 +100976,165 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/nourish-all-day-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Nourish All Day Cream with SPF 30 PA++ - 75 gm",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glyceryl Stearate, Ethylhexyl Methoxycinnamate, Glycerin, Isopropyl Myristate, Cocos Nucifera (Coconut) Oil, Ceto-Stearyl Alcohol, Zinc Oxide, Ethylhexyl Salicylate, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Perfume, Cetearyl Olivate (and) Sorbitan Olivate, Caprylic/Capric Triglyceride, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline (and) Water, Phenoxyethanol, Niacinamide (Vitamin B3), Glycolic Acid, Titanium Dioxide, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Silanetriol (and) Hyaluronic Acid (and) Methylpropanediol (and) Citric Acid (and) Water (Aqua), Disodium EDTA, 3-O Ethyl Ascorbic Acid (Vitamin C), Retinol, Tocopheryl Acetate (Vitamin E), Triticum Vulgare (Wheat) Germ Oil, Ceramide 3, Linoleic Acid (and) Linolenic Acid (Vitamin F), Prunus Amygdalus (Almond) Oil, Simmondsia Chinensis (Jojoba) Oil, Moringa Oleifera Seed Oil, Panthenol (Vitamin B5)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 41,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca",
+    "niacinamide",
+    "hyaluronic acid",
+    "ceramide np",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -141699,15 +142527,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "retinol",
   "featureLine": "Cream / gel · ₹2598/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oréal official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinyl palmitate high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.5,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -141724,11 +142555,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oréal official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://www.loreal-paris.co.uk/revitalift/classic/energising-red-day-cream-50ml",
+   "inciMatchedName": "revitalift classic energising red day cream 50ml (name match 95%)",
+   "inciList": "Aqua/Water, Glycerin, Cyclohexasiloxane, Caprylic/Capric Triglyceride, Myristyl Myristate, Butyrospermum Parkii Butter/Shea Butter, Stearic Acid, Palmitic Acid, Isopropyl Isostearate, Peg-100 Stearate, Cera Alba/Beeswax, Glyceryl Stearate, Acetyl Trifluoromethylphenyl Valylglycine, Capryloyl Salicylic Acid, Disodium Edta, Panax Ginseng Root Extract, Salicyloyl Phytosphingosine, Triethanolamine, Retinyl Palmitate, Tocopherol, Cetyl Alcohol, Stearyl Alcohol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Caprylyl Glycol, Ci 77491/Iron Oxides, Citric Acid, Disodium Stearoyl Glutamate, Isohexadecane, Mica, Myristic Acid, Peg-20 Stearate, Polysorbate 80, Propanediol, Sorbitan Oleate, Xanthan Gum, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool, Methyl-2-Octynoate, Ci 15510/Orange 4, Phenoxyethanol, Parfum/Fragrance",
+   "evidenceActives": "retinyl palmitate (#18 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate, citral, citronellol, geraniol, hexyl cinnamal, limonene, linalool, methyl-2-octynoate (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3★ from 0 ratings",
    "concernBasis": "Aging — product type (matching only — not proof it works)"
@@ -141753,7 +142586,8 @@ const CTPRODUCTS = [
    "rating:low",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -141762,27 +142596,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oréal official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.loreal-paris.co.uk/revitalift/classic/energising-red-day-cream-50ml",
+   "inciSourceRegion": "UK",
+   "inciMatchedTitle": "revitalift classic energising red day cream 50ml",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua/Water, Glycerin, Cyclohexasiloxane, Caprylic/Capric Triglyceride, Myristyl Myristate, Butyrospermum Parkii Butter/Shea Butter, Stearic Acid, Palmitic Acid, Isopropyl Isostearate, Peg-100 Stearate, Cera Alba/Beeswax, Glyceryl Stearate, Acetyl Trifluoromethylphenyl Valylglycine, Capryloyl Salicylic Acid, Disodium Edta, Panax Ginseng Root Extract, Salicyloyl Phytosphingosine, Triethanolamine, Retinyl Palmitate, Tocopherol, Cetyl Alcohol, Stearyl Alcohol, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Caprylyl Glycol, Ci 77491/Iron Oxides, Citric Acid, Disodium Stearoyl Glutamate, Isohexadecane, Mica, Myristic Acid, Peg-20 Stearate, Polysorbate 80, Propanediol, Sorbitan Oleate, Xanthan Gum, Benzyl Alcohol, Benzyl Salicylate, Citral, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool, Methyl-2-Octynoate, Ci 15510/Orange 4, Phenoxyethanol, Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol",
+      "benzyl salicylate",
+      "citral",
+      "citronellol",
+      "geraniol",
+      "hexyl cinnamal",
+      "limonene",
+      "linalool",
+      "methyl-2-octynoate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",

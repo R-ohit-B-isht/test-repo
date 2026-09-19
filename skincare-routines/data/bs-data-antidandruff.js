@@ -11255,6 +11255,130 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-12p08jd",
+  "brand": "Deconstruct",
+  "model": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+  "price": 449,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Piroctone olamine",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (moderate evidence); piroctone olamine high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.4,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Piroctone olamine (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciMatchedName": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic (name match 100%)",
+   "inciList": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#5 on list, moderate evidence); piroctone olamine (#14 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Scalp Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Anti_Dandruff_Serum_for_Scalp_-_0.5_Piroctone_Olamine_2_Salicylic_acid_1_Prebiotic.webp?v=1786102623"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+  "tags": [
+   "area:scalp",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:piroctone-olamine",
+   "concern:dandruff",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/anti-dandruff-scalp-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Dandruff Serum for Scalp - 0.5% Piroctone Olamine + 2% Salicylic acid + 1% Prebiotic",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propylene Glycol, Maltooligosyl Glucoside, Hydrogenated Starch Hydrolysate, Salicylic Acid, Moringa Oleifera, Triethanolamine, Phragmites Communis Extract, Poria Cocos Extract, Hydrolyzed Yogurt Protein, Inulin, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine, Sodium PCA, Xanthan Gum, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "dandruffIndia"
+    }
+   ],
+   "support": [
+    "sodium pca"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-7ws29i",
   "brand": "The Derma Co",
   "model": "Triple Actives Anti-Dandruff Shampoo - 200 ml",

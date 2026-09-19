@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -9438,18 +9438,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Wax",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 115 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.2,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 6.1
   },
   "fullSpec": {
@@ -9467,11 +9467,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (115 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/the-headliner-and-finisher-duo",
+   "inciMatchedName": "The Headliner Wax Stick (name match 85%)",
+   "inciList": "Ricinus Communis (Castor) Oil, Hydrogenated Castor Oil, Prunus Armeniaca (Apricot) Kernel Oil, Vitamin E Polyisobutylene, Ethylhexyl Palmitate, Oryza Sativa (Rice) Bran Cera, Hydrogenated Castor Oil, Helianthus Annuus (Sunflower) Seed Cera, Rhus Succedanea (Japan Wax) Fruit Cera, Candelilla Cera (Candelilla) Wax, Copernicia Cerifera Cera (Carnauba) Wax, Cocos Nucifera (Coconut) Oil, Glyceryl Caprylate, Glyceryl Undecylenate, Fragrance",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "HBMK GLOBAL PRIVATE LIMITED (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 115 ratings"
@@ -9493,7 +9495,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -9501,27 +9504,46 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/the-headliner-and-finisher-duo",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "The Headliner Wax Stick",
+   "inciMatchScore": 0.85,
+   "inciText": "Ricinus Communis (Castor) Oil, Hydrogenated Castor Oil, Prunus Armeniaca (Apricot) Kernel Oil, Vitamin E Polyisobutylene, Ethylhexyl Palmitate, Oryza Sativa (Rice) Bran Cera, Hydrogenated Castor Oil, Helianthus Annuus (Sunflower) Seed Cera, Rhus Succedanea (Japan Wax) Fruit Cera, Candelilla Cera (Candelilla) Wax, Copernicia Cerifera Cera (Carnauba) Wax, Cocos Nucifera (Coconut) Oil, Glyceryl Caprylate, Glyceryl Undecylenate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -11313,7 +11335,7 @@ const HAIRPRODUCTS = [
   "model": "KLLARY Hair Wax Stick KL18 for Hair Styling Wax, Non-greasy for Men & Women Hair Wax",
   "price": 192,
   "capacityLine": "93 g",
-  "materialLine": "Vitamin E + Avocado + Hydrolysed protein",
+  "materialLine": "Vitamin E + Avocado + Beeswax",
   "featureLine": "Wax · ₹206/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -11333,7 +11355,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹206/100g",
    "format": "Wax",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Vitamin E, Avocado, Hydrolysed protein, Beeswax (named on listing)",
+   "keyIngredients": "Vitamin E, Avocado, Beeswax, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
@@ -11370,8 +11392,8 @@ const HAIRPRODUCTS = [
    "format:pomade",
    "ing:vitamin-e",
    "ing:avocado",
-   "ing:hydrolysed-protein",
    "ing:beeswax",
+   "ing:hydrolysed-protein",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -12273,15 +12295,15 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Almond + Argan oil",
   "featureLine": "Wax · ₹398/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 3,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 6.9
   },
   "fullSpec": {
@@ -12299,11 +12321,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4/5 (7,770 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/brawn-hair-wax-almond-argan-oil-1",
+   "inciMatchedName": "Brawn Hair Wax | Almond & Argan Oil (name match 100%)",
+   "inciList": "Aqua, Ceteareth-25, Polyquaternium-39, Propylene Glycol,Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Parfum, PEG 8 Almond Oil, PEG 8 Argan Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "declaredManufacturer": "Amaira Herbals Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 7,770 ratings"
@@ -12328,7 +12352,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -12336,27 +12361,37 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/brawn-hair-wax-almond-argan-oil-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brawn Hair Wax | Almond & Argan Oil",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ceteareth-25, Polyquaternium-39, Propylene Glycol,Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Parfum, PEG 8 Almond Oil, PEG 8 Argan Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Emami",
     "kind": "india",
@@ -15509,7 +15544,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Wax Stick for Men & Women |Anti-Frizz | Flyaway Baby Hair|Non-Greasy Styler Hair Wax",
   "price": 299,
   "capacityLine": "35 g",
-  "materialLine": "Vitamin E + Argan oil + Castor oil",
+  "materialLine": "Vitamin E + Argan oil + Beeswax",
   "featureLine": "Wax · ₹854/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -15528,7 +15563,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹854/100g",
    "format": "Wax",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Vitamin E, Argan oil, Castor oil, Beeswax (named on listing)",
+   "keyIngredients": "Vitamin E, Argan oil, Beeswax, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
@@ -15563,8 +15598,8 @@ const HAIRPRODUCTS = [
    "format:wax",
    "ing:vitamin-e",
    "ing:argan-oil",
-   "ing:castor-oil",
    "ing:beeswax",
+   "ing:castor-oil",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -27855,18 +27890,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Clay · ₹482/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dasher official website (dasher.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 163 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.1,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 6
   },
   "fullSpec": {
@@ -27884,11 +27919,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (163 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dasher.co.in/products/texture-clay-medium-hold-matte-finish",
+   "inciMatchedName": "Texture Clay | Medium Hold - Matte Finish (name match 100%)",
+   "inciList": "Aqua, Ceteareth-25, Bentonite, Ozokerite Wax, Propylene Glycol, Peg-40 Hydrogenated Castor Oil, Polyhydroxy Stearic Acid, Kaolin Clay, Castor Seed Oil, Stearyl Stearate, Vitamin E, Ethylhexylglycerin, Phenoxyethanol, Almond Extract, Ginseng Extract, Hydrolyzed Wheat Protein, Biotin",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 163 ratings"
   },
@@ -27916,7 +27953,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -27924,24 +27963,33 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dasher.co.in/products/texture-clay-medium-hold-matte-finish",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Texture Clay | Medium Hold - Matte Finish",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ceteareth-25, Bentonite, Ozokerite Wax, Propylene Glycol, Peg-40 Hydrogenated Castor Oil, Polyhydroxy Stearic Acid, Kaolin Clay, Castor Seed Oil, Stearyl Stearate, Vitamin E, Ethylhexylglycerin, Phenoxyethanol, Almond Extract, Ginseng Extract, Hydrolyzed Wheat Protein, Biotin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -33368,7 +33416,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹225/100g",
    "format": "Pomade",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Shea butter, Vitamin E, Avocado, Castor oil, Beeswax (named on listing)",
+   "keyIngredients": "Shea butter, Vitamin E, Avocado, Beeswax, Castor oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Frizz control, Smoothing / straightening, Hold (styling) (seller claim — not clinical proof)",
@@ -33406,8 +33454,8 @@ const HAIRPRODUCTS = [
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:avocado",
-   "ing:castor-oil",
    "ing:beeswax",
+   "ing:castor-oil",
    "concern:frizz",
    "concern:smoothing",
    "concern:hold",
@@ -51590,16 +51638,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Gel · Sulfate/SLS-free",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Manetain official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.1,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 4.7
   },
   "fullSpec": {
@@ -51617,11 +51666,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (91 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-volume-gel",
+   "inciMatchedName": "Manetain Volume Gel (name match 100%)",
+   "inciList": "Purified Water, Pectin, Aloe Barbadensis (Aloe) Leaf Extract, Agave Nectar Extract, Marshmallow Root Extract, Flaxseed Extract, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Vitamin E Acetate, Phenoxyethanol, Xanthan Gum, Orange Essential Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Manetain Store Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 91 ratings"
@@ -51653,7 +51704,9 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -51661,23 +51714,23 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-volume-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Volume Gel",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Pectin, Aloe Barbadensis (Aloe) Leaf Extract, Agave Nectar Extract, Marshmallow Root Extract, Flaxseed Extract, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Vitamin E Acetate, Phenoxyethanol, Xanthan Gum, Orange Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -118410,18 +118463,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Vitamin E",
   "featureLine": "Wax · ₹482/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dasher official website (dasher.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.8★ from 28 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.2,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 6.5
   },
   "fullSpec": {
@@ -118439,11 +118492,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.8/5 (28 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dasher.co.in/products/cream-wax-medium-hold-natural-shine",
+   "inciMatchedName": "Cream Wax | Medium Hold - Natural Shine (name match 96%)",
+   "inciList": "Aqua, Carnauba Wax, Hydrogenated Castor Oil, Glycerin, Propanediol, D Panthenol (Pro-Vitamin B5), Ozokerite Wax, Tocopherol (Vitamin E), Shea Butter, Glyceryl Monostearate, Cetearyl Olivate (and) Sorbitan Olivate, Biotin, Betaine, C12-15 Alkyl Benzoate, Ethylhexylglycerin, Disodium EDTA, Fragrance",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 28 ratings"
   },
@@ -118475,7 +118530,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -118483,27 +118539,58 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dasher.co.in/products/cream-wax-medium-hold-natural-shine",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cream Wax | Medium Hold - Natural Shine",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Carnauba Wax, Hydrogenated Castor Oil, Glycerin, Propanediol, D Panthenol (Pro-Vitamin B5), Ozokerite Wax, Tocopherol (Vitamin E), Shea Butter, Glyceryl Monostearate, Cetearyl Olivate (and) Sorbitan Olivate, Biotin, Betaine, C12-15 Alkyl Benzoate, Ethylhexylglycerin, Disodium EDTA, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "shea butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -160670,7 +160757,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Styling Clay Wax for extra hold & texture | Strong hold Natural finish | Safe for hai…",
   "price": 399,
   "capacityLine": "100 g",
-  "materialLine": "Peptides + Collagen + Amino acids",
+  "materialLine": "Peptides + Collagen + Beeswax",
   "featureLine": "Clay · ₹399/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -160689,7 +160776,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹399/100g",
    "format": "Clay",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Peptides, Collagen, Amino acids, Beeswax (named on listing)",
+   "keyIngredients": "Peptides, Collagen, Beeswax, Amino acids (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Premature greying (claim), Hold (styling), Matte finish (seller claim — not clinical proof)",
@@ -160725,8 +160812,8 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:peptides",
    "ing:collagen",
-   "ing:amino-acids",
    "ing:beeswax",
+   "ing:amino-acids",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:damage-repair",
@@ -173295,16 +173382,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Niacinamide + Dimethicone / silicones",
   "featureLine": "Cream · ₹538/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "acrylates/c10-30 alkyl acrylate crosspolymer high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -173322,11 +173412,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-hair-styling-cream-100ml",
+   "inciMatchedName": "Medium Hold Styling Cream - 100 ml (name match 94%)",
+   "inciList": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
+   "evidenceActives": "acrylates/c10-30 alkyl acrylate crosspolymer (#17 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -173351,7 +173443,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -173359,27 +173452,99 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-hair-styling-cream-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Medium Hold Styling Cream - 100 ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "mineral oil",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "acrylates/c10-30 alkyl acrylate crosspolymer",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -174570,16 +174735,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Gel · ₹695/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Manetain official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -174597,11 +174763,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciMatchedName": "Manetain Curl Cream (name match 90%)",
+   "inciList": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -174628,7 +174796,9 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -174636,24 +174806,49 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Curl Cream",
+   "inciMatchScore": 0.9,
+   "inciText": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -174978,7 +175173,7 @@ const HAIRPRODUCTS = [
   "model": "HAIR STYLING WAX (100, Ultra hold wax)",
   "price": 189,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Aloe vera + Castor oil + Beeswax",
+  "materialLine": "Aloe vera + Beeswax + Castor oil",
   "featureLine": "Wax",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -174997,7 +175192,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Wax",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera, Castor oil, Beeswax (named on listing)",
+   "keyIngredients": "Aloe vera, Beeswax, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Itchy scalp, Oily scalp / greasiness, Damage repair, Dryness / hydration, Shine / gloss, Hold (styling), Matte finish (seller claim — not clinical proof)",
@@ -175033,8 +175228,8 @@ const HAIRPRODUCTS = [
    "format:wax",
    "format:clay",
    "ing:aloe-vera",
-   "ing:castor-oil",
    "ing:beeswax",
+   "ing:castor-oil",
    "concern:scalp-itch",
    "concern:oily-scalp",
    "concern:damage-repair",
@@ -175583,7 +175778,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Wax Stick 75g for Flyaway Hair & Smooth Styling, Weekly Concentrated Hair Treatment, …",
   "price": 199,
   "capacityLine": "75 g",
-  "materialLine": "Castor oil + Beeswax",
+  "materialLine": "Beeswax + Castor oil",
   "featureLine": "Wax · Paraben-free · ₹265/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -175603,7 +175798,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹265/100g",
    "format": "Wax",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Castor oil, Beeswax (named on listing)",
+   "keyIngredients": "Beeswax, Castor oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Smoothing / straightening, Matte finish (seller claim — not clinical proof)",
@@ -175632,8 +175827,8 @@ const HAIRPRODUCTS = [
    "format:stick",
    "format:oil",
    "format:wax",
-   "ing:castor-oil",
    "ing:beeswax",
+   "ing:castor-oil",
    "concern:frizz",
    "concern:smoothing",
    "concern:matte-finish",
@@ -194357,7 +194552,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Wax Stick for Hair Styling Wax Stick Non-greasy Styling Wax, Hair pomade stick for Wo…",
   "price": 299,
   "capacityLine": "75 g",
-  "materialLine": "Avocado + Castor oil + Beeswax",
+  "materialLine": "Avocado + Beeswax + Castor oil",
   "featureLine": "Pomade · ₹399/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -194377,7 +194572,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹399/100g",
    "format": "Pomade",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Avocado, Castor oil, Beeswax (named on listing)",
+   "keyIngredients": "Avocado, Beeswax, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -194416,8 +194611,8 @@ const HAIRPRODUCTS = [
    "format:wax",
    "format:pomade",
    "ing:avocado",
-   "ing:castor-oil",
    "ing:beeswax",
+   "ing:castor-oil",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -208943,16 +209138,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream · Paraben-free · ₹483/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Manetain official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -208970,11 +209166,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciMatchedName": "Manetain Curl Cream (name match 100%)",
+   "inciList": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -208999,7 +209197,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -209007,24 +209207,49 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -209155,16 +209380,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream · Paraben-free · ₹498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Manetain official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -209182,11 +209408,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciMatchedName": "Manetain Curl Cream (name match 100%)",
+   "inciList": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -209211,7 +209439,9 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -209219,24 +209449,49 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -210396,16 +210651,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "Rosemary",
   "featureLine": "Wax · ₹1260/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 1.6
   },
   "fullSpec": {
@@ -210423,11 +210679,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/hair-finishing-stick",
+   "inciMatchedName": "Hair Finishing Stick for Anti Frizzy & Baby Hairs - 15 ml (name match 100%)",
+   "inciList": "Aqua, Aloe barbadensis (Aloe) leaf extract, Polyvinylpyrrolidone K90, Polyvinylpyrrolidone K30, Glycerin, Propanediol, Linoleic acid and Linolenic acid (Vit F), Niacinamide (Vit B3), Panthenol (Vit B5), Tocopheryl Acetate (Vit E), Biotin (Vit B7), Zingiber Officinale (Ginger) Root Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Mentha Piperita (Peppermint) Oil, Thymus vulgaris (Thyme) oil, Anthemis nobilis (Roman Chamomile) flower oil, PEG-40 Hydrogenated Castor Oil, Carbomer, Phenoxyethanol, Triethanolamine, Perfume, Disodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil, thymus vulgaris oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings"
   },
@@ -210451,7 +210709,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -210459,27 +210718,78 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/hair-finishing-stick",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Finishing Stick for Anti Frizzy & Baby Hairs - 15 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Aloe barbadensis (Aloe) leaf extract, Polyvinylpyrrolidone K90, Polyvinylpyrrolidone K30, Glycerin, Propanediol, Linoleic acid and Linolenic acid (Vit F), Niacinamide (Vit B3), Panthenol (Vit B5), Tocopheryl Acetate (Vit E), Biotin (Vit B7), Zingiber Officinale (Ginger) Root Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Mentha Piperita (Peppermint) Oil, Thymus vulgaris (Thyme) oil, Anthemis nobilis (Roman Chamomile) flower oil, PEG-40 Hydrogenated Castor Oil, Carbomer, Phenoxyethanol, Triethanolamine, Perfume, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil",
+      "mentha piperita oil",
+      "thymus vulgaris oil"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -213139,16 +213449,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Vitamin E + Biotin",
   "featureLine": "Clay · ₹499/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dasher official website (dasher.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.1,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -213166,11 +213477,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dasher.co.in/products/texture-clay-medium-hold-matte-finish",
+   "inciMatchedName": "Texture Clay | Medium Hold - Matte Finish (name match 100%)",
+   "inciList": "Aqua, Ceteareth-25, Bentonite, Ozokerite Wax, Propylene Glycol, Peg-40 Hydrogenated Castor Oil, Polyhydroxy Stearic Acid, Kaolin Clay, Castor Seed Oil, Stearyl Stearate, Vitamin E, Ethylhexylglycerin, Phenoxyethanol, Almond Extract, Ginseng Extract, Hydrolyzed Wheat Protein, Biotin",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -213193,7 +213506,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -213201,24 +213516,33 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dasher.co.in/products/texture-clay-medium-hold-matte-finish",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Texture Clay | Medium Hold - Matte Finish",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ceteareth-25, Bentonite, Ozokerite Wax, Propylene Glycol, Peg-40 Hydrogenated Castor Oil, Polyhydroxy Stearic Acid, Kaolin Clay, Castor Seed Oil, Stearyl Stearate, Vitamin E, Ethylhexylglycerin, Phenoxyethanol, Almond Extract, Ginseng Extract, Hydrolyzed Wheat Protein, Biotin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -221687,7 +222011,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹720/100g",
    "format": "Clay",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Almond, Licorice, Vitamin E, Bhringraj, Amla, Beeswax (named on listing)",
+   "keyIngredients": "Almond, Licorice, Vitamin E, Beeswax, Bhringraj, Amla (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hold (styling), Matte finish (seller claim — not clinical proof)",
@@ -221719,9 +222043,9 @@ const HAIRPRODUCTS = [
    "ing:almond",
    "ing:licorice",
    "ing:vitamin-e",
+   "ing:beeswax",
    "ing:bhringraj",
    "ing:amla",
-   "ing:beeswax",
    "concern:hold",
    "concern:matte-finish",
    "aud:unisex",
@@ -224911,16 +225235,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream · Paraben-free · ₹404/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Manetain official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -224938,11 +225263,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciMatchedName": "Manetain Curl Cream (name match 100%)",
+   "inciList": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -224967,7 +225294,9 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -224975,24 +225304,49 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Curl Cream",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -227509,15 +227863,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Almond + Vitamin E",
   "featureLine": "Wax · ₹309/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: dmdm hydantoin"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.5,
+   "skin": 7,
+   "trust": 8,
    "experience": 1.3
   },
   "fullSpec": {
@@ -227535,11 +227892,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/machismo-cream-wax-almond-oil-vitamin-e-1",
+   "inciMatchedName": "Hair Wax Machismo for Men | Strong Hold Hair Wax (name match 92%)",
+   "inciList": "Aqua, Kaolin, Glycerin, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Copernicus Prunifera Alba, Polyvinylpyrrolidone, Cera Alba, Cetostearyl Alcohol, Acrylates Crosspolymer-3, Ceteareth-25, Emulsifying Wax, PEG 150 Distearate, prunus Amygdalus Dulcis Oil, Simmondia Chinensis Oil, Fragrance, DMDM Hydantoin, Triethanolamine, Di Sodium EDTA, BHT, Hydrolyzed Soya Protein, Aloe Vera Ext., Vitamin A, Vitamin E, Fragrance",
+   "evidenceActives": "cera alba (#8 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -227564,7 +227923,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -227572,27 +227932,89 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/machismo-cream-wax-almond-oil-vitamin-e-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hair Wax Machismo for Men | Strong Hold Hair Wax",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Kaolin, Glycerin, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Copernicus Prunifera Alba, Polyvinylpyrrolidone, Cera Alba, Cetostearyl Alcohol, Acrylates Crosspolymer-3, Ceteareth-25, Emulsifying Wax, PEG 150 Distearate, prunus Amygdalus Dulcis Oil, Simmondia Chinensis Oil, Fragrance, DMDM Hydantoin, Triethanolamine, Di Sodium EDTA, BHT, Hydrolyzed Soya Protein, Aloe Vera Ext., Vitamin A, Vitamin E, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed soy protein",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "Emami",
     "kind": "india",
@@ -229131,16 +229553,16 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Biotin",
   "featureLine": "Wax · ₹499/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dasher official website (dasher.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.2,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -229158,11 +229580,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dasher.co.in/products/cream-wax-medium-hold-natural-shine",
+   "inciMatchedName": "Cream Wax | Medium Hold - Natural Shine (name match 96%)",
+   "inciList": "Aqua, Carnauba Wax, Hydrogenated Castor Oil, Glycerin, Propanediol, D Panthenol (Pro-Vitamin B5), Ozokerite Wax, Tocopherol (Vitamin E), Shea Butter, Glyceryl Monostearate, Cetearyl Olivate (and) Sorbitan Olivate, Biotin, Betaine, C12-15 Alkyl Benzoate, Ethylhexylglycerin, Disodium EDTA, Fragrance",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -229189,7 +229613,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -229197,27 +229622,58 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dasher official website (dasher.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dasher.co.in/products/cream-wax-medium-hold-natural-shine",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cream Wax | Medium Hold - Natural Shine",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Carnauba Wax, Hydrogenated Castor Oil, Glycerin, Propanediol, D Panthenol (Pro-Vitamin B5), Ozokerite Wax, Tocopherol (Vitamin E), Shea Butter, Glyceryl Monostearate, Cetearyl Olivate (and) Sorbitan Olivate, Biotin, Betaine, C12-15 Alkyl Benzoate, Ethylhexylglycerin, Disodium EDTA, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "shea butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -234059,16 +234515,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Dimethicone / silicones",
   "featureLine": "Cream · ₹474/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "acrylates/c10-30 alkyl acrylate crosspolymer high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -234086,11 +234545,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-hair-styling-cream-100ml",
+   "inciMatchedName": "Medium Hold Styling Cream - 100 ml (name match 94%)",
+   "inciList": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
+   "evidenceActives": "acrylates/c10-30 alkyl acrylate crosspolymer (#17 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -234115,7 +234576,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -234123,27 +234585,99 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-hair-styling-cream-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Medium Hold Styling Cream - 100 ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "mineral oil",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "acrylates/c10-30 alkyl acrylate crosspolymer",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -244945,16 +245479,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Gel · ₹889/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Manetain official website (manetain.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -244972,11 +245507,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciMatchedName": "Manetain Curl Cream (name match 90%)",
+   "inciList": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -245003,7 +245540,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -245011,24 +245550,49 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Manetain official website (manetain.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://manetain.in/products/manetain-curl-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Manetain Curl Cream",
+   "inciMatchScore": 0.9,
+   "inciText": "Purified Water, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Cetyl Alcohol, Behentrimonium Chloride, Cetrimonium Chloride, Polyquaternium-69, Flaxseed Extract, Rice Extract, Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Soy Lecithin, Hydroxyethyl Cellulose, Argan Oil, Avocado Oil, Glyceryl Monostearate, Linum Usitatissimum Seed Extract, Salvia Hispanica Seed Extract, Amber & Lavender Essential Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -251527,16 +252091,16 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Niacinamide",
   "featureLine": "Gel · ₹458/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.8,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -251554,11 +252118,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-hair-styling-gel-100ml",
+   "inciMatchedName": "Strong Hold Styling Gel - 100 ml (name match 94%)",
+   "inciList": "Aqua, Polyvinylpyrrolidone, Propylene Glycol, Polyquaternium-68, Propanediol, Ammonium Acryloyldimethyltaurate/VP copolymer, Linum Usitatissimum (Linseed) Seed Extract, Phenoxyethanol & Triethylene Glycol, Panthenol, Niacinamide, Fragrance, Benzophenone-4, PEG 40 Hydrogenated Castor Oil, Dehydroxanthan Gum, Polyquaternium-7, Sodium Gluconate",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -251582,7 +252148,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -251590,27 +252157,58 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-hair-styling-gel-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Strong Hold Styling Gel - 100 ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Polyvinylpyrrolidone, Propylene Glycol, Polyquaternium-68, Propanediol, Ammonium Acryloyldimethyltaurate/VP copolymer, Linum Usitatissimum (Linseed) Seed Extract, Phenoxyethanol & Triethylene Glycol, Panthenol, Niacinamide, Fragrance, Benzophenone-4, PEG 40 Hydrogenated Castor Oil, Dehydroxanthan Gum, Polyquaternium-7, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-7",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

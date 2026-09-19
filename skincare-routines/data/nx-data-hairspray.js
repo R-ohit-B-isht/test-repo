@@ -121616,16 +121616,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Glycolic acid + Coconut",
   "featureLine": "Mist / spray · ₹283/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.5,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 0
   },
   "fullSpec": {
@@ -121643,11 +121643,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/dream-curl-refresh-spray-150ml",
+   "inciMatchedName": "DREAM CURL REFRESH SPRAY - 150ML (name match 100%)",
+   "inciList": "Spray : Aqua, PEG-12 Dimethicone, Isobutylene/Dimethylaminopropylmaleimide/Ethoxylated Maleimide/Maleic Acid Copolymer, Camellia Oleifera Seed Oil (Shine Tonic), Glycerin, Hydrolyzed Wheat Protein, Cocos Nucifera (Coconut) Water, Linum Usitatissimum (Flaxseed) Seed Oil, Phytantriol, Polyquaternium-10, PG-Hydroxyethylcellulose Cocodimonium Chloride, Phenoxyethanol, Triethylene Glycol, Panthenol, Glycolic Acid, Fragrance",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -121679,7 +121681,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -121687,27 +121690,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/dream-curl-refresh-spray-150ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "DREAM CURL REFRESH SPRAY - 150ML",
+   "inciMatchScore": 1,
+   "inciText": "Spray : Aqua, PEG-12 Dimethicone, Isobutylene/Dimethylaminopropylmaleimide/Ethoxylated Maleimide/Maleic Acid Copolymer, Camellia Oleifera Seed Oil (Shine Tonic), Glycerin, Hydrolyzed Wheat Protein, Cocos Nucifera (Coconut) Water, Linum Usitatissimum (Flaxseed) Seed Oil, Phytantriol, Polyquaternium-10, PG-Hydroxyethylcellulose Cocodimonium Chloride, Phenoxyethanol, Triethylene Glycol, Panthenol, Glycolic Acid, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",

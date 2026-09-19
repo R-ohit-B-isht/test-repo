@@ -10744,16 +10744,18 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "urea",
   "featureLine": "Oil · ₹253/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -10770,13 +10772,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thriveco.in/products/smoothing-body-lotion",
+   "inciMatchedName": "Smoothing Body Lotion, 150 ml (name match 100%)",
+   "inciList": "AQUA, CAPRYLIC CAPRIC TRIGLYCERIDE, CETOSTEARYL ALCOHOL, DIMETHICONE, GLYCERYL STEARATE, PEG-100 STEARATE, ISOAMYL LAURATE, LACTIC ACID, PROPANEDIOL, MADHUCA INDICA OIL, ARGININE, CETYL ALCOHOL, CETEARETH-20, HYDROXYETHYL UREA, TRIETHANOLAMINE, ALLANTOIN, NIACINAMIDE, PHENOXYETHANOL & ETHYLHEXYLGLYCERIN, SODIUM PCA, XANTHAN GUM, PANTHENOL, POLYACRYLATE-13, POLYISOBUTENE, POLYSORBATE 20, SODIUM HYALURONATE, PERFUME, TETRASODIUM EDTA",
+   "evidenceActives": "dimethicone (#4 on list, moderate evidence); lactic acid (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — niacinamide #16 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61l5PuWE+NL._AC_UL320_.jpg"
@@ -10799,7 +10804,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -10808,27 +10817,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thriveco.in/products/smoothing-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Smoothing Body Lotion, 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "AQUA, CAPRYLIC CAPRIC TRIGLYCERIDE, CETOSTEARYL ALCOHOL, DIMETHICONE, GLYCERYL STEARATE, PEG-100 STEARATE, ISOAMYL LAURATE, LACTIC ACID, PROPANEDIOL, MADHUCA INDICA OIL, ARGININE, CETYL ALCOHOL, CETEARETH-20, HYDROXYETHYL UREA, TRIETHANOLAMINE, ALLANTOIN, NIACINAMIDE, PHENOXYETHANOL & ETHYLHEXYLGLYCERIN, SODIUM PCA, XANTHAN GUM, PANTHENOL, POLYACRYLATE-13, POLYISOBUTENE, POLYSORBATE 20, SODIUM HYALURONATE, PERFUME, TETRASODIUM EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol",
+    "niacinamide",
+    "sodium pca",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

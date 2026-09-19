@@ -79280,15 +79280,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + hyaluronic acid + rice water",
   "featureLine": "Wash / cleanser · Paraben-free · ₹290/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -79305,13 +79307,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-simply-bright-face-wash-50-ml-1",
+   "inciMatchedName": "2% Niacinamide & Rice Water Face Wash For Clear & Bright Skin | 50 ml (name match 96%)",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Acrylates Copolymer, Coco Glucoside, Sodium Cocoyl Glycinate, Glycerin, Niacinamide, Triethanolamine, Rice Ferment Filtrate (Sake), Oryza Sativa (Rice) Extract, Capryloyl/Caproyl Methyl Glucamide, Lauroyl/Myristoyl Methyl Glucamide, Phenoxyethanol, Ethylhexylglycerin, Olive Oil PEG-7 Esters, Styrene/Acrylates Copolymer, Disodium EDTA, Sodium Hyaluronate, Fragrance, Panthenol, Butylene Glycol, Tocopheryl Acetate",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513ZmYzFeYL._AC_UL320_.jpg"
@@ -79340,7 +79345,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -79349,27 +79357,92 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-simply-bright-face-wash-50-ml-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Niacinamide & Rice Water Face Wash For Clear & Bright Skin | 50 ml",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Cocamidopropyl Betaine, Acrylates Copolymer, Coco Glucoside, Sodium Cocoyl Glycinate, Glycerin, Niacinamide, Triethanolamine, Rice Ferment Filtrate (Sake), Oryza Sativa (Rice) Extract, Capryloyl/Caproyl Methyl Glucamide, Lauroyl/Myristoyl Methyl Glucamide, Phenoxyethanol, Ethylhexylglycerin, Olive Oil PEG-7 Esters, Styrene/Acrylates Copolymer, Disodium EDTA, Sodium Hyaluronate, Fragrance, Panthenol, Butylene Glycol, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "panthenol",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -80286,15 +80359,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
   "featureLine": "Wash / cleanser · Sulfate/SLS-free · ₹370/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -80311,13 +80385,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciMatchedName": "Oil & Acne Control Face Wash (name match 100%)",
+   "inciList": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
+   "evidenceActives": "niacinamide (#17 on list, strong evidence); sodium hyaluronate (#21 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614n2LSkc1L._AC_UL320_.jpg"
@@ -80350,7 +80427,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -80359,25 +80439,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil & Acne Control Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -82881,15 +83015,17 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "niacinamide",
   "featureLine": "Wash / cleanser · ₹520/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -82906,13 +83042,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
+   "inciMatchedName": "2% Niacinamide & Rice Water Face Wash For Clear & Bright Skin (name match 95%)",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Acrylates Copolymer, Coco Glucoside, Sodium Cocoyl Glycinate, Glycerin, Niacinamide, Triethanolamine, Rice Ferment Filtrate (Sake), Oryza Sativa (Rice) Extract, Capryloyl/Caproyl Methyl Glucamide, Lauroyl/Myristoyl Methyl Glucamide, Phenoxyethanol, Ethylhexylglycerin, Olive Oil PEG-7 Esters, Styrene/Acrylates Copolymer, Disodium EDTA, Sodium Hyaluronate, Fragrance, Panthenol, Butylene Glycol, Tocopheryl Acetate",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31Oq5kcXABL._AC_UL320_.jpg"
@@ -82928,7 +83067,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -82937,27 +83079,92 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Niacinamide & Rice Water Face Wash For Clear & Bright Skin",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Cocamidopropyl Betaine, Acrylates Copolymer, Coco Glucoside, Sodium Cocoyl Glycinate, Glycerin, Niacinamide, Triethanolamine, Rice Ferment Filtrate (Sake), Oryza Sativa (Rice) Extract, Capryloyl/Caproyl Methyl Glucamide, Lauroyl/Myristoyl Methyl Glucamide, Phenoxyethanol, Ethylhexylglycerin, Olive Oil PEG-7 Esters, Styrene/Acrylates Copolymer, Disodium EDTA, Sodium Hyaluronate, Fragrance, Panthenol, Butylene Glycol, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "panthenol",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -85055,15 +85262,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹266/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -85080,13 +85288,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-control-daily-exfoliating-cleanser-gently-exfoliates-makes-skin-oil-free-100-ml",
+   "inciMatchedName": "Oil Control & Exfoliating Cleanser with 2% AHA BHA - 100 ml (name match 100%)",
+   "inciList": "Aqua (Water), Decyl Glucoside, Capryl Glucoside, Glycerin, Niacinamide, Salicylic Acid, Glycolic Acid, Lactic Acid, Trehalose, Xylitol, Glucose, Anhydroxylitol, Phonex Dactylifera (Date) Extract, Saccharide Isomerate, Xanthan Gum, Sodium Hydroxide, Citric Acid, Sodium Citrate, Capryloyl Glycine, Undecylenoyl Glycine, Benzoic Acid, Phenoxyethanol",
+   "evidenceActives": "niacinamide (#5 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #6 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41VBvX9N8lL._AC_UL320_.jpg"
@@ -85108,7 +85319,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -85117,25 +85332,77 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-control-daily-exfoliating-cleanser-gently-exfoliates-makes-skin-oil-free-100-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil Control & Exfoliating Cleanser with 2% AHA BHA - 100 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Decyl Glucoside, Capryl Glucoside, Glycerin, Niacinamide, Salicylic Acid, Glycolic Acid, Lactic Acid, Trehalose, Xylitol, Glucose, Anhydroxylitol, Phonex Dactylifera (Date) Extract, Saccharide Isomerate, Xanthan Gum, Sodium Hydroxide, Citric Acid, Sodium Citrate, Capryloyl Glycine, Undecylenoyl Glycine, Benzoic Acid, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -88673,15 +88940,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + alpha arbutin",
   "featureLine": "Wash / cleanser · ₹149/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bella Vita official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 5.9,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -88698,13 +88968,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bella Vita official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/niacinamide-face-wash-100ml-gpay",
+   "inciMatchedName": "Niacinamide Face Wash - 100ml (GPay) (name match 85%)",
+   "inciList": "Purified Water, Sodium C14-16 Alpha Olefin, Sulfonate, Sodium Acrylates Copolymer, Decyl Glucoside, Sodium Lauroyl Sarcosinate, Glycerin, Cocamidopropyl Betaine, Niacinamide, PEG-7 Glyceryl Cocoate, Polyquaternium-7, Fragrance, Alpha Arbutin, Sodium Chloride, Sodium Hydroxide, Sodium Gluconate, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Colour, Morus Alba (Mulberry) Root Extract, Glycyrrhiza Glabra (Licorice Root)",
+   "evidenceActives": "niacinamide (#9 on list, strong evidence); alpha-arbutin (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512WEwOdyqL._AC_UL320_.jpg"
@@ -88725,7 +88998,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -88734,27 +89010,83 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bella Vita official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/niacinamide-face-wash-100ml-gpay",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide Face Wash - 100ml (GPay)",
+   "inciMatchScore": 0.85,
+   "inciText": "Purified Water, Sodium C14-16 Alpha Olefin, Sulfonate, Sodium Acrylates Copolymer, Decyl Glucoside, Sodium Lauroyl Sarcosinate, Glycerin, Cocamidopropyl Betaine, Niacinamide, PEG-7 Glyceryl Cocoate, Polyquaternium-7, Fragrance, Alpha Arbutin, Sodium Chloride, Sodium Hydroxide, Sodium Gluconate, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Colour, Morus Alba (Mulberry) Root Extract, Glycyrrhiza Glabra (Licorice Root)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    }
+   ],
    "maker": {
     "parent": "Bella Vita Organic",
     "kind": "d2c",
@@ -91647,15 +91979,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
   "featureLine": "Wash / cleanser · ₹188/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -91672,13 +92005,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciMatchedName": "Oil & Acne Control Face Wash (name match 100%)",
+   "inciList": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
+   "evidenceActives": "niacinamide (#17 on list, strong evidence); sodium hyaluronate (#21 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WaM4wcStL._AC_UL320_.jpg"
@@ -91702,7 +92038,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -91711,25 +92050,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil & Acne Control Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -95819,15 +96212,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner · Alcohol-free · ₹261/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.9,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -95844,13 +96238,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-dewy-face-toner-with-96-pure-rice-water-extract-4-niacinamide-for-glass-skin-150-ml",
+   "inciMatchedName": "Rice Water Dewy Face Toner with 96% Pure Rice Water Extract & 4% Niacinamide for Glass Skin - 150 ml (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Glycerin, Oryza Sativa (Rice) Water, Propanediol, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Isopropyl Myristate, C12-15 Alkyl Benzoate, Hamamelis Virginiana (Witch Hazel) Extract, Phenoxyethanol, Ethylhexylglycerin, Methylpropanediol, Butylene Glycol, Panthenol, Glyceryl Stearate, Tween 20, Aloe Barbadensis (Aloe) Extract, Cetearyl Olivate, Sorbitan Olivate, Cucumis Sativus (Cucumber) Fruit Extract, Melaleuca Alternifolia Leaf Extract, Sodium Gluconate, Alpha Bisabolol, Citric Acid, Xanthan Gum",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yzf2F1idL._AC_UL320_.jpg"
@@ -95872,7 +96269,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -95881,25 +96282,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rice-water-dewy-face-toner-with-96-pure-rice-water-extract-4-niacinamide-for-glass-skin-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rice Water Dewy Face Toner with 96% Pure Rice Water Extract & 4% Niacinamide for Glass Skin - 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Glycerin, Oryza Sativa (Rice) Water, Propanediol, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Isopropyl Myristate, C12-15 Alkyl Benzoate, Hamamelis Virginiana (Witch Hazel) Extract, Phenoxyethanol, Ethylhexylglycerin, Methylpropanediol, Butylene Glycol, Panthenol, Glyceryl Stearate, Tween 20, Aloe Barbadensis (Aloe) Extract, Cetearyl Olivate, Sorbitan Olivate, Cucumis Sativus (Cucumber) Fruit Extract, Melaleuca Alternifolia Leaf Extract, Sodium Gluconate, Alpha Bisabolol, Citric Acid, Xanthan Gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -96535,15 +96975,16 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "niacinamide + glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹344/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -96560,13 +97001,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciMatchedName": "Exfoliating 7% Glycolic Acid Toner (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/419JE-AJmxL._AC_UL320_.jpg"
@@ -96586,7 +97030,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -96595,25 +97044,87 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating 7% Glycolic Acid Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "panthenol",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -104843,15 +105354,16 @@ const CTPRODUCTS = [
   "capacityLine": "190 ml",
   "materialLine": "niacinamide",
   "featureLine": "Toner · Fragrance-free · ₹1174/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7.6,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -104868,13 +105380,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-balancing-pore-reducing-toner",
+   "inciMatchedName": "Pore-Reducing Toner (name match 88%)",
+   "inciList": "Water (Aqua), Glycerin, Butylene Glycol, Niacinamide, Polysorbate 20, Adenosine, Anthemis Nobilis (Chamomile) Flower Extract, Arctium Lappa (Burdock) Root Extract, Hydrolyzed Jojoba Esters, Sodium PCA, Panthenol, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Tetrahexyldecyl Ascorbate (vitamin C/antioxidant), Oleth-10, Sodium Lauroyl Lactylate, Caprylyl Glycol, Hexylene Glycol, Sodium Citrate, Xanthan Gum, Trisodium EDTA, Phenoxyethanol. Read more Read more",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); sodium hyaluronate (#12 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, tetrahexyldecyl ascorbate #18 on INCI; Aging — adenosine #6 on INCI, tetrahexyldecyl ascorbate #18 on INCI; Irritation — panthenol #11 on INCI, ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WPHPdmRHL._AC_UL320_.jpg"
@@ -104896,7 +105411,13 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -104905,25 +105426,117 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Paula's Choice official website (www.paulaschoice.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.paulaschoice.in/products/skin-balancing-pore-reducing-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Pore-Reducing Toner",
+   "inciMatchScore": 0.88,
+   "inciText": "Water (Aqua), Glycerin, Butylene Glycol, Niacinamide, Polysorbate 20, Adenosine, Anthemis Nobilis (Chamomile) Flower Extract, Arctium Lappa (Burdock) Root Extract, Hydrolyzed Jojoba Esters, Sodium PCA, Panthenol, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Tetrahexyldecyl Ascorbate (vitamin C/antioxidant), Oleth-10, Sodium Lauroyl Lactylate, Caprylyl Glycol, Hexylene Glycol, Sodium Citrate, Xanthan Gum, Trisodium EDTA, Phenoxyethanol. Read more Read more",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "tetrahexyldecyl ascorbate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "niacinamide",
+    "sodium pca",
+    "panthenol",
+    "sodium hyaluronate",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -113403,15 +114016,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + glycolic acid",
   "featureLine": "Serum · ₹1590/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -113428,13 +114042,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciMatchedName": "10% Vitamin C Face Serum For Daily Brightness (name match 75%)",
+   "inciList": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BTAV8rtdL._AC_UL320_.jpg"
@@ -113458,7 +114075,13 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -113467,25 +114090,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Face Serum For Daily Brightness",
+   "inciMatchScore": 0.75,
+   "inciText": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -113506,15 +114209,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Serum · ₹1930/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -113531,13 +114236,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/10-niacinamide-face-serum-with-rice-water",
+   "inciMatchedName": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Oryza Sativa (Rice) Extract, Isodecyl Neopentanoate, Squalane, Sorbitol, Pentylene Glycol, Hydrogenated Polyisobutene, Rice Ferment Filtrate (Sake), Butylene Glycol, Rosa Damascena (Rose) Flower Water, Caffeine, Glycyrrhiza Glabra (Licorice) Root Extract, Glycerin, Acrylates Copolymer, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol, Benzyl Alcohol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexyl Olivate, Sodium Acrylates Copolymer, Polyglyceryl-4 Olivate, Cyclodextrin, Sodium Hyaluronate, Tocopheryl Acetate, Sodium Gluconate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, glycyrrhiza glabra root extract #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51G7Il-vTWL._AC_UL320_.jpg"
@@ -113562,7 +114270,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -113571,27 +114282,108 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/10-niacinamide-face-serum-with-rice-water",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Oryza Sativa (Rice) Extract, Isodecyl Neopentanoate, Squalane, Sorbitol, Pentylene Glycol, Hydrogenated Polyisobutene, Rice Ferment Filtrate (Sake), Butylene Glycol, Rosa Damascena (Rose) Flower Water, Caffeine, Glycyrrhiza Glabra (Licorice) Root Extract, Glycerin, Acrylates Copolymer, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol, Benzyl Alcohol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexyl Olivate, Sodium Acrylates Copolymer, Polyglyceryl-4 Olivate, Cyclodextrin, Sodium Hyaluronate, Tocopheryl Acetate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -115644,15 +116436,17 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Serum · ₹1970/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -115669,13 +116463,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/10-niacinamide-face-serum-with-rice-water",
+   "inciMatchedName": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Oryza Sativa (Rice) Extract, Isodecyl Neopentanoate, Squalane, Sorbitol, Pentylene Glycol, Hydrogenated Polyisobutene, Rice Ferment Filtrate (Sake), Butylene Glycol, Rosa Damascena (Rose) Flower Water, Caffeine, Glycyrrhiza Glabra (Licorice) Root Extract, Glycerin, Acrylates Copolymer, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol, Benzyl Alcohol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexyl Olivate, Sodium Acrylates Copolymer, Polyglyceryl-4 Olivate, Cyclodextrin, Sodium Hyaluronate, Tocopheryl Acetate, Sodium Gluconate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, glycyrrhiza glabra root extract #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41QDzV6UA5L._AC_UL320_.jpg"
@@ -115700,7 +116497,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -115709,27 +116509,108 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/10-niacinamide-face-serum-with-rice-water",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Oryza Sativa (Rice) Extract, Isodecyl Neopentanoate, Squalane, Sorbitol, Pentylene Glycol, Hydrogenated Polyisobutene, Rice Ferment Filtrate (Sake), Butylene Glycol, Rosa Damascena (Rose) Flower Water, Caffeine, Glycyrrhiza Glabra (Licorice) Root Extract, Glycerin, Acrylates Copolymer, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol, Benzyl Alcohol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexyl Olivate, Sodium Acrylates Copolymer, Polyglyceryl-4 Olivate, Cyclodextrin, Sodium Hyaluronate, Tocopheryl Acetate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -126993,15 +127874,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Serum · ₹1347/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -127018,13 +127900,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciMatchedName": "10% Vitamin C Face Serum For Daily Brightness (name match 80%)",
+   "inciList": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bqEoMAZZL._AC_UL320_.jpg"
@@ -127047,7 +127932,13 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -127056,25 +127947,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Face Serum For Daily Brightness",
+   "inciMatchScore": 0.8,
+   "inciText": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -135057,15 +136028,16 @@ const CTPRODUCTS = [
   "capacityLine": "20 ml",
   "materialLine": "niacinamide + zinc",
   "featureLine": "Serum · ₹1685/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -135082,13 +136054,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/10-niacinamide-face-serum-50ml",
+   "inciMatchedName": "10% Niacinamide Face Serum with 2% Zinc PCA - 50ml (name match 83%)",
+   "inciList": "Aqua, Niacinamide, 1,3-Propanediol, Ethoxydiglycol, Glycerin, Zinc PCA, Dimethyl Isosorbide, Pentylene Glycol, Xanthan Gum, Hydroxyethyl Cellulose, Algin, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Calcium Chloride, Potassium Sorbate, Citric Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51x2VMV0lSL._SL1200_.jpg",
@@ -135117,7 +136092,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -135126,25 +136105,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/10-niacinamide-face-serum-50ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide Face Serum with 2% Zinc PCA - 50ml",
+   "inciMatchScore": 0.83,
+   "inciText": "Aqua, Niacinamide, 1,3-Propanediol, Ethoxydiglycol, Glycerin, Zinc PCA, Dimethyl Isosorbide, Pentylene Glycol, Xanthan Gum, Hydroxyethyl Cellulose, Algin, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Calcium Chloride, Potassium Sorbate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -150367,15 +151382,16 @@ const CTPRODUCTS = [
   "capacityLine": "20 ml (pack of 2)",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Serum · ₹1445/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -150392,13 +151408,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-niacinamide-face-serum-with-1-zinc-pca",
+   "inciMatchedName": "10% Niacinamide Face Serum With 1% Zinc PCA (name match 100%)",
+   "inciList": "Niacinamide, Butylene Glycol, Propanediol, Gluconolactone, Salicylic Acid, Zinc PCA, Nelumbo Nucifera (White Lotus) Flower Extract, Torreya Nucifera (Yugdugu) Extract, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Betaine, Allantoin, Sodium Benzoate, Potassium Sorbate, Panthenol, Xanthan Gum, Polysorbate-20, Tocopheryl Acetate",
+   "evidenceActives": "niacinamide (#1 on list, strong evidence); zinc pca (#6 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #1 on INCI, salicylic acid #5 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #1 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ohD-BiVuL._AC_UL320_.jpg"
@@ -150425,7 +151444,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -150434,25 +151457,96 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-niacinamide-face-serum-with-1-zinc-pca",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide Face Serum With 1% Zinc PCA",
+   "inciMatchScore": 1,
+   "inciText": "Niacinamide, Butylene Glycol, Propanediol, Gluconolactone, Salicylic Acid, Zinc PCA, Nelumbo Nucifera (White Lotus) Flower Extract, Torreya Nucifera (Yugdugu) Extract, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Betaine, Allantoin, Sodium Benzoate, Potassium Sorbate, Panthenol, Xanthan Gum, Polysorbate-20, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -150682,15 +151776,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + alpha arbutin",
   "featureLine": "Serum · ₹1630/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -150707,13 +151802,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+   "inciMatchedName": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin (name match 82%)",
+   "inciList": "Aqua, Niacinamide, Glycerin, Xylitylglucoside (and) anhydroxylitol (and) xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan gum, Guar gum, Alpha Arbutin, EDTA, Brassica Campestris (Rapeseed) Seed Oil, Glycyrrhiza Glabra (Licorice)Root Extract, Polyglyceryl-3 Diisostearate, Althaea Officinalis Root Extract, Oryza Sativa (Rice) Bran Extract, Palmaria Palmata extract, Bellis Perennis (Daisy) Flower Extract",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); alpha-arbutin (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41JFkYfEdiL._AC_UL320_.jpg"
@@ -150733,7 +151831,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -150742,25 +151844,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin",
+   "inciMatchScore": 0.82,
+   "inciText": "Aqua, Niacinamide, Glycerin, Xylitylglucoside (and) anhydroxylitol (and) xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan gum, Guar gum, Alpha Arbutin, EDTA, Brassica Campestris (Rapeseed) Seed Oil, Glycyrrhiza Glabra (Licorice)Root Extract, Polyglyceryl-3 Diisostearate, Althaea Officinalis Root Extract, Oryza Sativa (Rice) Bran Extract, Palmaria Palmata extract, Bellis Perennis (Daisy) Flower Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -152896,16 +154034,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + alpha arbutin + tranexamic acid",
   "featureLine": "Serum · ₹1997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); tranexamic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -152922,13 +154062,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciMatchedName": "Advanced Dark Spot Correcting TXA Shot (name match 96%)",
+   "inciList": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); alpha-arbutin (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, tranexamic acid #4 on INCI, alpha-arbutin #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+TR8PmvbL._AC_UL320_.jpg"
@@ -152948,7 +154091,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -152957,25 +154104,85 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Dark Spot Correcting TXA Shot",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -153705,15 +154912,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + peptides + caffeine",
   "featureLine": "Serum · ₹3387/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -153730,13 +154938,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-niacinamide-10-serum",
+   "inciMatchedName": "Alltimate Niacinamide 10% Serum 30ml (name match 100%)",
+   "inciList": "Water/Eau, Niacinamide, Butylene Glycol, Propanediol, Panthenol, Bis-Peg-18 Methyl Ether Dimethyl Silane, 1,2-Hexanediol, Caffeine, Polysorbate 20, Glycosyl Trehalose, Troxerutin, Hydrogenated Starch Hydrolysate, Sarcosine, Allantoin, Polyacrylate Crosspolymer-6, Pentylene Glycol, Xanthan Gum, Adenosine, Disodium Edta, Serine, Arginine, Hydroxyphenyl Propamidobenzoic Acid, Citric Acid, Tocopherol, Ascorbyl Palmitate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — adenosine #18 on INCI; Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51b8oBl7JeL._AC_UL320_.jpg"
@@ -153758,7 +154969,13 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -153767,25 +154984,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/alltimate-niacinamide-10-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Alltimate Niacinamide 10% Serum 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Water/Eau, Niacinamide, Butylene Glycol, Propanediol, Panthenol, Bis-Peg-18 Methyl Ether Dimethyl Silane, 1,2-Hexanediol, Caffeine, Polysorbate 20, Glycosyl Trehalose, Troxerutin, Hydrogenated Starch Hydrolysate, Sarcosine, Allantoin, Polyacrylate Crosspolymer-6, Pentylene Glycol, Xanthan Gum, Adenosine, Disodium Edta, Serine, Arginine, Hydroxyphenyl Propamidobenzoic Acid, Citric Acid, Tocopherol, Ascorbyl Palmitate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -158012,16 +159299,18 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "niacinamide + alpha arbutin + tranexamic acid",
   "featureLine": "Serum · ₹2990/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); tranexamic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -158038,13 +159327,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciMatchedName": "Advanced Dark Spot Correcting TXA Shot (name match 96%)",
+   "inciList": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); alpha-arbutin (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, tranexamic acid #4 on INCI, alpha-arbutin #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wE2L5VZxL._AC_UL320_.jpg"
@@ -158064,7 +159356,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -158073,25 +159369,85 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Dark Spot Correcting TXA Shot",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -161810,16 +163166,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + zinc",
   "featureLine": "Serum · ₹1330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.5,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -161836,13 +163194,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thriveco.in/products/niacinamide-serum-with-zinc",
+   "inciMatchedName": "10% Niacinamide Serum with 1% Zinc PCA, 30ml (name match 80%)",
+   "inciList": "AQUA, NIACINAMIDE, PROPANEDIOL, DIMETHYL ISOSORBIDE, POLYALKYLENE GLYCOL MONO BUTYL ETHER, ZINC PCA, XANTHAN GUM, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, TETRASODIUM EDTA",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/716K0ytOKUL._AC_UL320_.jpg"
@@ -161864,7 +163225,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -161873,25 +163238,45 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thriveco.in/products/niacinamide-serum-with-zinc",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide Serum with 1% Zinc PCA, 30ml",
+   "inciMatchScore": 0.8,
+   "inciText": "AQUA, NIACINAMIDE, PROPANEDIOL, DIMETHYL ISOSORBIDE, POLYALKYLENE GLYCOL MONO BUTYL ETHER, ZINC PCA, XANTHAN GUM, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, TETRASODIUM EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -175793,16 +177178,18 @@ const CTPRODUCTS = [
   "capacityLine": "75 g",
   "materialLine": "vitamin C + niacinamide + retinol",
   "featureLine": "Sunscreen · SPF 30 · ₹256/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -175819,11 +177206,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/nourish-all-day-cream",
+   "inciMatchedName": "Nourish All Day Cream with SPF 30 PA++ - 75 gm (name match 100%)",
+   "inciList": "Aqua, Glyceryl Stearate, Ethylhexyl Methoxycinnamate, Glycerin, Isopropyl Myristate, Cocos Nucifera (Coconut) Oil, Ceto-Stearyl Alcohol, Zinc Oxide, Ethylhexyl Salicylate, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Perfume, Cetearyl Olivate (and) Sorbitan Olivate, Caprylic/Capric Triglyceride, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline (and) Water, Phenoxyethanol, Niacinamide (Vitamin B3), Glycolic Acid, Titanium Dioxide, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Silanetriol (and) Hyaluronic Acid (and) Methylpropanediol (and) Citric Acid (and) Water (Aqua), Disodium EDTA, 3-O Ethyl Ascorbic Acid (Vitamin C), Retinol, Tocopheryl Acetate (Vitamin E), Triticum Vulgare (Wheat) Germ Oil, Ceramide 3, Linoleic Acid (and) Linolenic Acid (Vitamin F), Prunus Amygdalus (Almond) Oil, Simmondsia Chinensis (Jojoba) Oil, Moringa Oleifera Seed Oil, Panthenol (Vitamin B5)",
+   "evidenceActives": "niacinamide (#30 on list, strong evidence); hyaluronic acid (#35 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
    "waterResistance": "Water resistance not stated in listing"
@@ -175853,7 +177242,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -175862,27 +177252,165 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/nourish-all-day-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Nourish All Day Cream with SPF 30 PA++ - 75 gm",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glyceryl Stearate, Ethylhexyl Methoxycinnamate, Glycerin, Isopropyl Myristate, Cocos Nucifera (Coconut) Oil, Ceto-Stearyl Alcohol, Zinc Oxide, Ethylhexyl Salicylate, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Perfume, Cetearyl Olivate (and) Sorbitan Olivate, Caprylic/Capric Triglyceride, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline (and) Water, Phenoxyethanol, Niacinamide (Vitamin B3), Glycolic Acid, Titanium Dioxide, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Silanetriol (and) Hyaluronic Acid (and) Methylpropanediol (and) Citric Acid (and) Water (Aqua), Disodium EDTA, 3-O Ethyl Ascorbic Acid (Vitamin C), Retinol, Tocopheryl Acetate (Vitamin E), Triticum Vulgare (Wheat) Germ Oil, Ceramide 3, Linoleic Acid (and) Linolenic Acid (Vitamin F), Prunus Amygdalus (Almond) Oil, Simmondsia Chinensis (Jojoba) Oil, Moringa Oleifera Seed Oil, Panthenol (Vitamin B5)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca",
+    "niacinamide",
+    "hyaluronic acid",
+    "ceramide np",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -185973,15 +187501,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + hyaluronic acid",
   "featureLine": "Serum · ₹1933/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -185998,13 +187527,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum (name match 100%)",
+   "inciList": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#5 on list, moderate evidence); niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/4179TTm5sxL._AC_UL320_.jpg"
@@ -186023,7 +187555,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -186032,25 +187568,46 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -186660,15 +188217,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + salicylic acid (BHA)",
   "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -186685,13 +188243,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciMatchedName": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); sodium hyaluronate (#36 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41YhY5OeJvL._AC_UL320_.jpg"
@@ -186713,7 +188274,11 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -186722,25 +188287,71 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -189220,17 +190831,19 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + witch hazel",
   "featureLine": "Serum · ₹1167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (SESA official website (sesacare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.5,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189247,13 +190860,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SESA official website (sesacare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://sesacare.com/products/sesa-vedscience-oil-control-serum-30-ml",
+   "inciMatchedName": "Vedscience Oil Control Serum - 30 ml (name match 90%)",
+   "inciList": "Aqua, Niacinamide, Salicylic Acid, Propanediol, Triethanolamine, Hamamelis Virginiana (Witch Hazel) Water, Ocimum Sanctum (Holy Basil) Leaf Extract, Rubia Cordifolia (Manjishtha) Root Extract, Curcuma Longa (Turmeric) Root Extract, Glycerine, Azadirachta Indica (Neem) Extract, Aloe Barbadensis (Aloe Vera) Leaf Pulp (and) Aqua, Betaine, Benzyl Alcohol (and) Dehydroacetic Acid, Ammonium Acryloyldimethyltaurate/Carboxyethyl Acrylate Crosspolymer, Saccharide Isomerate (and) Aqua (and) Citric Acid (and) Sodium Citrate, Sodium Hyaluronate, Sodium Gluconate, Zinc PCA, Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#22 on list, moderate evidence); zinc pca (#24 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI, salicylic acid #3 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vUh0ybRnL._AC_UL320_.jpg"
@@ -189275,7 +190891,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -189284,27 +190903,116 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SESA official website (sesacare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://sesacare.com/products/sesa-vedscience-oil-control-serum-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vedscience Oil Control Serum - 30 ml",
+   "inciMatchScore": 0.9,
+   "inciText": "Aqua, Niacinamide, Salicylic Acid, Propanediol, Triethanolamine, Hamamelis Virginiana (Witch Hazel) Water, Ocimum Sanctum (Holy Basil) Leaf Extract, Rubia Cordifolia (Manjishtha) Root Extract, Curcuma Longa (Turmeric) Root Extract, Glycerine, Azadirachta Indica (Neem) Extract, Aloe Barbadensis (Aloe Vera) Leaf Pulp (and) Aqua, Betaine, Benzyl Alcohol (and) Dehydroacetic Acid, Ammonium Acryloyldimethyltaurate/Carboxyethyl Acrylate Crosspolymer, Saccharide Isomerate (and) Aqua (and) Citric Acid (and) Sodium Citrate, Sodium Hyaluronate, Sodium Gluconate, Zinc PCA, Melaleuca Alternifolia (Tea Tree) Leaf Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -198633,15 +200341,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide",
   "featureLine": "Oil · ₹422/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Simple official website (www.simpleskincare.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.5,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -198658,13 +200367,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Simple official website (www.simpleskincare.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.simpleskincare.in/products/hydrating-light-moisturiser-with-borage-seed-oil-pro-vit-b5-vit-e-125-ml",
+   "inciMatchedName": "Hydrating Light Moisturiser 125ml (name match 100%)",
+   "inciList": "Aqua, Glycerin, Mineral Oil, Polyglyceryl-3 Methylglucose Distearate, Cetyl Palmitate, Niacinamide, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Stearic acid, Borago Officinalis Seed Oil, Caprylyl Glycol, Carbomer, Cetyl Alcohol, Disodium EDTA, Lactic Acid, Panthenol, Pentylene Glycol, Phenoxyethanol, Potassium Carbonate, Potassium Hydroxide, Citric acid, Bisabolol, Serine, Sodium Lactate, Sorbitol, Tocopheryl Acetate, Urea, Allantoin, Sodium Chloride",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FfiY++6ML._AC_UL320_.jpg"
@@ -198685,7 +200397,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -198694,25 +200410,128 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Simple official website (www.simpleskincare.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.simpleskincare.in/products/hydrating-light-moisturiser-with-borage-seed-oil-pro-vit-b5-vit-e-125-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydrating Light Moisturiser 125ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Mineral Oil, Polyglyceryl-3 Methylglucose Distearate, Cetyl Palmitate, Niacinamide, Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Stearic acid, Borago Officinalis Seed Oil, Caprylyl Glycol, Carbomer, Cetyl Alcohol, Disodium EDTA, Lactic Acid, Panthenol, Pentylene Glycol, Phenoxyethanol, Potassium Carbonate, Potassium Hydroxide, Citric acid, Bisabolol, Serine, Sodium Lactate, Sorbitol, Tocopheryl Acetate, Urea, Allantoin, Sodium Chloride",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "urea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "dimethicone",
+    "panthenol",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -199576,17 +201395,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "niacinamide + almond",
   "featureLine": "Oil · Paraben-free · ₹764/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
    "Made by Galderma (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 6,
+   "skin": 9.5,
+   "trust": 10,
    "experience": 3.2
   },
   "fullSpec": {
@@ -199603,13 +201423,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/moisturising-cream/8906005273436.html",
+   "inciMatchedName": "Moisturising Cream (name match 100%)",
+   "inciList": "Aqua, Glycerin, Petrolatum, Dicaprylyl Ether, Dimethicone, Glyceryl Stearate, Cetyl Alcohol, Helianthus Annuus Seed Oil, Peg-30 Stearate, Panthenol, Niacinamide, Prunus Amygdalus Dulcis Oil, Tocopherol, Tocopheryl Acetate, Pantolactone, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Propylene Glycol, Bht, Disodium Edta, Benzyl Alcohol, Phenoxyethanol, Sodium Hydroxide, Citric Acid",
+   "evidenceActives": "niacinamide (#11 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615fFn0PrZL._AC_UL320_.jpg"
@@ -199636,7 +201459,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -199646,27 +201473,124 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/moisturising-cream/8906005273436.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Moisturising Cream",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Petrolatum, Dicaprylyl Ether, Dimethicone, Glyceryl Stearate, Cetyl Alcohol, Helianthus Annuus Seed Oil, Peg-30 Stearate, Panthenol, Niacinamide, Prunus Amygdalus Dulcis Oil, Tocopherol, Tocopheryl Acetate, Pantolactone, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Propylene Glycol, Bht, Disodium Edta, Benzyl Alcohol, Phenoxyethanol, Sodium Hydroxide, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "petrolatum",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Galderma",
     "kind": "pharma",
@@ -201976,17 +203900,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + centella/cica",
   "featureLine": "Oil · ₹746/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 0 ratings"
   ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -202003,13 +203927,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: 2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-free-moisturizer",
+   "inciMatchedName": "2% Cica Exosomes Oil-Free Moisturizer - 50ml (name match 100%)",
+   "listingIngredientLine": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc) (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Aqua (Water), Niacinamide (Vitamin B3), Panthenol (Vitamin B5), Cyclopentasiloxane, Glycerin, Centella (Cica) Asiatica Leaf Vesicles, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Zinc PCA, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Glyceryl Glucoside, Tanacetum Annuum (Blue Tansy) Flower Extract, Isohexadecane, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Acacia Senegal Gum, Butylene Glycol, Xanthan Gum, 1,2- Hexanediol, Dimethicone, Carbomer, Ethylhexylglycerin, Silica, Sodium Gluconate, Sodium Hydroxide, Phenoxyethanol",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#8 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #8 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Y6VzMTJ2L._AC_UL320_.jpg"
@@ -202035,7 +203963,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -202044,25 +203977,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-free-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Cica Exosomes Oil-Free Moisturizer - 50ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Niacinamide (Vitamin B3), Panthenol (Vitamin B5), Cyclopentasiloxane, Glycerin, Centella (Cica) Asiatica Leaf Vesicles, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Zinc PCA, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Glyceryl Glucoside, Tanacetum Annuum (Blue Tansy) Flower Extract, Isohexadecane, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Acacia Senegal Gum, Butylene Glycol, Xanthan Gum, 1,2- Hexanediol, Dimethicone, Carbomer, Ethylhexylglycerin, Silica, Sodium Gluconate, Sodium Hydroxide, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "panthenol",
+    "glycerin",
+    "butylene glycol",
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -205540,15 +207520,18 @@ const CTPRODUCTS = [
   "capacityLine": "60 g",
   "materialLine": "niacinamide + hyaluronic acid",
   "featureLine": "Oil · ₹707/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Essential oil / volatile sensitiser: mentha piperita oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.4,
+   "skin": 8,
+   "trust": 8,
    "experience": 3.2
   },
   "fullSpec": {
@@ -205565,13 +207548,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/watermelon-moisturizer-icy-gel",
+   "inciMatchedName": "Watermelon Cooling Icy Gel Moisturizer With Hyaluronic (name match 100%)",
+   "inciList": "Aqua, Glycerin, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Cyclopentasiloxane, Niacinamide, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Silanetriol (and) Hyaluronic Acid, Citrullus Lanatus (Watermelon) Fruit Extract, Butylene Glycol (and) Menthyl PCA (and) Ethyl Menthane Carboxamide, Aqua (and) Laminaria Digitata Extract (and) Hydrogenated Lecithin (and) Cetyl-PG Hydroxyethyl Palmitamide (and) Ceramide 1,2,3,4,6II (and) Cholesterol (and) 1,2-Hexanediol, Aloe Barbadensis (Aloevera) Leaf Juice, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Tocopheryl Acetate, Mentha Piperita (Peppermint) Oil, Allantoin, Polyacrylate Crosspolymer-11, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone, Disodium EDTA, Sodium Hydroxide, Phenoxyethanol (and) Ethylhexylglycerin, Fragrance",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); hyaluronic acid (#10 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: mentha piperita oil (−0.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — ceramide eos #19 on INCI, aloe barbadensis leaf juice #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61MIEclOBfL._AC_UL320_.jpg"
@@ -205593,7 +207579,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -205602,27 +207592,127 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/watermelon-moisturizer-icy-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Watermelon Cooling Icy Gel Moisturizer With Hyaluronic",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Cyclopentasiloxane, Niacinamide, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Silanetriol (and) Hyaluronic Acid, Citrullus Lanatus (Watermelon) Fruit Extract, Butylene Glycol (and) Menthyl PCA (and) Ethyl Menthane Carboxamide, Aqua (and) Laminaria Digitata Extract (and) Hydrogenated Lecithin (and) Cetyl-PG Hydroxyethyl Palmitamide (and) Ceramide 1,2,3,4,6II (and) Cholesterol (and) 1,2-Hexanediol, Aloe Barbadensis (Aloevera) Leaf Juice, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Tocopheryl Acetate, Mentha Piperita (Peppermint) Oil, Allantoin, Polyacrylate Crosspolymer-11, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone, Disodium EDTA, Sodium Hydroxide, Phenoxyethanol (and) Ethylhexylglycerin, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "hyaluronic acid",
+    "butylene glycol",
+    "ceramide eos",
+    "cholesterol",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "mentha piperita oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Nykaa (FSN E-Commerce, listed)",
     "kind": "india",
@@ -212501,17 +214591,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + hyaluronic acid",
   "featureLine": "Cream / gel · Fragrance-free · ₹2338/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 7.8,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.2
   },
   "fullSpec": {
@@ -212528,13 +214618,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/product-range/healthy-radiance/cetaphil-bright-healthy-radiance-brightening-night-comfort-cream/3499320011518.html",
+   "inciMatchedName": "Cetaphil Bright Healthy Radiance Brightening Night Comfort Cream (name match 80%)",
+   "inciList": "Aqua, Glycerin, Niacinamide, Butylene Glycol, Hydrogenated Polydecene, 1,2-Hexanediol, Cetearyl Alcohol, Cetearyl Olivate, Cetyl Ethylhexanoate, Sorbitan Olivate, Beeswax, Vinyl Dimethicone, Anhydroxylitol, Citric Acid, Ethylhexylglycerin, Glyceryl Stearate, Hyaluronic Acid, Hydrolyzed Cicer Seed Extract, Hydrolyzed Hyaluronic Acid, Pancratium Maritimum Extract, Pentasodium Pentetate, Propanediol, Rhododendron Chrysanthemum Leaf Extract, Sodium Hyaluronate, Sodium Polyacryloyldimethyl Taurate, Tocopherol, Tricholoma Matsutake Extract, Trideceth-10, Xylitol, Xylitylglucoside",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); hyaluronic acid (#17 on list, moderate evidence); sodium hyaluronate (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-lKA6IGKL._AC_UL320_.jpg"
@@ -212555,7 +214648,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -212565,25 +214662,98 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/product-range/healthy-radiance/cetaphil-bright-healthy-radiance-brightening-night-comfort-cream/3499320011518.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Bright Healthy Radiance Brightening Night Comfort Cream",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Glycerin, Niacinamide, Butylene Glycol, Hydrogenated Polydecene, 1,2-Hexanediol, Cetearyl Alcohol, Cetearyl Olivate, Cetyl Ethylhexanoate, Sorbitan Olivate, Beeswax, Vinyl Dimethicone, Anhydroxylitol, Citric Acid, Ethylhexylglycerin, Glyceryl Stearate, Hyaluronic Acid, Hydrolyzed Cicer Seed Extract, Hydrolyzed Hyaluronic Acid, Pancratium Maritimum Extract, Pentasodium Pentetate, Propanediol, Rhododendron Chrysanthemum Leaf Extract, Sodium Hyaluronate, Sodium Polyacryloyldimethyl Taurate, Tocopherol, Tricholoma Matsutake Extract, Trideceth-10, Xylitol, Xylitylglucoside",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -213632,15 +215802,18 @@ const CTPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "niacinamide + hyaluronic acid + green tea",
   "featureLine": "Cream / gel · ₹1188/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "Essential oil / volatile sensitiser: melaleuca alternafolia leaf oil, mentha piperita oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.4,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -213657,13 +215830,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/cica-calming-skin-renewing-night-gel",
+   "inciMatchedName": "Cica Calming Night Gel (Niacinamide + Green Tea) (name match 96%)",
+   "inciList": "Aqua, Glycerine, Polyacrylamide (and) C13-14 Isoparaffin (and) Laureth-7, Niacinamide, Dimethicone, Dicaprylyl Ether, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Disodium EDTA, Aloe Barbadensis (Aloe Vera) Leaf Juice, Centella Asiatica (Cica) Leaf Extract, Camellia Sinensis (Green Tea) Leaf Extract, Melaleuca Alternafolia (Tea Tree) Leaf Oil, Silanetriol (and) Hyaluronic Acid, Silanediol Salicylate, Avena Sativa (Oat) Meal Extract, Mentha Piperita (Peppermint) Oil, Copper Chlorophyll, Laminaria Digitata Extract (and) Hydrogenated Lecithin(and) Cetyl - PG Hydroxyethyl Palmitamide (and) Ceramide 1 (and) Ceramide 2 (and) Ceramide 3 (and) Ceramide 4 (and) Ceramide 6 II (and) Cholesterol, 1,2 Hexanediol, Allantoin, Benzyl Alcohol (and) Ethylhexylglycerin (and) Tocopherol, CI 19140, CI 42090",
+   "evidenceActives": "niacinamide (#5 on list, strong evidence); hyaluronic acid (#19 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5); Essential oil / volatile sensitiser: melaleuca alternafolia leaf oil, mentha piperita oil (−1)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51SHEvFXMXL._AC_UL320_.jpg"
@@ -213690,7 +215866,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -213699,27 +215878,170 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/cica-calming-skin-renewing-night-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cica Calming Night Gel (Niacinamide + Green Tea)",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Glycerine, Polyacrylamide (and) C13-14 Isoparaffin (and) Laureth-7, Niacinamide, Dimethicone, Dicaprylyl Ether, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Disodium EDTA, Aloe Barbadensis (Aloe Vera) Leaf Juice, Centella Asiatica (Cica) Leaf Extract, Camellia Sinensis (Green Tea) Leaf Extract, Melaleuca Alternafolia (Tea Tree) Leaf Oil, Silanetriol (and) Hyaluronic Acid, Silanediol Salicylate, Avena Sativa (Oat) Meal Extract, Mentha Piperita (Peppermint) Oil, Copper Chlorophyll, Laminaria Digitata Extract (and) Hydrogenated Lecithin(and) Cetyl - PG Hydroxyethyl Palmitamide (and) Ceramide 1 (and) Ceramide 2 (and) Ceramide 3 (and) Ceramide 4 (and) Ceramide 6 II (and) Cholesterol, 1,2 Hexanediol, Allantoin, Benzyl Alcohol (and) Ethylhexylglycerin (and) Tocopherol, CI 19140, CI 42090",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "teaTree"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "cholesterol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternafolia leaf oil",
+      "mentha piperita oil"
+     ],
+     "penalty": 1,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Nykaa (FSN E-Commerce, listed)",
     "kind": "india",
@@ -228122,15 +230444,16 @@ const CTPRODUCTS = [
   "capacityLine": "20 ml",
   "materialLine": "niacinamide + hyaluronic acid + rice water",
   "featureLine": "Cream / gel · ₹6315/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -228147,11 +230470,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/rice-water-bright-vegan-eye-cream",
+   "inciMatchedName": "Rice Water Bright Vegan Eye Cream 20ml (name match 96%)",
+   "inciList": "Water/Eau, Caprylic/Capric Triglyceride,Propanediol,Glycerin, Elaeis Guineensis (Palm) Oil, Butyrospermum Parkii (Shea) Butter, Macadamia Ternifolia Seed Oil 1, 2-Hexanediol Betaine, Elaeis Guineensis (Palm) Kernel Oil, Behenyl Alcohol, Tri-C14-15 Alkyl Citrate, Caprylic/Capric Glycerides, Tromethamine, Carbomer, Butylene Glycol, Palmitic Acid, Disodium Edta, Niacinamide, Polyglycerin-3, Stearic Acid, Glycine Soja (Soybean) Seed Extract, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Potato Extract Ferment Filtrate, Sodium Polyacrylate, Saccharomyces/Barley Seed Ferment Filtrate, Oryza Sativa (Rice) Bran Oil Sodium Hyaluronate, Hibiscus Sabdariffa Flower Extract, Saccharomyces/Rice Ferment Filtrate, Oryza Sativa (Rice) Extract",
+   "evidenceActives": "niacinamide (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -228177,7 +230502,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -228186,25 +230513,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/rice-water-bright-vegan-eye-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rice Water Bright Vegan Eye Cream 20ml",
+   "inciMatchScore": 0.96,
+   "inciText": "Water/Eau, Caprylic/Capric Triglyceride,Propanediol,Glycerin, Elaeis Guineensis (Palm) Oil, Butyrospermum Parkii (Shea) Butter, Macadamia Ternifolia Seed Oil 1, 2-Hexanediol Betaine, Elaeis Guineensis (Palm) Kernel Oil, Behenyl Alcohol, Tri-C14-15 Alkyl Citrate, Caprylic/Capric Glycerides, Tromethamine, Carbomer, Butylene Glycol, Palmitic Acid, Disodium Edta, Niacinamide, Polyglycerin-3, Stearic Acid, Glycine Soja (Soybean) Seed Extract, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Potato Extract Ferment Filtrate, Sodium Polyacrylate, Saccharomyces/Barley Seed Ferment Filtrate, Oryza Sativa (Rice) Bran Oil Sodium Hyaluronate, Hibiscus Sabdariffa Flower Extract, Saccharomyces/Rice Ferment Filtrate, Oryza Sativa (Rice) Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "butyrospermum parkii butter",
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -233553,17 +235919,17 @@ const CTPRODUCTS = [
   "capacityLine": "245 ml",
   "materialLine": "niacinamide",
   "featureLine": "Lotion · Fragrance-free · ₹603/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 7.8,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.2
   },
   "fullSpec": {
@@ -233580,13 +235946,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/product-range/healthy-radiance/cetaphil-bright-healthy-radiance-brightening-lotion/3499320011532.html",
+   "inciMatchedName": "Cetaphil Bright Healthy Radiance Brightening Lotion (name match 95%)",
+   "inciList": "Aqua, Glycerin, Hydrogenated Polydecene, Niacinamide, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetearyl Alcohol, Butyrospermum Parkii Butter, Glyceryl Stearate, Butylene Glycol, Anhydroxylitol, Betaine, Citric Acid, Dimethicone, Ethylhexylglycerin, Hyaluronic Acid, Hydrolyzed Cicer Seed Extract, Hydrolyzed Hyaluronic Acid, Palmitic Acid, Pancratium Maritimum Extract, Polyglyceryl-2 Stearate ,Propanediol, Rhododendron Chrysanthemum Leaf Extract, Sodium Hyaluronate, Stearic Acid, Stearyl Alcohol, Tocopherol, Tricholoma Matsutake Extract, Xylitol, Xylitylglucoside",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); hyaluronic acid (#17 on list, moderate evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/515xX0IgLBL._AC_UL320_.jpg"
@@ -233609,7 +235978,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -233619,25 +235992,108 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/product-range/healthy-radiance/cetaphil-bright-healthy-radiance-brightening-lotion/3499320011532.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Bright Healthy Radiance Brightening Lotion",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Glycerin, Hydrogenated Polydecene, Niacinamide, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetearyl Alcohol, Butyrospermum Parkii Butter, Glyceryl Stearate, Butylene Glycol, Anhydroxylitol, Betaine, Citric Acid, Dimethicone, Ethylhexylglycerin, Hyaluronic Acid, Hydrolyzed Cicer Seed Extract, Hydrolyzed Hyaluronic Acid, Palmitic Acid, Pancratium Maritimum Extract, Polyglyceryl-2 Stearate ,Propanediol, Rhododendron Chrysanthemum Leaf Extract, Sodium Hyaluronate, Stearic Acid, Stearyl Alcohol, Tocopherol, Tricholoma Matsutake Extract, Xylitol, Xylitylglucoside",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butyrospermum parkii butter",
+    "butylene glycol",
+    "dimethicone",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -240885,15 +243341,16 @@ const CTPRODUCTS = [
   "capacityLine": "180 g",
   "materialLine": "niacinamide + petrolatum + ceramides",
   "featureLine": "Lotion · ₹158/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -240910,13 +243367,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+   "inciMatchedName": "Niacinamide 5% Body Lotion (name match 100%)",
+   "inciList": "Water/Aqua, Glycerin, Niacinamide, Caprylic/Capric Triglyceride, Cyclopentasiloxane, Isododecane, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Betaine, Petrolatum, Stearic Acid, Phenoxyethanol, Cetearyl Alcohol, Carbomer, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cWnlWUJOL._SL1280_.jpg",
@@ -240945,7 +243405,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -240954,25 +243418,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide 5% Body Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Water/Aqua, Glycerin, Niacinamide, Caprylic/Capric Triglyceride, Cyclopentasiloxane, Isododecane, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Betaine, Petrolatum, Stearic Acid, Phenoxyethanol, Cetearyl Alcohol, Carbomer, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "dimethicone",
+    "petrolatum"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -245527,17 +248029,18 @@ const CTPRODUCTS = [
   "capacityLine": "453 g",
   "materialLine": "niacinamide + almond",
   "featureLine": "Oil · Paraben-free · ₹399/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
    "Made by Galderma (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 6,
+   "skin": 9.5,
+   "trust": 10,
    "experience": 3.2
   },
   "fullSpec": {
@@ -245554,13 +248057,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/moisturising-cream/8906005273436.html",
+   "inciMatchedName": "Moisturising Cream (name match 100%)",
+   "inciList": "Aqua, Glycerin, Petrolatum, Dicaprylyl Ether, Dimethicone, Glyceryl Stearate, Cetyl Alcohol, Helianthus Annuus Seed Oil, Peg-30 Stearate, Panthenol, Niacinamide, Prunus Amygdalus Dulcis Oil, Tocopherol, Tocopheryl Acetate, Pantolactone, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Propylene Glycol, Bht, Disodium Edta, Benzyl Alcohol, Phenoxyethanol, Sodium Hydroxide, Citric Acid",
+   "evidenceActives": "niacinamide (#11 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kX0rdKztL._AC_UL320_.jpg"
@@ -245587,7 +248093,11 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -245597,27 +248107,124 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/moisturizers/moisturising-cream/8906005273436.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Moisturising Cream",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Petrolatum, Dicaprylyl Ether, Dimethicone, Glyceryl Stearate, Cetyl Alcohol, Helianthus Annuus Seed Oil, Peg-30 Stearate, Panthenol, Niacinamide, Prunus Amygdalus Dulcis Oil, Tocopherol, Tocopheryl Acetate, Pantolactone, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Propylene Glycol, Bht, Disodium Edta, Benzyl Alcohol, Phenoxyethanol, Sodium Hydroxide, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "petrolatum",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Galderma",
     "kind": "pharma",
@@ -266989,17 +269596,19 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide",
   "featureLine": "Serum · ₹5653/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); tranexamic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -267016,13 +269625,17 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Niacinamide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/niacinamide-10-txa-4-serum-2",
+   "inciMatchedName": "Niacinamide 10 TXA 4 Serum for Brightening and Dark Spots (name match 90%)",
+   "listingIngredientLine": "Niacinamide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); arbutin (#8 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence); alpha-arbutin (#10 on list, moderate evidence); hyaluronic acid (#26 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -267061,7 +269674,13 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -267070,25 +269689,163 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/niacinamide-10-txa-4-serum-2",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Niacinamide 10 TXA 4 Serum for Brightening and Dark Spots",
+   "inciMatchScore": 0.9,
+   "inciText": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "arbutin",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 41,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -276604,17 +279361,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide",
   "featureLine": "Serum · Paraben-free · ₹1447/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Aroma Magic official website (www.aromamagic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 168 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.3
   },
   "fullSpec": {
@@ -276631,13 +279388,16 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.4/5 (168 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Aroma Magic official website (www.aromamagic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.aromamagic.com/products/niacinamide-face-serum",
+   "inciMatchedName": "Niacinamide Face Serum For Reduces Acne Scar & Dullness (name match 100%)",
+   "inciList": "Aqua, Glycerine, Aloe barbadensis leaf juice, Niacinamide, Azadirachta indica extract, Zinc PCA, Camellia sinensis extract, Xanthan gum, Lavandula angustifolia essential oil, Tocopheryl acetate, Citric acid, Natural pentylene glycol",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); zinc pca (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 168 ratings"
+   "buyerEvidence": "4.4★ from 168 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/u/c/30-niacinamide-face-serum-reduces-inflammation-balances-sebum-original-imagqgguzh5qtucj.jpeg?q=90",
@@ -276665,7 +279425,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -276674,25 +279439,77 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Aroma Magic official website (www.aromamagic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.aromamagic.com/products/niacinamide-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide Face Serum For Reduces Acne Scar & Dullness",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerine, Aloe barbadensis leaf juice, Niacinamide, Azadirachta indica extract, Zinc PCA, Camellia sinensis extract, Xanthan gum, Lavandula angustifolia essential oil, Tocopheryl acetate, Citric acid, Natural pentylene glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -299788,16 +302605,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹498/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.5,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5.2
   },
   "fullSpec": {
@@ -299814,13 +302633,17 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (72 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Vitamin C, Niacinamide, Hyaluronic Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciMatchedName": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++ (name match 82%)",
+   "listingIngredientLine": "Vitamin C, Niacinamide, Hyaluronic Acid (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "niacinamide (#13 on list, strong evidence); hyaluronic acid (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 72 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -299858,7 +302681,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -299867,25 +302695,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin C, Niacinamide, Hyaluronic Acid",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 0.82,
+   "inciText": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -326544,15 +329483,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Sunscreen · SPF 50 · ₹744/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -326569,13 +329509,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/5-vitamin-c-complex-brightening-serum-sunscreen-spf-50-pa-1",
+   "inciMatchedName": "5% Vitamin C Complex Brightening Serum Sunscreen SPF 50+ PA++++ (name match 100%)",
+   "inciList": "Ingredient Name, Aqua, Glycerin, Isododecane, Propanediol, Niacinamide, Glyceryl Stearate (and) PEG-100 Stearate, Dicaprylyl Carbonate, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Phenoxyethanol (and) Ethylhexylglycerin, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Polyacrylate Crosspolymer-6, Tocopherol E Acetate, 3-O-Ethyl Ascorbic Acid, Sodium Gluconate, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Lactate, Xanthan Gum, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Centella Asiatica (Cica) Extract, Camellia Sinensis Leaf (White Tea) Extract, Titanium Dioxide, Sodium Hyaluronate, Water (Aqua), Glycerin, Alcohol, Achyrocline Satureiodes Flower Extract, Plantago Lanceolata Leaf Extract, Sodium PCA, Fabiana Imbricata Leaf/Stem Extract, Verbascum Thapsus Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Glutathione, CI 15985",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); sodium hyaluronate (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -326602,7 +329545,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -326611,25 +329558,112 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/5-vitamin-c-complex-brightening-serum-sunscreen-spf-50-pa-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Vitamin C Complex Brightening Serum Sunscreen SPF 50+ PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Ingredient Name, Aqua, Glycerin, Isododecane, Propanediol, Niacinamide, Glyceryl Stearate (and) PEG-100 Stearate, Dicaprylyl Carbonate, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Phenoxyethanol (and) Ethylhexylglycerin, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Polyacrylate Crosspolymer-6, Tocopherol E Acetate, 3-O-Ethyl Ascorbic Acid, Sodium Gluconate, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Lactate, Xanthan Gum, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Centella Asiatica (Cica) Extract, Camellia Sinensis Leaf (White Tea) Extract, Titanium Dioxide, Sodium Hyaluronate, Water (Aqua), Glycerin, Alcohol, Achyrocline Satureiodes Flower Extract, Plantago Lanceolata Leaf Extract, Sodium PCA, Fabiana Imbricata Leaf/Stem Extract, Verbascum Thapsus Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Glutathione, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate",
+    "sodium pca"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -326968,15 +330002,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide",
   "featureLine": "Sunscreen · SPF 50 · ₹558/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -326993,13 +330029,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-sunscreen-spf50-pa-50-gm-af",
+   "inciMatchedName": "Berry Bright Sunscreen | SPF50 PA ++++ | SPF (name match 80%)",
+   "inciList": "Aqua, Titanium Dioxide, Zinc Oxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene Glycol, Lecithin, Ceramide NP, Phospholipids, Aluminum Hydroxide, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Alpha Lipoic Acid, Sodium Polyacrylate, Xylitol, Hectorite (and) Hydroxyethylcellulose, Niacinamide, Ceramide AP, Ceramide EOP, Cholesterol, Sodium Lauroyl Lactylate, Caprylic Acid, Glyceryl Stearate, Sodium Hyaluronate, Phytosphingosine, Milk Thistle Extract, D-alpha Tocopherol Acetate, Olive Squalane, Sorbitol, Resveratrol, Black Berry Extract, Sodium Levulinate And Potassium Sorbate, Fragrance",
+   "evidenceActives": "niacinamide (#19 on list, strong evidence); sodium hyaluronate (#26 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI; Irritation — ceramide np #9 on INCI, ceramide ap #20 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -327029,7 +330068,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -327038,27 +330081,150 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-sunscreen-spf50-pa-50-gm-af",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Berry Bright Sunscreen | SPF50 PA ++++ | SPF",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Titanium Dioxide, Zinc Oxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene Glycol, Lecithin, Ceramide NP, Phospholipids, Aluminum Hydroxide, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Alpha Lipoic Acid, Sodium Polyacrylate, Xylitol, Hectorite (and) Hydroxyethylcellulose, Niacinamide, Ceramide AP, Ceramide EOP, Cholesterol, Sodium Lauroyl Lactylate, Caprylic Acid, Glyceryl Stearate, Sodium Hyaluronate, Phytosphingosine, Milk Thistle Extract, D-alpha Tocopherol Acetate, Olive Squalane, Sorbitol, Resveratrol, Black Berry Extract, Sodium Levulinate And Potassium Sorbate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "ceramide np",
+    "niacinamide",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Conscious Chemist",
     "kind": "d2c",
@@ -343145,15 +346311,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "vitamin C + niacinamide + glycolic acid",
   "featureLine": "Serum · ₹1247/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.6
   },
   "fullSpec": {
@@ -343170,13 +346337,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciMatchedName": "10% Vitamin C Face Serum For Daily Brightness (name match 75%)",
+   "inciList": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HzKHG2ICL._AC_UL320_.jpg"
@@ -343201,7 +346371,13 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -343210,25 +346386,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Face Serum For Daily Brightness",
+   "inciMatchScore": 0.75,
+   "inciText": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -343970,15 +347226,16 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "niacinamide + zinc",
   "featureLine": "Serum · ₹2220/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -343995,13 +347252,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/10-niacinamide-face-serum-50ml",
+   "inciMatchedName": "10% Niacinamide Face Serum with 2% Zinc PCA - 50ml (name match 83%)",
+   "inciList": "Aqua, Niacinamide, 1,3-Propanediol, Ethoxydiglycol, Glycerin, Zinc PCA, Dimethyl Isosorbide, Pentylene Glycol, Xanthan Gum, Hydroxyethyl Cellulose, Algin, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Calcium Chloride, Potassium Sorbate, Citric Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61N4T7ZOi1L._AC_UL320_.jpg"
@@ -344022,7 +347282,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -344031,25 +347295,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/10-niacinamide-face-serum-50ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide Face Serum with 2% Zinc PCA - 50ml",
+   "inciMatchScore": 0.83,
+   "inciText": "Aqua, Niacinamide, 1,3-Propanediol, Ethoxydiglycol, Glycerin, Zinc PCA, Dimethyl Isosorbide, Pentylene Glycol, Xanthan Gum, Hydroxyethyl Cellulose, Algin, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Calcium Chloride, Potassium Sorbate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -352634,16 +355934,18 @@ const CTPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "niacinamide",
   "featureLine": "Serum · ₹3808/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Ras official website (rasluxuryoils.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: lavandula angustifolia oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -352660,13 +355962,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Ras official website (rasluxuryoils.com) — product page › Ingredients",
+   "inciSourceUrl": "https://rasluxuryoils.com/products/flaunt-pigmentation-complexion-correcting-serum",
+   "inciMatchedName": "Flaunt Anti-Pigmentation Serum for Neck, Elbow, Underarms & Knees (name match 88%)",
+   "inciList": "Aqua, Vitis Vinifera (Grape) Seed Extract, Glycyrrhiza Glabra(Licorice)Root Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Morus Alba (Mulberry) Leaf Extract, Citrus Limon (Lemon) Peel Extract, Camellia Sinensis (Green Tea) Leaf Extract, Piper Betle Leaf Extract, Spondias Mombin (Hog Plum) Pulp Extract, Sodium PCA, Argania Spinosa (Argan) Kernel Oil, Linum Usitatissimum (Linseed) Seed Oil , Niacinamide(Vitamin B3), Alpha Arbutin, Olea Europaea (Olive) Fruit Oil, Borago Officinalis (Borage) Seed Oil, Tocopheryl Acetate(Vitamin E), Mangifera Indica (Mango) Pulp Extract, Xanthan Gum, Sodium Gluconate, Ethylhexylglycerin, Lavandula Angustifolia (Lavender) Oil, Pelargonium Graveolens(Geranium)Oil",
+   "evidenceActives": "niacinamide (#14 on list, strong evidence); alpha-arbutin (#15 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: lavandula angustifolia oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — glycyrrhiza glabra root extract #3 on INCI, niacinamide #14 on INCI, alpha-arbutin #15 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-p2fLZdvL._AC_UL320_.jpg"
@@ -352685,7 +355990,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -352694,27 +356003,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Ras official website (rasluxuryoils.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://rasluxuryoils.com/products/flaunt-pigmentation-complexion-correcting-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Flaunt Anti-Pigmentation Serum for Neck, Elbow, Underarms & Knees",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Vitis Vinifera (Grape) Seed Extract, Glycyrrhiza Glabra(Licorice)Root Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Morus Alba (Mulberry) Leaf Extract, Citrus Limon (Lemon) Peel Extract, Camellia Sinensis (Green Tea) Leaf Extract, Piper Betle Leaf Extract, Spondias Mombin (Hog Plum) Pulp Extract, Sodium PCA, Argania Spinosa (Argan) Kernel Oil, Linum Usitatissimum (Linseed) Seed Oil , Niacinamide(Vitamin B3), Alpha Arbutin, Olea Europaea (Olive) Fruit Oil, Borago Officinalis (Borage) Seed Oil, Tocopheryl Acetate(Vitamin E), Mangifera Indica (Mango) Pulp Extract, Xanthan Gum, Sodium Gluconate, Ethylhexylglycerin, Lavandula Angustifolia (Lavender) Oil, Pelargonium Graveolens(Geranium)Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium pca",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "lavandula angustifolia oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -352733,16 +356112,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide",
   "featureLine": "Serum · ₹2834/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Ras official website (rasluxuryoils.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: lavandula angustifolia oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -352759,13 +356140,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Ras official website (rasluxuryoils.com) — product page › Ingredients",
+   "inciSourceUrl": "https://rasluxuryoils.com/products/flaunt-pigmentation-complexion-correcting-serum",
+   "inciMatchedName": "Flaunt Anti-Pigmentation Serum for Neck, Elbow, Underarms & Knees (name match 88%)",
+   "inciList": "Aqua, Vitis Vinifera (Grape) Seed Extract, Glycyrrhiza Glabra(Licorice)Root Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Morus Alba (Mulberry) Leaf Extract, Citrus Limon (Lemon) Peel Extract, Camellia Sinensis (Green Tea) Leaf Extract, Piper Betle Leaf Extract, Spondias Mombin (Hog Plum) Pulp Extract, Sodium PCA, Argania Spinosa (Argan) Kernel Oil, Linum Usitatissimum (Linseed) Seed Oil , Niacinamide(Vitamin B3), Alpha Arbutin, Olea Europaea (Olive) Fruit Oil, Borago Officinalis (Borage) Seed Oil, Tocopheryl Acetate(Vitamin E), Mangifera Indica (Mango) Pulp Extract, Xanthan Gum, Sodium Gluconate, Ethylhexylglycerin, Lavandula Angustifolia (Lavender) Oil, Pelargonium Graveolens(Geranium)Oil",
+   "evidenceActives": "niacinamide (#14 on list, strong evidence); alpha-arbutin (#15 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: lavandula angustifolia oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — glycyrrhiza glabra root extract #3 on INCI, niacinamide #14 on INCI, alpha-arbutin #15 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51+MirTP8DL._AC_UL320_.jpg"
@@ -352784,7 +356168,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -352793,27 +356181,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Ras official website (rasluxuryoils.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://rasluxuryoils.com/products/flaunt-pigmentation-complexion-correcting-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Flaunt Anti-Pigmentation Serum for Neck, Elbow, Underarms & Knees",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Vitis Vinifera (Grape) Seed Extract, Glycyrrhiza Glabra(Licorice)Root Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Morus Alba (Mulberry) Leaf Extract, Citrus Limon (Lemon) Peel Extract, Camellia Sinensis (Green Tea) Leaf Extract, Piper Betle Leaf Extract, Spondias Mombin (Hog Plum) Pulp Extract, Sodium PCA, Argania Spinosa (Argan) Kernel Oil, Linum Usitatissimum (Linseed) Seed Oil , Niacinamide(Vitamin B3), Alpha Arbutin, Olea Europaea (Olive) Fruit Oil, Borago Officinalis (Borage) Seed Oil, Tocopheryl Acetate(Vitamin E), Mangifera Indica (Mango) Pulp Extract, Xanthan Gum, Sodium Gluconate, Ethylhexylglycerin, Lavandula Angustifolia (Lavender) Oil, Pelargonium Graveolens(Geranium)Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium pca",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "lavandula angustifolia oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -352832,15 +356290,17 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Serum · ₹2093/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -352857,13 +356317,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/10-niacinamide-face-serum-with-rice-water",
+   "inciMatchedName": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Oryza Sativa (Rice) Extract, Isodecyl Neopentanoate, Squalane, Sorbitol, Pentylene Glycol, Hydrogenated Polyisobutene, Rice Ferment Filtrate (Sake), Butylene Glycol, Rosa Damascena (Rose) Flower Water, Caffeine, Glycyrrhiza Glabra (Licorice) Root Extract, Glycerin, Acrylates Copolymer, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol, Benzyl Alcohol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexyl Olivate, Sodium Acrylates Copolymer, Polyglyceryl-4 Olivate, Cyclodextrin, Sodium Hyaluronate, Tocopheryl Acetate, Sodium Gluconate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, glycyrrhiza glabra root extract #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51O2nXI82nL._AC_UL320_.jpg"
@@ -352888,7 +356351,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -352897,27 +356363,108 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/10-niacinamide-face-serum-with-rice-water",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide & Rice Water Brightening Face Serum For Clear & Bright Skin",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Oryza Sativa (Rice) Extract, Isodecyl Neopentanoate, Squalane, Sorbitol, Pentylene Glycol, Hydrogenated Polyisobutene, Rice Ferment Filtrate (Sake), Butylene Glycol, Rosa Damascena (Rose) Flower Water, Caffeine, Glycyrrhiza Glabra (Licorice) Root Extract, Glycerin, Acrylates Copolymer, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol, Benzyl Alcohol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexyl Olivate, Sodium Acrylates Copolymer, Polyglyceryl-4 Olivate, Cyclodextrin, Sodium Hyaluronate, Tocopheryl Acetate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -353751,15 +357298,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "niacinamide + alpha arbutin",
   "featureLine": "Serum · ₹1747/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -353776,13 +357324,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+   "inciMatchedName": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin (name match 96%)",
+   "inciList": "Aqua, Niacinamide, Glycerin, Xylitylglucoside (and) anhydroxylitol (and) xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan gum, Guar gum, Alpha Arbutin, EDTA, Brassica Campestris (Rapeseed) Seed Oil, Glycyrrhiza Glabra (Licorice)Root Extract, Polyglyceryl-3 Diisostearate, Althaea Officinalis Root Extract, Oryza Sativa (Rice) Bran Extract, Palmaria Palmata extract, Bellis Perennis (Daisy) Flower Extract",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); alpha-arbutin (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CTXc6quYL._AC_UL320_.jpg"
@@ -353804,7 +357355,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -353813,25 +357368,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/niacinamide-and-alpha-arbutin-brightening-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Niacinamide Serum - 10% Niacinamide + 0.3% Alpha Arbutin",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Niacinamide, Glycerin, Xylitylglucoside (and) anhydroxylitol (and) xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan gum, Guar gum, Alpha Arbutin, EDTA, Brassica Campestris (Rapeseed) Seed Oil, Glycyrrhiza Glabra (Licorice)Root Extract, Polyglyceryl-3 Diisostearate, Althaea Officinalis Root Extract, Oryza Sativa (Rice) Bran Extract, Palmaria Palmata extract, Bellis Perennis (Daisy) Flower Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -354679,15 +358270,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + aloe vera + almond",
   "featureLine": "Oil · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -354704,13 +358297,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/niacinamide-body-lotion",
+   "inciMatchedName": "niacinamide body lotion (name match 88%)",
+   "inciList": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #6 on INCI; Aging — 3-o-ethyl ascorbic acid #6 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bg9bm03qL._AC_UL320_.jpg"
@@ -354736,7 +358332,12 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -354745,27 +358346,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/niacinamide-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "niacinamide body lotion",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -363606,15 +367277,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Cream / gel · ₹400/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -363631,13 +367304,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/australian-kakadu-plum-vitamin-c-brightening-moisturizer",
+   "inciMatchedName": "Australian Kakadu Plum Vitamin C Brightening Moisturizer (name match 96%)",
+   "inciList": "Aqua, Niacinamide, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propanediol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Dimethicone, Pentylene Glycol, Glycerin, C15-19 Alkane, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Centella Asiatica Extract, Xylitylglucoside, Polyisobutene, Anhydroxylitol, Glutathione, Xylitol, 3-O-Ethyl Ascorbic Acid, Panthenol, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate-13, Tocopheryl Acetate, Polysorbate 20, Sorbitan Isostearate, Disodium EDTA, Sodium Hydroxide, CI 15985, Perfume",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #18 on INCI; Aging — 3-o-ethyl ascorbic acid #18 on INCI; Irritation — centella asiatica extract #12 on INCI, panthenol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vEMxhHF2L._AC_UL320_.jpg"
@@ -363659,7 +367335,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -363668,27 +367349,117 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/australian-kakadu-plum-vitamin-c-brightening-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Australian Kakadu Plum Vitamin C Brightening Moisturizer",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Niacinamide, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propanediol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Dimethicone, Pentylene Glycol, Glycerin, C15-19 Alkane, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Centella Asiatica Extract, Xylitylglucoside, Polyisobutene, Anhydroxylitol, Glutathione, Xylitol, 3-O-Ethyl Ascorbic Acid, Panthenol, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate-13, Tocopheryl Acetate, Polysorbate 20, Sorbitan Isostearate, Disodium EDTA, Sodium Hydroxide, CI 15985, Perfume",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "dimethicone",
+    "glycerin",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -372254,15 +376025,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹898/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -372279,13 +376051,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/rice-water-3-niacinamide-sheer-tinted-sunscreen",
+   "inciMatchedName": "3% Niacinamide & Rice Water SPF 50 Sheer-Tinted Sunscreen (name match 97%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Glycerin, Niacinamide, Glyceryl Citrate/Lactate/Linoleate/Oleate, Polyglyceryl-4 Cocoate, Polyglyceryl-3 Caprate, Glyceryl Caprylate, CI 77891 (Titanium Dioxide), Methoxy PEG-10 Propyltrimethoxysilane, Oryza Sativa (Rice) Extract, Laminaria Digitata (Sea Kelp) Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide EOP, Ceramide NS/Ceramide NG, Ceramide NP, Ceramide AS, Ceramide AP, Cholesterol, 1,2-Hexanediol, Phenoxyethanol, Ethylhexylglycerin, CI 77492, Polyacrylate-13, Polyisobutene, Polysorbate-20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Disodium EDTA, CI 77491, CI 77499, Sodium Hydroxide, Citric Acid",
+   "evidenceActives": "niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — ceramide eop #19 on INCI, ceramide np #21 on INCI, ceramide ap #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -372310,7 +376085,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -372319,25 +376099,122 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/rice-water-3-niacinamide-sheer-tinted-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "3% Niacinamide & Rice Water SPF 50 Sheer-Tinted Sunscreen",
+   "inciMatchScore": 0.97,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Glycerin, Niacinamide, Glyceryl Citrate/Lactate/Linoleate/Oleate, Polyglyceryl-4 Cocoate, Polyglyceryl-3 Caprate, Glyceryl Caprylate, CI 77891 (Titanium Dioxide), Methoxy PEG-10 Propyltrimethoxysilane, Oryza Sativa (Rice) Extract, Laminaria Digitata (Sea Kelp) Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide EOP, Ceramide NS/Ceramide NG, Ceramide NP, Ceramide AS, Ceramide AP, Cholesterol, 1,2-Hexanediol, Phenoxyethanol, Ethylhexylglycerin, CI 77492, Polyacrylate-13, Polyisobutene, Polysorbate-20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Disodium EDTA, CI 77491, CI 77499, Sodium Hydroxide, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "ceramide eop",
+    "ceramide np",
+    "ceramide ap",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -372795,16 +376672,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Sunscreen · SPF 50 · ₹464/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.5,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -372821,13 +376700,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciMatchedName": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "niacinamide (#13 on list, strong evidence); hyaluronic acid (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -372857,7 +376739,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -372866,25 +376753,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -376334,15 +380332,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + centella/cica",
   "featureLine": "Sunscreen · SPF 50 · ₹758/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -376359,13 +380359,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/sunscreen-spray-spf-50",
+   "inciMatchedName": "Sunscreen Spray SPF 50 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Methoxycinnamidopropyl Hydroxysultaine, Terephthalylidene Dicamphor Sulfonic Acid, Butylene Glycol, Polyglyceryl 10 Stearate, Niacinamide, Octylmethoxy Cinnamate, Centella Asiatica Extract, Phenoxyethanol (and) Ethylhexylglycerin, Citrus Sinensis Peel Extract, Tocopherol Acetate, Sodium Gluconate, Sodium Hydroxide, Menthol",
+   "evidenceActives": "niacinamide (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — centella asiatica extract #13 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -376391,7 +380394,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -376400,27 +380407,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/sunscreen-spray-spf-50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sunscreen Spray SPF 50",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Methoxycinnamidopropyl Hydroxysultaine, Terephthalylidene Dicamphor Sulfonic Acid, Butylene Glycol, Polyglyceryl 10 Stearate, Niacinamide, Octylmethoxy Cinnamate, Centella Asiatica Extract, Phenoxyethanol (and) Ethylhexylglycerin, Citrus Sinensis Peel Extract, Tocopherol Acetate, Sodium Gluconate, Sodium Hydroxide, Menthol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "terephthalylidene dicamphor sulfonic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Deconstruct Skincare",
     "kind": "d2c",
@@ -380610,15 +384687,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml (pack of 2)",
   "materialLine": "niacinamide + glycolic acid",
   "featureLine": "Serum · ₹1550/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oréal official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: hydroxycitronellal, limonene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 4.3,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 0.6
   },
   "fullSpec": {
@@ -380635,11 +384713,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oréal official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/glycolic-gloss/glycolic-gloss-serum-40ml",
+   "inciMatchedName": "glycolic gloss serum 40ml (name match 85%)",
+   "inciList": "Aqua/Water, PEG-40 Hydrogenated Castor Oil, CI 77891/Titanium Dioxide, Lactic Acid, Mica, Sodium Hydroxide, Hydroxyethylcellulose, Hydroxypropyl Guar, Hydroxycitronellal, Sodium Phosphate, Phenoxyethanol, Stearamidopropyl Dimethylamine, Ethylhexyl Salicylate, Aminopropyl Dimethicone, Sclerotium Gum, Silica, Polysorbate 60, Dimethicone, Limonene, Linalool, Benzyl Benzoate, Disodium Phosphate, Cetrimonium Chloride, Hexyl Cinnamal, Glycolic Acid, Parfum/Fragrance",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: hydroxycitronellal, limonene, linalool, benzyl benzoate, hexyl cinnamal (−2)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3.6★ from 0 ratings"
   },
@@ -380660,7 +384740,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -380669,27 +384750,85 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oréal official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/glycolic-gloss/glycolic-gloss-serum-40ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "glycolic gloss serum 40ml",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua/Water, PEG-40 Hydrogenated Castor Oil, CI 77891/Titanium Dioxide, Lactic Acid, Mica, Sodium Hydroxide, Hydroxyethylcellulose, Hydroxypropyl Guar, Hydroxycitronellal, Sodium Phosphate, Phenoxyethanol, Stearamidopropyl Dimethylamine, Ethylhexyl Salicylate, Aminopropyl Dimethicone, Sclerotium Gum, Silica, Polysorbate 60, Dimethicone, Limonene, Linalool, Benzyl Benzoate, Disodium Phosphate, Cetrimonium Chloride, Hexyl Cinnamal, Glycolic Acid, Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hydroxycitronellal",
+      "limonene",
+      "linalool",
+      "benzyl benzoate",
+      "hexyl cinnamal"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -413768,15 +417907,17 @@ const CTPRODUCTS = [
   "capacityLine": "20 g",
   "materialLine": "niacinamide",
   "featureLine": "Sunscreen · SPF 50 · ₹845/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -413793,13 +417934,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-sunscreen-spf50-pa-50-gm-af",
+   "inciMatchedName": "Berry Bright Sunscreen | SPF50 PA ++++ | SPF (name match 80%)",
+   "inciList": "Aqua, Titanium Dioxide, Zinc Oxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene Glycol, Lecithin, Ceramide NP, Phospholipids, Aluminum Hydroxide, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Alpha Lipoic Acid, Sodium Polyacrylate, Xylitol, Hectorite (and) Hydroxyethylcellulose, Niacinamide, Ceramide AP, Ceramide EOP, Cholesterol, Sodium Lauroyl Lactylate, Caprylic Acid, Glyceryl Stearate, Sodium Hyaluronate, Phytosphingosine, Milk Thistle Extract, D-alpha Tocopherol Acetate, Olive Squalane, Sorbitol, Resveratrol, Black Berry Extract, Sodium Levulinate And Potassium Sorbate, Fragrance",
+   "evidenceActives": "niacinamide (#19 on list, strong evidence); sodium hyaluronate (#26 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI; Irritation — ceramide np #9 on INCI, ceramide ap #20 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -413834,7 +417978,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -413843,27 +417991,150 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-sunscreen-spf50-pa-50-gm-af",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Berry Bright Sunscreen | SPF50 PA ++++ | SPF",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Titanium Dioxide, Zinc Oxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene Glycol, Lecithin, Ceramide NP, Phospholipids, Aluminum Hydroxide, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Alpha Lipoic Acid, Sodium Polyacrylate, Xylitol, Hectorite (and) Hydroxyethylcellulose, Niacinamide, Ceramide AP, Ceramide EOP, Cholesterol, Sodium Lauroyl Lactylate, Caprylic Acid, Glyceryl Stearate, Sodium Hyaluronate, Phytosphingosine, Milk Thistle Extract, D-alpha Tocopherol Acetate, Olive Squalane, Sorbitol, Resveratrol, Black Berry Extract, Sodium Levulinate And Potassium Sorbate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "ceramide np",
+    "niacinamide",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Conscious Chemist",
     "kind": "d2c",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -3754,15 +3754,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Keratin",
   "featureLine": "Hair mask / spa",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "argania spinosa kernel oil high on the INCI list (limited evidence); behentrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 3 ingredients named — formula unscored"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.4,
+   "skin": 8,
+   "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
@@ -3780,11 +3783,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (9,656 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Ingredients",
-   "inciList": "Unverified seller line: PatuÃ¡, Keratin, Sacha Inchi",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/patua-keratin-smoothening-hair-mask",
+   "inciMatchedName": "Patuá & Keratin Smoothening Hair Mask (name match 94%)",
+   "listingIngredientLine": "PatuÃ¡, Keratin, Sacha Inchi (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa (Argan) Kernel Oil, Behentrimonium Chloride, Cetearyl Alcohol, Cetrimonium Chloride, PEG-100 Stearate & Glycol Stearate, Glyceryl Oleate, Polyquaternium-7, Glyceryl Monostearate, Coco Betaine, Cetyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Amodimethicone, Polysorbate 80, Phenoxyethanol, Benzyl Alcohol, Polyquaternium-10, Xanthan Gum, Citric Acid, Propylene Glycol, Oenocarpus Bataua Fruit Oil, Hydrolysed Keratin, Camellia Japonica (Camellia) Flower Extract, Sodium Gluconate, Fragrance",
+   "evidenceActives": "argania spinosa kernel oil (#3 on list, limited evidence); behentrimonium chloride (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); amodimethicone (#13 on list, moderate evidence); hydrolyzed keratin (#22 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "declaredManufacturer": "Aelius Parallel Holdings Pvt. Ltd: GP-55, Sector 18, HSIIDC, Gurugram-(122015) Haryana. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 9,656 ratings"
@@ -3810,7 +3816,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -3818,27 +3825,119 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PatuÃ¡, Keratin, Sacha Inchi",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.33,
-   "actives": [],
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/patua-keratin-smoothening-hair-mask",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Patuá & Keratin Smoothening Hair Mask",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa (Argan) Kernel Oil, Behentrimonium Chloride, Cetearyl Alcohol, Cetrimonium Chloride, PEG-100 Stearate & Glycol Stearate, Glyceryl Oleate, Polyquaternium-7, Glyceryl Monostearate, Coco Betaine, Cetyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Amodimethicone, Polysorbate 80, Phenoxyethanol, Benzyl Alcohol, Polyquaternium-10, Xanthan Gum, Citric Acid, Propylene Glycol, Oenocarpus Bataua Fruit Oil, Hydrolysed Keratin, Camellia Japonica (Camellia) Flower Extract, Sodium Gluconate, Fragrance",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-7",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.3,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -13258,15 +13357,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin E + Jojoba",
   "featureLine": "Hair mask / spa",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.9,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 7.6
   },
   "fullSpec": {
@@ -13284,11 +13385,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (6,048 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/intense-moisture-heat-hair-spa-mask-with-jojoba-oil-vitamin-e-for-salon-like-hair-spa-at-home-70-g",
+   "inciMatchedName": "Intense Moisture Heat Hair Spa Mask with Jojoba Oil & Vitamin E for Salon-Like Hair Spa at Home - 70 g (name match 89%)",
+   "inciList": "Intense Moisture Hair Mask: Water, Glycerin, Cetostearyl Alcohol, Amodimethicone, Cetrimonium Chloride, Trideceth-12, Cetyl Alcohol, Behentrimonium Chloride, Glyceryl Stearate, PEG-100 Stearate, Acrylamido propyltrimonium Chloride/Acrylamide Copolymer, Dimethiconol, Dimethicone, Behentrimonium Methosulfate, Avena Strigosa Seed (Black Oats) Extract, Lecithin, Potassium Sorbate, Citric Acid, Bis-Diisopropanolamino-PG-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer (Shine Tonic), Phenoxyethanol, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate, Pectin, Chlorella Vulgaris/Lupinus Albus Protein Ferment, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Vitamin E, Jojoba Oil, Fragrance",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); amodimethicone (#4 on list, moderate evidence); cetrimonium chloride (#5 on list, moderate evidence); behentrimonium chloride (#8 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); behentrimonium methosulfate (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Jainam Invamed Pvt. Ltd., 111, 112, Shubh Industrial Estate, Near Chinchpada Bus Stop, Waliv Road, Vasai (East) - 401208, Dist. - Palghar, Maharashtra, India. Mfg. Lic No.: MH-103230 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 6,048 ratings"
@@ -13313,7 +13416,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -13321,27 +13425,113 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/intense-moisture-heat-hair-spa-mask-with-jojoba-oil-vitamin-e-for-salon-like-hair-spa-at-home-70-g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intense Moisture Heat Hair Spa Mask with Jojoba Oil & Vitamin E for Salon-Like Hair Spa at Home - 70 g",
+   "inciMatchScore": 0.89,
+   "inciText": "Intense Moisture Hair Mask: Water, Glycerin, Cetostearyl Alcohol, Amodimethicone, Cetrimonium Chloride, Trideceth-12, Cetyl Alcohol, Behentrimonium Chloride, Glyceryl Stearate, PEG-100 Stearate, Acrylamido propyltrimonium Chloride/Acrylamide Copolymer, Dimethiconol, Dimethicone, Behentrimonium Methosulfate, Avena Strigosa Seed (Black Oats) Extract, Lecithin, Potassium Sorbate, Citric Acid, Bis-Diisopropanolamino-PG-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer (Shine Tonic), Phenoxyethanol, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate, Pectin, Chlorella Vulgaris/Lupinus Albus Protein Ferment, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Vitamin E, Jojoba Oil, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "behentrimonium methosulfate",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -61967,7 +62157,7 @@ const HAIRPRODUCTS = [
   "model": "Suitable for Dry & Dull Hair Deep Conditioning Hair Mask",
   "price": 165,
   "capacityLine": "200 g",
-  "materialLine": "Keratin",
+  "materialLine": "Polyglutamic acid + Keratin",
   "featureLine": "Hair mask / spa · Paraben-free · ₹83/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -61987,7 +62177,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹83/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Keratin (named on listing)",
+   "keyIngredients": "Polyglutamic acid, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Colour protection (seller claim — not clinical proof)",
@@ -62020,6 +62210,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:hair-mask",
+   "ing:polyglutamic-acid",
    "ing:keratin",
    "concern:hair-fall",
    "concern:frizz",
@@ -81103,16 +81294,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Collagen + Rice water + Hydrolysed protein",
   "featureLine": "Hair mask / spa · ₹251/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cetrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 8,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -81130,11 +81323,14 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: Korean Rice Water, Collagen, 17 Amino Acids & Wheat Protein",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/korean-rice-water-collagen-advanced-damage-repair-hair-mask",
+   "inciMatchedName": "Korean Rice Water & Collagen Advanced Damage Repair Hair Mask (name match 100%)",
+   "listingIngredientLine": "Korean Rice Water, Collagen, 17 Amino Acids & Wheat Protein (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Helianthus Annuus Seed Oil, Cetostearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Cetrimonium Chloride, Glycerin, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Dimethicone, Phenoxyethanol (and) Ethylhexylglycerin, Fragrance, Polyquaternium 22, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, 2-Hexanediol, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Saccharomyces/Rice Ferment Filtrate (Korean Rice Water), Biotin, Vegan Collagen",
+   "evidenceActives": "behentrimonium chloride (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); glycerin (#7 on list, strong evidence); dimethicone (#10 on list, moderate evidence); hydrolyzed keratin (#18 on list, limited evidence); hydrolyzed wheat protein (#19 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -81167,7 +81363,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -81175,27 +81372,113 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Korean Rice Water, Collagen, 17 Amino Acids & Wheat Protein",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/korean-rice-water-collagen-advanced-damage-repair-hair-mask",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Korean Rice Water & Collagen Advanced Damage Repair Hair Mask",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Helianthus Annuus Seed Oil, Cetostearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Cetrimonium Chloride, Glycerin, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Dimethicone, Phenoxyethanol (and) Ethylhexylglycerin, Fragrance, Polyquaternium 22, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, 2-Hexanediol, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Saccharomyces/Rice Ferment Filtrate (Korean Rice Water), Biotin, Vegan Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -91460,7 +91743,7 @@ const HAIRPRODUCTS = [
   "model": "Ayurvedic Clay Hair Mask | 7 Min Scalp Detox for Hair Fall & Dandruff – 130gm",
   "price": 238,
   "capacityLine": "130 g",
-  "materialLine": "Niacinamide + Tea tree + Bhringraj",
+  "materialLine": "Niacinamide + Tea tree + Menthol",
   "featureLine": "Clay · ₹183/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -91480,7 +91763,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹183/100g",
    "format": "Clay",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Niacinamide, Tea tree, Bhringraj, Amla, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Niacinamide, Tea tree, Menthol, Bhringraj, Amla, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -91518,6 +91801,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:niacinamide",
    "ing:tea-tree",
+   "ing:menthol",
    "ing:bhringraj",
    "ing:amla",
    "ing:peppermint-menthol",
@@ -91848,7 +92132,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹186/100g",
    "format": "Clay",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Niacinamide, Rice water, Tea tree, Vitamin E, Rosemary, Bhringraj, Amla, Keratin, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Niacinamide, Rice water, Tea tree, Vitamin E, Menthol, Rosemary, Bhringraj, Amla, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Premature greying (claim) (seller claim — not clinical proof)",
@@ -91889,6 +92173,7 @@ const HAIRPRODUCTS = [
    "ing:rice-water",
    "ing:tea-tree",
    "ing:vitamin-e",
+   "ing:menthol",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -117618,7 +117903,7 @@ const HAIRPRODUCTS = [
   "model": "Green Milk Brahmi Hair Mask | Stress Relief & Scalp Care | Dermatologically Tested",
   "price": 899,
   "capacityLine": "100 g",
-  "materialLine": "Coconut + Milk + Rosemary",
+  "materialLine": "Coconut + Milk + Polyglutamic acid",
   "featureLine": "Lotion · Paraben-free · ₹899/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -117638,7 +117923,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹899/100g",
    "format": "Lotion",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut, Milk, Rosemary, Amla, Brahmi, Castor oil, Biotin, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Coconut, Milk, Polyglutamic acid, Menthol, Rosemary, Amla, Brahmi, Castor oil, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -117675,6 +117960,8 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "ing:coconut",
    "ing:milk",
+   "ing:polyglutamic-acid",
+   "ing:menthol",
    "ing:rosemary",
    "ing:amla",
    "ing:brahmi",
@@ -179687,7 +179974,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Mask for Men Deep Treatment for Dry, Damaged, Chemical Treated Hair",
   "price": 530,
   "capacityLine": "250 g",
-  "materialLine": "Tea tree + Argan oil + Rosemary",
+  "materialLine": "Tea tree + Argan oil + Menthol",
   "featureLine": "Hair mask / spa · ₹212/100g",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Ingredients field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -179709,7 +179996,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹212/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Argan oil, Rosemary, Bhringraj, Amla, Biotin, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Tea tree, Argan oil, Menthol, Rosemary, Bhringraj, Amla, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -179746,6 +180033,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "ing:tea-tree",
    "ing:argan-oil",
+   "ing:menthol",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -201067,7 +201355,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Hair Mask 100ml with Polyglutamic Acid | Deep Hydration Treatment for 100H of…",
   "price": 149,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Polyglutamic acid",
   "featureLine": "Hair mask / spa · Paraben-free · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -201086,7 +201374,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹149/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration (seller claim — not clinical proof)",
@@ -201114,6 +201402,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:emulsion",
    "format:hair-mask",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:dryness",
    "hair:dry",
@@ -201279,7 +201568,7 @@ const HAIRPRODUCTS = [
   "model": "Hydra Matrix Hair Mask 300ml with Polyglutamic Acid | Deep Hydration Treatment for 100H of…",
   "price": 408,
   "capacityLine": "300 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Polyglutamic acid",
   "featureLine": "Hair mask / spa · Paraben-free · ₹136/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -201298,7 +201587,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹136/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Polyglutamic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration (seller claim — not clinical proof)",
@@ -201326,6 +201615,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:emulsion",
    "format:hair-mask",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:dryness",
    "hair:dry",
@@ -208844,15 +209134,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Argan oil + Mineral oil",
   "featureLine": "Hair mask / spa · Sulfate/SLS-free · ₹241/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "argania spinosa kernel oil high on the INCI list (limited evidence); behentrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.2,
+   "skin": 8,
+   "trust": 7,
    "experience": 3.5
   },
   "fullSpec": {
@@ -208870,11 +209163,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/argan-oil-hair-mask-with-white-lotus-camellia",
+   "inciMatchedName": "Argan Oil Deep Nourish Mask (name match 90%)",
+   "inciList": "Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa (Argan) Kernel Oil, Behentrimonium Chloride, Cetearyl Alcohol, Cetrimonium Chloride, PEG-100 Stearate & Glycol Stearate, Polyquaternium-7, Glyceryl Oleate, Glyceryl Monostearate, Coco Betaine, Cetyl Alcohol, Guarhydroxypropyltrimonium Chloride, Amodimethicone, Polysorbate 80, Phenoxyethanol, Benzyl Alcohol, Polyquaternium-10, Xanthan Gum, Citric Acid, Propylene Glycol, Nelumbo Nucifera (White Lotus) Extract, Camellia Japonica (Camellia) Flower Extract, Sodium Gluconate, Fragrance",
+   "evidenceActives": "argania spinosa kernel oil (#3 on list, limited evidence); behentrimonium chloride (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); amodimethicone (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -208907,7 +209202,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -208915,27 +209211,111 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/argan-oil-hair-mask-with-white-lotus-camellia",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Argan Oil Deep Nourish Mask",
+   "inciMatchScore": 0.9,
+   "inciText": "Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa (Argan) Kernel Oil, Behentrimonium Chloride, Cetearyl Alcohol, Cetrimonium Chloride, PEG-100 Stearate & Glycol Stearate, Polyquaternium-7, Glyceryl Oleate, Glyceryl Monostearate, Coco Betaine, Cetyl Alcohol, Guarhydroxypropyltrimonium Chloride, Amodimethicone, Polysorbate 80, Phenoxyethanol, Benzyl Alcohol, Polyquaternium-10, Xanthan Gum, Citric Acid, Propylene Glycol, Nelumbo Nucifera (White Lotus) Extract, Camellia Japonica (Camellia) Flower Extract, Sodium Gluconate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-7",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.3,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -210748,15 +211128,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Onion",
   "featureLine": "Hair mask / spa · ₹270/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: rosemary oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.3,
+   "skin": 9.8,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -210774,11 +211156,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-onion-hair-mask-for-hair-25-ml",
+   "inciMatchedName": "Onion Hair Mask 25 ml (name match 100%)",
+   "inciList": "Aqua, Brassica Alcohol, Brassicamidopropyl Dimethylamine, Caprylic/Capric Triglyceride, Cetostearyl Alcohol, Coconut Oil, Cedarwood Oil, Rosemary Oil, Onion Oil, Organic Bamboo Vinegar, Sodium Benzoate, Potassium Sorbate, IFRA Certified Allergen Free Fragrance",
+   "evidenceActives": "cocos nucifera oil (#6 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: rosemary oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -210800,7 +211184,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -210808,27 +211193,62 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-onion-hair-mask-for-hair-25-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Onion Hair Mask 25 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Brassica Alcohol, Brassicamidopropyl Dimethylamine, Caprylic/Capric Triglyceride, Cetostearyl Alcohol, Coconut Oil, Cedarwood Oil, Rosemary Oil, Onion Oil, Organic Bamboo Vinegar, Sodium Benzoate, Potassium Sorbate, IFRA Certified Allergen Free Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "allium cepa bulb oil",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "onion"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosemary oil"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -224869,16 +225289,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Peptides + Olive + Bond builder",
   "featureLine": "Hair mask / spa · ₹234/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); cetrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.7,
+   "skin": 5.4,
+   "trust": 5.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -224896,11 +225319,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/olive-oil-peptide-bond-repair-hair-mask",
+   "inciMatchedName": "Olive oil & Peptide Hair Mask (name match 91%)",
+   "inciList": "Aqua, Cetearyl Alcohol, Dimethicone (and) (and) PEG-7 Propylheptyl Ether (and) Cetrimonium Chloride, Stearamidopropyl Dimethylamine, Behentrimonium Chloride (and) Dipropylene Glycol, Hydroxypropylgluconamide (and) Hydroxypropylammonium Gluconate, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Cocos Nucifera (Coconut) Oil, Fragrance, Pisum Sativum (Pea) Peptide, Hydrolyzed Wheat Protein, Lysine HCL, Olea Europaea (Olive) Fruit Oil^, Lactic Acid, Disodium EDTA, Sodium Chloride, 1, 2-Hexanediol, Benzyl alcohol, Benzyl salicylate, citronellol, limonene, linalool",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); cetrimonium chloride (#5 on list, moderate evidence); stearamidopropyl dimethylamine (#6 on list, moderate evidence); behentrimonium chloride (#7 on list, moderate evidence); cocos nucifera oil (#12 on list, moderate evidence); hydrolyzed wheat protein (#15 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate, citronellol, limonene, linalool (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -224922,7 +225347,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -224930,27 +225356,109 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/olive-oil-peptide-bond-repair-hair-mask",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Olive oil & Peptide Hair Mask",
+   "inciMatchScore": 0.91,
+   "inciText": "Aqua, Cetearyl Alcohol, Dimethicone (and) (and) PEG-7 Propylheptyl Ether (and) Cetrimonium Chloride, Stearamidopropyl Dimethylamine, Behentrimonium Chloride (and) Dipropylene Glycol, Hydroxypropylgluconamide (and) Hydroxypropylammonium Gluconate, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Cocos Nucifera (Coconut) Oil, Fragrance, Pisum Sativum (Pea) Peptide, Hydrolyzed Wheat Protein, Lysine HCL, Olea Europaea (Olive) Fruit Oil^, Lactic Acid, Disodium EDTA, Sodium Chloride, 1, 2-Hexanediol, Benzyl alcohol, Benzyl salicylate, citronellol, limonene, linalool",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol",
+      "benzyl salicylate",
+      "citronellol",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -231898,16 +232406,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Hyaluronic acid + Jojoba + Hibiscus",
   "featureLine": "Hair mask / spa · ₹240/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cetrimonium chloride high on the INCI list (moderate evidence); stearamidopropyl dimethylamine high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: benzyl alcohol, citronellol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.9,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -231925,11 +232436,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/love-beauty-and-planet-jojoba-oil-hibiscus-pentavitin-hydrate-nourish-shampoo-copy",
+   "inciMatchedName": "Pentavitin & hibiscus Mask (name match 81%)",
+   "inciList": "(AND) PEG-7 PROPYLHEPTYL ETHER (AND) CETRIMONIUM CHLORIDE, STEARAMIDOPROPYL DIMETHYLAMINE^, BEHENTRIMONIUM CHLORIDE^ (AND) DIPROPYLENE GLYCOL, FRAGRANCE, SACCHARIDE ISOMERATE^, GLYCERIN, SODIUM HYALURONATE, COCOS NUCIFERA (COCONUT) OIL^, HIBISCUS ROSA-SINENSIS FLOWER EXTRACT^, SILICA, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL^, GERANIUM OIL^, L-LYSINE MONOHYDROCHLORIDE, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL^, LACTIC ACID, DISODIUM EDTA, BENZYL ALCOHOL, 1,2-HEXANEDIOL, SODIUM CHLORIDE, CITRONELLOL, GERANIOL, HYDROXYCITRONELLAL, LINALOOL. ^PLANT BASED INGREDIENTS",
+   "evidenceActives": "cetrimonium chloride (#2 on list, moderate evidence); stearamidopropyl dimethylamine (#3 on list, moderate evidence); behentrimonium chloride (#4 on list, moderate evidence); glycerin (#8 on list, strong evidence); cocos nucifera oil (#10 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol, citronellol, geraniol, hydroxycitronellal (−1.2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -231958,7 +232471,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -231966,27 +232480,125 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/love-beauty-and-planet-jojoba-oil-hibiscus-pentavitin-hydrate-nourish-shampoo-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Pentavitin & hibiscus Mask",
+   "inciMatchScore": 0.81,
+   "inciText": "(AND) PEG-7 PROPYLHEPTYL ETHER (AND) CETRIMONIUM CHLORIDE, STEARAMIDOPROPYL DIMETHYLAMINE^, BEHENTRIMONIUM CHLORIDE^ (AND) DIPROPYLENE GLYCOL, FRAGRANCE, SACCHARIDE ISOMERATE^, GLYCERIN, SODIUM HYALURONATE, COCOS NUCIFERA (COCONUT) OIL^, HIBISCUS ROSA-SINENSIS FLOWER EXTRACT^, SILICA, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL^, GERANIUM OIL^, L-LYSINE MONOHYDROCHLORIDE, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL^, LACTIC ACID, DISODIUM EDTA, BENZYL ALCOHOL, 1,2-HEXANEDIOL, SODIUM CHLORIDE, CITRONELLOL, GERANIOL, HYDROXYCITRONELLAL, LINALOOL. ^PLANT BASED INGREDIENTS",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "hairOils"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol",
+      "citronellol",
+      "geraniol",
+      "hydroxycitronellal"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -232005,15 +232617,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Hyaluronic acid",
   "featureLine": "Hair mask / spa · ₹202/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, coumarin"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9,
+   "skin": 8.6,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -232031,11 +232646,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lorealparis.co.in/hyaluron-moisture/hyaluron-moisture-wrapping-mask",
+   "inciMatchedName": "hyaluron moisture wrapping mask (name match 94%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, LACTIC ACID, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE, PHENOXYETHANOL, DIMETHYL PHENETHYL ACETATE, LIMONENE, AMODIMETHICONE, ISOPROPYL ALCOHOL, CARVONE, CETRIMONIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHT HALENES, CITRUS AURANTIUM PEEL OIL, COUMARIN",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence); behentrimonium chloride (#5 on list, moderate evidence); amodimethicone (#13 on list, moderate evidence); cetrimonium chloride (#16 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: limonene, coumarin (−0.6)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "3★ from 0 ratings"
   },
@@ -232054,7 +232671,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -232062,27 +232680,93 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "L'Oreal Paris official website (www.lorealparis.co.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lorealparis.co.in/hyaluron-moisture/hyaluron-moisture-wrapping-mask",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "hyaluron moisture wrapping mask",
+   "inciMatchScore": 0.94,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PARFUM/FRAGRANCE, LACTIC ACID, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE, PHENOXYETHANOL, DIMETHYL PHENETHYL ACETATE, LIMONENE, AMODIMETHICONE, ISOPROPYL ALCOHOL, CARVONE, CETRIMONIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHT HALENES, CITRUS AURANTIUM PEEL OIL, COUMARIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "coumarin"
+     ],
+     "penalty": 0.6,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -238651,15 +239335,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Ceramides + Collagen + Rice water",
   "featureLine": "Other · Paraben-free · ₹220/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); cetrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -238677,11 +239363,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/korean-rice-water-collagen-advanced-damage-repair-hair-mask",
+   "inciMatchedName": "Korean Rice Water & Collagen Advanced Damage Repair Hair Mask (name match 97%)",
+   "inciList": "Aqua, Helianthus Annuus Seed Oil, Cetostearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Cetrimonium Chloride, Glycerin, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Dimethicone, Phenoxyethanol (and) Ethylhexylglycerin, Fragrance, Polyquaternium 22, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, 2-Hexanediol, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Saccharomyces/Rice Ferment Filtrate (Korean Rice Water), Biotin, Vegan Collagen",
+   "evidenceActives": "behentrimonium chloride (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); glycerin (#7 on list, strong evidence); dimethicone (#10 on list, moderate evidence); hydrolyzed keratin (#18 on list, limited evidence); hydrolyzed wheat protein (#19 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -238709,7 +239397,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -238717,27 +239406,113 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/korean-rice-water-collagen-advanced-damage-repair-hair-mask",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Korean Rice Water & Collagen Advanced Damage Repair Hair Mask",
+   "inciMatchScore": 0.97,
+   "inciText": "Aqua, Helianthus Annuus Seed Oil, Cetostearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Cetrimonium Chloride, Glycerin, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Dimethicone, Phenoxyethanol (and) Ethylhexylglycerin, Fragrance, Polyquaternium 22, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, 2-Hexanediol, Hydrolyzed Keratin, Hydrolyzed Wheat Protein, Saccharomyces/Rice Ferment Filtrate (Korean Rice Water), Biotin, Vegan Collagen",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -239991,7 +240766,7 @@ const HAIRPRODUCTS = [
   "model": "Beauty HydroRepair Hair Mask, Ceramide & Polyglutamic Acid (100 ml) | With ceramides and p…",
   "price": 495,
   "capacityLine": "100 ml",
-  "materialLine": "Ceramides",
+  "materialLine": "Ceramides + Polyglutamic acid",
   "featureLine": "Hair mask / spa · ₹495/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -240012,7 +240787,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹495/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Ceramides (named on listing)",
+   "keyIngredients": "Ceramides, Polyglutamic acid (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -240042,6 +240817,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:hair-mask",
    "ing:ceramides",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -248620,16 +249396,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "250 g",
   "materialLine": "Ceramides + Coconut + Milk",
   "featureLine": "Lotion · Paraben-free · ₹240/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.9,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -248647,11 +249425,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bareanatomy.com/products/expert-series-damage-repair-hair-mask-1",
+   "inciMatchedName": "Damage Repair Hair Mask With Ceramide A2 & Coconut Milk Protein - 250 gm (name match 100%)",
+   "inciList": "Water, Cetostearyl Alcohol, Behentrimonium Chloride, Amodimethicone, Trideceth-12, Cetrimonium Chloride, Cetyl Esters, Shea (Butyrospermum Parkii) Butter, Cetyl Alcohol, Glycerin, Perfume, Phenoxyethanol, Lactic Acid, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Butylated Hydroxytoluene, Disodium EDTA, PEG-8 & PEG-8/SMDI Copolymer, Palmitoyl Myristyl Serinate, PEG-45M, Sodium Polyacrylate, Coconut (Cocos Nucifera) Milk Protein",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); amodimethicone (#4 on list, moderate evidence); cetrimonium chloride (#6 on list, moderate evidence); shea butter (#8 on list, limited evidence); glycerin (#10 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -248677,7 +249457,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -248685,27 +249466,81 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bareanatomy.com/products/expert-series-damage-repair-hair-mask-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Damage Repair Hair Mask With Ceramide A2 & Coconut Milk Protein - 250 gm",
+   "inciMatchScore": 1,
+   "inciText": "Water, Cetostearyl Alcohol, Behentrimonium Chloride, Amodimethicone, Trideceth-12, Cetrimonium Chloride, Cetyl Esters, Shea (Butyrospermum Parkii) Butter, Cetyl Alcohol, Glycerin, Perfume, Phenoxyethanol, Lactic Acid, Hydrolyzed Vegetable Protein PG-Propyl Silanetriol, Butylated Hydroxytoluene, Disodium EDTA, PEG-8 & PEG-8/SMDI Copolymer, Palmitoyl Myristyl Serinate, PEG-45M, Sodium Polyacrylate, Coconut (Cocos Nucifera) Milk Protein",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -254244,15 +255079,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "70 g",
   "materialLine": "Vitamin E + Jojoba",
   "featureLine": "Hair mask / spa · ₹413/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.9,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -254270,11 +255107,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/intense-moisture-heat-hair-spa-mask-with-jojoba-oil-vitamin-e-for-salon-like-hair-spa-at-home-70-g",
+   "inciMatchedName": "Intense Moisture Heat Hair Spa Mask with Jojoba Oil & Vitamin E for Salon-Like Hair Spa at Home - 70 g (name match 100%)",
+   "inciList": "Intense Moisture Hair Mask: Water, Glycerin, Cetostearyl Alcohol, Amodimethicone, Cetrimonium Chloride, Trideceth-12, Cetyl Alcohol, Behentrimonium Chloride, Glyceryl Stearate, PEG-100 Stearate, Acrylamido propyltrimonium Chloride/Acrylamide Copolymer, Dimethiconol, Dimethicone, Behentrimonium Methosulfate, Avena Strigosa Seed (Black Oats) Extract, Lecithin, Potassium Sorbate, Citric Acid, Bis-Diisopropanolamino-PG-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer (Shine Tonic), Phenoxyethanol, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate, Pectin, Chlorella Vulgaris/Lupinus Albus Protein Ferment, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Vitamin E, Jojoba Oil, Fragrance",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); amodimethicone (#4 on list, moderate evidence); cetrimonium chloride (#5 on list, moderate evidence); behentrimonium chloride (#8 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); behentrimonium methosulfate (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -254295,7 +255134,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -254303,27 +255143,113 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/intense-moisture-heat-hair-spa-mask-with-jojoba-oil-vitamin-e-for-salon-like-hair-spa-at-home-70-g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intense Moisture Heat Hair Spa Mask with Jojoba Oil & Vitamin E for Salon-Like Hair Spa at Home - 70 g",
+   "inciMatchScore": 1,
+   "inciText": "Intense Moisture Hair Mask: Water, Glycerin, Cetostearyl Alcohol, Amodimethicone, Cetrimonium Chloride, Trideceth-12, Cetyl Alcohol, Behentrimonium Chloride, Glyceryl Stearate, PEG-100 Stearate, Acrylamido propyltrimonium Chloride/Acrylamide Copolymer, Dimethiconol, Dimethicone, Behentrimonium Methosulfate, Avena Strigosa Seed (Black Oats) Extract, Lecithin, Potassium Sorbate, Citric Acid, Bis-Diisopropanolamino-PG-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer (Shine Tonic), Phenoxyethanol, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate, Pectin, Chlorella Vulgaris/Lupinus Albus Protein Ferment, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Disodium EDTA, Vitamin E, Jojoba Oil, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "behentrimonium methosulfate",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -257379,7 +258305,7 @@ const HAIRPRODUCTS = [
   "model": "Beauty HydroRepair Hair Mask, Ceramide & Polyglutamic Acid | With ceramides and polyglutam…",
   "price": 779,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Ceramides",
+  "materialLine": "Ceramides + Polyglutamic acid",
   "featureLine": "Hair mask / spa",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -257400,7 +258326,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Hair mask / spa",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Ceramides (named on listing)",
+   "keyIngredients": "Ceramides, Polyglutamic acid (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -257430,6 +258356,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:hair-mask",
    "ing:ceramides",
+   "ing:polyglutamic-acid",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -271410,16 +272337,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Argan oil",
   "featureLine": "Butter · Paraben-free · ₹352/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (True Frog official website (truefrog.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (limited evidence); argania spinosa kernel oil high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -271437,11 +272366,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "True Frog official website (truefrog.in) — product page › Ingredients",
+   "inciSourceUrl": "https://truefrog.in/products/deep-conditioning-mask-200ml",
+   "inciMatchedName": "Deep Conditioning Mask - 200gm (name match 88%)",
+   "inciList": "Aqua, Cetearyl Alcohol, Quaternium-91 and Cetrimonium Methosulfate, Caprylic/Capric Triglyceride Ecocert, Brassicamidopropyl Dimethylamine, Tucuma Butter, Glyceryl Monostearate, Beetroot and Corn Starch Extract, Linseed and Chia Seed Extract, Acrylamidopropyltrimonium Chloride, Vinegar with Apple and Lemon and Tamarind Extract, Panthenol, Argan Oil, Quinoa Protein, Hydroxypropyl Starch Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Benzoate and Potassium Sorbate, Sodium Gluconate, Cetrimonium chloride , Ethylhexylglycerin, Citric Acid, Allergen Free Fragrance",
+   "evidenceActives": "panthenol (#17 on list, limited evidence); argania spinosa kernel oil (#18 on list, limited evidence); cetrimonium chloride (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -271466,7 +272397,9 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -271474,25 +272407,52 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "True Frog official website (truefrog.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://truefrog.in/products/deep-conditioning-mask-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Deep Conditioning Mask - 200gm",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Cetearyl Alcohol, Quaternium-91 and Cetrimonium Methosulfate, Caprylic/Capric Triglyceride Ecocert, Brassicamidopropyl Dimethylamine, Tucuma Butter, Glyceryl Monostearate, Beetroot and Corn Starch Extract, Linseed and Chia Seed Extract, Acrylamidopropyltrimonium Chloride, Vinegar with Apple and Lemon and Tamarind Extract, Panthenol, Argan Oil, Quinoa Protein, Hydroxypropyl Starch Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Benzoate and Potassium Sorbate, Sodium Gluconate, Cetrimonium chloride , Ethylhexylglycerin, Citric Acid, Allergen Free Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

@@ -7151,15 +7151,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm · SPF 50",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.9
   },
   "fullSpec": {
@@ -7178,14 +7179,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4/5 (61,107 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciMatchedName": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol (name match 89%)",
+   "inciList": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
+   "evidenceActives": "prunus amygdalus dulcis oil (#19 on list, moderate evidence); titanium dioxide (#20 on list, strong evidence); zinc oxide (#24 on list, strong evidence); tocopherol (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 61,107 ratings",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #26 on INCI; Aging — ascorbyl tetraisopalmitate #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -7211,7 +7215,11 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -7219,24 +7227,113 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol",
+   "inciMatchScore": 0.89,
+   "inciText": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -17337,15 +17434,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C",
   "featureLine": "Lip balm · Paraben-free · SPF 50",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.9
   },
   "fullSpec": {
@@ -17364,13 +17462,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (1,994 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 1% Vitamin c, 0.1% Resorcinol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciMatchedName": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol (name match 89%)",
+   "listingIngredientLine": "1% Vitamin c, 0.1% Resorcinol (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
+   "evidenceActives": "prunus amygdalus dulcis oil (#19 on list, moderate evidence); titanium dioxide (#20 on list, strong evidence); zinc oxide (#24 on list, strong evidence); tocopherol (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 1,994 ratings",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #26 on INCI; Aging — ascorbyl tetraisopalmitate #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -17400,7 +17502,11 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -17408,24 +17514,113 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "1% Vitamin c, 0.1% Resorcinol",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol",
+   "inciMatchScore": 0.89,
+   "inciText": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -35858,15 +36053,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Lip mask",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 5.1
   },
   "fullSpec": {
@@ -35884,14 +36080,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (108 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciMatchedName": "Collagen & Peptide Lip Sleeping Mask (name match 91%)",
+   "inciList": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
+   "evidenceActives": "butyrospermum parkii butter (#2 on list, moderate evidence); tocopherol (#23 on list, moderate evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "KAPCO INTERNATIONAL LIMITED (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 108 ratings"
+   "buyerEvidence": "4.1★ from 108 ratings",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI, adenosine #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/m/e/-original-imahhy36cuganhfe.jpeg?q=90",
@@ -35913,7 +36112,10 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -35921,25 +36123,77 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Collagen & Peptide Lip Sleeping Mask",
+   "inciMatchScore": 0.91,
+   "inciText": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -188328,16 +188582,16 @@ const NXPRODUCTS = [
   "capacityLine": "6 g",
   "materialLine": "Shea butter + Vitamin E + Glycerin",
   "featureLine": "Lip balm · SPF 30 · ₹8233/100g",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea Men official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
   ],
   "cons": [
    "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.3,
+   "ingredients": 7.1,
    "skin": 8.5,
    "trust": 8.5,
    "experience": 0
@@ -188358,17 +188612,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea Men official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
-   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 88%)",
-   "listingIngredientLine": "Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Cera Microcristallina, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Glycerin, Tocopherol (Vitamin E), Aroma (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
-   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Cera Microcristallina, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Glycerin, Tocopherol (Vitamin E), Aroma",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); glycerin (#6 on list, strong evidence); tocopherol (#7 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -188404,9 +188654,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -188415,22 +188663,22 @@ const NXPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
-   "inciSrc": "brand-site",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
-   "inciSource": "Nivea Men official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
-   "inciMatchScore": 0.88,
-   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Cera Microcristallina, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Glycerin, Tocopherol (Vitamin E), Aroma",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 1,
-   "recognised": 0.94,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -188441,41 +188689,25 @@ const NXPRODUCTS = [
      "src": "petrolatum"
     },
     {
-     "name": "ascorbyl palmitate",
-     "grade": "C",
-     "position": 9,
-     "core": false,
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
      "trace": false,
-     "src": "vitc"
-    },
-    {
-     "name": "helianthus annuus seed oil",
-     "grade": "B",
-     "position": 10,
-     "core": false,
-     "trace": false,
-     "src": "squalane"
+     "src": "glycerin"
     },
     {
      "name": "tocopherol",
      "grade": "B",
-     "position": 11,
+     "position": 7,
      "core": true,
      "trace": false,
      "src": "vitc"
-    },
-    {
-     "name": "ceramide np",
-     "grade": "B",
-     "position": 12,
-     "core": true,
-     "trace": false,
-     "src": "ceramide"
     }
    ],
    "support": [
     "butyrospermum parkii butter",
-    "ceramide np"
+    "glycerin"
    ],
    "formulaNotes": [],
    "flags": [
@@ -271529,16 +271761,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Stick",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); petrolatum high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Essential oil / volatile sensitiser: mentha piperita oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.2,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -271556,11 +271790,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: Mentha Piperita (Peppermint) Oil. Ingredients: Beeswax, Dimethicone, Petrolatum, Hydrogenated Poly(C6-14 Olefin), Phenyl Trimethicone, Butyrospermum Parkii (Shea) Butter, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Hydrogenated Polyisobutene, Mentha Piperita (Peppermint) Oil, Polysilicone-11, Sodium Saccharin, Ethylene/Propylene/Styrene Copol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Mentha Piperita (Peppermint) Oil. Ingredients: Beeswax, Dimethicone, Petrolatum, Hydrogenated Poly(C6-14 Olefin), Phenyl Trimethicone, Butyrospermum Parkii (Shea) Butter, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Hydrogenated Polyisobutene, Mentha Piperita (Peppermint) Oil, Polysilicone-11, Sodium Saccharin, Ethylene/Propylene/Styrene Copolymer, Butylene/Ethylene/Styrene Copolymer, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate.",
+   "evidenceActives": "dimethicone (#2 on list, moderate evidence); petrolatum (#3 on list, strong evidence); butyrospermum parkii butter (#6 on list, moderate evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: mentha piperita oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings"
   },
@@ -271586,7 +271820,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -271594,27 +271828,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Amazon.in listing — Important information › Ingredients",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Mentha Piperita (Peppermint) Oil. Ingredients: Beeswax, Dimethicone, Petrolatum, Hydrogenated Poly(C6-14 Olefin), Phenyl Trimethicone, Butyrospermum Parkii (Shea) Butter, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Hydrogenated Polyisobutene, Mentha Piperita (Peppermint) Oil, Polysilicone-11, Sodium Saccharin, Ethylene/Propylene/Styrene Copol",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Mentha Piperita (Peppermint) Oil. Ingredients: Beeswax, Dimethicone, Petrolatum, Hydrogenated Poly(C6-14 Olefin), Phenyl Trimethicone, Butyrospermum Parkii (Shea) Butter, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Hydrogenated Polyisobutene, Mentha Piperita (Peppermint) Oil, Polysilicone-11, Sodium Saccharin, Ethylene/Propylene/Styrene Copolymer, Butylene/Ethylene/Styrene Copolymer, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 0.93,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "petrolatum",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "mentha piperita oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -308353,16 +308634,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C",
   "featureLine": "Lip balm · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -308381,13 +308664,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciMatchedName": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol (name match 100%)",
+   "inciList": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
+   "evidenceActives": "prunus amygdalus dulcis oil (#19 on list, moderate evidence); titanium dioxide (#20 on list, strong evidence); zinc oxide (#24 on list, strong evidence); tocopherol (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #26 on INCI; Aging — ascorbyl tetraisopalmitate #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -308416,7 +308702,11 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -308424,24 +308714,113 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -323107,15 +323486,16 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Peptides + Collagen",
   "featureLine": "Lip mask · ₹3425/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.5
   },
   "fullSpec": {
@@ -323133,13 +323513,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciMatchedName": "Collagen & Peptide Lip Sleeping Mask (name match 85%)",
+   "inciList": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
+   "evidenceActives": "butyrospermum parkii butter (#2 on list, moderate evidence); tocopherol (#23 on list, moderate evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI, adenosine #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31l1139t-LL._SL1080_.jpg",
@@ -323169,7 +323552,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -323177,25 +323563,77 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Collagen & Peptide Lip Sleeping Mask",
+   "inciMatchScore": 0.85,
+   "inciText": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -332376,15 +332814,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Kojic acid + Shea butter",
   "featureLine": "Lip balm · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); cera alba high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.9,
+   "skin": 10,
+   "trust": 8,
    "experience": 0.6
   },
   "fullSpec": {
@@ -332403,11 +332842,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/lightening-lip-balm-bulk-buy",
+   "inciMatchedName": "Lightening Lip Balm - Bulk Buy (name match 100%)",
+   "inciList": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
+   "evidenceActives": "butyrospermum parkii butter (#1 on list, moderate evidence); cera alba (#3 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); cocos nucifera oil (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "3.6★ from 0 ratings"
   },
@@ -332441,7 +332882,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -332449,25 +332892,92 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/lightening-lip-balm-bulk-buy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lightening Lip Balm - Bulk Buy",
+   "inciMatchScore": 1,
+   "inciText": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

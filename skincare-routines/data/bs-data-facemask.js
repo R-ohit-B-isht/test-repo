@@ -6705,6 +6705,165 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-34hswf",
+  "brand": "Deconstruct",
+  "model": "Collagen & Peptide Lip Sleeping Mask",
+  "price": 221,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Peptides + Collagen",
+  "featureLine": "Lip mask",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip mask",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Peptides, Collagen (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciMatchedName": "Collagen & Peptide Lip Sleeping Mask (name match 100%)",
+   "inciList": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
+   "evidenceActives": "sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI, adenosine #22 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip Mask (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-14.webp?v=1779365270"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Collagen & Peptide Lip Sleeping Mask",
+  "tags": [
+   "scope:face",
+   "format:sleeping-mask",
+   "format:lip-mask",
+   "ing:peptides",
+   "ing:collagen",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Collagen & Peptide Lip Sleeping Mask",
+   "inciMatchScore": 1,
+   "inciText": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-11p6h1p",
   "brand": "The Derma Co",
   "model": "1% Salicylic Acid Sheet Mask With Salicylic Acid & Allantoin - 20g",

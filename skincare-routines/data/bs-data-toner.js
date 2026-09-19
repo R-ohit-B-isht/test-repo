@@ -5838,6 +5838,176 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-vm95k5",
+  "brand": "Deconstruct",
+  "model": "Exfoliating 7% Glycolic Acid Toner",
+  "price": 337,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Glycolic acid",
+  "featureLine": "Toner",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Toner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Glycolic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciMatchedName": "Exfoliating 7% Glycolic Acid Toner (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); niacinamide (#4 on list, strong evidence); panthenol (#5 on list, moderate evidence); oryza sativa extract (#15 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #5 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "toner (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Exfoliating_7__Glycolic_Acid_Toner.webp?v=1782482331"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Exfoliating 7% Glycolic Acid Toner",
+  "tags": [
+   "scope:unstated",
+   "format:toner",
+   "ing:glycolic-acid",
+   "claim:exfoliating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating 7% Glycolic Acid Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "panthenol",
+    "urea"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-10osc59",
   "brand": "The Derma Co",
   "model": "2% Salicylic BHA Hydrating Toner - 150ml",

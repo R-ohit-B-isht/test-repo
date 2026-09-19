@@ -104494,15 +104494,16 @@ const NXPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + Glycolic acid",
   "featureLine": "Gel · Paraben-free · ₹2393/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -104520,14 +104521,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/acne-spot-corrector-gel",
+   "inciMatchedName": "Acne Spot Corrector with Salicylic Acid (name match 84%)",
+   "inciList": "Aqua, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propylene glycol, Ethoxydiglycol, Salicylic acid, Glycolic acid, Potassium Azeloyl diglycinate, Phenoxyethanol, Niacinamide, D- Panthenol, Chondrus crispus Extract, Azelaic acid, Ethylhexylglycerin, Polyacrylate cross polymer-6, Octenidine HCl, Phytic acid, Citric Acid, Triethanolamine",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); niacinamide (#9 on list, strong evidence); azelaic acid (#12 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71oXapWnt7L._SL1500_.jpg"
@@ -104563,7 +104566,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -104571,25 +104576,68 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/acne-spot-corrector-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Acne Spot Corrector with Salicylic Acid",
+   "inciMatchScore": 0.84,
+   "inciText": "Aqua, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propylene glycol, Ethoxydiglycol, Salicylic acid, Glycolic acid, Potassium Azeloyl diglycinate, Phenoxyethanol, Niacinamide, D- Panthenol, Chondrus crispus Extract, Azelaic acid, Ethylhexylglycerin, Polyacrylate cross polymer-6, Octenidine HCl, Phytic acid, Citric Acid, Triethanolamine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "azelaic"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

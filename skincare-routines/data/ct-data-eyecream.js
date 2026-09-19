@@ -3509,15 +3509,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream / gel",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (BELLAVITA official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "Ingredients are named by common / trade names, not INCI names — formula unscored"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 8.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 6.6
   },
   "fullSpec": {
@@ -3534,14 +3536,18 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (1,04,672 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Herbs, Oil & Extract of Rose, Jasmine, Calendula, Basil, Daisy, Orchid, Papaya peel, Safe Preservatives, Lotus, Olives, Aloe Vera, Cucumber, Carrot, Basil leaves, Jojoba",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/eyelift-under-eye-gel-pack-of-2-20g-phonepe",
+   "inciMatchedName": "Eyelift Under Eye Gel Cream (Pack Of 2) -20g (PhonePe) (name match 100%)",
+   "listingIngredientLine": "Herbs, Oil & Extract of Rose, Jasmine, Calendula, Basil, Daisy, Orchid, Papaya peel, Safe Preservatives, Lotus, Olives, Aloe Vera, Cucumber, Carrot, Basil leaves, Jojoba (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Propandiol, Niacinamide, Glycerin, Aloe Barbadensis (Aloe Vera) Extract, Isopropyl Myristate, Lecithin, Sodium Acrylates Copolymer, 3-O-Ethyl Ascorbic Acid, Camellia Sinensis (Green Tea) Leaf Extract, Butylene Glycol, Ethylhexylglycerin (and) Phenoxyethanol, Tocopheryl Acetate (Vitamin E), Fragrance, Acetyl Tetrapeptide-5, Sodium Gluconate, Sodium Hyaluronate, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Glycyrrhiza Glabra (Licorice) Root Extract, Carbomer, Polysorbate 20, Colour",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); glycerin (#4 on list, strong evidence); tocopheryl acetate (#14 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); palmitoyl tetrapeptide-7 (#19 on list, moderate evidence); palmitoyl tripeptide-1 (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "declaredManufacturer": "STELLA INDUSSTRIES LIMITED Old Khandsa Road , Sector - 37 , HSIIDC , Gurugram, Haryana India 122004 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 1,04,672 ratings"
+   "buyerEvidence": "3.9★ from 1,04,672 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/q/s/k/20-0-eyelift-under-eye-cream-gel-for-dark-circles-puffy-eyes-enriched-transparent-original-imahewexqjdkzdjs.png?q=90",
@@ -3562,7 +3568,11 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -3571,27 +3581,116 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Herbs, Oil & Extract of Rose, Jasmine, Calendula, Basil, Daisy, Orchid, Papaya peel, Safe Preservatives, Lotus, Olives, Aloe Vera, Cucumber, Carrot, Basil leaves, Jojoba",
-   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.19,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/eyelift-under-eye-gel-pack-of-2-20g-phonepe",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Eyelift Under Eye Gel Cream (Pack Of 2) -20g (PhonePe)",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Propandiol, Niacinamide, Glycerin, Aloe Barbadensis (Aloe Vera) Extract, Isopropyl Myristate, Lecithin, Sodium Acrylates Copolymer, 3-O-Ethyl Ascorbic Acid, Camellia Sinensis (Green Tea) Leaf Extract, Butylene Glycol, Ethylhexylglycerin (and) Phenoxyethanol, Tocopheryl Acetate (Vitamin E), Fragrance, Acetyl Tetrapeptide-5, Sodium Gluconate, Sodium Hyaluronate, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Glycyrrhiza Glabra (Licorice) Root Extract, Carbomer, Polysorbate 20, Colour",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Bella Vita Organic",
     "kind": "d2c",
@@ -54268,15 +54367,17 @@ const CTPRODUCTS = [
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream / gel · ₹885/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bella Vita official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 1
   },
   "fullSpec": {
@@ -54293,13 +54394,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bella Vita official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/eyelift-under-eye-gel-pack-of-2-20g-phonepe",
+   "inciMatchedName": "Eyelift Under Eye Gel Cream (Pack Of 2) -20g (PhonePe) (name match 95%)",
+   "inciList": "Purified Water, Propandiol, Niacinamide, Glycerin, Aloe Barbadensis (Aloe Vera) Extract, Isopropyl Myristate, Lecithin, Sodium Acrylates Copolymer, 3-O-Ethyl Ascorbic Acid, Camellia Sinensis (Green Tea) Leaf Extract, Butylene Glycol, Ethylhexylglycerin (and) Phenoxyethanol, Tocopheryl Acetate (Vitamin E), Fragrance, Acetyl Tetrapeptide-5, Sodium Gluconate, Sodium Hyaluronate, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Glycyrrhiza Glabra (Licorice) Root Extract, Carbomer, Polysorbate 20, Colour",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); glycerin (#4 on list, strong evidence); tocopheryl acetate (#14 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); palmitoyl tetrapeptide-7 (#19 on list, moderate evidence); palmitoyl tripeptide-1 (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Fs36TemzL._AC_UL320_.jpg"
@@ -54318,7 +54422,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -54327,27 +54435,116 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bella Vita official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/eyelift-under-eye-gel-pack-of-2-20g-phonepe",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Eyelift Under Eye Gel Cream (Pack Of 2) -20g (PhonePe)",
+   "inciMatchScore": 0.95,
+   "inciText": "Purified Water, Propandiol, Niacinamide, Glycerin, Aloe Barbadensis (Aloe Vera) Extract, Isopropyl Myristate, Lecithin, Sodium Acrylates Copolymer, 3-O-Ethyl Ascorbic Acid, Camellia Sinensis (Green Tea) Leaf Extract, Butylene Glycol, Ethylhexylglycerin (and) Phenoxyethanol, Tocopheryl Acetate (Vitamin E), Fragrance, Acetyl Tetrapeptide-5, Sodium Gluconate, Sodium Hyaluronate, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Glycyrrhiza Glabra (Licorice) Root Extract, Carbomer, Polysorbate 20, Colour",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Bella Vita Organic",
     "kind": "d2c",
@@ -56674,15 +56871,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + peptides + caffeine",
   "featureLine": "Cream / gel · Fragrance-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); caffeine high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -56699,13 +56898,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/vitamin-c-eye-cream-with-mandarin",
+   "inciMatchedName": "3% Vitamin C, 3% Peptide & 3% Caffeine Under Eye Cream with Mandarin (name match 88%)",
+   "inciList": "Aqua, Undecane, Tridecane, 3-O-Ethyl Ascorbic Acid, Glycerin, Caffeine, Isoamyl Laurate, Acetyl Hexapeptide-8, Caprylyl Glycol, Propanediol, Triolein, Glyceryl Stearate Citrate, Citrus Reticulata (Mandarin) Peel Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Tapioca Starch, Daucus Carota Sativa (Carrot) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract, Cyclodextrin, Ammonium Polyacryloyldimethyl Taurate, Methyl Gluceth-20, Glyceryl Stearate, PEG-100 Stearate, Sorbitol, Isostearyl Hydroxystearate, Benzyl Alcohol, Hydroxyacetophenone, Sodium Citrate, Sodium Gluconate, Xanthan Gum, Sucralose, Citric Acid, Dilauryl Thiodipropionate",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); caffeine (#6 on list, moderate evidence); acetyl hexapeptide-8 (#8 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #4 on INCI; Aging — 3-o-ethyl ascorbic acid #4 on INCI, acetyl hexapeptide-8 #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QMXX3wCDL._AC_UL320_.jpg"
@@ -56726,7 +56928,10 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -56735,27 +56940,81 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/vitamin-c-eye-cream-with-mandarin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "3% Vitamin C, 3% Peptide & 3% Caffeine Under Eye Cream with Mandarin",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Undecane, Tridecane, 3-O-Ethyl Ascorbic Acid, Glycerin, Caffeine, Isoamyl Laurate, Acetyl Hexapeptide-8, Caprylyl Glycol, Propanediol, Triolein, Glyceryl Stearate Citrate, Citrus Reticulata (Mandarin) Peel Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Tapioca Starch, Daucus Carota Sativa (Carrot) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract, Cyclodextrin, Ammonium Polyacryloyldimethyl Taurate, Methyl Gluceth-20, Glyceryl Stearate, PEG-100 Stearate, Sorbitol, Isostearyl Hydroxystearate, Benzyl Alcohol, Hydroxyacetophenone, Sodium Citrate, Sodium Gluconate, Xanthan Gum, Sucralose, Citric Acid, Dilauryl Thiodipropionate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -76328,15 +76587,16 @@ const CTPRODUCTS = [
   "capacityLine": "20 ml",
   "materialLine": "niacinamide + hyaluronic acid + rice water",
   "featureLine": "Cream / gel · ₹6315/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7.1,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -76353,11 +76613,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/rice-water-bright-vegan-eye-cream",
+   "inciMatchedName": "Rice Water Bright Vegan Eye Cream 20ml (name match 96%)",
+   "inciList": "Water/Eau, Caprylic/Capric Triglyceride,Propanediol,Glycerin, Elaeis Guineensis (Palm) Oil, Butyrospermum Parkii (Shea) Butter, Macadamia Ternifolia Seed Oil 1, 2-Hexanediol Betaine, Elaeis Guineensis (Palm) Kernel Oil, Behenyl Alcohol, Tri-C14-15 Alkyl Citrate, Caprylic/Capric Glycerides, Tromethamine, Carbomer, Butylene Glycol, Palmitic Acid, Disodium Edta, Niacinamide, Polyglycerin-3, Stearic Acid, Glycine Soja (Soybean) Seed Extract, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Potato Extract Ferment Filtrate, Sodium Polyacrylate, Saccharomyces/Barley Seed Ferment Filtrate, Oryza Sativa (Rice) Bran Oil Sodium Hyaluronate, Hibiscus Sabdariffa Flower Extract, Saccharomyces/Rice Ferment Filtrate, Oryza Sativa (Rice) Extract",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -76383,7 +76645,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -76392,25 +76656,64 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/rice-water-bright-vegan-eye-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rice Water Bright Vegan Eye Cream 20ml",
+   "inciMatchScore": 0.96,
+   "inciText": "Water/Eau, Caprylic/Capric Triglyceride,Propanediol,Glycerin, Elaeis Guineensis (Palm) Oil, Butyrospermum Parkii (Shea) Butter, Macadamia Ternifolia Seed Oil 1, 2-Hexanediol Betaine, Elaeis Guineensis (Palm) Kernel Oil, Behenyl Alcohol, Tri-C14-15 Alkyl Citrate, Caprylic/Capric Glycerides, Tromethamine, Carbomer, Butylene Glycol, Palmitic Acid, Disodium Edta, Niacinamide, Polyglycerin-3, Stearic Acid, Glycine Soja (Soybean) Seed Extract, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Potato Extract Ferment Filtrate, Sodium Polyacrylate, Saccharomyces/Barley Seed Ferment Filtrate, Oryza Sativa (Rice) Bran Oil Sodium Hyaluronate, Hibiscus Sabdariffa Flower Extract, Saccharomyces/Rice Ferment Filtrate, Oryza Sativa (Rice) Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "butyrospermum parkii butter",
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

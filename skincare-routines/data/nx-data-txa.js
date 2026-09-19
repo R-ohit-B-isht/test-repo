@@ -18158,18 +18158,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.7★ from 3 ratings"
   ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -18188,14 +18189,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.7/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Niacinamide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/niacinamide-10-txa-4-serum-2",
+   "inciMatchedName": "Niacinamide 10 TXA 4 Serum for Brightening and Dark Spots (name match 90%)",
+   "listingIngredientLine": "Niacinamide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); arbutin (#8 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence); alpha-arbutin (#10 on list, moderate evidence); 3-o-ethyl ascorbic acid (#38 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -18229,8 +18233,13 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "target:dark-spots",
-   "inci:partial"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -18238,25 +18247,163 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/niacinamide-10-txa-4-serum-2",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Niacinamide 10 TXA 4 Serum for Brightening and Dark Spots",
+   "inciMatchScore": 0.9,
+   "inciText": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "arbutin",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 41,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -21037,17 +21184,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -21066,14 +21215,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Niacinamide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/niacinamide-10-txa-4-serum-2",
+   "inciMatchedName": "Niacinamide 10 TXA 4 Serum for Brightening and Dark Spots (name match 100%)",
+   "listingIngredientLine": "Niacinamide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); arbutin (#8 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence); alpha-arbutin (#10 on list, moderate evidence); 3-o-ethyl ascorbic acid (#38 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -21110,8 +21262,13 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "target:dark-spots",
-   "inci:partial"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -21119,25 +21276,163 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/niacinamide-10-txa-4-serum-2",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Niacinamide 10 TXA 4 Serum for Brightening and Dark Spots",
+   "inciMatchScore": 1,
+   "inciText": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "arbutin",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 41,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -22057,15 +22352,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Alpha arbutin + Tranexamic acid",
   "featureLine": "Serum · ₹1997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -22083,14 +22379,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciMatchedName": "Advanced Dark Spot Correcting TXA Shot (name match 96%)",
+   "inciList": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); alpha-arbutin (#6 on list, moderate evidence); glycolic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, alpha-arbutin #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -22123,8 +22421,11 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -22132,25 +22433,85 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Dark Spot Correcting TXA Shot",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -27757,15 +28118,16 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Niacinamide + Alpha arbutin + Tranexamic acid",
   "featureLine": "Serum · ₹2990/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -27783,14 +28145,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciMatchedName": "Advanced Dark Spot Correcting TXA Shot (name match 96%)",
+   "inciList": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); tranexamic acid (#4 on list, moderate evidence); alpha-arbutin (#6 on list, moderate evidence); glycolic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, alpha-arbutin #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -27823,8 +28187,11 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -27832,25 +28199,85 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/serum-for-reducing-pigmentation-on-face",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Dark Spot Correcting TXA Shot",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Glycerin, Niacinamide, Tranexamic Acid, Sodium Polyacryloyldimethyl Taurate/Isohexadecane/PEG-7 Glyceryl Cocoate, Alpha Arbutin, Glycerin (and) Aqua (and) Hydrolyzed Rhodophyceae Extract, Glycolic Acid, Lactic Acid, Fructooligosaccharides & Beta Vulgaris Root Extract, Aqua (and) Glycerin (and) Tilia Tomentosa Bud Extract, Phenoxyethanol (and) Ethylhexylglycerin, Porphyridium Cruentum Extract, Oryza Sativa Ferment Water, Cyanocobalamin, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

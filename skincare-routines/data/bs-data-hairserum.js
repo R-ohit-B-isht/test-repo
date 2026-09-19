@@ -4487,6 +4487,104 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-1naklkm",
+  "brand": "Deconstruct",
+  "model": "Keratin Hair Serum with SPF 50",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Keratin",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Hair Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Keratin_Hair_Serum_with_SPF_50.webp?v=1782482331"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/keratin-treatment-hair-serum-1-keratin-complex-1-argan-oil-2-macadamia-oil",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Keratin Hair Serum with SPF 50",
+  "tags": [
+   "area:unstated",
+   "format:serum",
+   "spf:50",
+   "ing:keratin",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "thriveco-bs-1fz4cnw",
   "brand": "ThriveCo",
   "model": "Anti-Grey Hair Prime Serum",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -35188,15 +35188,16 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Onion",
   "featureLine": "Oil",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (limited evidence); eclipta alba extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.8,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.2
   },
   "fullSpec": {
@@ -35214,11 +35215,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (2,32,961 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/onion-hair-oil-for-hair-regrowth-hair-fall-control-with-redensyl-250ml-pack-of-2",
+   "inciMatchedName": "Onion Hair Oil for Hair Regrowth and Hair Fall Control - 250ml (Pack of 2) (name match 83%)",
+   "inciList": "Helianthus Annuus (Sunflower) Seed Oil, Isopropyl Myristate, Caprylic/Capric Triglyceride, Phyllanthus Emblica (Amla) Fruit Extract, Eclipta Alba (Bhringraj) Extract, Hibiscus Rosa-Sinensis (Gurhal) Extract, Sesamum Indicum (Sesame) Seed Oil, Allium Cepa (Onion) Seed Extract, Bacopa Monnieri (Brahmi) Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ricinus Communis (Castor) Seed Oil, Tocopherol (Vitamin E), Allium Cepa (Onion) Seed Oil, IFRA Certified Allergen Free Fragrance, Tinogard® TT, Redensyl",
+   "evidenceActives": "helianthus annuus seed oil (#1 on list, limited evidence); eclipta alba extract (#5 on list, limited evidence); sesamum indicum seed oil (#7 on list, limited evidence); simmondsia chinensis seed oil (#10 on list, limited evidence); prunus amygdalus dulcis oil (#12 on list, limited evidence); ricinus communis seed oil (#13 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Honasa Consumer Pvt Ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 2,32,961 ratings"
@@ -35242,7 +35245,9 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -35250,24 +35255,73 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/onion-hair-oil-for-hair-regrowth-hair-fall-control-with-redensyl-250ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Onion Hair Oil for Hair Regrowth and Hair Fall Control - 250ml (Pack of 2)",
+   "inciMatchScore": 0.83,
+   "inciText": "Helianthus Annuus (Sunflower) Seed Oil, Isopropyl Myristate, Caprylic/Capric Triglyceride, Phyllanthus Emblica (Amla) Fruit Extract, Eclipta Alba (Bhringraj) Extract, Hibiscus Rosa-Sinensis (Gurhal) Extract, Sesamum Indicum (Sesame) Seed Oil, Allium Cepa (Onion) Seed Extract, Bacopa Monnieri (Brahmi) Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ricinus Communis (Castor) Seed Oil, Tocopherol (Vitamin E), Allium Cepa (Onion) Seed Oil, IFRA Certified Allergen Free Fragrance, Tinogard® TT, Redensyl",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 1,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "eclipta alba extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bhringraj"
+    },
+    {
+     "name": "sesamum indicum seed oil",
+     "grade": "C",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "ricinus communis seed oil",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -265923,7 +265977,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹126/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water, Almond, Coconut, Rosemary, Bhringraj, Amla, Fenugreek, Sesame oil, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Rice water, Almond, Coconut, Menthol, Rosemary, Bhringraj, Amla, Fenugreek, Sesame oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
@@ -265953,6 +266007,7 @@ const HAIRPRODUCTS = [
    "ing:rice-water",
    "ing:almond",
    "ing:coconut",
+   "ing:menthol",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -271583,17 +271638,17 @@ const HAIRPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Vitamin B5 / panthenol + Panthenol",
   "featureLine": "Spray · ₹326/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 19,366 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): parfum"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.4,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -271611,11 +271666,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (19,366 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/hot-shot-heat-protection-mist-with-grapeseed-oil-provitamin-b5-150-ml",
+   "inciMatchedName": "Hot Shot Heat Protection Mist with Grapeseed Oil & Provitamin B5 - 150 ml (name match 100%)",
+   "inciList": "Aqua (Water), PEG-40 Hydrogenated Castor Oil, Isopropyl Alcohol, Dipropylene Glycol, VA/Crotonates/Vinyl Neodecanoate Copolymer, Dimethiconol, TEA-Dodecylbenzenesulphonate, Ceteareth-20, Glycerin, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, Trideceth-5, Disodium EDTA, Panthenol (Pro-vitamin B5), Vitis Vinifera (Grape) Seed Oil, Aminomethyl Propanol, Phenoxyethanol, Ethylhexylglycerin, Parfum (Parfume)",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VA Lifesciences LLP, Plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, 173220, India. M.: HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 19,366 ratings"
@@ -271643,7 +271700,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -271651,27 +271709,65 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/hot-shot-heat-protection-mist-with-grapeseed-oil-provitamin-b5-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hot Shot Heat Protection Mist with Grapeseed Oil & Provitamin B5 - 150 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), PEG-40 Hydrogenated Castor Oil, Isopropyl Alcohol, Dipropylene Glycol, VA/Crotonates/Vinyl Neodecanoate Copolymer, Dimethiconol, TEA-Dodecylbenzenesulphonate, Ceteareth-20, Glycerin, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, Trideceth-5, Disodium EDTA, Panthenol (Pro-vitamin B5), Vitis Vinifera (Grape) Seed Oil, Aminomethyl Propanol, Phenoxyethanol, Ethylhexylglycerin, Parfum (Parfume)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -302930,16 +303026,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "59 ml",
   "materialLine": "Rosemary + Peppermint / menthol",
   "featureLine": "Oil · ₹642/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mielle Organics official website (mielleorganics.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ricinus communis seed oil high on the INCI list (limited evidence); rosmarinus officinalis leaf oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -302957,11 +303055,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mielle Organics official website (mielleorganics.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mielleorganics.com/products/rosemary-mint-oil",
+   "inciMatchedName": "Rosemary Mint Scalp & Hair Strengthening Oil (name match 80%)",
+   "inciList": "Glycine Soja (Soybean) Oil, Ricinus Communis (Castor) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Mentha Piperita (Peppermint) Oil, Eucalyptus Globolus (Eucalyptus) Leaf Oil, Menthol, Melalueca Alternifolia (Tea Tree) Leaf Oil, Cocos Nucifera (Coconut) Oil, Equisetum Arvense (Horsetail) Extract, Aloe Barbadensis Extract, Lavandula Angustifolia (Lavender) Oil, Triticum Vulgare (Wheat) Germ Oil, Carthamus Tinctorius (Safflower) Seed Oil, Oenothera Biennis (Evening Primrose) Oil, Vitis Vinifera (Grape) Seed Oil, Benzyl Nicotinate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Oryza Sativa (Rice) Bran Oil, Tocopheryl Acetate, Biotin, Arctium Lappa (Burdock) Root Extract, Glycerin, Apium Graveolens (Celery) Seed Extract, Cholecalciferol (Vitamin D), Ascorbic Acid, Ocimum, Basilicum (Basil) Oil, Pogostemon Cablin (Patchouli) Oil, Salvia Officinalis (Sage) Oil, Silica, Urtica Dioica (Nettle) Extract",
+   "evidenceActives": "ricinus communis seed oil (#2 on list, limited evidence); rosmarinus officinalis leaf oil (#3 on list, moderate evidence); simmondsia chinensis seed oil (#4 on list, limited evidence); cocos nucifera oil (#9 on list, moderate evidence); prunus amygdalus dulcis oil (#18 on list, limited evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil, eucalyptus globolus leaf oil, menthol, melalueca alternifolia leaf oil, lavandula angustifolia oil, pogostemon cablin oil, salvia officinalis oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -302984,7 +303084,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -302992,27 +303093,111 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mielle Organics official website (mielleorganics.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mielleorganics.com/products/rosemary-mint-oil",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rosemary Mint Scalp & Hair Strengthening Oil",
+   "inciMatchScore": 0.8,
+   "inciText": "Glycine Soja (Soybean) Oil, Ricinus Communis (Castor) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Mentha Piperita (Peppermint) Oil, Eucalyptus Globolus (Eucalyptus) Leaf Oil, Menthol, Melalueca Alternifolia (Tea Tree) Leaf Oil, Cocos Nucifera (Coconut) Oil, Equisetum Arvense (Horsetail) Extract, Aloe Barbadensis Extract, Lavandula Angustifolia (Lavender) Oil, Triticum Vulgare (Wheat) Germ Oil, Carthamus Tinctorius (Safflower) Seed Oil, Oenothera Biennis (Evening Primrose) Oil, Vitis Vinifera (Grape) Seed Oil, Benzyl Nicotinate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Oryza Sativa (Rice) Bran Oil, Tocopheryl Acetate, Biotin, Arctium Lappa (Burdock) Root Extract, Glycerin, Apium Graveolens (Celery) Seed Extract, Cholecalciferol (Vitamin D), Ascorbic Acid, Ocimum, Basilicum (Basil) Oil, Pogostemon Cablin (Patchouli) Oil, Salvia Officinalis (Sage) Oil, Silica, Urtica Dioica (Nettle) Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "ricinus communis seed oil",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "teaTreeDandruff"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil",
+      "mentha piperita oil",
+      "eucalyptus globolus leaf oil",
+      "menthol",
+      "melalueca alternifolia leaf oil",
+      "lavandula angustifolia oil",
+      "pogostemon cablin oil",
+      "salvia officinalis oil"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -303953,7 +304138,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹599/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera, Neem, Coconut, Bhringraj, Amla, Brahmi, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Aloe vera, Neem, Coconut, Menthol, Bhringraj, Amla, Brahmi, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
@@ -303983,6 +304168,7 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "ing:neem",
    "ing:coconut",
+   "ing:menthol",
    "ing:bhringraj",
    "ing:amla",
    "ing:brahmi",
@@ -313686,16 +313872,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "18 ml",
   "materialLine": "Argan oil",
   "featureLine": "Oil · ₹1472/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (HASK official website (haskbeauty.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "argania spinosa kernel oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "EU-declared fragrance allergen: citral, limonene",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.9,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -313713,11 +313901,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HASK official website (haskbeauty.com) — product page › Ingredients",
+   "inciSourceUrl": "https://haskbeauty.com/products/repair-arganoil-hair-oil-vial",
+   "inciMatchedName": "Repair + Argan Oil Hair Oil Vial (name match 76%)",
+   "inciList": "C13-14 isoalkane, Dimethiconol, C10-11 isoalkane, Argania spinosa (argan) kernel oil, Keratin amino acids, Glycine soja (soybean) oil, Vitis vinifera (grape) seed oil, Citrus aurantium dulcis (orange) oil, Tocopherol, Aqua/Water/Eau, Butylene glycol, Phenoxyethanol, Ethylhexylglycerin, Citral, Limonene, Linalool, CI 26100 (Red 17), CI 47000 (Yellow 11)",
+   "evidenceActives": "argania spinosa kernel oil (#2 on list, limited evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: citral, limonene, linalool (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -313737,7 +313927,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -313745,27 +313936,58 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HASK official website (haskbeauty.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://haskbeauty.com/products/repair-arganoil-hair-oil-vial",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Repair + Argan Oil Hair Oil Vial",
+   "inciMatchScore": 0.76,
+   "inciText": "C13-14 isoalkane, Dimethiconol, C10-11 isoalkane, Argania spinosa (argan) kernel oil, Keratin amino acids, Glycine soja (soybean) oil, Vitis vinifera (grape) seed oil, Citrus aurantium dulcis (orange) oil, Tocopherol, Aqua/Water/Eau, Butylene glycol, Phenoxyethanol, Ethylhexylglycerin, Citral, Limonene, Linalool, CI 26100 (Red 17), CI 47000 (Yellow 11)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "citral",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -322545,16 +322767,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Argan oil + Olive",
   "featureLine": "Spray · ₹599/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "argania spinosa kernel oil high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -322572,11 +322796,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/firefighter-heat-protection-spray",
+   "inciMatchedName": "Firefighter Heat Protection Spray 100ml (name match 100%)",
+   "inciList": "Isopropyl Myristate, Olea Europaea (Olive) Fruit Oil, Argania spinosa (Argan) kernel oil, Vitamin E, Ethylhexyl Palmitate, Isododecane , Glyceryl Caprylate, Glyceryl Undecylenate",
+   "evidenceActives": "argania spinosa kernel oil (#3 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.4★ from 0 ratings"
   },
@@ -322600,7 +322826,9 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -322608,24 +322836,33 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/firefighter-heat-protection-spray",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Firefighter Heat Protection Spray 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Isopropyl Myristate, Olea Europaea (Olive) Fruit Oil, Argania spinosa (Argan) kernel oil, Vitamin E, Ethylhexyl Palmitate, Isododecane , Glyceryl Caprylate, Glyceryl Undecylenate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -331176,16 +331413,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Tea tree + Onion + Amla",
   "featureLine": "Oil · Paraben-free · ₹396/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Auravedic official website (auravedic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cocos nucifera oil high on the INCI list (moderate evidence); simmondsia chinensis seed oil high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: tea tree oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.6,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -331203,11 +331442,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Auravedic official website (auravedic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://auravedic.com/products/scalp-relief-oil",
+   "inciMatchedName": "Onion Hair Oil (name match 95%)",
+   "inciList": "Coconut Oil, Jojoba Oil, Black Seed Oil, Onion Seed Oil, Onion Extract, Amla Oil, Hibiscus Oil, Pumpkin Seed Oil, Fenugreek Seed Extract, Basil Extract, Ginger Root Extract, Curry Leaves Extract, Tea Tree Oil, Neem Oil",
+   "evidenceActives": "cocos nucifera oil (#1 on list, moderate evidence); simmondsia chinensis seed oil (#2 on list, limited evidence); allium cepa bulb extract (#5 on list, limited evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings"
   },
@@ -331228,7 +331469,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -331236,27 +331478,70 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Auravedic official website (auravedic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://auravedic.com/products/scalp-relief-oil",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Onion Hair Oil",
+   "inciMatchScore": 0.95,
+   "inciText": "Coconut Oil, Jojoba Oil, Black Seed Oil, Onion Seed Oil, Onion Extract, Amla Oil, Hibiscus Oil, Pumpkin Seed Oil, Fenugreek Seed Extract, Basil Extract, Ginger Root Extract, Curry Leaves Extract, Tea Tree Oil, Neem Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "allium cepa bulb extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "onion"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "teaTreeDandruff"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -347411,16 +347696,16 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + AHA + PHA",
   "featureLine": "Oil · ₹699/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil, pogostemon cablin oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.9,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -347438,11 +347723,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thriveco.in/products/aha-bha-pha-exfoliating-scalp-scrub-100ml",
+   "inciMatchedName": "AHA BHA PHA Exfoliating Scalp Scrub, 100ml (name match 100%)",
+   "inciList": "Aqua, Propanediol, Glycolic Acid, Cetearyl Alcohol, Glucono-Delta-Lactone, Caprylic/Capric Triglyceride, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Triethanolamine, Isoamyl Laurate, Salicylic Acid, Allantoin, Glycerine, Citrus aurantium dulcis (Orange) Peel Oil, Pogostemon cablin (Patchouli) Oil, Zingiber officinale (Ginger) Root Oil, Disodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil, pogostemon cablin oil (−1)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -347469,7 +347756,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -347477,27 +347765,66 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thriveco.in/products/aha-bha-pha-exfoliating-scalp-scrub-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA BHA PHA Exfoliating Scalp Scrub, 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propanediol, Glycolic Acid, Cetearyl Alcohol, Glucono-Delta-Lactone, Caprylic/Capric Triglyceride, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Triethanolamine, Isoamyl Laurate, Salicylic Acid, Allantoin, Glycerine, Citrus aurantium dulcis (Orange) Peel Oil, Pogostemon cablin (Patchouli) Oil, Zingiber officinale (Ginger) Root Oil, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "citrus aurantium dulcis peel oil",
+      "pogostemon cablin oil"
+     ],
+     "penalty": 1,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -350388,16 +350715,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "95 ml",
   "materialLine": "Peptides + Olive + Bond builder",
   "featureLine": "Oil · ₹347/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: benzyl salicylate, citronellol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -350415,11 +350745,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/love-beauty-and-planet-olive-oil-peptide-bond-repair-damage-rescue-serum-creme-95ml",
+   "inciMatchedName": "Olive oil & Peptide Bond Repair Prewash Treatment (name match 100%)",
+   "inciList": "GLYCERYL STEARATE, AMODIMETHICONE, CETEARYL ALCOHOL, CETYL ALCOHOL, GLYCOL STEARATE, HYDROXYETHYLCELLULOSE, HYDROXYPROPYLGLUCONAMIDE (AND) HYDROXYPROPYLAMMONIUM GLUCONATE^, BEHENTRIMONIUM METHOSULFATE, PERFUME, PISUM SATIVUM (PEA) PEPTIDE, CITRUS AURANTIUM BERGAMIA (BERGAMOT) FRUIT OIL, CETRIMONIUM CHLORIDE, POLYQUATERNIUM-73, POLYQUATERNIUM-7, COCOS NUCIFERA (COCONUT) OIL^, OLEA EUROPAEA (OLIVE) FRUIT OIL.^, SIMMONDSIA CHINENSIS (JOJOBA) OIL^, HYDROLYZED KERATIN^, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLYCOL DISTEARATE, TOCOPHERYL ACETATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PANTHENOL, TRIETHANOLAMINE, TETRA SODIUM EDTA, RETINYL PALMITATE, BENZYL SALICYLATE, CITRONELLOL, LIMONENE, LINALOOL. ^ PLANT BASED INGREDIENTS. †TREATMENT IN COSMETIC DOMAIN",
+   "evidenceActives": "cocos nucifera oil (#16 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, citronellol, limonene (−1.5); Essential oil / volatile sensitiser: citrus aurantium bergamia fruit oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -350440,7 +350772,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -350448,27 +350781,124 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Beauty And Planet official website (www.lovebeautyandplanet.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.lovebeautyandplanet.in/products/love-beauty-and-planet-olive-oil-peptide-bond-repair-damage-rescue-serum-creme-95ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Olive oil & Peptide Bond Repair Prewash Treatment",
+   "inciMatchScore": 1,
+   "inciText": "GLYCERYL STEARATE, AMODIMETHICONE, CETEARYL ALCOHOL, CETYL ALCOHOL, GLYCOL STEARATE, HYDROXYETHYLCELLULOSE, HYDROXYPROPYLGLUCONAMIDE (AND) HYDROXYPROPYLAMMONIUM GLUCONATE^, BEHENTRIMONIUM METHOSULFATE, PERFUME, PISUM SATIVUM (PEA) PEPTIDE, CITRUS AURANTIUM BERGAMIA (BERGAMOT) FRUIT OIL, CETRIMONIUM CHLORIDE, POLYQUATERNIUM-73, POLYQUATERNIUM-7, COCOS NUCIFERA (COCONUT) OIL^, OLEA EUROPAEA (OLIVE) FRUIT OIL.^, SIMMONDSIA CHINENSIS (JOJOBA) OIL^, HYDROLYZED KERATIN^, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLYCOL DISTEARATE, TOCOPHERYL ACETATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PANTHENOL, TRIETHANOLAMINE, TETRA SODIUM EDTA, RETINYL PALMITATE, BENZYL SALICYLATE, CITRONELLOL, LIMONENE, LINALOOL. ^ PLANT BASED INGREDIENTS. †TREATMENT IN COSMETIC DOMAIN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "behentrimonium methosulfate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "polyquaternium-7",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "citronellol",
+      "limonene"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "citrus aurantium bergamia fruit oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -411771,15 +412201,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Rosemary + Biotin",
   "featureLine": "Oil · ₹276/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sesamum indicum seed oil high on the INCI list (limited evidence); rosmarinus officinalis leaf oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.7,
+   "skin": 7.2,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -411797,11 +412230,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/spanish-rosemary-biotin-hair-growth-oil",
+   "inciMatchedName": "Spanish Rosemary Anti-Hairfall Oil with Biotin & Triple-Oil Nourishment (name match 96%)",
+   "inciList": "Ingredient Name, Sesamum Indicum (Sesame) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Prunus Amygdalus Dulcis (Almond) Oil, Argania Spinosa Kernel (Argan) Oil, Cocos Nucifera (Coconut) Oil, Biotin, Tocopheryl Acetate, Perfume",
+   "evidenceActives": "sesamum indicum seed oil (#2 on list, limited evidence); rosmarinus officinalis leaf oil (#3 on list, moderate evidence); prunus amygdalus dulcis oil (#4 on list, limited evidence); argania spinosa kernel oil (#5 on list, limited evidence); cocos nucifera oil (#6 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -411823,7 +412258,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -411831,27 +412267,87 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/spanish-rosemary-biotin-hair-growth-oil",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Spanish Rosemary Anti-Hairfall Oil with Biotin & Triple-Oil Nourishment",
+   "inciMatchScore": 0.96,
+   "inciText": "Ingredient Name, Sesamum Indicum (Sesame) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Prunus Amygdalus Dulcis (Almond) Oil, Argania Spinosa Kernel (Argan) Oil, Cocos Nucifera (Coconut) Oil, Biotin, Tocopheryl Acetate, Perfume",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "sesamum indicum seed oil",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",

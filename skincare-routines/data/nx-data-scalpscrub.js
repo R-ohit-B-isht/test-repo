@@ -4226,16 +4226,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + AHA + PHA",
   "featureLine": "Scalp scrub · ₹699/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (limited evidence); salicylic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil, pogostemon cablin oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 1.6
   },
   "fullSpec": {
@@ -4253,11 +4255,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thriveco.in/products/aha-bha-pha-exfoliating-scalp-scrub-100ml",
+   "inciMatchedName": "AHA BHA PHA Exfoliating Scalp Scrub, 100ml (name match 100%)",
+   "inciList": "Aqua, Propanediol, Glycolic Acid, Cetearyl Alcohol, Glucono-Delta-Lactone, Caprylic/Capric Triglyceride, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Triethanolamine, Isoamyl Laurate, Salicylic Acid, Allantoin, Glycerine, Citrus aurantium dulcis (Orange) Peel Oil, Pogostemon cablin (Patchouli) Oil, Zingiber officinale (Ginger) Root Oil, Disodium EDTA",
+   "evidenceActives": "glycolic acid (#3 on list, limited evidence); salicylic acid (#11 on list, moderate evidence); glycerin (#13 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil, pogostemon cablin oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings"
   },
@@ -4292,7 +4296,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -4300,27 +4305,66 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thriveco.in/products/aha-bha-pha-exfoliating-scalp-scrub-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA BHA PHA Exfoliating Scalp Scrub, 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propanediol, Glycolic Acid, Cetearyl Alcohol, Glucono-Delta-Lactone, Caprylic/Capric Triglyceride, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Triethanolamine, Isoamyl Laurate, Salicylic Acid, Allantoin, Glycerine, Citrus aurantium dulcis (Orange) Peel Oil, Pogostemon cablin (Patchouli) Oil, Zingiber officinale (Ginger) Root Oil, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "citrus aurantium dulcis peel oil",
+      "pogostemon cablin oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

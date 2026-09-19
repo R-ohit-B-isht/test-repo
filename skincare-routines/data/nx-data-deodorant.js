@@ -10031,17 +10031,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Aerosol / body spray · ₹158/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -10059,13 +10058,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -10091,8 +10088,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -10100,70 +10096,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -35478,17 +35431,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹159/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, limonene",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -35506,13 +35458,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciMatchedName": "nivea fresh comfort deodorant spray 89042560030320213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl alcohol, citral, geraniol (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -35540,8 +35490,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -35549,68 +35498,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh comfort deodorant spray 89042560030320213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.79,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 14,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "limonene",
-      "benzyl alcohol",
-      "citral",
-      "geraniol"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -40021,16 +39929,15 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹424/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 2.8
   },
   "fullSpec": {
@@ -40048,13 +39955,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 90%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 3 ratings"
   },
@@ -40078,8 +39983,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -40087,70 +39991,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.9,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -58085,16 +57946,15 @@ const NXPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹3472/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 6.3
   },
   "fullSpec": {
@@ -58112,13 +57972,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (503 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 87%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 503 ratings"
   },
@@ -58143,8 +58001,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -58152,70 +58009,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.87,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -62626,16 +62440,15 @@ const NXPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹972/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 6.5
   },
   "fullSpec": {
@@ -62653,13 +62466,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (612 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 612 ratings"
   },
@@ -62683,8 +62494,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -62692,70 +62502,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -98161,17 +97928,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Roll-on · ₹524/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -98189,13 +97955,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 81%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -98226,8 +97990,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -98235,70 +97998,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.81,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -116292,17 +116012,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹158/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -116320,13 +116039,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -116353,8 +116070,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -116362,70 +116078,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -130421,17 +130094,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Rose + Strawberry",
   "featureLine": "Roll-on · ₹316/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Aravi official website (araviorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -130449,14 +130123,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Aravi official website (araviorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://araviorganic.com/products/under-arm-roll-on-with-5-aha-2-kojic-acid-1-mandelic-acid-50-ml",
+   "inciMatchedName": "Underarm Roll On With 5% AHA & 2% Kojic Acid For Pigmentation Reduction & Odour Control - 50ml (name match 91%)",
+   "inciList": "Aqua, Hyaluronic Acid, Sclerotium Gum, Niacinamide (Vitamin B3), Glycolic Acid, Kojic Acid(Used for skin brightening), Mandelic Acid(Derived from almonds), Salicylic Acid, Butylene Glycol, Sodium Lactate, Polysorbate 20, Triethano-lamine, Glycyrrhiza Glabra Extract(Licorice Extract), Arctostaphylos Uva Ursi Extract (Bearberry extract), Citrus Sinensis Extract (Orange Extract), Cucumis Sativus Extract (Cucumber Extract), and Phenoxy-ethanol",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Hivefy Lifestyle Pvt Ltd-106,Elita Square, Opp. Indian Petrol Pump,VIP Circle, Utran.Pincode-394101 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #8 on INCI; Dark spots — niacinamide #4 on INCI, kojic acid #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/q/x/50-brightening-underarm-roll-on-dark-underarms-pigmentation-original-imahmyx4cmzxjzyp.jpeg?q=90",
@@ -130484,7 +130161,11 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -130492,25 +130173,78 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Aravi official website (araviorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://araviorganic.com/products/under-arm-roll-on-with-5-aha-2-kojic-acid-1-mandelic-acid-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Underarm Roll On With 5% AHA & 2% Kojic Acid For Pigmentation Reduction & Odour Control - 50ml",
+   "inciMatchScore": 0.91,
+   "inciText": "Aqua, Hyaluronic Acid, Sclerotium Gum, Niacinamide (Vitamin B3), Glycolic Acid, Kojic Acid(Used for skin brightening), Mandelic Acid(Derived from almonds), Salicylic Acid, Butylene Glycol, Sodium Lactate, Polysorbate 20, Triethano-lamine, Glycyrrhiza Glabra Extract(Licorice Extract), Arctostaphylos Uva Ursi Extract (Bearberry extract), Citrus Sinensis Extract (Orange Extract), Cucumis Sativus Extract (Cucumber Extract), and Phenoxy-ethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "hyaluronic acid",
+    "niacinamide",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -157679,18 +157413,17 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹473/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 115 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 6.1
   },
   "fullSpec": {
@@ -157708,13 +157441,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.4/5 (115 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 87%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 115 ratings"
   },
@@ -157738,8 +157469,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -157747,70 +157477,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.87,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -157829,18 +157516,17 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹477/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 13 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 4.5
   },
   "fullSpec": {
@@ -157858,13 +157544,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (13 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 85%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 13 ratings"
   },
@@ -157889,8 +157573,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -157898,70 +157581,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.85,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -159146,16 +158786,15 @@ const NXPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹468/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 4.4
   },
   "fullSpec": {
@@ -159173,13 +158812,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (55 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 90%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 55 ratings"
   },
@@ -159203,8 +158840,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -159212,70 +158848,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.9,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -162312,16 +161905,15 @@ const NXPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹420/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 6.1
   },
   "fullSpec": {
@@ -162339,13 +161931,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (315 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 87%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 315 ratings"
   },
@@ -162370,8 +161960,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -162379,70 +161968,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.87,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -180573,17 +180119,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹159/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.4,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -180601,13 +180146,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciMatchedName": "nivea protect and care deodorant spray 89042560018540213 (name match 85%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, citronellol, geraniol, benzyl alcohol, alpha-isomethyl ionone, citral (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -180636,8 +180179,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -180645,63 +180187,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deodorant spray 89042560018540213",
-   "inciMatchScore": 0.85,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 12,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -182155,17 +181661,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Aerosol / body spray · ₹191/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.4,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -182183,13 +181688,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciMatchedName": "nivea protect and care deodorant spray 89042560018540213 (name match 80%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, citronellol, geraniol, benzyl alcohol, alpha-isomethyl ionone, citral (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -182215,8 +181718,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -182224,63 +181726,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deodorant spray 89042560018540213",
-   "inciMatchScore": 0.8,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 12,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -182650,17 +182116,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹190/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -182678,13 +182143,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -182713,8 +182176,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -182722,70 +182184,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -182909,17 +182328,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹190/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, limonene",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -182937,13 +182355,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciMatchedName": "nivea fresh comfort deodorant spray 89042560030320213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl alcohol, citral, geraniol (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -182971,8 +182387,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -182980,68 +182395,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh comfort deodorant spray 89042560030320213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.79,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 14,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "limonene",
-      "benzyl alcohol",
-      "citral",
-      "geraniol"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -183839,17 +183213,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Aerosol / body spray · ₹190/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.4,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -183867,13 +183240,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciMatchedName": "nivea protect and care deodorant spray 89042560018540213 (name match 85%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, citronellol, geraniol, benzyl alcohol, alpha-isomethyl ionone, citral (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -183899,8 +183270,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -183908,63 +183278,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deodorant spray 89042560018540213",
-   "inciMatchScore": 0.85,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 12,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -184087,17 +183421,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹174/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, limonene",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -184115,13 +183448,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciMatchedName": "nivea fresh comfort deodorant spray 89042560030320213 (name match 90%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl alcohol, citral, geraniol (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -184150,8 +183481,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -184159,68 +183489,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh comfort deodorant spray 89042560030320213",
-   "inciMatchScore": 0.9,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.79,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 14,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "limonene",
-      "benzyl alcohol",
-      "citral",
-      "geraniol"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189019,15 +188308,18 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹179/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aluminum chlorohydrate high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: geraniol, benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.5,
+   "skin": 7.5,
+   "trust": 8.5,
    "experience": 1.5
   },
   "fullSpec": {
@@ -189045,11 +188337,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.2/5 (10 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deodorant-spray-89042560017620213.html",
+   "inciMatchedName": "nivea pearl and beauty deodorant spray 89042560017620213 (name match 88%)",
+   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, Perfume, Hydrolyzed Pearl, Talc, Persea Gratissima Oil, Octyldodecanol, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Dimethiconol, Geraniol, Benzyl Alcohol",
+   "evidenceActives": "aluminum chlorohydrate (#5 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: geraniol, benzyl alcohol (−1)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "3.2★ from 10 ratings"
   },
@@ -189075,7 +188369,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:low",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189083,27 +188378,66 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deodorant-spray-89042560017620213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea pearl and beauty deodorant spray 89042560017620213",
+   "inciMatchScore": 0.88,
+   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, Perfume, Hydrolyzed Pearl, Talc, Persea Gratissima Oil, Octyldodecanol, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Dimethiconol, Geraniol, Benzyl Alcohol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.76,
+   "actives": [
+    {
+     "name": "aluminum chlorohydrate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "fdaAntiperspirant"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "geraniol",
+      "benzyl alcohol"
+     ],
+     "penalty": 1,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -190092,17 +189426,16 @@ const NXPRODUCTS = [
   "capacityLine": "600 ml (pack of 2)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹83/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, limonene",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -190120,13 +189453,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciMatchedName": "nivea fresh comfort deodorant spray 89042560030320213 (name match 87%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl alcohol, citral, geraniol (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -190155,8 +189486,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -190164,68 +189494,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-comfort-deodorant-spray-89042560030320213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh comfort deodorant spray 89042560030320213",
-   "inciMatchScore": 0.87,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Lactic Acid, Linalool, Limonene, Benzyl Alcohol, Citral, Geraniol",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.79,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 14,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "limonene",
-      "benzyl alcohol",
-      "citral",
-      "geraniol"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -191058,17 +190347,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Aerosol / body spray · ₹190/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -191086,13 +190374,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 90%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -191119,8 +190405,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -191128,70 +190413,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.9,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -192776,17 +192018,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹154/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -192804,13 +192045,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -192839,8 +192078,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -192848,70 +192086,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -195858,17 +195053,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Roll-on · ₹507/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -195886,13 +195080,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 81%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -195922,8 +195114,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -195931,70 +195122,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.81,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -197270,17 +196418,16 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹786/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -197298,13 +196445,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 80%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -197333,8 +196478,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -197342,70 +196486,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 0.8,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -224987,16 +224088,15 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹333/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -225014,13 +224114,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -225045,8 +224143,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -225054,70 +224151,27 @@ const NXPRODUCTS = [
    "derm": true,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -232102,15 +231156,17 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹370/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aluminum chlorohydrate high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.9,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -232128,11 +231184,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-anti-perspirant-deo-roll-on-40059002945790213.html",
+   "inciMatchedName": "nivea fresh natural anti perspirant deo roll on 40059002945790213 (name match 76%)",
+   "inciList": "Aqua, Aluminum Chlorohydrate, Isoceteth-20, Paraffinum Liquidum, Butylene Glycol, Glyceryl Isostearate, Perfume, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, PEG-150 Distearate, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid",
+   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -232152,7 +231210,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -232160,27 +231219,64 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-anti-perspirant-deo-roll-on-40059002945790213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea fresh natural anti perspirant deo roll on 40059002945790213",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Aluminum Chlorohydrate, Isoceteth-20, Paraffinum Liquidum, Butylene Glycol, Glyceryl Isostearate, Perfume, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, PEG-150 Distearate, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "aluminum chlorohydrate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "fdaAntiperspirant"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -245187,15 +244283,15 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Glycolic acid + Lactic acid + Green tea",
   "featureLine": "Roll-on · Aluminium-free · ₹586/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -245213,11 +244309,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-vibes-deodorant-deodorant-roll-on",
+   "inciMatchedName": "Vanilla Vibes Deodorant Roll On by BodyLovin' (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Propylene Glycol, Sodium Hydroxide, Fragrance, Glycolic Acid, Camellia Sinensis (Green Tea) Extract, Niacinamide, Octenidine HCl, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Ethylhexylglycerin, Xanthan Gum, Disodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -245249,7 +244347,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -245257,27 +244356,64 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-vibes-deodorant-deodorant-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vanilla Vibes Deodorant Roll On by BodyLovin'",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Propylene Glycol, Sodium Hydroxide, Fragrance, Glycolic Acid, Camellia Sinensis (Green Tea) Extract, Niacinamide, Octenidine HCl, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Ethylhexylglycerin, Xanthan Gum, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -296947,15 +296083,17 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Aloe vera",
   "featureLine": "Roll-on · Aluminium-free · ₹378/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bella Vita Organic official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -296973,13 +296111,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bella Vita Organic official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-women",
+   "inciMatchedName": "Underarm Roll On For Women - 50ml (name match 88%)",
+   "inciList": "Purified Water, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Lactic Acid, Sodium Lactate, Niacinamide, Polysorbate 20, Salicylic Acid, Saccharum Officinarum (Sugar Cane) Extract, Vaccinium Myrtillus (Bilberry) Extract, Acer Saccharum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Extract, Magnesium Aluminum Silicate, Vitamin E, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Fragrance",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #9 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GMKyIyOwL._SL1365_.jpg",
@@ -297007,7 +296148,10 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -297015,27 +296159,90 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bella Vita Organic official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-women",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Underarm Roll On For Women - 50ml",
+   "inciMatchScore": 0.88,
+   "inciText": "Purified Water, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Lactic Acid, Sodium Lactate, Niacinamide, Polysorbate 20, Salicylic Acid, Saccharum Officinarum (Sugar Cane) Extract, Vaccinium Myrtillus (Bilberry) Extract, Acer Saccharum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Extract, Magnesium Aluminum Silicate, Vitamin E, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Bella Vita Organic",
     "kind": "d2c",
@@ -308902,16 +308109,15 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹574/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -308929,13 +308135,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciMatchedName": "nivea men fresh active deodorant 89042560028200213 (name match 94%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol, citronellol, eugenol, alpha-isomethyl ionone, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -308954,8 +308158,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -308963,70 +308166,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-fresh-active-deodorant-89042560028200213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men fresh active deodorant 89042560028200213",
-   "inciMatchScore": 0.94,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "trace": true,
-     "src": "aha"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "geraniol",
-      "citronellol",
-      "eugenol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -309453,15 +308613,17 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Aloe vera",
   "featureLine": "Roll-on · Alcohol-free · ₹378/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (BELLAVITA official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -309479,13 +308641,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-women",
+   "inciMatchedName": "Underarm Roll On For Women - 50ml (name match 79%)",
+   "inciList": "Purified Water, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Lactic Acid, Sodium Lactate, Niacinamide, Polysorbate 20, Salicylic Acid, Saccharum Officinarum (Sugar Cane) Extract, Vaccinium Myrtillus (Bilberry) Extract, Acer Saccharum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Extract, Magnesium Aluminum Silicate, Vitamin E, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Fragrance",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #9 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vkiKk2yML._SL1500_.jpg",
@@ -309511,7 +308676,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -309519,27 +308687,90 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-women",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Underarm Roll On For Women - 50ml",
+   "inciMatchScore": 0.79,
+   "inciText": "Purified Water, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Lactic Acid, Sodium Lactate, Niacinamide, Polysorbate 20, Salicylic Acid, Saccharum Officinarum (Sugar Cane) Extract, Vaccinium Myrtillus (Bilberry) Extract, Acer Saccharum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Extract, Magnesium Aluminum Silicate, Vitamin E, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Bella Vita Organic",
     "kind": "d2c",

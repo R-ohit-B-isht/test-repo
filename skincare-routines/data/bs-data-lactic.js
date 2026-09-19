@@ -2673,6 +2673,183 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-p955bk",
+  "brand": "Deconstruct",
+  "model": "Exfoliating AHA BHA PHA Serum with Liposomal Technology",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + AHA + PHA",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), AHA, PHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-aha-bha-pha-serum-with-liposomal-technology",
+   "inciMatchedName": "Exfoliating AHA BHA PHA Serum with Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, Lactic Acid, Camellia Sinensis Leaf Extract, Sodium Hydroxide, Pentylene Glycol, Glycolic Acid, Tartaric Acid, Mandelic Acid, Glucono delta lactone, 1,3 Butylene Glycol, PEG-8, Salicylic Acid, Isostearamidopropyl Ethyldimonium Ethosulfate, Sodium Hydroxide, Isostearamidopropyl Dimethylamine, Isostearic Acid, Propylene Glycol, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mannitol, Phosphatidylcholine, Glycerin, Glycolic Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Ceramide NP, Xanthan Gum, Sodium Chloride, Phenoxyethanol & Ethylhexyl glycerin, Hydroxyethylcellulose, Lactococcus ferment lysate, Sodium Metabisulphite, Vaccinium Angustifolium Extract, Disodium EDTA, Melaleuca Alternifolia Leaf Extract",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); glycolic acid (#6 on list, strong evidence); mandelic acid (#8 on list, moderate evidence); salicylic acid (#12 on list, strong evidence); glycerin (#22 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/AHA_BHA_PHA.png?v=1784633433"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/exfoliating-aha-bha-pha-serum-with-liposomal-technology",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Exfoliating AHA BHA PHA Serum with Liposomal Technology",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:pha",
+   "claim:exfoliating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-aha-bha-pha-serum-with-liposomal-technology",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating AHA BHA PHA Serum with Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Lactic Acid, Camellia Sinensis Leaf Extract, Sodium Hydroxide, Pentylene Glycol, Glycolic Acid, Tartaric Acid, Mandelic Acid, Glucono delta lactone, 1,3 Butylene Glycol, PEG-8, Salicylic Acid, Isostearamidopropyl Ethyldimonium Ethosulfate, Sodium Hydroxide, Isostearamidopropyl Dimethylamine, Isostearic Acid, Propylene Glycol, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Mannitol, Phosphatidylcholine, Glycerin, Glycolic Acid, Decyl Glucoside, Cetyl Alcohol, Potassium Sorbate, Sodium Benzoate, Ceramide NP, Xanthan Gum, Sodium Chloride, Phenoxyethanol & Ethylhexyl glycerin, Hydroxyethylcellulose, Lactococcus ferment lysate, Sodium Metabisulphite, Vaccinium Angustifolium Extract, Disodium EDTA, Melaleuca Alternifolia Leaf Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-1qf7p6h",
   "brand": "The Derma Co",
   "model": "Pore Minimizing Face Serum with 4% Niacinamide, 5% PHA and p-REFINYL® - 30 ml",

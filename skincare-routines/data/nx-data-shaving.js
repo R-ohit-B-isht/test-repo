@@ -16719,19 +16719,17 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Aloe vera",
   "featureLine": "Shaving foam / gel · ₹250/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.6★ from 42 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 5.6,
-   "skin": 8,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 6.1
   },
   "fullSpec": {
@@ -16749,13 +16747,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (42 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciMatchedName": "nivea men sensitive shaving foam 40058085363750213 (name match 92%)",
-   "inciList": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
-   "evidenceActives": "glycerin (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 42 ratings"
   },
@@ -16778,8 +16774,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -16787,65 +16782,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men sensitive shaving foam 40058085363750213",
-   "inciMatchScore": 0.92,
-   "inciText": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 9,
-     "core": false,
-     "trace": false,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -17616,18 +17573,15 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Aloe vera",
   "featureLine": "Shaving foam / gel · ₹250/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 5.6,
-   "skin": 8,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 4.8
   },
   "fullSpec": {
@@ -17645,13 +17599,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (40 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciMatchedName": "nivea men sensitive shaving foam 40058085363750213 (name match 85%)",
-   "inciList": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
-   "evidenceActives": "glycerin (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 40 ratings"
   },
@@ -17675,8 +17627,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -17684,65 +17635,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men sensitive shaving foam 40058085363750213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 9,
-     "core": false,
-     "trace": false,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -17867,17 +17780,15 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "After-shave · ₹849/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 6.6,
-   "skin": 8.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 4.5
   },
   "fullSpec": {
@@ -17895,16 +17806,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (39 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciMatchedName": "nivea men protect and care deo roll on 40059003542730213 (name match 85%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
-   "evidenceActives": "glycerin (#7 on list, strong evidence); panthenol (#8 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 39 ratings",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "buyerEvidence": "4.1★ from 39 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/aftershave-lotion/a/u/a/100-men-protect-care-after-shave-100-ml-nivea-original-imah75hggrftnvfc.jpeg?q=90",
@@ -17931,9 +17839,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -17941,65 +17847,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men protect and care deo roll on 40059003542730213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 7,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -29263,17 +29131,15 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Shaving cream",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 6.6,
-   "skin": 8.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 1.8
   },
   "fullSpec": {
@@ -29291,16 +29157,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.5/5 (11 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciMatchedName": "nivea men protect and care deo roll on 40059003542730213 (name match 80%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
-   "evidenceActives": "glycerin (#7 on list, strong evidence); panthenol (#8 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.5★ from 11 ratings",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "buyerEvidence": "3.5★ from 11 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shaving-cream/r/w/e/100-men-protect-care-shaving-cream-made-in-germany-nivea-original-imah2zagfuzeprmd.jpeg?q=90",
@@ -29319,9 +29182,7 @@ const NXPRODUCTS = [
    "aud:men",
    "rating:3.5",
    "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -29329,65 +29190,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men protect and care deo roll on 40059003542730213",
-   "inciMatchScore": 0.8,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 7,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -33077,17 +32900,15 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Shaving cream",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 6.6,
-   "skin": 8.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 1.5
   },
   "fullSpec": {
@@ -33105,16 +32926,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.5/5 (6 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciMatchedName": "nivea men protect and care deo roll on 40059003542730213 (name match 85%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
-   "evidenceActives": "glycerin (#7 on list, strong evidence); panthenol (#8 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.5★ from 6 ratings",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "buyerEvidence": "3.5★ from 6 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shaving-cream/2/9/f/100-men-protect-care-shaving-cream-nivea-original-imah3haymkq8b63m.jpeg?q=90",
@@ -33133,9 +32951,7 @@ const NXPRODUCTS = [
    "aud:men",
    "rating:3.5",
    "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -33143,65 +32959,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men protect and care deo roll on 40059003542730213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 7,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -49438,19 +49216,16 @@ const NXPRODUCTS = [
   "capacityLine": "400 g (pack of 2)",
   "materialLine": "Charcoal + Lemon",
   "featureLine": "Shaving foam / gel · ₹250/100g",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.6,
-   "skin": 8,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -49468,13 +49243,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciMatchedName": "nivea men sensitive shaving foam 40058085363750213 (name match 88%)",
-   "inciList": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
-   "evidenceActives": "glycerin (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -49502,8 +49275,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -49511,65 +49283,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men sensitive shaving foam 40058085363750213",
-   "inciMatchScore": 0.88,
-   "inciText": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 9,
-     "core": false,
-     "trace": false,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -67300,18 +67034,16 @@ const NXPRODUCTS = [
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Tea tree + Aloe vera + Menthol",
   "featureLine": "Shaving cream · ₹637/100g",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.6,
-   "skin": 8.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -67329,16 +67061,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciMatchedName": "nivea men protect and care deo roll on 40059003542730213 (name match 85%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
-   "evidenceActives": "glycerin (#7 on list, strong evidence); panthenol (#8 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shaving-cream/s/i/m/100-men-protect-and-care-shaving-cream-pack-of-2-nivea-original-imah3hagppzej5et.jpeg?q=90",
@@ -67365,9 +67094,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -67375,65 +67102,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-protect-and-care-deo-roll-on-40059003542730213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men protect and care deo roll on 40059003542730213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Glycerin, Panthenol, Octyldodecanol, Persea Gratissima Oil, Trisodium EDTA\"}]]}] 88:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 7,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -77446,18 +77135,15 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Shaving foam / gel · ₹295/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 5.6,
-   "skin": 8,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -77475,13 +77161,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciMatchedName": "nivea men sensitive shaving foam 40058085363750213 (name match 85%)",
-   "inciList": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
-   "evidenceActives": "glycerin (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool (−0.5)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -77500,8 +77184,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -77509,65 +77192,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men sensitive shaving foam 40058085363750213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 9,
-     "core": false,
-     "trace": false,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -98194,18 +97839,15 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Shaving cream · ₹470/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "ingredients": 5.6,
-   "skin": 8,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -98223,13 +97865,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciMatchedName": "nivea men sensitive shaving foam 40058085363750213 (name match 88%)",
-   "inciList": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
-   "evidenceActives": "glycerin (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "3.8★ from 0 ratings"
   },
@@ -98252,8 +97892,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -98261,65 +97900,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-sensitive-shaving-foam-40058085363750213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea men sensitive shaving foam 40058085363750213",
-   "inciMatchScore": 0.88,
-   "inciText": "Aqua, Stearic Acid, Triethanolamine, Laureth-23, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Hydroxide, Butane, Propane, Piroctone Olamine, Linalool, Perfume, Isobutane",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 9,
-     "core": false,
-     "trace": false,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",

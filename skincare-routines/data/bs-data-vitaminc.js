@@ -20609,6 +20609,671 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-1ynu6wo",
+  "brand": "Deconstruct",
+  "model": "Bright + Glow 15% Vitamin C Serum with Liposomal Technology",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ascorbic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology",
+   "inciMatchedName": "Deconstruct Bright + Glow 15% Vitamin C Serum with Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, Phytic Acid, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ascorbic acid (#9 on list, strong evidence); ferulic acid (#15 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #9 on INCI; Irritation — centella asiatica extract #13 on INCI, panthenol #16 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/VITAMIN_C_SERUM_2af5fac5-8655-43d8-861e-7477835496f3.webp?v=1784634617"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Bright + Glow 15% Vitamin C Serum with Liposomal Technology",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Deconstruct Bright + Glow 15% Vitamin C Serum with Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, Phytic Acid, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1giftmv",
+  "brand": "Deconstruct",
+  "model": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested",
+  "price": 262,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ascorbic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciMatchedName": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested (name match 100%)",
+   "inciList": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ascorbic acid (#8 on list, strong evidence); ferulic acid (#14 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Irritation — centella asiatica extract #12 on INCI, panthenol #15 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/VITAMIN_C.webp?v=1780471627"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-nrdxrt",
+  "brand": "Deconstruct",
+  "model": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+  "price": 337,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciMatchedName": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#9 on list, moderate evidence); tocopherol (#31 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Sunscreen_3.png?v=1781265058"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1vh7ysh",
+  "brand": "Deconstruct",
+  "model": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycyrrhiza glabra root extract high on the INCI list (moderate evidence); 3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: menthol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+   "inciMatchedName": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Decyl Glucoside, Hydroxypropyl Starch Phosphate, Glyceryl stearate & PEG 100 Stearate, Stearic Acid, Glycol Distearate, Niacinamide, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Glycyrrhiza Glabra (Licorice) Root Extract, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum, 3-O- Ethyl Ascorbic Acid, Sodium Gluconate, Titanium Dioxide, Menthol, Triethanolamine, Citric Acid",
+   "evidenceActives": "glycyrrhiza glabra root extract (#14 on list, moderate evidence); 3-o-ethyl ascorbic acid (#18 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — product type, niacinamide #10 on INCI, glycyrrhiza glabra root extract #14 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-2.webp?v=1779362558"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Decyl Glucoside, Hydroxypropyl Starch Phosphate, Glyceryl stearate & PEG 100 Stearate, Stearic Acid, Glycol Distearate, Niacinamide, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Glycyrrhiza Glabra (Licorice) Root Extract, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum, 3-O- Ethyl Ascorbic Acid, Sodium Gluconate, Titanium Dioxide, Menthol, Triethanolamine, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-a6d6c7",
   "brand": "The Derma Co",
   "model": "10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid - 30ml",

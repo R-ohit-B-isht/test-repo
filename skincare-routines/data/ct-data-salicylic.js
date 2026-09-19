@@ -4268,17 +4268,17 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid (BHA) + centella/cica",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹105/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 3,495 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 8.2
   },
   "fullSpec": {
@@ -4295,14 +4295,16 @@ const CTPRODUCTS = [
    "skinType": "Oily Skin, Normal Skin, Sensitive Skin",
    "rating": "4.4/5 (3,495 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/salicylic-shower-gel",
+   "inciMatchedName": "Cica + 1% Salicylic Acid Exfoliating Shower Gel (name match 83%)",
+   "inciList": "1% Salicylic Acid, Cica, Niacinamide, Green Tea Aqua, Potassium Laureth Phosphate, Sodium Cocoyl Glycinate, Sodium C14-16 Olefin Sulfonate, Polyacrylate - 33, Disodium Cocoamphoacetate, Cocamidopropyl Betaine, IFRA Certified Allergen Free Fragrance, Salicylic Acid, Niacinamide, Centella Asiatica (Cica) Extract, Camellia Sinensis (Green Tea) Leaf Extract, Citric Acid, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Glycerine, PEG-7 Glyceryl Cocoate, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#1 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.4★ from 3,495 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #1 on INCI, niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — centella asiatica extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/t/m/u/250-cica-salicylic-exfoliating-shower-gel-reduces-body-acne-original-imahfcsf77hyhqyg.jpeg?q=90",
@@ -4334,7 +4336,11 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -4343,25 +4349,77 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/salicylic-shower-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cica + 1% Salicylic Acid Exfoliating Shower Gel",
+   "inciMatchScore": 0.83,
+   "inciText": "1% Salicylic Acid, Cica, Niacinamide, Green Tea Aqua, Potassium Laureth Phosphate, Sodium Cocoyl Glycinate, Sodium C14-16 Olefin Sulfonate, Polyacrylate - 33, Disodium Cocoamphoacetate, Cocamidopropyl Betaine, IFRA Certified Allergen Free Fragrance, Salicylic Acid, Niacinamide, Centella Asiatica (Cica) Extract, Camellia Sinensis (Green Tea) Leaf Extract, Citric Acid, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Glycerine, PEG-7 Glyceryl Cocoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -78867,15 +78925,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
   "featureLine": "Wash / cleanser · Sulfate/SLS-free · ₹370/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -78892,14 +78951,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciMatchedName": "Oil & Acne Control Face Wash (name match 100%)",
+   "inciList": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
+   "evidenceActives": "salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614n2LSkc1L._AC_UL320_.jpg"
@@ -78933,7 +78994,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -78942,25 +79005,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil & Acne Control Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -82773,15 +82890,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹266/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -82798,14 +82916,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-control-daily-exfoliating-cleanser-gently-exfoliates-makes-skin-oil-free-100-ml",
+   "inciMatchedName": "Oil Control & Exfoliating Cleanser with 2% AHA BHA - 100 ml (name match 100%)",
+   "inciList": "Aqua (Water), Decyl Glucoside, Capryl Glucoside, Glycerin, Niacinamide, Salicylic Acid, Glycolic Acid, Lactic Acid, Trehalose, Xylitol, Glucose, Anhydroxylitol, Phonex Dactylifera (Date) Extract, Saccharide Isomerate, Xanthan Gum, Sodium Hydroxide, Citric Acid, Sodium Citrate, Capryloyl Glycine, Undecylenoyl Glycine, Benzoic Acid, Phenoxyethanol",
+   "evidenceActives": "salicylic acid (#6 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #5 on INCI, salicylic acid #6 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41VBvX9N8lL._AC_UL320_.jpg"
@@ -82828,7 +82948,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -82837,25 +82960,77 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-control-daily-exfoliating-cleanser-gently-exfoliates-makes-skin-oil-free-100-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil Control & Exfoliating Cleanser with 2% AHA BHA - 100 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Decyl Glucoside, Capryl Glucoside, Glycerin, Niacinamide, Salicylic Acid, Glycolic Acid, Lactic Acid, Trehalose, Xylitol, Glucose, Anhydroxylitol, Phonex Dactylifera (Date) Extract, Saccharide Isomerate, Xanthan Gum, Sodium Hydroxide, Citric Acid, Sodium Citrate, Capryloyl Glycine, Undecylenoyl Glycine, Benzoic Acid, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -83619,15 +83794,15 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹296/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Hard abrasive particles (face): polyethylene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.8,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -83644,14 +83819,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/aha-bha-foaming-face-wash",
+   "inciMatchedName": "3% AHA+BHA Foaming Daily Face Wash 100ml (name match 100%)",
+   "inciList": "Petrolatum, Hydrogenated Polyisobutene, PEG-40 Hydrogenated Castor Oil, Ethylhexyl Methoxycinnamate, Hydrogenated Vegetable Oil, C12-15 Alkyl Benzoate, Cera Microcristallina,Ozokerite Wax, Triisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Castor Seed Oil, Paraffin Wax,Diethylamino Hydroxybenzoyl Hexyl Benzoate, Shea Butter, Propylene Glycol, Almond Oil, Stearyl.Stearate, Stearic Acid, Polyethylene, Caprylic/Capric Triglyceride, Synthetic Wax, Propylene Glycol Dibenzoate, Phenyl Trimethicone, Tocophery Acetate, Kojic Acid Dipalmitate, Alpha Arbutin,.Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Jojoba Seed Oil, Acetyl Hexapeptide-8, Copper Tripeptide-1,Palmitoyl Pentapeptide-4, Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-1, Sodium",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #25 on INCI; Dark spots — kojic dipalmitate #23 on INCI, alpha-arbutin #24 on INCI, niacinamide #25 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZapXl5b2L._AC_UL320_.jpg"
@@ -83672,7 +83849,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -83681,27 +83861,146 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/aha-bha-foaming-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "3% AHA+BHA Foaming Daily Face Wash 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Petrolatum, Hydrogenated Polyisobutene, PEG-40 Hydrogenated Castor Oil, Ethylhexyl Methoxycinnamate, Hydrogenated Vegetable Oil, C12-15 Alkyl Benzoate, Cera Microcristallina,Ozokerite Wax, Triisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Castor Seed Oil, Paraffin Wax,Diethylamino Hydroxybenzoyl Hexyl Benzoate, Shea Butter, Propylene Glycol, Almond Oil, Stearyl.Stearate, Stearic Acid, Polyethylene, Caprylic/Capric Triglyceride, Synthetic Wax, Propylene Glycol Dibenzoate, Phenyl Trimethicone, Tocophery Acetate, Kojic Acid Dipalmitate, Alpha Arbutin,.Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Jojoba Seed Oil, Acetyl Hexapeptide-8, Copper Tripeptide-1,Palmitoyl Pentapeptide-4, Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-1, Sodium",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "petrolatum",
+    "shea butter",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "polyethylene"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -87131,16 +87430,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Wash / cleanser · ₹239/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -87157,14 +87458,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "1.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/salicylic-acid-2-face-wash-ofr",
+   "inciMatchedName": "Salicylic Acid 2% Face Wash for Acne & Oil Control 100ml (name match 100%)",
+   "inciList": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Lauryl Sarcosinate, Cocamide DEA, Propylene Glycol, Triethanolamine, Salicylic Acid (2%), Phenoxyethanol, Ethylhexylglycerin, Panthenol, Tocopheryl Acetate (Vitamin E), Camellia Sinensis Extract, Aloe Barbadensis Extract, Zinc PCA, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#9 on list, strong evidence); zinc pca (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "1.8★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71SjTuXtdML._AC_UL320_.jpg"
@@ -87184,7 +87487,9 @@ const CTPRODUCTS = [
    "rating:low",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -87193,25 +87498,60 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/salicylic-acid-2-face-wash-ofr",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid 2% Face Wash for Acne & Oil Control 100ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Lauryl Sarcosinate, Cocamide DEA, Propylene Glycol, Triethanolamine, Salicylic Acid (2%), Phenoxyethanol, Ethylhexylglycerin, Panthenol, Tocopheryl Acetate (Vitamin E), Camellia Sinensis Extract, Aloe Barbadensis Extract, Zinc PCA, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -88061,15 +88401,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
   "featureLine": "Wash / cleanser · ₹188/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -88086,14 +88427,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciMatchedName": "Oil & Acne Control Face Wash (name match 100%)",
+   "inciList": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
+   "evidenceActives": "salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WaM4wcStL._AC_UL320_.jpg"
@@ -88118,7 +88461,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -88127,25 +88472,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/true-clarity-oil-acne-control-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil & Acne Control Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Hydroxysultaine, Cocamidopropyl Betaine, Acrylates Copolymer, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Propanediol, Glycerin, Salicylic Acid, Betaine, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Niacinamide, Castoryl Maleate, Centella Asiatica extract, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Sodium Hydroxide, Allergen Free Fragrance, CI 14720",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -88166,15 +88565,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + green tea + tea tree",
   "featureLine": "Wash / cleanser · ₹287/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); melaleuca alternifolia leaf oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: tea tree oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.8,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -88191,14 +88592,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/salicylic-acid-face-wash",
+   "inciMatchedName": "2% Salicylic Acid Face Wash (name match 100%)",
+   "inciList": "Aqua,Coco Glucoside,Acrylate Cross polymer,Sodium Cocoyl Glutamate, Glycerine, CAPB, Sodium Lactate, Aloe Vera Extract, Propylene Glycol, Salicylic Acid, Green Tea Extract, Lactic Acid, Glycolic Acid ,Hydrogenated Castor Oil,Tea Tree Oil, Chamomile Extract, Xanthum Gum, Ethylhexyl Glycerine",
+   "evidenceActives": "salicylic acid (#10 on list, strong evidence); melaleuca alternifolia leaf oil (#15 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #10 on INCI, melaleuca alternifolia leaf oil #15 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/415Yisx8HpL._AC_UL320_.jpg"
@@ -88223,7 +88626,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -88232,27 +88637,88 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/salicylic-acid-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua,Coco Glucoside,Acrylate Cross polymer,Sodium Cocoyl Glutamate, Glycerine, CAPB, Sodium Lactate, Aloe Vera Extract, Propylene Glycol, Salicylic Acid, Green Tea Extract, Lactic Acid, Glycolic Acid ,Hydrogenated Castor Oil,Tea Tree Oil, Chamomile Extract, Xanthum Gum, Ethylhexyl Glycerine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "WishCare",
     "kind": "d2c",
@@ -100221,15 +100687,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹1397/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.2,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -100246,14 +100713,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/30-aha-2-bha-peeling-solution",
+   "inciMatchedName": "30% AHA + 2% BHA Peeling Solution - 30ml (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Lactic Acid, Mandelic Acid, Aloe Barbadensis Leaf Juice, Propylene Glycol, Vaccinium Myrtillus (Bilberry) Extract, Beta Vulgaris (Beet) Root Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, Calendula Officinalis Flower (Calendula) Extract, D-Panthenol, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Cucurbita Pepo (Pumpkin) Seed Extract, Xanthan Gum, Phenoxyethanol, Chlorphenesin, Sodium Benzoate & Disodium EDTA",
+   "evidenceActives": "mandelic acid (#4 on list, moderate evidence); salicylic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #10 on INCI; Irritation — aloe barbadensis leaf juice #5 on INCI, panthenol #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512ncBjMA1L._AC_UL320_.jpg"
@@ -100275,7 +100744,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -100284,25 +100756,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/30-aha-2-bha-peeling-solution",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "30% AHA + 2% BHA Peeling Solution - 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Lactic Acid, Mandelic Acid, Aloe Barbadensis Leaf Juice, Propylene Glycol, Vaccinium Myrtillus (Bilberry) Extract, Beta Vulgaris (Beet) Root Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, Calendula Officinalis Flower (Calendula) Extract, D-Panthenol, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Cucurbita Pepo (Pumpkin) Seed Extract, Xanthan Gum, Phenoxyethanol, Chlorphenesin, Sodium Benzoate & Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -100532,15 +101072,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹1463/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -100557,14 +101098,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/15-aha-1-bha-beginner-face-peeling-solution",
+   "inciMatchedName": "15% AHA+1% BHA Beginner Face Peeling Solution - 30ml (name match 80%)",
+   "inciList": "Aqua, Aloe Barbadensis Leaf Juice, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Cucurbita Pepo (Pumpkin) Seed Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, D-Panthenol, Calendula Officinalis Flower (Calendula) Extract, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Phenoxyethenol, Chlorphenesin, Glycerin, Sodium Benzoate, Disodium EDTA",
+   "evidenceActives": "mandelic acid (#5 on list, moderate evidence); salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #9 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zOJ1foQPL._AC_UL320_.jpg"
@@ -100583,7 +101126,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -100592,25 +101138,102 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/15-aha-1-bha-beginner-face-peeling-solution",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "15% AHA+1% BHA Beginner Face Peeling Solution - 30ml",
+   "inciMatchScore": 0.8,
+   "inciText": "Aqua, Aloe Barbadensis Leaf Juice, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Cucurbita Pepo (Pumpkin) Seed Extract, Sodium Hydroxide, Salicylic Acid, Chamomilla Recutita (Chamomile) Extract, D-Panthenol, Calendula Officinalis Flower (Calendula) Extract, Sodium Hyaluronate, Camellia Sinensis Leaf (Green Tea) Extract, Phenoxyethenol, Chlorphenesin, Glycerin, Sodium Benzoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -111824,15 +112447,16 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Serum · ₹1980/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 1
   },
   "fullSpec": {
@@ -111849,14 +112473,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/salicylic-glycolic-acid-anti-acne-serum",
+   "inciMatchedName": "2% Salicylic Acid Anti-Acne Face Serum (name match 100%)",
+   "inciList": "Purified Water, Butylene Glycol, Phellodendron Amurense Bark Extract, Glycolic Acid, PEG-60 Hydrogenated Castor Oil, Salix Alba Bark Extract, Rehmannia Chinensis Root Extract, Melia Azadirachta Leaf Extract, Scutellaria Baicalensis Root Extract, Houttuynia Cordata Extract, Glycine Soja (Soybean) Seed Extract, Lactobacillus/Pear Juice Ferment Filtrate, Glyceryl caprylate, Ethylhexylglycerin -CYMEN-5-OL, Salicylic Acid, Propylene Glycol, Propanediol, Betaine, Nelumbo Nucifera (White Lotus) Flower Extract, Torreya Nucifera (Yugdugu) Extract, Olea Europaea (Olive) Leaf Extract, Sodium Lactate, Sodium Gluconate, Hydroxyethyl Urea, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Sodium Benzoate, Potassium Sorbate, Saccharide Isomerate, Citric Acid, Sodium Citrate, Panthenol, Allantoin",
+   "evidenceActives": "salicylic acid (#15 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jv25JcIAL._AC_UL320_.jpg"
@@ -111877,7 +112503,9 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -111886,25 +112514,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/salicylic-glycolic-acid-anti-acne-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Anti-Acne Face Serum",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Butylene Glycol, Phellodendron Amurense Bark Extract, Glycolic Acid, PEG-60 Hydrogenated Castor Oil, Salix Alba Bark Extract, Rehmannia Chinensis Root Extract, Melia Azadirachta Leaf Extract, Scutellaria Baicalensis Root Extract, Houttuynia Cordata Extract, Glycine Soja (Soybean) Seed Extract, Lactobacillus/Pear Juice Ferment Filtrate, Glyceryl caprylate, Ethylhexylglycerin -CYMEN-5-OL, Salicylic Acid, Propylene Glycol, Propanediol, Betaine, Nelumbo Nucifera (White Lotus) Flower Extract, Torreya Nucifera (Yugdugu) Extract, Olea Europaea (Olive) Leaf Extract, Sodium Lactate, Sodium Gluconate, Hydroxyethyl Urea, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Sodium Benzoate, Potassium Sorbate, Saccharide Isomerate, Citric Acid, Sodium Citrate, Panthenol, Allantoin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -112495,15 +113177,16 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹2060/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -112520,14 +113203,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/2-salicylic-acid-serum-10ml",
+   "inciMatchedName": "2% Salicylic Acid Serum for Active Acne - 10ml (name match 100%)",
+   "inciList": "Aqua, Salix Alba (Willow) Bark Extract, Salicylic Acid, Ethoxydiglycol, Glycerin, Hamamelis Virginiana (Witch Hazel) Extract, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Hydroxyethylcellulose, Sodium Benzoate, Potassium Sorbate, Sodium Metabisulfite, Sodium Hydroxide & Disodium EDTA",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51W1McnF86L._AC_UL320_.jpg"
@@ -112548,7 +113233,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -112557,25 +113244,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/2-salicylic-acid-serum-10ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Serum for Active Acne - 10ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Salix Alba (Willow) Bark Extract, Salicylic Acid, Ethoxydiglycol, Glycerin, Hamamelis Virginiana (Witch Hazel) Extract, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Hydroxyethylcellulose, Sodium Benzoate, Potassium Sorbate, Sodium Metabisulfite, Sodium Hydroxide & Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -114766,15 +115480,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + salicylic acid (BHA)",
   "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -114791,14 +115506,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciMatchedName": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology (name match 100%)",
+   "inciList": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
+   "evidenceActives": "salicylic acid (#6 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #6 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41YhY5OeJvL._AC_UL320_.jpg"
@@ -114821,7 +115538,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -114830,25 +115550,71 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/pore-control-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil Control Serum with 3% Niacinamide & 2% Salicylic Acid With Liposomal Technology",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Phospholipids, PEG-20, Caprylic/Capric Glycerides, Glycerol, Salicylic Acid, Niacinamide, Camellia Sinensis Leaf Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Propylene Glycol, Triethanolamine, Glycerin (and) Piper Nigrum (Pepper) Seed Extract (and) Sodium Benzoate (and) Potassium Sorbate, Phenoxyethanol (and) Ethylhexylglycerin, Pentylene Glycol, Capryloyl Glycine, Cinnamomum Zeylanicum Bark Extract, Sodium Sarcosinate, Betaine, Threonine, Arginine, Proline, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Sodium Hyaluronate, Sophorolipid, Sodium Gluconate, Emblica Officinalis Fruit Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -116245,16 +117011,18 @@ const CTPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Serum · ₹1988/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Avimee official website (avimeeherbal.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.2,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -116271,14 +117039,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Avimee official website (avimeeherbal.com) — product page › Ingredients",
+   "inciSourceUrl": "https://avimeeherbal.com/products/salicylic-acid-face-serum",
+   "inciMatchedName": "Salicylic Acid Face Serum (name match 100%)",
+   "inciList": "Salix alba extract, Filipendula ulmaria extract, Betula lenta extract, Gaultheria procumbens extract, Spirea extract, Watermelon extract, Cucurbita pepo extract, Saliclic acid, Aloevera juice, Hyaluronic acid, Hydroxyethyl cellulose, Rose water, Allantoin, Glycolic acid, 2-Phenoxyethanol, Ethylhexyl glycerin, Polysorbate 80, PEG-40 hydrogenated castor oil, Glycerin, 1,3- Propanediol, Sodium gluconate, Fragrance, D.M. water",
+   "evidenceActives": "salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71bfpIRHoGL._AC_UL320_.jpg"
@@ -116302,7 +117072,8 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -116311,27 +117082,81 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Avimee official website (avimeeherbal.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://avimeeherbal.com/products/salicylic-acid-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Face Serum",
+   "inciMatchScore": 1,
+   "inciText": "Salix alba extract, Filipendula ulmaria extract, Betula lenta extract, Gaultheria procumbens extract, Spirea extract, Watermelon extract, Cucurbita pepo extract, Saliclic acid, Aloevera juice, Hyaluronic acid, Hydroxyethyl cellulose, Rose water, Allantoin, Glycolic acid, 2-Phenoxyethanol, Ethylhexyl glycerin, Polysorbate 80, PEG-40 hydrogenated castor oil, Glycerin, 1,3- Propanediol, Sodium gluconate, Fragrance, D.M. water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "hyaluronic acid",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -122735,15 +123560,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + green tea + aloe vera",
   "featureLine": "Serum · ₹1497/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); azelaic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -122760,14 +123587,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/jovees-herbal-2-salicylic-acid-acne-control-serum-with-1-azelaic-acid-aloe-vera-and-green-tea-for-active-acne-oil-balancing-pore-tightening-for-all-skin-types-30-ml-30-ml",
+   "inciMatchedName": "2% Salicylic Acid Acne Control Serum With 1% Azelaic Acid (name match 100%)",
+   "inciList": "Glycerin, Aloe Vera extract, Witch hazel extract, Salicylic acid, Green tea extract, Azelaic acid, Potassium azeloyl diglycinate, Phenoxyethanol & Ethyl hexyl glycerin, Xanthan gum, Perfume, Sodium gluconate, Purified water",
+   "evidenceActives": "salicylic acid (#4 on list, strong evidence); azelaic acid (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI, azelaic acid #6 on INCI; Dark spots — azelaic acid #6 on INCI; Irritation — aloe barbadensis leaf extract #2 on INCI, azelaic acid #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614eCfzq-GL._AC_UL320_.jpg"
@@ -122791,7 +123620,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -122800,27 +123632,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/jovees-herbal-2-salicylic-acid-acne-control-serum-with-1-azelaic-acid-aloe-vera-and-green-tea-for-active-acne-oil-balancing-pore-tightening-for-all-skin-types-30-ml-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Acne Control Serum With 1% Azelaic Acid",
+   "inciMatchScore": 1,
+   "inciText": "Glycerin, Aloe Vera extract, Witch hazel extract, Salicylic acid, Green tea extract, Azelaic acid, Potassium azeloyl diglycinate, Phenoxyethanol & Ethyl hexyl glycerin, Xanthan gum, Perfume, Sodium gluconate, Purified water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Jovees Herbal Care India",
     "kind": "d2c",
@@ -125319,17 +126196,19 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + witch hazel",
   "featureLine": "Serum · ₹1167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (SESA official website (sesacare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.5,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -125346,14 +126225,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SESA official website (sesacare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://sesacare.com/products/sesa-vedscience-oil-control-serum-30-ml",
+   "inciMatchedName": "Vedscience Oil Control Serum - 30 ml (name match 90%)",
+   "inciList": "Aqua, Niacinamide, Salicylic Acid, Propanediol, Triethanolamine, Hamamelis Virginiana (Witch Hazel) Water, Ocimum Sanctum (Holy Basil) Leaf Extract, Rubia Cordifolia (Manjishtha) Root Extract, Curcuma Longa (Turmeric) Root Extract, Glycerine, Azadirachta Indica (Neem) Extract, Aloe Barbadensis (Aloe Vera) Leaf Pulp (and) Aqua, Betaine, Benzyl Alcohol (and) Dehydroacetic Acid, Ammonium Acryloyldimethyltaurate/Carboxyethyl Acrylate Crosspolymer, Saccharide Isomerate (and) Aqua (and) Citric Acid (and) Sodium Citrate, Sodium Hyaluronate, Sodium Gluconate, Zinc PCA, Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence); zinc pca (#24 on list, moderate evidence); melaleuca alternifolia leaf oil (#25 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #3 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vUh0ybRnL._AC_UL320_.jpg"
@@ -125376,7 +126257,9 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -125385,27 +126268,116 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SESA official website (sesacare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://sesacare.com/products/sesa-vedscience-oil-control-serum-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vedscience Oil Control Serum - 30 ml",
+   "inciMatchScore": 0.9,
+   "inciText": "Aqua, Niacinamide, Salicylic Acid, Propanediol, Triethanolamine, Hamamelis Virginiana (Witch Hazel) Water, Ocimum Sanctum (Holy Basil) Leaf Extract, Rubia Cordifolia (Manjishtha) Root Extract, Curcuma Longa (Turmeric) Root Extract, Glycerine, Azadirachta Indica (Neem) Extract, Aloe Barbadensis (Aloe Vera) Leaf Pulp (and) Aqua, Betaine, Benzyl Alcohol (and) Dehydroacetic Acid, Ammonium Acryloyldimethyltaurate/Carboxyethyl Acrylate Crosspolymer, Saccharide Isomerate (and) Aqua (and) Citric Acid (and) Sodium Citrate, Sodium Hyaluronate, Sodium Gluconate, Zinc PCA, Melaleuca Alternifolia (Tea Tree) Leaf Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -129331,16 +130303,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Wash / cleanser · ₹272/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -129357,14 +130331,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/salicylic-acid-2-face-wash-50ml-po4",
+   "inciMatchedName": "Salicylic Acid 2% Face Wash for Acne & Oil Control PO4 (name match 100%)",
+   "inciList": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Lauryl Sarcosinate, Cocamide DEA, Propylene Glycol, Triethanolamine, Salicylic Acid (2%), Phenoxyethanol, Ethylhexylglycerin, Panthenol, Tocopheryl Acetate (Vitamin E), Camellia Sinensis Extract, Aloe Barbadensis Extract, Zinc PCA, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#9 on list, strong evidence); zinc pca (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BJxjkkZ-L._AC_UL320_.jpg"
@@ -129384,7 +130360,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -129393,25 +130371,60 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/salicylic-acid-2-face-wash-50ml-po4",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid 2% Face Wash for Acne & Oil Control PO4",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Lauryl Sarcosinate, Cocamide DEA, Propylene Glycol, Triethanolamine, Salicylic Acid (2%), Phenoxyethanol, Ethylhexylglycerin, Panthenol, Tocopheryl Acetate (Vitamin E), Camellia Sinensis Extract, Aloe Barbadensis Extract, Zinc PCA, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -156090,18 +157103,17 @@ const CTPRODUCTS = [
   "capacityLine": "236 ml",
   "materialLine": "salicylic acid (BHA) + mandelic acid + PHA",
   "featureLine": "Scrub / exfoliant · ₹504/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Made by Galderma (dermatology / pharma maker)",
-   "Well-reviewed: 4.4★ from 0 ratings"
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 6.6,
+   "skin": 10,
+   "trust": 10,
    "experience": 3.2
   },
   "fullSpec": {
@@ -156118,14 +157130,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/products/product-categories/cetaphil-gentle-exfoliating-sa-lotion/3499320017282.html",
+   "inciMatchedName": "Cetaphil Gentle Exfoliating SA Lotion (name match 100%)",
+   "inciList": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID",
+   "evidenceActives": "mandelic acid (#9 on list, moderate evidence); salicylic acid (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61T4VljYMLL._AC_UL320_.jpg"
@@ -156149,7 +157163,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -156159,25 +157176,112 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/products/product-categories/cetaphil-gentle-exfoliating-sa-lotion/3499320017282.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Gentle Exfoliating SA Lotion",
+   "inciMatchScore": 1,
+   "inciText": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -164869,15 +165973,16 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · Fragrance-free · ₹166/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -164894,14 +165999,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/salicylic-acid-lha-02-body-wash",
+   "inciMatchedName": "Salicylic Acid + LHA 2% Body Wash (name match 100%)",
+   "inciList": "Water/Aqua, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Acrylates Crosspolymer-4, Glycerin, Sodium Lauroamphoacetate, Salicylic Acid, Capryloyl Salicylic Acid, Sodium PCA, Betaine, Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+   "evidenceActives": "salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #9 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51t5JQHln1L._SL1080_.jpg",
@@ -164933,7 +166040,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -164942,25 +166052,54 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/salicylic-acid-lha-02-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid + LHA 2% Body Wash",
+   "inciMatchScore": 1,
+   "inciText": "Water/Aqua, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Acrylates Crosspolymer-4, Glycerin, Sodium Lauroamphoacetate, Salicylic Acid, Capryloyl Salicylic Acid, Sodium PCA, Betaine, Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -171170,15 +172309,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Oil · ₹498/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.4,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 1
   },
   "fullSpec": {
@@ -171195,14 +172336,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/trubiom-dark-spot-corrector-gel-cream-hp",
+   "inciMatchedName": "Trubiom Dark Spot Corrector Gel Cream | HP (name match 87%)",
+   "inciList": "Aqua, Niacinamide, Tranexamic Acid, Kojic Acid, Cetearyl Alcohol, Dicetyl Phosphate, Ceteth-10 Phosphate, C12-C15 Alkyl Benzoate, Azelaic Acid, Polyglutamic Acid, Natural Betaine, Trehalose, Trimethylolpropane Tricaprylate/Tricaprate, Hydrolyzed Milk Protein, Phenylalanine, Vitamin B5, Allantoin, Evening Primrose Oil, Sodium Lactate, Mulberry Leaf Extract, Hyaluronic Acid, Tomato Extract, Vetiver Water, Licorice Root Extract, Phenoxyethanol, Xanthan Gum, Benzyl Alcohol, Glyceryl Laurate, Beta Carotine",
+   "evidenceActives": "azelaic acid (#9 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #9 on INCI; Dark spots — niacinamide #2 on INCI, tranexamic acid #3 on INCI, kojic acid #4 on INCI, azelaic acid #9 on INCI; Irritation — azelaic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/510lFiTxalL._AC_UL320_.jpg"
@@ -171228,7 +172371,10 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -171237,27 +172383,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/trubiom-dark-spot-corrector-gel-cream-hp",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Trubiom Dark Spot Corrector Gel Cream | HP",
+   "inciMatchScore": 0.87,
+   "inciText": "Aqua, Niacinamide, Tranexamic Acid, Kojic Acid, Cetearyl Alcohol, Dicetyl Phosphate, Ceteth-10 Phosphate, C12-C15 Alkyl Benzoate, Azelaic Acid, Polyglutamic Acid, Natural Betaine, Trehalose, Trimethylolpropane Tricaprylate/Tricaprate, Hydrolyzed Milk Protein, Phenylalanine, Vitamin B5, Allantoin, Evening Primrose Oil, Sodium Lactate, Mulberry Leaf Extract, Hyaluronic Acid, Tomato Extract, Vetiver Water, Licorice Root Extract, Phenoxyethanol, Xanthan Gum, Benzyl Alcohol, Glyceryl Laurate, Beta Carotine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Conscious Chemist",
     "kind": "d2c",
@@ -174146,15 +175354,16 @@ const CTPRODUCTS = [
   "capacityLine": "375 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Cream / gel · Sulfate/SLS-free · ₹120/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.2
   },
   "fullSpec": {
@@ -174171,14 +175380,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717l3AQFEWL._AC_UL320_.jpg"
@@ -174199,7 +175410,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -174208,24 +175421,49 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1 salicylic acid body wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -186402,17 +187640,17 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid",
   "featureLine": "Lotion · Paraben-free · ₹349/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "salicylic acid high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 117 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
   "scores": {
-   "ingredients": 4.2,
-   "skin": 9,
-   "trust": 7,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
    "experience": 5.8
   },
   "fullSpec": {
@@ -186429,16 +187667,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (117 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
-   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
-   "inciMatchedName": "1 salicylic acid body wash (name match 90%)",
-   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
-   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 117 ratings",
-   "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/h/u/l/1-salicylic-acid-body-wash-250ml-loofah-5-lactic-acid-body-original-imahkzfcrtc9ehun.jpeg?q=90",
@@ -186465,9 +187701,7 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:acne",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -186476,49 +187710,24 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "1 salicylic acid body wash",
-   "inciMatchScore": 0.9,
-   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 0.9,
-   "recognised": 0.89,
-   "actives": [
-    {
-     "name": "salicylic acid",
-     "grade": "A",
-     "position": 7,
-     "core": true,
-     "trace": false,
-     "src": "bha"
-    },
-    {
-     "name": "citric acid",
-     "grade": "C",
-     "position": 13,
-     "core": false,
-     "trace": false,
-     "src": "aha"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 17,
-     "core": false,
-     "trace": true,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -214953,15 +216162,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant · ₹1048/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.9
   },
   "fullSpec": {
@@ -214978,14 +216188,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-11",
+   "inciMatchedName": "60ml - 25% AHA, 2% BHA, 5% PHA Peeling Solution (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71LasgpYgnL._AC_UL320_.jpg"
@@ -215019,7 +216231,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -215028,25 +216243,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-11",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "60ml - 25% AHA, 2% BHA, 5% PHA Peeling Solution",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -217289,15 +218574,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant · ₹2797/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -217314,14 +218600,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-30ml",
+   "inciMatchedName": "25% AHA, 2% BHA, 5% PHA Peeling Solution, 30ml (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uw5UTvWXL._AC_UL320_.jpg"
@@ -217355,7 +218643,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -217364,25 +218655,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/25-aha-2-bha-5-pha-peeling-solution-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "25% AHA, 2% BHA, 5% PHA Peeling Solution, 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Lactic Acid, Glycerin, Propanediol, Gluconolactone, Salicylic Acid, Vaccinium Myrtillus Fruit/Leaf Extract, Saccharum Officinarum (Sugar Cane) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Betaine, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate (Hyaluronic Acid), Sodium Benzoate, Potassium Sorbate, Panthenol (Vitamin B5), Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

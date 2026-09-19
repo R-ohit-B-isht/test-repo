@@ -4307,6 +4307,311 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-fn261m",
+  "brand": "Deconstruct",
+  "model": "Acne Control Moisturizer with Ectoin & Ceramides",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Ceramides",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciMatchedName": "Acne Control Moisturizer with Ectoin & Ceramides (name match 100%)",
+   "inciList": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#7 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type, panthenol #10 on INCI, ceramide np #17 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Acne_Control_Moisturizer_with_Ectoin_Ceramides.webp?v=1782482331"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Acne Control Moisturizer with Ectoin & Ceramides",
+  "tags": [
+   "scope:unstated",
+   "ing:ceramides",
+   "claim:acne",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Acne Control Moisturizer with Ectoin & Ceramides",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "panthenol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-bcvtk9",
+  "brand": "Deconstruct",
+  "model": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+  "price": 284,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Ceramides + Chamomile",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); cholesterol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides, Chamomile (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciMatchedName": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol (name match 100%)",
+   "inciList": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "evidenceActives": "centella asiatica extract (#4 on list, moderate evidence); cholesterol (#11 on list, moderate evidence); ceramide ap (#12 on list, moderate evidence); ceramide eop (#13 on list, moderate evidence); ceramide np (#14 on list, moderate evidence); bisabolol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type, centella asiatica extract #4 on INCI, ceramide ap #12 on INCI, ceramide eop #13 on INCI, ceramide np #14 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Skin_Soothe_Moisturizer_-_1__Ceramide_0.2__Bisabolol.webp?v=1782482332"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+  "tags": [
+   "scope:unstated",
+   "ing:ceramides",
+   "ing:chamomile",
+   "claim:hydrating",
+   "claim:soothing",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "cholesterol",
+    "ceramide ap",
+    "ceramide eop",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-jg95eb",
   "brand": "The Derma Co",
   "model": "5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g",

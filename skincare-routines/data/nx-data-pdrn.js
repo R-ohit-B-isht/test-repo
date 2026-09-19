@@ -49980,15 +49980,16 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Niacinamide + Centella / cica + Exosomes",
   "featureLine": "Oil · ₹748/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -50006,14 +50007,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: 2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-free-moisturizer",
+   "inciMatchedName": "2% Cica Exosomes Oil-Free Moisturizer - 50ml (name match 100%)",
+   "listingIngredientLine": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc) (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Aqua (Water), Niacinamide (Vitamin B3), Panthenol (Vitamin B5), Cyclopentasiloxane, Glycerin, Centella (Cica) Asiatica Leaf Vesicles, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Zinc PCA, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Glyceryl Glucoside, Tanacetum Annuum (Blue Tansy) Flower Extract, Isohexadecane, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Acacia Senegal Gum, Butylene Glycol, Xanthan Gum, 1,2- Hexanediol, Dimethicone, Carbomer, Ethylhexylglycerin, Silica, Sodium Gluconate, Sodium Hydroxide, Phenoxyethanol",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); panthenol (#3 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #8 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type; Irritation — panthenol #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Y6VzMTJ2L._AC_UL320_.jpg"
@@ -50040,8 +50044,13 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -50049,25 +50058,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/oil-free-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Cica Exosomes Oil-Free Moisturizer - 50ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Niacinamide (Vitamin B3), Panthenol (Vitamin B5), Cyclopentasiloxane, Glycerin, Centella (Cica) Asiatica Leaf Vesicles, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Zinc PCA, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Glyceryl Glucoside, Tanacetum Annuum (Blue Tansy) Flower Extract, Isohexadecane, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Acacia Senegal Gum, Butylene Glycol, Xanthan Gum, 1,2- Hexanediol, Dimethicone, Carbomer, Ethylhexylglycerin, Silica, Sodium Gluconate, Sodium Hydroxide, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "panthenol",
+    "glycerin",
+    "butylene glycol",
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -59938,15 +59994,16 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Centella / cica + Exosomes",
   "featureLine": "Oil · Fragrance-free · ₹466/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -59964,14 +60021,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: 2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/2-cica-exosomes-oil-free-moisturizer-100ml",
+   "inciMatchedName": "2% Cica Exosomes Oil-Free Moisturizer - 100ml (name match 89%)",
+   "listingIngredientLine": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc) (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Aqua (Water), Niacinamide (Vitamin B3), Panthenol (Vitamin B5), Cyclopentasiloxane, Glycerin, Centella (Cica) Asiatica Leaf Vesicles, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Zinc PCA, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Glyceryl Glucoside, Tanacetum Annuum (Blue Tansy) Flower Extract, Isohexadecane, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Acacia Senegal Gum, Butylene Glycol, Xanthan Gum, 1,2- Hexanediol, Dimethicone, Carbomer, Ethylhexylglycerin, Silica, Sodium Gluconate, Sodium Hydroxide, Phenoxyethanol",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); panthenol (#3 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #8 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type; Irritation — panthenol #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GtSWe2r0L._AC_UL320_.jpg"
@@ -60000,8 +60060,13 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -60009,25 +60074,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/2-cica-exosomes-oil-free-moisturizer-100ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Cica Exosomes Oil-Free Moisturizer - 100ml",
+   "inciMatchScore": 0.89,
+   "inciText": "Aqua (Water), Niacinamide (Vitamin B3), Panthenol (Vitamin B5), Cyclopentasiloxane, Glycerin, Centella (Cica) Asiatica Leaf Vesicles, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Zinc PCA, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Glyceryl Glucoside, Tanacetum Annuum (Blue Tansy) Flower Extract, Isohexadecane, Polysorbate 60, Dimethicone/Vinyl Dimethicone Crosspolymer, Acacia Senegal Gum, Butylene Glycol, Xanthan Gum, 1,2- Hexanediol, Dimethicone, Carbomer, Ethylhexylglycerin, Silica, Sodium Gluconate, Sodium Hydroxide, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "panthenol",
+    "glycerin",
+    "butylene glycol",
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -68133,16 +68245,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Ceramides",
   "featureLine": "Serum · ₹7663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ceramide np high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -68160,11 +68274,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciMatchedName": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml) (name match 80%)",
+   "inciList": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
+   "evidenceActives": "ceramide np (#21 on list, moderate evidence); niacinamide (#27 on list, strong evidence); sodium hyaluronate (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings",
    "concernBasis": "Aging — product type (matching only — not proof it works)"
@@ -68197,7 +68313,9 @@ const NXPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -68205,25 +68323,82 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml)",
+   "inciMatchScore": 0.8,
+   "inciText": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide eop",
+    "ceramide np",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

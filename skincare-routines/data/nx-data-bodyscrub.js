@@ -144115,15 +144115,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Glycolic acid + Hyaluronic acid + Ceramides",
   "featureLine": "Toner · ₹283/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8,
+   "skin": 10,
+   "trust": 8,
    "experience": 3.8
   },
   "fullSpec": {
@@ -144141,11 +144142,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/7-glycolic-acid-hydrating-toner-with-glycolic-acid-hyaluronic-acid-for-gentle-exfoliation-150-ml",
+   "inciMatchedName": "7% Glycolic Acid Hydrating Toner with Glycolic Acid & Hyaluronic Acid For Gentle Exfoliation - 150 ml (name match 92%)",
+   "inciList": "Purified Water, Glycolic Acid, Triethanolamine, Glycerine, Sodium Hyaluronate, Hordeum vulgare Seed Extract, Aloe vera Juice, Phenoxyethanol, Ethylhexylglycerine, Allantoin, Hydroxyethylcellulose, Laminaria Digitata Extract & Cetyl-PG Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Olea Europaea (Olive) Leaf Extract, Xylitylglucoside, Anhydroxylitol and Xylitol",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -144178,7 +144181,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -144186,25 +144191,61 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/7-glycolic-acid-hydrating-toner-with-glycolic-acid-hyaluronic-acid-for-gentle-exfoliation-150-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "7% Glycolic Acid Hydrating Toner with Glycolic Acid & Hyaluronic Acid For Gentle Exfoliation - 150 ml",
+   "inciMatchScore": 0.92,
+   "inciText": "Purified Water, Glycolic Acid, Triethanolamine, Glycerine, Sodium Hyaluronate, Hordeum vulgare Seed Extract, Aloe vera Juice, Phenoxyethanol, Ethylhexylglycerine, Allantoin, Hydroxyethylcellulose, Laminaria Digitata Extract & Cetyl-PG Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Olea Europaea (Olive) Leaf Extract, Xylitylglucoside, Anhydroxylitol and Xylitol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -160367,15 +160408,16 @@ const NXPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Niacinamide + Glycolic acid + Vitamin B5 / panthenol",
   "featureLine": "Toner · ₹344/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); sucrose high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.4,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -160393,13 +160435,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciMatchedName": "Exfoliating 7% Glycolic Acid Toner (name match 100%)",
+   "inciList": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); sucrose (#20 on list, limited evidence); urea (#21 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/419JE-AJmxL._SL1080_.jpg",
@@ -160427,7 +160472,12 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -160435,25 +160485,87 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating 7% Glycolic Acid Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycolic Acid, Propanediol, Niacinamide, D-Panthenol, Panax Ginseng Root Extract, Rehmannia Chinensis Root Extract, Artemisia Vulgaris Extract, Poria Cocos Extract, Honey Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Cnidium Officinale Root Extract, Angelica Gigas Root Extract, Cornus Officinalis Fruit Extract, Oryza Sativa (Rice) Extract, 1,2-Hexanediol, Hexylene Glycol, Fructose, Glucose, Sucrose, Urea, Dextrin, Alanine, Glutamic Acid, Aspartic Acid, Hexyl Nicotinate, Hydrolyzed Opuntia ficus-indica Flower Extract, Lysine, Histidine, Arginine, Threonine, Serine, Proline, Glycine, Alanine, Valine, Methionine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Cysteine, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Hydroxide, Polysorbate 20,Sodium Pyrrolidone Carboxylate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "panthenol",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -172513,16 +172625,18 @@ const NXPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Glycolic acid + Lactic acid + Strawberry",
   "featureLine": "Scrub · ₹180/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.8,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -172540,11 +172654,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/namyaa-body-scrub-with-10-aha-bha-200g",
+   "inciMatchedName": "Namyaa Body Scrub with 10% AHA BHA 200g (name match 100%)",
+   "inciList": "Aqua, Triethanolamine, Caprylic/Capric Triglyceride, Glycolic Acid, Lactic Acid, Glycerin, Pumice scrub, Cetearyl Alcohol, Glyceryl Stearate (and) PEG-100 Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Cetyl Alcohol, Phenoxyethanol (and) Ethylhexylglycerin, Decyl Glucoside, Kaolin, Salicylic Acid, Allantoin, Fragrance (Parfum), Disodium EDTA",
+   "evidenceActives": "glycolic acid (#4 on list, strong evidence); lactic acid (#5 on list, strong evidence); glycerin (#6 on list, strong evidence); kaolin (#18 on list, limited evidence); salicylic acid (#19 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -172569,7 +172685,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -172577,27 +172694,88 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/namyaa-body-scrub-with-10-aha-bha-200g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Namyaa Body Scrub with 10% AHA BHA 200g",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Triethanolamine, Caprylic/Capric Triglyceride, Glycolic Acid, Lactic Acid, Glycerin, Pumice scrub, Cetearyl Alcohol, Glyceryl Stearate (and) PEG-100 Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Cetyl Alcohol, Phenoxyethanol (and) Ethylhexylglycerin, Decyl Glucoside, Kaolin, Salicylic Acid, Allantoin, Fragrance (Parfum), Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -212581,15 +212759,15 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Ginseng + Apricot",
   "featureLine": "Scrub · ₹990/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.5
   },
   "fullSpec": {
@@ -212607,11 +212785,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/apricot-blossom-peeling-gel",
+   "inciMatchedName": "Apricot Blossom Peeling Gel (name match 90%)",
+   "inciList": "Water, Prunus Mume Flower Water, Cellulose, Methylpropanediol, 1,2-Hexanediol, Carbomer, Arginine, Ethylhexylglycerin, Allantoin, Sorbitol, Disodium EDTA, Butylene Glycol, Pyrus Malus (Apple) Fruit Extract, Camellia Sinensis Leaf Extract, Houttuynia Cordata Extract, Nelumbo Nucifera Flower Extract, Oryza Sativa (Rice) Extract, Prunus Mume Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -212648,7 +212828,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -212656,25 +212838,52 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/apricot-blossom-peeling-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Apricot Blossom Peeling Gel",
+   "inciMatchScore": 0.9,
+   "inciText": "Water, Prunus Mume Flower Water, Cellulose, Methylpropanediol, 1,2-Hexanediol, Carbomer, Arginine, Ethylhexylglycerin, Allantoin, Sorbitol, Disodium EDTA, Butylene Glycol, Pyrus Malus (Apple) Fruit Extract, Camellia Sinensis Leaf Extract, Houttuynia Cordata Extract, Nelumbo Nucifera Flower Extract, Oryza Sativa (Rice) Extract, Prunus Mume Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

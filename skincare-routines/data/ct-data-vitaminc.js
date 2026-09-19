@@ -2537,17 +2537,18 @@ const CTPRODUCTS = [
   "capacityLine": "75 ml",
   "materialLine": "vitamin C",
   "featureLine": "Wash / cleanser · Paraben-free · ₹305/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "ethyl ascorbic acid high on the INCI list (moderate evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 1,52,470 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.2,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -2564,14 +2565,16 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (1,52,470 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
+   "inciMatchedName": "Vitamin C + E Super Bright Gel Moisturizer for Face (name match 80%)",
+   "inciList": "Old Formulation:Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, Tocopheryl Acetate, Methylsilanol Mannuronate, Sodium Hydroxide, Disodium EDTA, Betaine, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Rosa Rubiginosa (Rosehip) Seed Oil, Phenoxyethanol (and) Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylated Hydroxytoluene, Fragrance, CI 15985, CI 19140",
+   "evidenceActives": "ethyl ascorbic acid (#12 on list, moderate evidence); tocopheryl acetate (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 1,52,470 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — product type, ethyl ascorbic acid #12 on INCI, niacinamide #15 on INCI; Aging — ethyl ascorbic acid #12 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/p/h/g/75-vitamin-c-e-super-bright-gel-for-glowing-and-brightening-skin-original-imahh34n9wyzvj3v.jpeg?q=90",
@@ -2597,8 +2600,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -2607,27 +2614,116 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C + E Super Bright Gel Moisturizer for Face",
+   "inciMatchScore": 0.8,
+   "inciText": "Old Formulation:Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, Tocopheryl Acetate, Methylsilanol Mannuronate, Sodium Hydroxide, Disodium EDTA, Betaine, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Rosa Rubiginosa (Rosehip) Seed Oil, Phenoxyethanol (and) Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylated Hydroxytoluene, Fragrance, CI 15985, CI 19140",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Nykaa (FSN E-Commerce, listed)",
     "kind": "india",
@@ -2751,17 +2847,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Wash / cleanser",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "ethyl ascorbic acid high on the INCI list (moderate evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 1,52,470 ratings"
   ],
   "cons": [
-   "Only 1 ingredient named — formula unscored"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
+   "ingredients": 6.2,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -2778,15 +2875,18 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (1,52,470 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Vitamin C",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
+   "inciMatchedName": "Vitamin C + E Super Bright Gel Moisturizer for Face (name match 80%)",
+   "listingIngredientLine": "Vitamin C (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Old Formulation:Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, Tocopheryl Acetate, Methylsilanol Mannuronate, Sodium Hydroxide, Disodium EDTA, Betaine, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Rosa Rubiginosa (Rosehip) Seed Oil, Phenoxyethanol (and) Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylated Hydroxytoluene, Fragrance, CI 15985, CI 19140",
+   "evidenceActives": "ethyl ascorbic acid (#12 on list, moderate evidence); tocopheryl acetate (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "RSH Global Pvt. Ltd. Plot No. 3C, Indl. Area, Katha, Baddi 173205, Himachal Pradesh M.L. No. M-HIM/COS/2009/129 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 1,52,470 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — product type, ethyl ascorbic acid #12 on INCI, niacinamide #15 on INCI; Aging — ethyl ascorbic acid #12 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/l/x/0/-original-imahpscnehbkmfmz.jpeg?q=90",
@@ -2807,8 +2907,12 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "target:dark-spots",
-   "inci:partial"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -2817,27 +2921,116 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin C",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C + E Super Bright Gel Moisturizer for Face",
+   "inciMatchScore": 0.8,
+   "inciText": "Old Formulation:Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, Tocopheryl Acetate, Methylsilanol Mannuronate, Sodium Hydroxide, Disodium EDTA, Betaine, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Rosa Rubiginosa (Rosehip) Seed Oil, Phenoxyethanol (and) Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylated Hydroxytoluene, Fragrance, CI 15985, CI 19140",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Nykaa (FSN E-Commerce, listed)",
     "kind": "india",
@@ -3295,17 +3488,18 @@ const CTPRODUCTS = [
   "capacityLine": "350 ml",
   "materialLine": "vitamin C",
   "featureLine": "Wash / cleanser · ₹61/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "ethyl ascorbic acid high on the INCI list (moderate evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 1,52,470 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.2,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -3322,14 +3516,16 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (1,52,470 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
+   "inciMatchedName": "Vitamin C + E Super Bright Gel Moisturizer for Face (name match 80%)",
+   "inciList": "Old Formulation:Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, Tocopheryl Acetate, Methylsilanol Mannuronate, Sodium Hydroxide, Disodium EDTA, Betaine, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Rosa Rubiginosa (Rosehip) Seed Oil, Phenoxyethanol (and) Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylated Hydroxytoluene, Fragrance, CI 15985, CI 19140",
+   "evidenceActives": "ethyl ascorbic acid (#12 on list, moderate evidence); tocopheryl acetate (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 1,52,470 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — product type, ethyl ascorbic acid #12 on INCI, niacinamide #15 on INCI; Aging — ethyl ascorbic acid #12 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/f/5/d/350-vitamin-c-e-super-bright-gel-for-glowing-and-brightening-original-imah7ghsv6tfhw2j.jpeg?q=90",
@@ -3354,8 +3550,12 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -3364,27 +3564,116 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C + E Super Bright Gel Moisturizer for Face",
+   "inciMatchScore": 0.8,
+   "inciText": "Old Formulation:Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, Tocopheryl Acetate, Methylsilanol Mannuronate, Sodium Hydroxide, Disodium EDTA, Betaine, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Rosa Rubiginosa (Rosehip) Seed Oil, Phenoxyethanol (and) Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylated Hydroxytoluene, Fragrance, CI 15985, CI 19140",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Nykaa (FSN E-Commerce, listed)",
     "kind": "india",
@@ -51887,15 +52176,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Oil",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.2,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.2
   },
   "fullSpec": {
@@ -51912,11 +52202,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (19,192 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-oil-free-moisturizer-for-face-with-vitamin-c-gotu-kola-for-skin-illumination-80-ml",
+   "inciMatchedName": "Vitamin C Oil-Free Moisturizer For Face with Vitamin C and Gotu Kola for Skin Illumination - 80 g (name match 100%)",
+   "inciList": "Aqua (Water), Ammonium Acryloyldimethyltaurate, Vinyl Pyrrolidone Copolymer, Disodium EDTA, Glycerin, Xanthan Gum, Polyglyceryl-3 Cetyl Ether, Tocopherol (Vitamin E), Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ethylhexylglycerin, Melaleuca Alternifolia (Tea Tree) Extract, Salicylic Acid, Propylene Glycol, Avena Strigosa (Black Oats) Seed Extract, Glycine Soja (Soybean) Extract, Potassium Sorbate, IFRA Certified Allergen Free Fragrance",
+   "evidenceActives": "tocopherol (#8 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Aurumine Naturals Pvt Ltd, Plot No.111, STICE, Musalgaon, Sinnar, Nashik-422112 M. : MH/104302 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 19,192 ratings",
@@ -51941,7 +52233,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -51950,25 +52244,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-oil-free-moisturizer-for-face-with-vitamin-c-gotu-kola-for-skin-illumination-80-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Oil-Free Moisturizer For Face with Vitamin C and Gotu Kola for Skin Illumination - 80 g",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Ammonium Acryloyldimethyltaurate, Vinyl Pyrrolidone Copolymer, Disodium EDTA, Glycerin, Xanthan Gum, Polyglyceryl-3 Cetyl Ether, Tocopherol (Vitamin E), Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ethylhexylglycerin, Melaleuca Alternifolia (Tea Tree) Extract, Salicylic Acid, Propylene Glycol, Avena Strigosa (Black Oats) Seed Extract, Glycine Soja (Soybean) Extract, Potassium Sorbate, IFRA Certified Allergen Free Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -53285,16 +53606,15 @@ const CTPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "vitamin C + turmeric",
   "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹200/100g",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "sodium ascorbyl phosphate high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored"
   ],
-  "cons": [],
   "scores": {
-   "ingredients": 6.6,
-   "skin": 10,
-   "trust": 8,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
    "experience": 6.8
   },
   "fullSpec": {
@@ -53311,18 +53631,15 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (1,035 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
-   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-light-gel-moisturizer-with-vitamin-c-turmeric-for-skin-brightening-200-g",
-   "inciMatchedName": "Vitamin C Daily Glow Light Gel Moisturizer with Vitamin C & Turmeric for Skin Brightening - 200 g (name match 100%)",
-   "listingIngredientLine": "Basil Oil, Lavender Oil, Glycerin (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Citrus Limon (Lemon) Water, Glycerin, Butylene Glycol, Propanediol (Zemea), Dicaprylyl Carbonate, Niacinamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethyl Olivate, Isohexadecane, Erythritol, Curcuma Longa (Turmeric) Extract, Sodium Ascorbyl Phosphate (Vitamin C), Xylitylglucoside, Anhydroxylitol, Xylitol, Citrus Limon (Lemon) Extract, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate (Hyaluronic Acid), Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate (Hyaluronic Acid), Pentylene Glycol, Ethylhexylglycerin, Phenoxyethanol, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, Sodium PCA, Triheptanoin, Tocopheryl Acetate (Vitamin E), Linoleamidopropyl PG-Dimonium Chloride Phosphate, IFRA Certified Fragrance, Sodium Gluconate",
-   "evidenceActives": "sodium ascorbyl phosphate (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); tocopheryl acetate (#27 on list, moderate evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Basil Oil, Lavender Oil, Glycerin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VA Lifesciences LLP, plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, India - 173220. M. : HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 1,035 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, sodium ascorbyl phosphate #12 on INCI (matching only — not proof it works)",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -53357,11 +53674,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "target:acne",
    "target:dark-spots",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -53370,81 +53684,25 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-light-gel-moisturizer-with-vitamin-c-turmeric-for-skin-brightening-200-g",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Vitamin C Daily Glow Light Gel Moisturizer with Vitamin C & Turmeric for Skin Brightening - 200 g",
-   "inciMatchScore": 1,
-   "inciText": "Citrus Limon (Lemon) Water, Glycerin, Butylene Glycol, Propanediol (Zemea), Dicaprylyl Carbonate, Niacinamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethyl Olivate, Isohexadecane, Erythritol, Curcuma Longa (Turmeric) Extract, Sodium Ascorbyl Phosphate (Vitamin C), Xylitylglucoside, Anhydroxylitol, Xylitol, Citrus Limon (Lemon) Extract, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate (Hyaluronic Acid), Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate (Hyaluronic Acid), Pentylene Glycol, Ethylhexylglycerin, Phenoxyethanol, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, Sodium PCA, Triheptanoin, Tocopheryl Acetate (Vitamin E), Linoleamidopropyl PG-Dimonium Chloride Phosphate, IFRA Certified Fragrance, Sodium Gluconate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.97,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 6,
-     "core": false,
-     "trace": false,
-     "src": "niacinamide"
-    },
-    {
-     "name": "sodium ascorbyl phosphate",
-     "grade": "B",
-     "position": 12,
-     "core": true,
-     "trace": false,
-     "src": "vitc"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 18,
-     "core": true,
-     "trace": false,
-     "src": "ha"
-    },
-    {
-     "name": "sodium acetylated hyaluronate",
-     "grade": "B",
-     "position": 19,
-     "core": false,
-     "trace": false,
-     "src": "ha"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 27,
-     "core": true,
-     "trace": true,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "butylene glycol",
-    "propanediol",
-    "niacinamide",
-    "sodium hyaluronate",
-    "sodium pca"
-   ],
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Basil Oil, Lavender Oil, Glycerin",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -53465,17 +53723,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Oil",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 30,908 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.2,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -53492,11 +53750,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (30,908 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-oil-free-moisturizer-for-face-with-vitamin-c-gotu-kola-for-skin-illumination-80-ml",
+   "inciMatchedName": "Vitamin C Oil-Free Moisturizer For Face with Vitamin C and Gotu Kola for Skin Illumination - 80 g (name match 100%)",
+   "inciList": "Aqua (Water), Ammonium Acryloyldimethyltaurate, Vinyl Pyrrolidone Copolymer, Disodium EDTA, Glycerin, Xanthan Gum, Polyglyceryl-3 Cetyl Ether, Tocopherol (Vitamin E), Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ethylhexylglycerin, Melaleuca Alternifolia (Tea Tree) Extract, Salicylic Acid, Propylene Glycol, Avena Strigosa (Black Oats) Seed Extract, Glycine Soja (Soybean) Extract, Potassium Sorbate, IFRA Certified Allergen Free Fragrance",
+   "evidenceActives": "tocopherol (#8 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Nulyf India, Plot no-78, STICE, Musalgaon, Sinnar, Nashik-422112 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 30,908 ratings",
@@ -53521,7 +53781,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -53530,25 +53792,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-oil-free-moisturizer-for-face-with-vitamin-c-gotu-kola-for-skin-illumination-80-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Oil-Free Moisturizer For Face with Vitamin C and Gotu Kola for Skin Illumination - 80 g",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Ammonium Acryloyldimethyltaurate, Vinyl Pyrrolidone Copolymer, Disodium EDTA, Glycerin, Xanthan Gum, Polyglyceryl-3 Cetyl Ether, Tocopherol (Vitamin E), Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ethylhexylglycerin, Melaleuca Alternifolia (Tea Tree) Extract, Salicylic Acid, Propylene Glycol, Avena Strigosa (Black Oats) Seed Extract, Glycine Soja (Soybean) Extract, Potassium Sorbate, IFRA Certified Allergen Free Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -62012,17 +62301,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "vitamin C",
   "featureLine": "Wash / cleanser · ₹249/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycyrrhiza glabra root extract high on the INCI list (moderate evidence); 3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.6★ from 0 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: menthol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -62039,14 +62329,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+   "inciMatchedName": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Decyl Glucoside, Hydroxypropyl Starch Phosphate, Glyceryl stearate & PEG 100 Stearate, Stearic Acid, Glycol Distearate, Niacinamide, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Glycyrrhiza Glabra (Licorice) Root Extract, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum, 3-O- Ethyl Ascorbic Acid, Sodium Gluconate, Titanium Dioxide, Menthol, Triethanolamine, Citric Acid",
+   "evidenceActives": "glycyrrhiza glabra root extract (#14 on list, moderate evidence); 3-o-ethyl ascorbic acid (#18 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — product type, niacinamide #10 on INCI, glycyrrhiza glabra root extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41aubDtcTTL._AC_UL320_.jpg"
@@ -62064,8 +62356,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -62074,27 +62368,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-brightening-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Brightening Face Wash | Brightens Dull Skin & Reduce dark spots",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Decyl Glucoside, Hydroxypropyl Starch Phosphate, Glyceryl stearate & PEG 100 Stearate, Stearic Acid, Glycol Distearate, Niacinamide, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Glycyrrhiza Glabra (Licorice) Root Extract, Phenoxyethanol (and) Ethylhexylglycerin, Xanthan Gum, 3-O- Ethyl Ascorbic Acid, Sodium Gluconate, Titanium Dioxide, Menthol, Triethanolamine, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Deconstruct Skincare",
     "kind": "d2c",
@@ -62113,15 +62469,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "vitamin C",
   "featureLine": "Wash / cleanser · ₹890/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oréal official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored"
+   "Added fragrance (parfum): parfum/fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
+   "ingredients": 4.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -62138,14 +62496,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: Ammonium Ferrocyanide,CI 15850 / Red 6 Lake,CI 77120 / Barium Sulfate,CI 77266 [Nano / Black 2, CI 75470 / Carmine, CI 77510 / Ferrice Ferrocyanide],(F.I.L. D162201/10),Top Coat: G887019TC: Butyl Acetate, Ethyl Acetate, Nitrocellulose, Ethyl Tosylamide, Isopropyl Alcohol, Cellulose Acetate Butyrate, Acetyl Tributyl Citrate, Acrylates Copolymer, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Co",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "L'Oréal official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://www.loreal-paris.co.uk/magnesium-defence/men-expert-hypoallergenic-face-wash",
+   "inciMatchedName": "magnesium defence men expert hypoallergenic face wash (name match 85%)",
+   "listingIngredientLine": "Ammonium Ferrocyanide,CI 15850 / Red 6 Lake,CI 77120 / Barium Sulfate,CI 77266 [Nano / Black 2, CI 75470 / Carmine, CI 77510 / Ferrice Ferrocyanide],(F.I.L. D162201/10),Top Coat: G887019TC: Butyl Acetate, Ethyl Acetate, Nitrocellulose, Ethyl Tosylamide, Isopropyl Alcohol, Cellulose Acetate Butyrate, (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "AQUA/WATER, SODIUM LAURETH SULFATE, PEG-8, COCO-BETAINE, HEXYLENE GLYCOL, SODIUM CHLORIDE, PEG-120 METHYL GLUCOSE DIOLEATE, CITRIC ACID, ZINC PCA, SODIUM HYDROXIDE, HYDROXYACETOPHENONE, SODIUM BENZOATE, CAPRYLYL GLYCOL, SALICYLIC ACID, MAGNESIUM PCA, SODIUM HYALURONATE, PARFUM/FRAGRANCE",
+   "evidenceActives": "sodium hyaluronate (#15 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — zinc pca #8 on INCI; Dark spots — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WMJCwiHoL._AC_UL320_.jpg"
@@ -62162,8 +62523,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -62172,27 +62535,80 @@ const CTPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Ammonium Ferrocyanide,CI 15850 / Red 6 Lake,CI 77120 / Barium Sulfate,CI 77266 [Nano / Black 2, CI 75470 / Carmine, CI 77510 / Ferrice Ferrocyanide],(F.I.L. D162201/10),Top Coat: G887019TC: Butyl Acetate, Ethyl Acetate, Nitrocellulose, Ethyl Tosylamide, Isopropyl Alcohol, Cellulose Acetate Butyrate, Acetyl Tributyl Citrate, Acrylates Copolymer, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Co",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.92,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "L'Oréal official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.loreal-paris.co.uk/magnesium-defence/men-expert-hypoallergenic-face-wash",
+   "inciSourceRegion": "UK",
+   "inciMatchedTitle": "magnesium defence men expert hypoallergenic face wash",
+   "inciMatchScore": 0.85,
+   "inciText": "AQUA/WATER, SODIUM LAURETH SULFATE, PEG-8, COCO-BETAINE, HEXYLENE GLYCOL, SODIUM CHLORIDE, PEG-120 METHYL GLUCOSE DIOLEATE, CITRIC ACID, ZINC PCA, SODIUM HYDROXIDE, HYDROXYACETOPHENONE, SODIUM BENZOATE, CAPRYLYL GLYCOL, SALICYLIC ACID, MAGNESIUM PCA, SODIUM HYALURONATE, PARFUM/FRAGRANCE",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -66056,15 +66472,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "vitamin C + papaya",
   "featureLine": "Scrub / exfoliant · ₹358/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -66081,11 +66498,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/super-glow-face-wash-v5",
+   "inciMatchedName": "Super Glow De-tan Face Wash (name match 94%)",
+   "inciList": "Aqua, Decyl Glucoside, Sodium Cocoamphoacetate, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Isethionate, Glycol Distearate, Castoryl Maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Phenoxyethanol, Ethylhexylglycerin, Papain, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol,Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyquaternium-7, Disodium EDTA, Triethanolamine, Allergen Free Fragrance, CI 16255, CI 15985",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#17 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -66111,7 +66530,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -66120,25 +66541,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/super-glow-face-wash-v5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Super Glow De-tan Face Wash",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Decyl Glucoside, Sodium Cocoamphoacetate, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Isethionate, Glycol Distearate, Castoryl Maleate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Phenoxyethanol, Ethylhexylglycerin, Papain, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Pentylene Glycol,Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyquaternium-7, Disodium EDTA, Triethanolamine, Allergen Free Fragrance, CI 16255, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -77636,15 +78093,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + glycolic acid",
   "featureLine": "Serum · ₹1590/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -77661,14 +78119,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciMatchedName": "10% Vitamin C Face Serum For Daily Brightness (name match 75%)",
+   "inciList": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#1 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BTAV8rtdL._AC_UL320_.jpg"
@@ -77692,8 +78152,13 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -77702,25 +78167,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Face Serum For Daily Brightness",
+   "inciMatchScore": 0.75,
+   "inciText": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -78672,15 +79217,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C",
   "featureLine": "Serum · ₹1917/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ascorbic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -78697,14 +79243,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciMatchedName": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested (name match 100%)",
+   "inciList": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ascorbic acid (#8 on list, strong evidence); ferulic acid (#14 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Irritation — centella asiatica extract #12 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41AoO8wyNFL._AC_UL320_.jpg"
@@ -78725,7 +79273,11 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -78734,25 +79286,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -81352,15 +81949,16 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "vitamin C",
   "featureLine": "Serum · ₹2790/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ascorbic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -81377,14 +81975,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciMatchedName": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested (name match 100%)",
+   "inciList": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ascorbic acid (#8 on list, strong evidence); ferulic acid (#14 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Irritation — centella asiatica extract #12 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41efeN0mGyL._AC_UL320_.jpg"
@@ -81405,7 +82005,11 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -81414,25 +82018,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -101321,15 +101970,16 @@ const CTPRODUCTS = [
   "capacityLine": "20 ml",
   "materialLine": "vitamin C",
   "featureLine": "Serum · ₹2285/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ascorbic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -101346,14 +101996,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciMatchedName": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested (name match 100%)",
+   "inciList": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ascorbic acid (#8 on list, strong evidence); ferulic acid (#14 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #8 on INCI; Irritation — centella asiatica extract #12 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41JXQZcg8OL._AC_UL320_.jpg"
@@ -101374,7 +102026,11 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -101383,25 +102039,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Serum for Glowing Skin with Liposomal Technology | Clinically Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -107201,15 +107902,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ascorbic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 5
   },
   "fullSpec": {
@@ -107226,14 +107928,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology",
+   "inciMatchedName": "Deconstruct Bright + Glow 15% Vitamin C Serum with Liposomal Technology (name match 96%)",
+   "inciList": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, Phytic Acid, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ascorbic acid (#9 on list, strong evidence); ferulic acid (#15 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #9 on INCI; Irritation — centella asiatica extract #13 on INCI, panthenol #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VcfJzfUGL._AC_UL320_.jpg"
@@ -107252,7 +107956,11 @@ const CTPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -107261,25 +107969,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/15-vitamin-c-serum-with-liposomal-technology",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Deconstruct Bright + Glow 15% Vitamin C Serum with Liposomal Technology",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, 3-O Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Triethanolamine, Propanediol, 1,3 Butylene Glycol, Phytic Acid, L-Ascorbic Acid, Galactomannan, Sunflower Lecithin, Phenoxyethanol & Ethylhexylglycerin, Centella Asiatica Extract, Carbomer, Ferulic Acid, Panthenol, Sodium Metabisulphite, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -108248,15 +109001,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Serum · ₹1347/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -108273,14 +109027,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciMatchedName": "10% Vitamin C Face Serum For Daily Brightness (name match 80%)",
+   "inciList": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#1 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bqEoMAZZL._AC_UL320_.jpg"
@@ -108303,8 +109059,13 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -108313,25 +109074,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Face Serum For Daily Brightness",
+   "inciMatchScore": 0.8,
+   "inciText": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -116521,15 +117362,16 @@ const CTPRODUCTS = [
   "capacityLine": "18 ml",
   "materialLine": "vitamin C + turmeric",
   "featureLine": "Serum · ₹1706/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopheryl acetate high on the INCI list (moderate evidence); ascorbyl palmitate high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.4,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.6
   },
   "fullSpec": {
@@ -116546,11 +117388,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/glow-serum-foundation-natural-glow",
+   "inciMatchedName": "Glow Serum Foundation - 30ml | Natural Glow (name match 90%)",
+   "inciList": "Aqua, Butylene Glycol, Cyclopentasiloxane, Triethylhexanoin, Lauryl Peg -8 dimethicone, Trimethylsiloxysilicate, Ethylhexyl methoxycinnamate, Talc, Hdi/trimethylol hexyllactone crosspolymer, Sodium chloride, Disteardimonium hectorite, Glycerin, Phenoxyethanol, Dimethicone, Peg/ppg-18/18 dimethicone, Titanium dioxide ( nano), Potassium sorbate, Sodium dehydroacetate, Cyclohexasiloxane, Polyglyceryl-3 polydimethylsiloxyethyl dimethicone, Methicone, Quaternium -90 bentonite, Tocopheryl acetate, Dimethiconol, Ascorbyl palmitate, Disodium EDTA, Ubiquinone, Polysilicone-11, Aluminium hydroxide, Stearic acid, Retinyl palmitate, Propylene carbonate, Sodium hyaluronate, Caprylic/capric triglyceride, Silica, Hydrogenated dimethicone Laureth-12, Laureth-12, Tocopherol, CI 77891, CI 77491",
+   "evidenceActives": "tocopheryl acetate (#23 on list, moderate evidence); ascorbyl palmitate (#25 on list, limited evidence); sodium hyaluronate (#33 on list, moderate evidence); tocopherol (#38 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.9★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
@@ -116574,7 +117418,9 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -116583,25 +117429,119 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/glow-serum-foundation-natural-glow",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Glow Serum Foundation - 30ml | Natural Glow",
+   "inciMatchScore": 0.9,
+   "inciText": "Aqua, Butylene Glycol, Cyclopentasiloxane, Triethylhexanoin, Lauryl Peg -8 dimethicone, Trimethylsiloxysilicate, Ethylhexyl methoxycinnamate, Talc, Hdi/trimethylol hexyllactone crosspolymer, Sodium chloride, Disteardimonium hectorite, Glycerin, Phenoxyethanol, Dimethicone, Peg/ppg-18/18 dimethicone, Titanium dioxide ( nano), Potassium sorbate, Sodium dehydroacetate, Cyclohexasiloxane, Polyglyceryl-3 polydimethylsiloxyethyl dimethicone, Methicone, Quaternium -90 bentonite, Tocopheryl acetate, Dimethiconol, Ascorbyl palmitate, Disodium EDTA, Ubiquinone, Polysilicone-11, Aluminium hydroxide, Stearic acid, Retinyl palmitate, Propylene carbonate, Sodium hyaluronate, Caprylic/capric triglyceride, Silica, Hydrogenated dimethicone Laureth-12, Laureth-12, Tocopherol, CI 77891, CI 77491",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -137264,16 +138204,18 @@ const CTPRODUCTS = [
   "capacityLine": "75 g",
   "materialLine": "vitamin C + niacinamide + retinol",
   "featureLine": "Sunscreen · SPF 30 · ₹256/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hyaluronic acid high on the INCI list (moderate evidence); 3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.4,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -137290,11 +138232,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/nourish-all-day-cream",
+   "inciMatchedName": "Nourish All Day Cream with SPF 30 PA++ - 75 gm (name match 100%)",
+   "inciList": "Aqua, Glyceryl Stearate, Ethylhexyl Methoxycinnamate, Glycerin, Isopropyl Myristate, Cocos Nucifera (Coconut) Oil, Ceto-Stearyl Alcohol, Zinc Oxide, Ethylhexyl Salicylate, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Perfume, Cetearyl Olivate (and) Sorbitan Olivate, Caprylic/Capric Triglyceride, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline (and) Water, Phenoxyethanol, Niacinamide (Vitamin B3), Glycolic Acid, Titanium Dioxide, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Silanetriol (and) Hyaluronic Acid (and) Methylpropanediol (and) Citric Acid (and) Water (Aqua), Disodium EDTA, 3-O Ethyl Ascorbic Acid (Vitamin C), Retinol, Tocopheryl Acetate (Vitamin E), Triticum Vulgare (Wheat) Germ Oil, Ceramide 3, Linoleic Acid (and) Linolenic Acid (Vitamin F), Prunus Amygdalus (Almond) Oil, Simmondsia Chinensis (Jojoba) Oil, Moringa Oleifera Seed Oil, Panthenol (Vitamin B5)",
+   "evidenceActives": "hyaluronic acid (#35 on list, moderate evidence); 3-o-ethyl ascorbic acid (#40 on list, moderate evidence); tocopheryl acetate (#42 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
@@ -137326,7 +138270,8 @@ const CTPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -137335,27 +138280,165 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/nourish-all-day-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Nourish All Day Cream with SPF 30 PA++ - 75 gm",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glyceryl Stearate, Ethylhexyl Methoxycinnamate, Glycerin, Isopropyl Myristate, Cocos Nucifera (Coconut) Oil, Ceto-Stearyl Alcohol, Zinc Oxide, Ethylhexyl Salicylate, Propylene Glycol, Caprylic/Capric/Myristic/Stearic Triglyceride, Perfume, Cetearyl Olivate (and) Sorbitan Olivate, Caprylic/Capric Triglyceride, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline (and) Water, Phenoxyethanol, Niacinamide (Vitamin B3), Glycolic Acid, Titanium Dioxide, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Silanetriol (and) Hyaluronic Acid (and) Methylpropanediol (and) Citric Acid (and) Water (Aqua), Disodium EDTA, 3-O Ethyl Ascorbic Acid (Vitamin C), Retinol, Tocopheryl Acetate (Vitamin E), Triticum Vulgare (Wheat) Germ Oil, Ceramide 3, Linoleic Acid (and) Linolenic Acid (Vitamin F), Prunus Amygdalus (Almond) Oil, Simmondsia Chinensis (Jojoba) Oil, Moringa Oleifera Seed Oil, Panthenol (Vitamin B5)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 40,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 42,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca",
+    "niacinamide",
+    "hyaluronic acid",
+    "ceramide np",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -153553,15 +154636,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C",
   "featureLine": "Cream / gel · ₹988/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); alpha-arbutin high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -153578,14 +154662,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-calendula-vitamin-c-1-ultra-light-glow-gel-cream-50ml-full-size",
+   "inciMatchedName": "1% Vitamin C Ultra-Light-Glow Boosting Gel Cream For Glowing Skin (name match 100%)",
+   "inciList": "Aqua, Glycerin, Dimethicone, 3-O-Ethyl Ascorbic Acid, C12-15 Alkyl Benzoate, Alpha-Arbutin, Betaine, Cyclopentsiloxane & Dimethicone Crosspolymer, Sodium Polyglutamate Crosspolymer, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Glycyrrhiza Glabra (Licorice) Root Extract, Glyceryl Stearate, PEG-100 Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cyclodextrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Carbomer, Triethanolamine, Sodium Gluconate, Maltitol, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Sodium Citrate, Propanediol, Citrus Reticulata (Mandarin) Peel Extract, Calendula Officinalis Extract, Citric Acid",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#4 on list, moderate evidence); alpha-arbutin (#5 on list, moderate evidence); sodium hyaluronate (#10 on list, moderate evidence); glycyrrhiza glabra root extract (#13 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #4 on INCI, alpha-arbutin #5 on INCI, glycyrrhiza glabra root extract #13 on INCI; Aging — 3-o-ethyl ascorbic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51IuHHBF2RL._AC_UL320_.jpg"
@@ -153610,7 +154696,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -153619,25 +154708,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-calendula-vitamin-c-1-ultra-light-glow-gel-cream-50ml-full-size",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1% Vitamin C Ultra-Light-Glow Boosting Gel Cream For Glowing Skin",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Dimethicone, 3-O-Ethyl Ascorbic Acid, C12-15 Alkyl Benzoate, Alpha-Arbutin, Betaine, Cyclopentsiloxane & Dimethicone Crosspolymer, Sodium Polyglutamate Crosspolymer, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Glycyrrhiza Glabra (Licorice) Root Extract, Glyceryl Stearate, PEG-100 Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cyclodextrin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Carbomer, Triethanolamine, Sodium Gluconate, Maltitol, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Sodium Citrate, Propanediol, Citrus Reticulata (Mandarin) Peel Extract, Calendula Officinalis Extract, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -156629,15 +157788,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C",
   "featureLine": "Sunscreen · SPF 20 · ₹838/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium ascorbyl phosphate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 3.9,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -156654,11 +157814,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-face-cream-with-vitamin-c-spf-20-for-skin-illumination-50g",
+   "inciMatchedName": "Vitamin C Day Cream with Vitamin C and SPF 20 for Skin Illumination - 50g (name match 100%)",
+   "inciList": "Aqua (Water), Trisodium Ethylenediamine Disuccinate, Propylene Glycol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Potassium Cetyl Phosphate, Sodium Ascorbyl Phosphate (Vitamin C), Coco-Caprylate/Caprate, Ethylhexyl Palmitate, Diethylhexyl Carbonate, Behenyl Alcohol, C12-15 Alkyl Benzoate, Cetearyl Octanoate, Suncat MTA, Methyl Glucose Sesquistearate, Triheptanoin, Dimethylmethoxy Chromanol, Pentaerythrityl Distearate, Glyceryl Stearate, Niacinamide, Caprylhydroxamic Acid, Methylpropanediol, Glyceryl Caprylate, Portulaca Oleracea Extract, Sodium Metabisulfite, IFRA Certified Allergen Free Fragrance",
+   "evidenceActives": "sodium ascorbyl phosphate (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
@@ -156682,7 +157844,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -156691,25 +157855,44 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-face-cream-with-vitamin-c-spf-20-for-skin-illumination-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Day Cream with Vitamin C and SPF 20 for Skin Illumination - 50g",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Trisodium Ethylenediamine Disuccinate, Propylene Glycol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Potassium Cetyl Phosphate, Sodium Ascorbyl Phosphate (Vitamin C), Coco-Caprylate/Caprate, Ethylhexyl Palmitate, Diethylhexyl Carbonate, Behenyl Alcohol, C12-15 Alkyl Benzoate, Cetearyl Octanoate, Suncat MTA, Methyl Glucose Sesquistearate, Triheptanoin, Dimethylmethoxy Chromanol, Pentaerythrityl Distearate, Glyceryl Stearate, Niacinamide, Caprylhydroxamic Acid, Methylpropanediol, Glyceryl Caprylate, Portulaca Oleracea Extract, Sodium Metabisulfite, IFRA Certified Allergen Free Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -160827,15 +162010,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + peptides + caffeine",
   "featureLine": "Cream / gel · Fragrance-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.1,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -160852,14 +162037,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/vitamin-c-eye-cream-with-mandarin",
+   "inciMatchedName": "3% Vitamin C, 3% Peptide & 3% Caffeine Under Eye Cream with Mandarin (name match 88%)",
+   "inciList": "Aqua, Undecane, Tridecane, 3-O-Ethyl Ascorbic Acid, Glycerin, Caffeine, Isoamyl Laurate, Acetyl Hexapeptide-8, Caprylyl Glycol, Propanediol, Triolein, Glyceryl Stearate Citrate, Citrus Reticulata (Mandarin) Peel Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Tapioca Starch, Daucus Carota Sativa (Carrot) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract, Cyclodextrin, Ammonium Polyacryloyldimethyl Taurate, Methyl Gluceth-20, Glyceryl Stearate, PEG-100 Stearate, Sorbitol, Isostearyl Hydroxystearate, Benzyl Alcohol, Hydroxyacetophenone, Sodium Citrate, Sodium Gluconate, Xanthan Gum, Sucralose, Citric Acid, Dilauryl Thiodipropionate",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#4 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #4 on INCI; Aging — 3-o-ethyl ascorbic acid #4 on INCI, acetyl hexapeptide-8 #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QMXX3wCDL._AC_UL320_.jpg"
@@ -160881,7 +162068,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -160890,27 +162079,81 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/vitamin-c-eye-cream-with-mandarin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "3% Vitamin C, 3% Peptide & 3% Caffeine Under Eye Cream with Mandarin",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Undecane, Tridecane, 3-O-Ethyl Ascorbic Acid, Glycerin, Caffeine, Isoamyl Laurate, Acetyl Hexapeptide-8, Caprylyl Glycol, Propanediol, Triolein, Glyceryl Stearate Citrate, Citrus Reticulata (Mandarin) Peel Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Tapioca Starch, Daucus Carota Sativa (Carrot) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract, Cyclodextrin, Ammonium Polyacryloyldimethyl Taurate, Methyl Gluceth-20, Glyceryl Stearate, PEG-100 Stearate, Sorbitol, Isostearyl Hydroxystearate, Benzyl Alcohol, Hydroxyacetophenone, Sodium Citrate, Sodium Gluconate, Xanthan Gum, Sucralose, Citric Acid, Dilauryl Thiodipropionate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -166109,15 +167352,16 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "vitamin C + honey",
   "featureLine": "Lotion · ₹64/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.8,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -166134,14 +167378,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml (name match 100%)",
+   "inciList": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
+   "evidenceActives": "ethyl ascorbic acid (#4 on list, moderate evidence); sodium hyaluronate (#20 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51f1o0ax00L._AC_UL320_.jpg"
@@ -166165,7 +167411,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -166174,25 +167423,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -166858,15 +168186,16 @@ const CTPRODUCTS = [
   "capacityLine": "800 ml (pack of 2)",
   "materialLine": "vitamin C + honey",
   "featureLine": "Lotion · ₹69/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.8,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -166883,14 +168212,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml (name match 100%)",
+   "inciList": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
+   "evidenceActives": "ethyl ascorbic acid (#4 on list, moderate evidence); sodium hyaluronate (#20 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rBxp6l1DL._AC_UL320_.jpg"
@@ -166914,7 +168245,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -166923,25 +168257,104 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-vitamin-c-daily-glow-body-lotion-for-skin-brightening-400-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Body Lotion For Skin Brightening 400 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -167619,15 +169032,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopheryl acetate high on the INCI list (moderate evidence); 3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -167644,14 +169058,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/5-vitamin-c-complex-brightening-serum-sunscreen-spf-50-pa-1",
+   "inciMatchedName": "5% Vitamin C Complex Brightening Serum Sunscreen SPF 50+ PA++++ (name match 100%)",
+   "inciList": "Ingredient Name, Aqua, Glycerin, Isododecane, Propanediol, Niacinamide, Glyceryl Stearate (and) PEG-100 Stearate, Dicaprylyl Carbonate, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Phenoxyethanol (and) Ethylhexylglycerin, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Polyacrylate Crosspolymer-6, Tocopherol E Acetate, 3-O-Ethyl Ascorbic Acid, Sodium Gluconate, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Lactate, Xanthan Gum, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Centella Asiatica (Cica) Extract, Camellia Sinensis Leaf (White Tea) Extract, Titanium Dioxide, Sodium Hyaluronate, Water (Aqua), Glycerin, Alcohol, Achyrocline Satureiodes Flower Extract, Plantago Lanceolata Leaf Extract, Sodium PCA, Fabiana Imbricata Leaf/Stem Extract, Verbascum Thapsus Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Glutathione, CI 15985",
+   "evidenceActives": "tocopheryl acetate (#15 on list, moderate evidence); 3-o-ethyl ascorbic acid (#16 on list, moderate evidence); glycyrrhiza glabra root extract (#18 on list, moderate evidence); sodium hyaluronate (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -167672,8 +169088,11 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -167682,25 +169101,112 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/5-vitamin-c-complex-brightening-serum-sunscreen-spf-50-pa-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Vitamin C Complex Brightening Serum Sunscreen SPF 50+ PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Ingredient Name, Aqua, Glycerin, Isododecane, Propanediol, Niacinamide, Glyceryl Stearate (and) PEG-100 Stearate, Dicaprylyl Carbonate, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Phenoxyethanol (and) Ethylhexylglycerin, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Polyacrylate Crosspolymer-6, Tocopherol E Acetate, 3-O-Ethyl Ascorbic Acid, Sodium Gluconate, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Lactate, Xanthan Gum, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Centella Asiatica (Cica) Extract, Camellia Sinensis Leaf (White Tea) Extract, Titanium Dioxide, Sodium Hyaluronate, Water (Aqua), Glycerin, Alcohol, Achyrocline Satureiodes Flower Extract, Plantago Lanceolata Leaf Extract, Sodium PCA, Fabiana Imbricata Leaf/Stem Extract, Verbascum Thapsus Extract, Glycerin (and) Water (and) Terminalia Ferdinandiana Fruit Extract, Glutathione, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate",
+    "sodium pca"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -167721,15 +169227,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C",
   "featureLine": "Sunscreen · SPF 50 · ₹808/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -167746,14 +169253,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciMatchedName": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#9 on list, moderate evidence); tocopherol (#31 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -167779,7 +169288,10 @@ const CTPRODUCTS = [
    "rating:4.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -167788,25 +169300,102 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -221601,15 +223190,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "vitamin C + niacinamide + glycolic acid",
   "featureLine": "Serum · ₹1247/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.6
   },
   "fullSpec": {
@@ -221626,14 +223216,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciMatchedName": "10% Vitamin C Face Serum For Daily Brightness (name match 75%)",
+   "inciList": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#1 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HzKHG2ICL._AC_UL320_.jpg"
@@ -221658,8 +223250,13 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -221668,25 +223265,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/10-vitamin-c-face-serum-for-daily-brightness-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Face Serum For Daily Brightness",
+   "inciMatchScore": 0.75,
+   "inciText": "3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Centella Asiatica Extract, Epigallocatechin Gallatyl Glucoside, Sodium PCA, Ethoxydiglycol, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Microcitrus Australasica Fruit Extract, Sophora Flavescens Root Extract, Glycyrrhiza Inflata Root Extract, Scutellaria Baicalensis Root Extract, Gluconolactone, Sodium Hyaluronate, Glutathione, Sodium Lactate, Sodium Gluconate, Allantoin, Hydroxyethyl Cellulose, Polysorbate-20, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -234363,15 +236040,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Cream / gel · ₹400/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -234388,14 +236067,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/australian-kakadu-plum-vitamin-c-brightening-moisturizer",
+   "inciMatchedName": "Australian Kakadu Plum Vitamin C Brightening Moisturizer (name match 96%)",
+   "inciList": "Aqua, Niacinamide, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propanediol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Dimethicone, Pentylene Glycol, Glycerin, C15-19 Alkane, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Centella Asiatica Extract, Xylitylglucoside, Polyisobutene, Anhydroxylitol, Glutathione, Xylitol, 3-O-Ethyl Ascorbic Acid, Panthenol, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate-13, Tocopheryl Acetate, Polysorbate 20, Sorbitan Isostearate, Disodium EDTA, Sodium Hydroxide, CI 15985, Perfume",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#18 on list, moderate evidence); sodium hyaluronate (#20 on list, moderate evidence); tocopheryl acetate (#25 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #18 on INCI; Aging — 3-o-ethyl ascorbic acid #18 on INCI; Irritation — centella asiatica extract #12 on INCI, panthenol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vEMxhHF2L._AC_UL320_.jpg"
@@ -234417,8 +236098,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -234427,27 +236112,117 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/australian-kakadu-plum-vitamin-c-brightening-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Australian Kakadu Plum Vitamin C Brightening Moisturizer",
+   "inciMatchScore": 0.96,
+   "inciText": "Aqua, Niacinamide, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Propanediol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Dimethicone, Pentylene Glycol, Glycerin, C15-19 Alkane, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Centella Asiatica Extract, Xylitylglucoside, Polyisobutene, Anhydroxylitol, Glutathione, Xylitol, 3-O-Ethyl Ascorbic Acid, Panthenol, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate-13, Tocopheryl Acetate, Polysorbate 20, Sorbitan Isostearate, Disodium EDTA, Sodium Hydroxide, CI 15985, Perfume",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "dimethicone",
+    "glycerin",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -240326,16 +242101,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Sunscreen · SPF 50 · ₹464/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopheryl acetate high on the INCI list (moderate evidence); ascorbyl palmitate high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -240352,14 +242129,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciMatchedName": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "tocopheryl acetate (#21 on list, moderate evidence); ascorbyl palmitate (#27 on list, limited evidence); hyaluronic acid (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — product type, niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -240389,8 +242168,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -240399,25 +242182,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -256761,15 +258655,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 5 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.3
   },
   "fullSpec": {
@@ -256786,15 +258681,18 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (447 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: 5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciMatchedName": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested (name match 94%)",
+   "listingIngredientLine": "5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#9 on list, moderate evidence); tocopherol (#31 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Kapco International Limited, Plot no. 10-11, Sector-3, Parwanoo, Himachal pradesh - 173220 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 447 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -256821,7 +258719,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:flipkart",
    "target:dark-spots",
-   "inci:partial"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -256830,25 +258731,102 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.2,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Vitamin C Gel Sunscreen for Oily Skin - SPF 50 PA++++ | In-Vivo Tested",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, 3 O Ethyl Ascorbic Acid, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Glycine Soja (Soybean) Oil, Daucus Carota Sativa (Carrot) Root Extract, Beta-Carotene, Tocopherol, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

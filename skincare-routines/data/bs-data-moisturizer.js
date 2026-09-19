@@ -29468,6 +29468,1170 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-39brkn",
+  "brand": "Deconstruct",
+  "model": "2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); squalane high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
+   "inciMatchedName": "2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "evidenceActives": "glycerin (#9 on list, strong evidence); squalane (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/hf_20260519_113254_e59476fd-1b5e-47c6-aa96-ba030e76f116.webp?v=1784634499"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct 2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2 in 1 Moisturizer & Sunscreen | SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-C15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, phospholipids, Polysorbate 80, 1,3-Butylene Glycol, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Octyl Salicylate, Cetearyl Olivate, Sorbitan Olivate, Coco-Caprylate/Caprate (and) Polyglyceryl-2 Isostearate/Dimer Dilinoleate Copolymer (and) Squalane, Butyloctyl Salicylate, Sodium Carbomer, Glyceryl DiBehenate, Phenoxyethanol (and) Ethylhexylglycerin, Hydrated Silica, Sodium Gluconate, Dehydroxanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-zkfrkt",
+  "brand": "Deconstruct",
+  "model": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Retinol",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciMatchedName": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex (name match 100%)",
+   "inciList": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#7 on list, strong evidence); squalane (#12 on list, moderate evidence); beta-glucan (#15 on list, moderate evidence); panthenol (#16 on list, moderate evidence); allantoin (#17 on list, limited evidence); retinol (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Retinol_cream_0889a824-4d5e-4041-8bbd-92615ea40f28.jpg?v=1769875874"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/retinol-cream",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/retinol-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol night cream - 0.1% Retinol + 1% Beta-Glucan Complex",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, C15-19 Alkane, Isopropyl myristate, Niacinamide, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceto Stearyl Alcohol, Dicaprylyl Carbonate, Squalane, Phenoxyethanol, Ethylhexylglycerin, Beta-Glucan, Panthenol, Allantoin, Retinol, Polysorbate 20, BHA, BHT, Disodium EDTA, Betaine, Linoleic Acid, Linolenic Acid, Pisum Sativum Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide",
+    "squalane",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-fn261m",
+  "brand": "Deconstruct",
+  "model": "Acne Control Moisturizer with Ectoin & Ceramides",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Ceramides",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); sodium acetylated hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.6,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciMatchedName": "Acne Control Moisturizer with Ectoin & Ceramides (name match 100%)",
+   "inciList": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#7 on list, moderate evidence); sodium acetylated hyaluronate (#8 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #10 on INCI, ceramide np #17 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Acne_Control_Moisturizer_with_Ectoin_Ceramides.webp?v=1782482331"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Acne Control Moisturizer with Ectoin & Ceramides",
+  "tags": [
+   "scope:unstated",
+   "ing:ceramides",
+   "claim:acne",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/acne-control-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Acne Control Moisturizer with Ectoin & Ceramides",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dicaprylyl Carbonate, Calendula officinalis {Flower} Extract, Sodium Hyaluronate Cross polymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Panthenol, Phenoxyethanol & Ethylhexyl Glycerin, Betaine, Xylitylglucoside, Anhydroxylitol, and Xylitol, Water, Ceramide NP, PEG-7 Glyceryl Cocoate, and Phenoxyethanol, Ectoin, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "panthenol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1nctbks",
+  "brand": "Deconstruct",
+  "model": "Hyaluronic Acid & Squalane Moisturizer - 0.2% Hyaluronic acid 1% Squalane",
+  "price": 292,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Hyaluronic acid + Squalane",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); squalane high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid, Squalane (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/hyaluronic-acid-squalane-moisturizer",
+   "inciMatchedName": "Hyaluronic Acid & Squalane Moisturizer - 0.2% Hyaluronic acid 1% Squalane (name match 100%)",
+   "inciList": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, Dicaprylyl Carbonate, Propylheptyl Caprylate, Cetyl Alcohol, Cetostearyl Alcohol, Squalane, Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, Adansonia Digitata Pulp Extract, Pentylene Glycol, Fructose, Urea, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose, Betaine, Panthenol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Disodium Ethylenediaminetetraacetate, Zinc Ricinoleate, Citric Acid, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); squalane (#10 on list, moderate evidence); niacinamide (#11 on list, strong evidence); ceramide np (#15 on list, moderate evidence); ceramide ap (#16 on list, moderate evidence); ceramide eop (#17 on list, moderate evidence); cholesterol (#19 on list, moderate evidence); urea (#26 on list, strong evidence); allantoin (#32 on list, limited evidence); sodium hyaluronate (#33 on list, moderate evidence); panthenol (#36 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-9.webp?v=1779364533"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/hyaluronic-acid-squalane-moisturizer",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Hyaluronic Acid & Squalane Moisturizer - 0.2% Hyaluronic acid 1% Squalane",
+  "tags": [
+   "scope:unstated",
+   "ing:hyaluronic-acid",
+   "ing:squalane",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/hyaluronic-acid-squalane-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hyaluronic Acid & Squalane Moisturizer - 0.2% Hyaluronic acid 1% Squalane",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Propanediol, Cetearyl Olivate, Sorbitan Olivate, Dicaprylyl Carbonate, Propylheptyl Caprylate, Cetyl Alcohol, Cetostearyl Alcohol, Squalane, Niacinamide, Phenoxyethanol, Ethylhexylglycerin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, Adansonia Digitata Pulp Extract, Pentylene Glycol, Fructose, Urea, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose, Betaine, Panthenol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Disodium Ethylenediaminetetraacetate, Zinc Ricinoleate, Citric Acid, Sodium Hydroxide",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "urea"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "zinc ricinoleate",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "deodorants"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "squalane",
+    "niacinamide",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1476klm",
+  "brand": "Deconstruct",
+  "model": "Oil-Free Moisturizer for Oily Skin - 3% NMF Complex + 0.2% Panthenol",
+  "price": 262,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin B5 / panthenol",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.7,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin B5 / panthenol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-moisturizer-for-oily-skin",
+   "inciMatchedName": "Oil-Free Moisturizer for Oily Skin - 3% NMF Complex + 0.2% Panthenol (name match 100%)",
+   "inciList": "Aqua, Calendula officinalis {Flower} Extract, Betaine, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Threonine, Arginine, Proline, Glycerin, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Aloe barbadensis (Aloe Vera) Extract, Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Pyrrolidone Carboxylate, Sodium Gluconate, Panthenol",
+   "evidenceActives": "glycerin (#15 on list, strong evidence); panthenol (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Oil-Free_Moisturizer_for_Oily_Skin_-_3__NMF_Complex_0.2__Panthenol.webp?v=1782482394"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/oil-free-moisturizer-for-oily-skin",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Oil-Free Moisturizer for Oily Skin - 3% NMF Complex + 0.2% Panthenol",
+  "tags": [
+   "scope:unstated",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "skin:oily",
+   "free:oil-free",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-moisturizer-for-oily-skin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oil-Free Moisturizer for Oily Skin - 3% NMF Complex + 0.2% Panthenol",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Calendula officinalis {Flower} Extract, Betaine, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Threonine, Arginine, Proline, Glycerin, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Aloe barbadensis (Aloe Vera) Extract, Triethanolamine, Phenoxyethanol (and) Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Pyrrolidone Carboxylate, Sodium Gluconate, Panthenol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "sodium pca",
+    "glycerin",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-bcvtk9",
+  "brand": "Deconstruct",
+  "model": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+  "price": 284,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Ceramides + Chamomile",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); cholesterol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides, Chamomile (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciMatchedName": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol (name match 100%)",
+   "inciList": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "evidenceActives": "centella asiatica extract (#4 on list, moderate evidence); cholesterol (#11 on list, moderate evidence); ceramide ap (#12 on list, moderate evidence); ceramide eop (#13 on list, moderate evidence); ceramide np (#14 on list, moderate evidence); bisabolol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — centella asiatica extract #4 on INCI, ceramide ap #12 on INCI, ceramide eop #13 on INCI, ceramide np #14 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/Skin_Soothe_Moisturizer_-_1__Ceramide_0.2__Bisabolol.webp?v=1782482332"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+  "tags": [
+   "scope:unstated",
+   "ing:ceramides",
+   "ing:chamomile",
+   "claim:hydrating",
+   "claim:soothing",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/skin-soothe-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Skin Soothe Moisturizer - 1% Ceramide + 0.2% Bisabolol",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Medium Chain Triglycerides, Vitellaria paradoxa (Shea) Butter, Centella asiatica Extract, Isopropyl Myristate, Cetostearyl Alcohol, Stearic Acid, Glyceryl Monostearate, Aqua (and) Carbomer (and) Cholesterol (and) Ceramide AP (and) Ceramide EOP (and) Ceramide NP (and) Phytosphingosine (and) Sodium Lauroyl Lactylate (and) Xanthan Gum, Sodium Polyacrylate, Glycine max (Soya) Wax, Phenoxyethanol (and) Ethylhexylglycerin, Sodium Gluconate, Triethanolamine, Bisabolol, L-Arginine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "cholesterol",
+    "ceramide ap",
+    "ceramide eop",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-1d7wahu",
+  "brand": "Deconstruct",
+  "model": "Brightening Moisturizer- 3% Vitamin C + 1% Kojic Acid Dipalmitate",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C + Kojic acid",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Kojic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-moisturizer-5-niacinamide-1-kojic-acid",
+   "inciMatchedName": "Brightening Moisturizer- 3% Vitamin C + 1% Kojic Acid Dipalmitate (name match 100%)",
+   "inciList": "Aqua, Hydrogenated Olive Oil Unsaponifiables (and) Hydrogenated Ethylhexyl Olivate (and) Dibutyl Adipate, Niacinamide, 3-O-Ethyl Ascorbic Acid (and) Water, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Glycerin, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Kojic acid dipalmitate, Phenoxyethanol, Ethylhexylglycerin, C6- C12 Triglycerides, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer (and) Isohexadecane (and) Polysorbate 80, Niacinamide (and) Citrus Junos Seed Extract (and) Lactobacillus Ferment (and) Scutellaria Baicalensis Root Extract, Lactic Acid, Vitamin E, Sodium Gluconate",
+   "evidenceActives": "niacinamide (#5 on list, strong evidence); glycerin (#11 on list, strong evidence); tocopherol (#26 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, 3-o-ethyl ascorbic acid #6 on INCI, kojic dipalmitate #14 on INCI; Aging — 3-o-ethyl ascorbic acid #6 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-31.webp?v=1779363276"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/brightening-moisturizer-5-niacinamide-1-kojic-acid",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Brightening Moisturizer- 3% Vitamin C + 1% Kojic Acid Dipalmitate",
+  "tags": [
+   "scope:unstated",
+   "ing:vitamin-c",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-moisturizer-5-niacinamide-1-kojic-acid",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Moisturizer- 3% Vitamin C + 1% Kojic Acid Dipalmitate",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Hydrogenated Olive Oil Unsaponifiables (and) Hydrogenated Ethylhexyl Olivate (and) Dibutyl Adipate, Niacinamide, 3-O-Ethyl Ascorbic Acid (and) Water, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Glycerin, Diheptyl Succinate (and) Capryloyl Glycerin/Sebacic Acid Copolymer, Kojic acid dipalmitate, Phenoxyethanol, Ethylhexylglycerin, C6- C12 Triglycerides, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer (and) Isohexadecane (and) Polysorbate 80, Niacinamide (and) Citrus Junos Seed Extract (and) Lactobacillus Ferment (and) Scutellaria Baicalensis Root Extract, Lactic Acid, Vitamin E, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-jg95eb",
   "brand": "The Derma Co",
   "model": "5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g",

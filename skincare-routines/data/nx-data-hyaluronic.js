@@ -16585,15 +16585,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 5.8
   },
   "fullSpec": {
@@ -16611,14 +16612,18 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (222 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Hyaluronic Acid, Niacinamide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum (name match 100%)",
+   "listingIngredientLine": "Hyaluronic Acid, Niacinamide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#5 on list, moderate evidence); niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 222 ratings"
+   "buyerEvidence": "4.2★ from 222 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/9/o/-original-imahhy36ggynwepg.jpeg?q=90",
@@ -16639,7 +16644,11 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -16647,25 +16656,46 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluronic Acid, Niacinamide",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -17628,17 +17658,17 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Hyaluronic acid",
   "featureLine": "Serum · ₹1400/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 3,518 ratings"
   ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.8
   },
   "fullSpec": {
@@ -17656,14 +17686,18 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (3,518 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Hyaluronic Acid, Kiwi Extract, Watermelon Extract",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/2-hyaluronic-acid-hydration-super-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Hydration Super Serum (name match 100%)",
+   "listingIngredientLine": "Hyaluronic Acid, Kiwi Extract, Watermelon Extract (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Sodium Hyaluronate (Hyaluronic Acid), Aloe Barbadensis Leaf Juice, Propanediol, Centella Asiatica Extract, Betaine, Sodium Lactate, Sodium Gluconate, Sodium PCA, Phenoxyethanol, Ethylhexylglycerin, Actinidia Chinensis (Kiwi) Fruit Extract, Citrullus Lanatus (Watermelon) Fruit Extract, Heptyl Glucoside, Panthenol (Vitamin B5), Allantoin, Sodium Gluconate, Tocopherol Acetate",
+   "evidenceActives": "sodium hyaluronate (#2 on list, moderate evidence); panthenol (#15 on list, moderate evidence); allantoin (#16 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "declaredManufacturer": "Naturis Cosmetics Pvt. Ltd, 1-EPIP, SIDCO Industrial Complex, Bari Brahmana, Jammu (J&K), India - 181133 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 3,518 ratings"
+   "buyerEvidence": "4.3★ from 3,518 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI, centella asiatica extract #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/h/z/-original-imahn6yzzzm8yaxh.jpeg?q=90",
@@ -17687,7 +17721,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -17695,25 +17732,79 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluronic Acid, Kiwi Extract, Watermelon Extract",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/2-hyaluronic-acid-hydration-super-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Hydration Super Serum",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium Hyaluronate (Hyaluronic Acid), Aloe Barbadensis Leaf Juice, Propanediol, Centella Asiatica Extract, Betaine, Sodium Lactate, Sodium Gluconate, Sodium PCA, Phenoxyethanol, Ethylhexylglycerin, Actinidia Chinensis (Kiwi) Fruit Extract, Citrullus Lanatus (Watermelon) Fruit Extract, Heptyl Glucoside, Panthenol (Vitamin B5), Allantoin, Sodium Gluconate, Tocopherol Acetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "propanediol",
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -54873,15 +54964,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid",
   "featureLine": "Serum · ₹1933/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.9
   },
   "fullSpec": {
@@ -54899,13 +54991,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum (name match 100%)",
+   "inciList": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#5 on list, moderate evidence); niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/4179TTm5sxL._SL1080_.jpg",
@@ -54930,7 +55025,11 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -54938,25 +55037,46 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Serum with 1% Niacinamide | Oil Free Hydrating Face serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol,Sodium Hyaluronate, Piper nigrum (Black pepper) Seed Extract, Butylene Glycol, Niacinamide, Xanthan Gum, Phenoxyethanol (and) Ethylhexylglycerin, Magnesium Aspartate (and) Zinc Gluconate (and) Copper Gluconate, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -94553,16 +94673,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Ceramides",
   "featureLine": "Serum · ₹7663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); ceramide np high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -94580,11 +94702,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciMatchedName": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml) (name match 80%)",
+   "inciList": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
+   "evidenceActives": "glycerin (#18 on list, strong evidence); ceramide np (#21 on list, moderate evidence); niacinamide (#27 on list, strong evidence); allantoin (#28 on list, limited evidence); sodium hyaluronate (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings"
   },
@@ -94615,7 +94739,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -94623,25 +94749,82 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml)",
+   "inciMatchScore": 0.8,
+   "inciText": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide eop",
+    "ceramide np",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

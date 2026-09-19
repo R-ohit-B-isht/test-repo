@@ -10649,6 +10649,1149 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-bs-15c3s55",
+  "brand": "Deconstruct",
+  "model": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol",
+  "price": 149,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Lip balm · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciMatchedName": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol (name match 100%)",
+   "inciList": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
+   "evidenceActives": "prunus amygdalus dulcis oil (#19 on list, moderate evidence); titanium dioxide (#20 on list, strong evidence); zinc oxide (#24 on list, strong evidence); tocopherol (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #26 on INCI; Aging — ascorbyl tetraisopalmitate #26 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip balm (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/B_Lip_Balm_4.2_gm_-_BeigeArtboard_1_copy.webp?v=1766496490"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "spf:50",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/lip-balm-spf-30",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Lip Balm with SPF 50 - 1% Vitamin C + 0.1% Resorcinol",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Microcristallina Cera, Copernicia Cerifera (Carnauba) Wax, Helianthus Annuus Seed Oil, Butyl Methoxydibenzoylmethane, Candelilla Cera, Ozokerite,Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide, Silica, Jojoba esters, Polyhydroxy Stearic Acid, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides, Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid, Linolenic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-ct4kwa",
+  "brand": "Deconstruct",
+  "model": "Brightening Tinted Lip Balm with 1% Vitamin C & 0.1 Resorcinol SPF 50, PA++",
+  "price": 179,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Lip balm · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Tinted, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-tinted-lip-balm-with-1-vitamin-c-0-1-resorcinol-spf-30-pa",
+   "inciMatchedName": "Brightening Tinted Lip Balm with 1% Vitamin C & 0.1 Resorcinol SPF 50, PA++ (name match 100%)",
+   "inciList": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Copernicia Cerifera (Carnauba)Wax, Microcrystalline Wax, Helianthus Annuus Seed Oil, Candelilla Wax, Butyl Methoxydibenzoylmethane, Ozokerite, Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter , Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide (and) Silica (and) Jojoba esters (and) Caprylic/Capric Triglyceride (and) Polyhydroxy Stearic Acid, Zinc Oxide (and) C12-15 Alkyl Benzoate (and) Isostearic Acid (and) Polyhydroxystearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides (and) Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid (and) Linolenic Acid, CI 45410, CI 19140, CI 15880:1",
+   "evidenceActives": "prunus amygdalus dulcis oil (#19 on list, moderate evidence); titanium dioxide (#20 on list, strong evidence); zinc oxide (#25 on list, strong evidence); tocopherol (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #28 on INCI; Aging — ascorbyl tetraisopalmitate #28 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip balm (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/T_Lip_Balm_4.2_gm_-_BeigeArtboard_1_copy_b1ce10a3-c4b9-49ed-8cd2-16a20a7ce84b.jpg?v=1766496518"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/brightening-tinted-lip-balm-with-1-vitamin-c-0-1-resorcinol-spf-30-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Brightening Tinted Lip Balm with 1% Vitamin C & 0.1 Resorcinol SPF 50, PA++",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "spf:50",
+   "pa:++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:tinted",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-tinted-lip-balm-with-1-vitamin-c-0-1-resorcinol-spf-30-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Tinted Lip Balm with 1% Vitamin C & 0.1 Resorcinol SPF 50, PA++",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Copernicia Cerifera (Carnauba)Wax, Microcrystalline Wax, Helianthus Annuus Seed Oil, Candelilla Wax, Butyl Methoxydibenzoylmethane, Ozokerite, Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter , Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide (and) Silica (and) Jojoba esters (and) Caprylic/Capric Triglyceride (and) Polyhydroxy Stearic Acid, Zinc Oxide (and) C12-15 Alkyl Benzoate (and) Isostearic Acid (and) Polyhydroxystearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides (and) Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid (and) Linolenic Acid, CI 45410, CI 19140, CI 15880:1",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-jtent7",
+  "brand": "Deconstruct",
+  "model": "Brightening Tinted Lip Balm With SPF 50 For Dark Lips with 1% Vitamin C & 0.1 Resorcinol (…",
+  "price": 374,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Lip balm · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Tinted, SPF included, Chapped / dark lips (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-tinted-lip-balm-combo-with-1-vitamin-c-0-1-resorcinol-spf-30-pa",
+   "inciMatchedName": "Brightening Tinted Lip Balm With SPF 50 For Dark Lips with 1% Vitamin C & 0.1 Resorcinol (Pack of 2) (name match 100%)",
+   "inciList": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Copernicia Cerifera (Carnauba)Wax, Microcrystalline Wax, Helianthus Annuus Seed Oil, Candelilla Wax, Butyl Methoxydibenzoylmethane, Ozokerite, Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter , Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide (and) Silica (and) Jojoba esters (and) Caprylic/Capric Triglyceride (and) Polyhydroxy Stearic Acid, Zinc Oxide (and) C12-15 Alkyl Benzoate (and) Isostearic Acid (and) Polyhydroxystearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides (and) Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid (and) Linolenic Acid, CI 45410, CI 19140, CI 15880:1",
+   "evidenceActives": "prunus amygdalus dulcis oil (#19 on list, moderate evidence); titanium dioxide (#20 on list, strong evidence); zinc oxide (#25 on list, strong evidence); tocopherol (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #28 on INCI; Aging — ascorbyl tetraisopalmitate #28 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip balm (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/brightening_tinted_lip_balm_combo_ab10adae-d08e-4a20-9985-cea807e17d7e.webp?v=1783943304"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/brightening-tinted-lip-balm-combo-with-1-vitamin-c-0-1-resorcinol-spf-30-pa",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Brightening Tinted Lip Balm With SPF 50 For Dark Lips with 1% Vitamin C & 0.1 Resorcinol (Pack of 2)",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "spf:50",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:tinted",
+   "claim:spf-claim",
+   "claim:chapped-lips",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-tinted-lip-balm-combo-with-1-vitamin-c-0-1-resorcinol-spf-30-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Tinted Lip Balm With SPF 50 For Dark Lips with 1% Vitamin C & 0.1 Resorcinol (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Copernicia Cerifera (Carnauba)Wax, Microcrystalline Wax, Helianthus Annuus Seed Oil, Candelilla Wax, Butyl Methoxydibenzoylmethane, Ozokerite, Theobroma Cacao Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter , Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Astrocaryum Murumuru Seed Butter, Theobroma Grandiflorum Seed Butter, Prunus Amygdalus Dulcis Oil, Titanium Dioxide (and) Silica (and) Jojoba esters (and) Caprylic/Capric Triglyceride (and) Polyhydroxy Stearic Acid, Zinc Oxide (and) C12-15 Alkyl Benzoate (and) Isostearic Acid (and) Polyhydroxystearic Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Soybean Glycerides (and) Butyrospermum Parkii Butter Unsaponifiables, Phenylethyl Resorcinol, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid (and) Linolenic Acid, CI 45410, CI 19140, CI 15880:1",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-12ktyfo",
+  "brand": "Deconstruct",
+  "model": "Hyaluronic Acid Lip Balm- 0.2% Hyaluronic Acid + 1% Cupuacu Butter (Pack of 2)",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Hyaluronic acid",
+  "featureLine": "Lip balm",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/hyaluronic-acid-lip-balm-combo-0-2-hyaluronic-acid-1-cupuacu-butter-overnight-lip-balm",
+   "inciMatchedName": "Hyaluronic Acid Lip Balm- 0.2% Hyaluronic Acid + 1% Cupuacu Butter (Pack of 2) (name match 100%)",
+   "inciList": "Ricinus Communis Seed Oil, Ozokerite, Copernicia Cerifera (Carnauba) Wax, Candelilla Wax, Microcrystalline Wax, Helianthus Annus (Sweet Almond) Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Butyl Methoxydibenzoylmethane, Theobroma Cacao Seed Butter, Astrocaryum Murumuru Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Prunus Amygdalus Dulcis Oil, Theobroma Grandiflorum Seed Butter, Sodium Hyaluronate (and) Ricinus Communis (Castor) Seed Oil (and) Hydrogenated Castor Oil, Tocopherol, Soybean Glycerides (and) Butyrospermum Parkii Butter Unsaponifiables, Vanilla Planifolia Fruit Oil, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "prunus amygdalus dulcis oil (#18 on list, moderate evidence); sodium hyaluronate (#20 on list, moderate evidence); tocopherol (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip balm (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/cropped-Copy_of_hyluronic_acid_lip_balm_1.webp?v=1769877746"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/hyaluronic-acid-lip-balm-combo-0-2-hyaluronic-acid-1-cupuacu-butter-overnight-lip-balm",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Hyaluronic Acid Lip Balm- 0.2% Hyaluronic Acid + 1% Cupuacu Butter (Pack of 2)",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/hyaluronic-acid-lip-balm-combo-0-2-hyaluronic-acid-1-cupuacu-butter-overnight-lip-balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hyaluronic Acid Lip Balm- 0.2% Hyaluronic Acid + 1% Cupuacu Butter (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis Seed Oil, Ozokerite, Copernicia Cerifera (Carnauba) Wax, Candelilla Wax, Microcrystalline Wax, Helianthus Annus (Sweet Almond) Seed Oil, Caprylic/Capric Triglyceride, Isopropyl Myristate, Butyl Methoxydibenzoylmethane, Theobroma Cacao Seed Butter, Astrocaryum Murumuru Seed Butter, Ethylhexyl Salicylate, Homosalate, Octocrylene, Mangifera Indica Seed Butter, Hydrogenated Castor Oil, Garcinia Indica Seed Butter, Prunus Amygdalus Dulcis Oil, Theobroma Grandiflorum Seed Butter, Sodium Hyaluronate (and) Ricinus Communis (Castor) Seed Oil (and) Hydrogenated Castor Oil, Tocopherol, Soybean Glycerides (and) Butyrospermum Parkii Butter Unsaponifiables, Vanilla Planifolia Fruit Oil, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Linoleic Acid (and) Linolenic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-34hswf",
+  "brand": "Deconstruct",
+  "model": "Collagen & Peptide Lip Sleeping Mask",
+  "price": 221,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Peptides + Collagen",
+  "featureLine": "Lip mask",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip mask",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Peptides, Collagen (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciMatchedName": "Collagen & Peptide Lip Sleeping Mask (name match 100%)",
+   "inciList": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
+   "evidenceActives": "butyrospermum parkii butter (#2 on list, moderate evidence); tocopherol (#23 on list, moderate evidence); sodium hyaluronate (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI, adenosine #22 on INCI (matching only — not proof it works)",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip Mask (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/final-resized-imagesArtboard-14.webp?v=1779365270"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Collagen & Peptide Lip Sleeping Mask",
+  "tags": [
+   "scope:face",
+   "format:sleeping-mask",
+   "format:lip-mask",
+   "ing:peptides",
+   "ing:collagen",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Collagen & Peptide Lip Sleeping Mask",
+   "inciMatchScore": 1,
+   "inciText": "Hydrogenated Polyisobutene, Butyrospermum parkii (Shea) Butter, Diisostearyl Malate, Octyldodecanol, Euphorbia cerifera, Microcrystalline Wax, Pentaerythrityl Tetraisostearate, Copernicia cerifera Cera, Ricinus communis Seed Oil, Ethylhexyl Palmitate (and) Tribehenin (and) Sorbitan Isostearate (and) Palmitoyl Tripeptide-1, Vitamin F, Glyceryl Caprylate (and) Glyceryl Undecylenate, Actinidia deliciosa (Kiwi) Oil Extract (and) Carica papaya (Papaya) Oil Extract (and) Fragaria ananassa (Strawberry) Oil Extract (and) Rubus idaeus (Raspberry) Oil Extract (and) Lycium barbarum (Goji berry) Oil Extract, Adenosine, Tocopherol, Helianthus annuus Seed Oil, Sodium Hyaluronate, Water (and) Hydrolyzed Soy Protein (and) Rice Amino Acids (and) Hydrolyzed Adansonia digitata Seed Extract (and) Proline, Polysorbate 20",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-bs-6fk5fw",
+  "brand": "Deconstruct",
+  "model": "Brightening Lip Balm With SPF 50 For Dark Lips - 1% Vitamin C + 0.1% Resorcinol (Pack of 2…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Lip balm · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.5,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included, Chapped / dark lips (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-lip-balm-combo-lip-balm-with-spf",
+   "inciMatchedName": "Brightening Lip Balm With SPF 50 For Dark Lips - 1% Vitamin C + 0.1% Resorcinol (Pack of 2) (name match 100%)",
+   "inciList": "Ricinus Communis Seed Oil, Octocrylene, Isopropyl Myristate, Octyl Methoxycinnamate, Caprylic/Capric Triglyceride, Copernicia Cerifera (Carnauba) Wax, Ozokerite, Candelilla Cera, Cera Microcristallina, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Helianthus Annuus Seed Oil, Theobroma Cacao Seed Butter, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii (Shea) Butter, Mangifera Indica Seed Butter, Garcinia Indica Seed Butter, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Astrocaryum Murumuru Seed Butter, Titanium Dioxide & Silica & Jojoba esters & Caprylic/Capric Triglyceride & Polyhydroxy Stearic Acid, Ascorbyl tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Phenylethyl Resorcinol, Sucralose",
+   "evidenceActives": "prunus amygdalus dulcis oil (#14 on list, moderate evidence); butyrospermum parkii butter (#15 on list, moderate evidence); tocopherol (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #21 on INCI; Aging — ascorbyl tetraisopalmitate #21 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Deconstruct official web store (thedeconstruct.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Lip balm (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0712/5621/1737/files/brightening_lip_balm_combo.webp?v=1779799226"
+  ],
+  "buyUrl": "https://thedeconstruct.in/products/brightening-lip-balm-combo-lip-balm-with-spf",
+  "buyStore": "Brand store",
+  "title": "Deconstruct Brightening Lip Balm With SPF 50 For Dark Lips - 1% Vitamin C + 0.1% Resorcinol (Pack of 2)",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "spf:50",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "claim:chapped-lips",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Deconstruct official website (thedeconstruct.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedeconstruct.in/products/brightening-lip-balm-combo-lip-balm-with-spf",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Brightening Lip Balm With SPF 50 For Dark Lips - 1% Vitamin C + 0.1% Resorcinol (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis Seed Oil, Octocrylene, Isopropyl Myristate, Octyl Methoxycinnamate, Caprylic/Capric Triglyceride, Copernicia Cerifera (Carnauba) Wax, Ozokerite, Candelilla Cera, Cera Microcristallina, Dicaprylyl Carbonate, Butyl Methoxydibenzoylmethane, Helianthus Annuus Seed Oil, Theobroma Cacao Seed Butter, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii (Shea) Butter, Mangifera Indica Seed Butter, Garcinia Indica Seed Butter, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Astrocaryum Murumuru Seed Butter, Titanium Dioxide & Silica & Jojoba esters & Caprylic/Capric Triglyceride & Polyhydroxy Stearic Acid, Ascorbyl tetraisopalmitate, Tocopherol, Vanilla Planifolia Fruit Oil, Phenylethyl Resorcinol, Sucralose",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-derma-co-bs-1qpmc5q",
   "brand": "The Derma Co",
   "model": "1% Kojic Acid Lip Balm with Alpha Arbutin & Hyaluronic Acid with SPF 50 - 4.5g (Pack Of 2)",
