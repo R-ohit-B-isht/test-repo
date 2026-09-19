@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -45,7 +45,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Makeup Cleanser (brand site's own product type)"
   },
   "images": [
@@ -159,7 +159,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -281,7 +281,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #21 on INCI, palmitoyl tetrapeptide-7 #22 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "cleansers (brand site's own product type)"
   },
   "images": [
@@ -448,7 +448,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #21 on INCI, palmitoyl tetrapeptide-7 #22 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "cleansers (brand site's own product type)"
   },
   "images": [
@@ -616,7 +616,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #21 on INCI, palmitoyl tetrapeptide-7 #22 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "cleansers (brand site's own product type)"
   },
   "images": [
@@ -782,7 +782,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "cleansers (brand site's own product type)"
   },
   "images": [
@@ -922,7 +922,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0081/1155/4613/files/DD2.jpg?v=1755946182"
@@ -1062,7 +1062,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cleansing Balm (brand site's own product type)"
   },
   "images": [
@@ -1195,7 +1195,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #8 on INCI; Aging — 3-o-ethyl ascorbic acid #8 on INCI; Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0314/7084/5996/files/GentleMicellarWater.jpg?v=1695797974"
@@ -1345,7 +1345,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cleansing Balm (brand site's own product type)"
   },
   "images": [
@@ -1470,7 +1470,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cleansing Balm (brand site's own product type)"
   },
   "images": [
@@ -1606,7 +1606,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Makeup (brand site's own product type)"
   },
   "images": [
@@ -1747,7 +1747,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -1880,7 +1880,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -2014,7 +2014,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -2147,7 +2147,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Minis (brand site's own product type)"
   },
   "images": [
@@ -2279,7 +2279,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate, geraniol, limonene, linalool (−1.5)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/micellar-water/micellar-oil-infused-cleansing-water/micellar-oil-infused-cleansing-water-125ml/6902395501992-01.jpg?rev=b8ea8050dd134ec5b03b0e54220ddd7b&hash=A15CB8CD1F51066313271E24C93D523B"
@@ -2435,7 +2435,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Massage Cream (brand site's own product type)"
   },
   "images": [
@@ -2533,7 +2533,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Lotion (brand site's own product type)"
   },
   "images": [
@@ -2637,7 +2637,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8); Essential oil / volatile sensitiser: rosemary oil (−0.3)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cleansing Milk (brand site's own product type)"
   },
   "images": [
@@ -2790,7 +2790,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/k/k/kk-cleansing-oil_50ml_600x600px_1_1.png?store=default&image-type=small_image"
@@ -2890,7 +2890,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Creams & Bodybutter (brand site's own product type)"
   },
   "images": [

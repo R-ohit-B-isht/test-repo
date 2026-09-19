@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -44,7 +44,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Botox Treatment (brand site's own product type)"
   },
   "images": [
@@ -141,7 +141,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Straightening and Neutralizer Cream (brand site's own product type)"
   },
   "images": [
@@ -242,7 +242,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Botox Treatment (brand site's own product type)"
   },
   "images": [
@@ -339,7 +339,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Keratin Treatment (brand site's own product type)"
   },
   "images": [
@@ -438,7 +438,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Keratin Protein Treatment (brand site's own product type)"
   },
   "images": [
@@ -539,7 +539,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Exfoliator (brand site's own product type)"
   },
   "images": [

@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -43,7 +43,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -146,7 +146,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -266,7 +266,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "DRY SHAMPOO (brand site's own product type)"
   },
   "images": [
@@ -367,7 +367,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/DryShampoo1.jpg?v=1756904357"
@@ -519,7 +519,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -622,7 +622,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: citronellol, geraniol, hydroxycitronellal, limonene (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0562/2068/0362/files/Product-Sec_jpg.jpg?v=1770724019"

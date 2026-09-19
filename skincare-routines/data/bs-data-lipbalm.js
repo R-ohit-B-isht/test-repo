@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -45,7 +45,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -150,7 +150,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -256,7 +256,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -367,7 +367,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #13 on INCI; Aging — palmitoyl tripeptide-1 #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -555,7 +555,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -624,16 +624,18 @@ const BSPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm · ₹13960/100g",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "allantoin high on the INCI list (limited evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.6,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -651,14 +653,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml_cherry_lip-_balm",
+   "inciMatchedName": "Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "allantoin (#9 on list, limited evidence); sodium hyaluronate (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -676,7 +680,8 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -684,27 +689,81 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml_cherry_lip-_balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -759,7 +818,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -863,7 +922,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -973,7 +1032,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #13 on INCI; Aging — palmitoyl tripeptide-1 #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -1164,7 +1223,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #13 on INCI; Aging — palmitoyl tripeptide-1 #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -1356,7 +1415,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #13 on INCI; Aging — palmitoyl tripeptide-1 #20 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -1547,7 +1606,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #13 on INCI; Aging — palmitoyl tripeptide-1 #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -1746,7 +1805,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #28 on INCI; Dark spots — niacinamide #28 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/pigmentation-repair-lip-balm/Product_Hero%20%281%29_i7wjcj.jpg?tr=w-600"
@@ -1910,6 +1969,203 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "bellavita-bs-1ks3oa8",
+  "brand": "BELLAVITA",
+  "model": "Tinted Lip Balm SPF 20 | Pack of 2",
+  "price": 349,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lip balm · SPF 20",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); squalane high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Tinted, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 20 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/tinted-lip-balm-spf-20-pack-of-2",
+   "inciMatchedName": "Tinted Lip Balm SPF 20 | Pack of 2 (name match 100%)",
+   "inciList": "Helianthus Annuus (Sunflower) Seed Oil, Hydrogenated Polyisobutene, Ethylhexyl Salicylate, Ethylhexyl Triazone, Cetearyl Alcohol, Polysorbate 60, Euphorbia Cerifera (Candelilla) Wax, Copernicia Cerifera (Carnauba) Wax, Isoamyl Laurate, Decyl Oleate, Diisostearyl Malate, Glyceryl Behenate, Glyceryl Behenate/Eicosadioate, Synthetic Wax, Ethylene/Propylene Copolymer, Simmondsia Chinensis (Jojoba) Seed Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyrospermum Parkii (Shea Butter), Isononyl Isononanoate, Squalane, Flavour, Tetrahexyldecyl Ascorbate (Ascorbic Acid), Astrocaryum Murumuru Seed Butter, Garcinia Indica (Kokum) Seed Butter, Hyaluronic Acid, Tocopheryl Acetate (Vitamin E), CI 15585, CI 15850:1, CI 12120, Sodium Saccharin",
+   "evidenceActives": "butyrospermum parkii butter (#18 on list, moderate evidence); squalane (#20 on list, moderate evidence); hyaluronic acid (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #22 on INCI; Aging — tetrahexyldecyl ascorbate #22 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Color Variants Bundle (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0054/6665/2718/files/1_76fb3fcb-f767-4adf-9ce6-09ab24637514.jpg?v=1757659874"
+  ],
+  "buyUrl": "https://bellavitaorganic.com/products/tinted-lip-balm-spf-20-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "BELLAVITA Tinted Lip Balm SPF 20 | Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "spf:15",
+   "water:unstated",
+   "claim:tinted",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/tinted-lip-balm-spf-20-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Tinted Lip Balm SPF 20 | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus (Sunflower) Seed Oil, Hydrogenated Polyisobutene, Ethylhexyl Salicylate, Ethylhexyl Triazone, Cetearyl Alcohol, Polysorbate 60, Euphorbia Cerifera (Candelilla) Wax, Copernicia Cerifera (Carnauba) Wax, Isoamyl Laurate, Decyl Oleate, Diisostearyl Malate, Glyceryl Behenate, Glyceryl Behenate/Eicosadioate, Synthetic Wax, Ethylene/Propylene Copolymer, Simmondsia Chinensis (Jojoba) Seed Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyrospermum Parkii (Shea Butter), Isononyl Isononanoate, Squalane, Flavour, Tetrahexyldecyl Ascorbate (Ascorbic Acid), Astrocaryum Murumuru Seed Butter, Garcinia Indica (Kokum) Seed Butter, Hyaluronic Acid, Tocopheryl Acetate (Vitamin E), CI 15585, CI 15850:1, CI 12120, Sodium Saccharin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tetrahexyldecyl ascorbate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "squalane",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Bella Vita Organic",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://bellavitaorganic.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "bellavita-bs-bpoe4t",
   "brand": "BELLAVITA",
   "model": "Tinted Lip Balm SPF 20 - 10ml",
@@ -1958,7 +2214,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #22 on INCI; Aging — tetrahexyldecyl ascorbate #22 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -2155,7 +2411,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #22 on INCI; Aging — tetrahexyldecyl ascorbate #22 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -2352,7 +2608,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #22 on INCI; Aging — tetrahexyldecyl ascorbate #22 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -2549,7 +2805,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #22 on INCI; Aging — tetrahexyldecyl ascorbate #22 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -2746,7 +3002,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #22 on INCI; Aging — tetrahexyldecyl ascorbate #22 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -2941,7 +3197,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Campaign Product (brand site's own product type)"
   },
   "images": [
@@ -3099,7 +3355,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbic acid #3 on INCI; Aging — ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -3235,7 +3491,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -3406,7 +3662,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -3504,7 +3760,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -3605,7 +3861,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -3705,7 +3961,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -3803,7 +4059,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -3902,7 +4158,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -4000,7 +4256,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lipbalms (brand site's own product type)"
   },
   "images": [
@@ -4102,7 +4358,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -4267,7 +4523,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -4432,7 +4688,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #29 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -4662,7 +4918,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Butter (brand site's own product type)"
   },
   "images": [
@@ -4763,7 +5019,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Butter (brand site's own product type)"
   },
   "images": [
@@ -4910,7 +5166,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5016,7 +5272,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5122,7 +5378,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5228,7 +5484,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5333,7 +5589,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5438,7 +5694,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5540,7 +5796,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -5638,7 +5894,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/1_100.jpg?v=1762770835"
@@ -5734,7 +5990,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -5829,7 +6085,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "LipCare (brand site's own product type)"
   },
   "images": [
@@ -5927,7 +6183,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0058/7779/2832/files/6_1aa960c2-310d-4236-b302-f4558f96358d.jpg?v=1772718855"
@@ -6026,7 +6282,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Care (brand site's own product type)"
   },
   "images": [
@@ -6157,7 +6413,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "LipCare (brand site's own product type)"
   },
   "images": [
@@ -6258,7 +6514,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Care (brand site's own product type)"
   },
   "images": [
@@ -6400,7 +6656,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/WineGrape01.jpg?v=1684826869"
@@ -6495,7 +6751,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Watermelon01.jpg?v=1684826549"
@@ -6591,7 +6847,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Peach01.jpg?v=1684827063"
@@ -6686,7 +6942,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Litchi01.jpg?v=1684827121"
@@ -6781,7 +7037,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Kiwi01.jpg?v=1684827221"
@@ -6880,7 +7136,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/LipBalmbeetroot01.jpg?v=1684826803"
@@ -7030,7 +7286,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #16 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7196,7 +7452,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7303,7 +7559,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7412,7 +7668,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #16 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7575,7 +7831,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7675,7 +7931,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7776,7 +8032,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7875,7 +8131,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -7975,7 +8231,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -8077,7 +8333,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -8178,7 +8434,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -8279,7 +8535,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/11-natural_pink.jpg?v=1782884275"
@@ -8381,7 +8637,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_1ba06b56-b1cd-490c-ae40-a08ae9612c95.jpg?v=1783407357"
@@ -8489,7 +8745,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #25 on INCI; Dark spots — kojic dipalmitate #18 on INCI, niacinamide #25 on INCI; Irritation — ceramide np #19 on INCI, panthenol #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -8715,7 +8971,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #13 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -8932,7 +9188,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -9135,7 +9391,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9266,7 +9522,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9397,7 +9653,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9545,7 +9801,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9692,7 +9948,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9839,7 +10095,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9985,7 +10241,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -10111,7 +10367,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -10132,6 +10388,102 @@ const BSPRODUCTS = [
   "filters": {
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "plum-bs-1tp8mpn",
+  "brand": "Plum",
+  "model": "Candy Melts Lip Loves - Pack of 2 Lip Balms | Red Velvet Love + Berry Feast",
+  "price": 489,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lip balm",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0390/2985/files/Combo-SKUs-Vegan-Lip-Balms-1st-Tile-1001x1001-px_e8f968a0-21c2-4312-9709-adeaab19b5d9.webp?v=1780059185"
+  ],
+  "buyUrl": "https://plumgoodness.com/products/candy-melts-lip-loves-pack-of-2-lip-balms-red-velvet-love-berry-feast",
+  "buyStore": "Brand store",
+  "title": "Plum Candy Melts Lip Loves - Pack of 2 Lip Balms | Red Velvet Love + Berry Feast",
+  "tags": [
+   "scope:face",
+   "format:kit",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false,
@@ -10212,7 +10564,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -10345,7 +10697,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #25 on INCI; Dark spots — kojic dipalmitate #23 on INCI, alpha-arbutin #24 on INCI, niacinamide #25 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -10579,7 +10931,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #25 on INCI; Dark spots — kojic dipalmitate #23 on INCI, alpha-arbutin #24 on INCI, niacinamide #25 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -10810,7 +11162,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -11014,7 +11366,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -11226,7 +11578,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -11437,7 +11789,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_57706685-bade-420f-885b-10f71777e080.jpg?v=1756790142"
@@ -11628,7 +11980,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_e95737ba-7d7a-4867-bbfd-028c3dd75352.jpg?v=1756207680"
@@ -11795,7 +12147,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/rice_pouch_a.jpg?v=1757998641"
@@ -11987,7 +12339,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/PRA_0183ed.png?v=1756991899"
@@ -12155,7 +12507,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI, niacinamide #14 on INCI; Aging — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Buy Now (brand site's own product type)"
   },
   "images": [
@@ -12347,7 +12699,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_Watermelon_Lip_mask.jpg?v=1771237593"
@@ -12535,7 +12887,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI, niacinamide #14 on INCI; Aging — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_2_386e5280-53c4-47ef-b685-b6314837667f.jpg?v=1771237692"
@@ -12726,7 +13078,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_2eb6c85f-a8f7-4f98-a337-e52a2fb1ac1f.jpg?v=1771237782"
@@ -12914,7 +13266,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — retinol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_1_f03c9288-efb3-4107-a56f-f2fe51c1e379.jpg?v=1771237833"
@@ -13074,7 +13426,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — retinol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1Blueberry_Lip_mask.jpg?v=1770635564"
@@ -13234,7 +13586,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI, niacinamide #14 on INCI; Aging — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_Orange_Lip.jpg?v=1770635446"
@@ -13421,7 +13773,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/7cd5209b-2fe5-4180-a75d-0ecc67d9b1bf.png"
@@ -13525,7 +13877,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/7bf9cd96-a98c-4a56-8545-c56dd6e7f050.jpeg"
@@ -13633,7 +13985,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic dipalmitate #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -13772,6 +14124,274 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-mccnb2",
+  "brand": "Dot & Key",
+  "model": "SPF 50+ Vitamin C + E Brightening Lip Balm - Pack of 2",
+  "price": 498,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Lip balm · SPF 50",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/straw_chewrry_b85afca9-6407-4b94-96d9-6b8205e332bf.jpg?v=1760692954"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/spf-50-vitamin-c-e-lip-balm-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key SPF 50+ Vitamin C + E Brightening Lip Balm - Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "spf:50+",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dot-key-bs-or4aq8",
+  "brand": "Dot & Key",
+  "model": "SPF 50+ Barrier Repair Hydrating Lip Balm - Pack of 2",
+  "price": 498,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lip balm · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "petrolatum high on the INCI list (strong evidence); shea butter high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Hard abrasive particles (face): polyethylene",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.1,
+   "skin": 9.2,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lip balm",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-barrier-repair-hydrating-lip-balm-pack-of-2",
+   "inciMatchedName": "SPF 50+ Barrier Repair Hydrating Lip Balm - Pack of 2 (name match 100%)",
+   "inciList": "Hydrogenated Polyisobutene, Petrolatum, Hydrogenated Castor Oil, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Synthetic Wax, Hydrogenated Vegetable Oil, Tri-isostearoyl Polyglyceryl-3 Dimer Dilinoleate, Propylene Glycol, Microcrystalline Wax, Ozokerite, Paraffin Wax, Propylene Glycol Dibenzoate, Shea Butter, Caprylic/Capric Triglyceride, Synthetic Beeswax, Polyethylene, Octyl Methoxycinnamate, Mica, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate,Avocado Oil, Butylated Hydroxytoluene, Flavor, Glycerin/Caprylic/Capric Triglyceride/Water/Hydrogenated Lecithin/Phytosteryl Octyldodecyl Lauroyl Glutamate/Ceramide NP/Sodium Hyaluronate Natural, CI 19140:1, CI 15850:2, CI 15850:1, CI 77891",
+   "evidenceActives": "petrolatum (#2 on list, strong evidence); shea butter (#13 on list, moderate evidence)",
+   "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cocoa_cherry_10528c62-39d2-447e-b584-1a32ef7ef065.jpg?v=1732702648"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/spf-50-barrier-repair-hydrating-lip-balm-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key SPF 50+ Barrier Repair Hydrating Lip Balm - Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "spf:50+",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-barrier-repair-hydrating-lip-balm-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "SPF 50+ Barrier Repair Hydrating Lip Balm - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Hydrogenated Polyisobutene, Petrolatum, Hydrogenated Castor Oil, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Synthetic Wax, Hydrogenated Vegetable Oil, Tri-isostearoyl Polyglyceryl-3 Dimer Dilinoleate, Propylene Glycol, Microcrystalline Wax, Ozokerite, Paraffin Wax, Propylene Glycol Dibenzoate, Shea Butter, Caprylic/Capric Triglyceride, Synthetic Beeswax, Polyethylene, Octyl Methoxycinnamate, Mica, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate,Avocado Oil, Butylated Hydroxytoluene, Flavor, Glycerin/Caprylic/Capric Triglyceride/Water/Hydrogenated Lecithin/Phytosteryl Octyldodecyl Lauroyl Glutamate/Ceramide NP/Sodium Hyaluronate Natural, CI 19140:1, CI 15850:2, CI 15850:1, CI 77891",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "petrolatum",
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "polyethylene"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-1hrardd",
   "brand": "Dot & Key",
   "model": "Barrier Repair Hydrating Lip Balm In-Vivo Tested SPF 50+ PA+++",
@@ -13819,7 +14439,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -13979,7 +14599,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14083,7 +14703,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14186,7 +14806,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14287,7 +14907,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Care (brand site's own product type)"
   },
   "images": [
@@ -14386,7 +15006,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14487,7 +15107,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14585,7 +15205,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14683,7 +15303,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Care (brand site's own product type)"
   },
   "images": [
@@ -14780,7 +15400,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -14879,7 +15499,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Care (brand site's own product type)"
   },
   "images": [
@@ -14977,7 +15597,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/k/a/kama_vanilla-lip-care_5g_1_600x600px_1.png?store=default&image-type=small_image"
@@ -15072,7 +15692,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/r/o/rose-lip-care.png?store=default&image-type=small_image"
@@ -15168,7 +15788,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15265,7 +15885,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care/Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15364,7 +15984,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15461,7 +16081,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15559,7 +16179,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15656,7 +16276,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15753,7 +16373,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balms (brand site's own product type)"
   },
   "images": [
@@ -15855,7 +16475,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl pentapeptide-4 #14 on INCI, palmitoyl tetrapeptide-7 #15 on INCI (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -16016,7 +16636,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl pentapeptide-4 #16 on INCI, palmitoyl tetrapeptide-7 #17 on INCI (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -16163,7 +16783,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -16255,14 +16875,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -16353,14 +16973,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -16424,16 +17044,18 @@ const BSPRODUCTS = [
   "capacityLine": "10 g",
   "materialLine": "Peptides + Squalane",
   "featureLine": "Lip balm · ₹3990/100g",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "squalane high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -16451,14 +17073,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/hyphen-vitamin-infused-peptide-lip-balm-hazel-peachy-nude",
+   "inciMatchedName": "VIP HAZEL LIP BALM WITH 1% VIT E, 2% SQUALANE & PEPTIDES - 10G (name match 100%)",
+   "inciList": "Hydrogenated Polyisobutene, Helianthus Annuus (Sunflower) Oil, Olive Oil PEG-7 Esters, Synthetic Wax, Caprylic/Capric Triglyceride, Propylene Glycol, Paraffin, Squalane, Polyurethane-79, Glycol Montanate, Tocotrienol (Vitamin E), Linoleic Acid (Vitamin F), Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Butyrospermum Parkii (Shea) Butter, Tapioca Starch, Vanillin, Caprylyl Glycol, Sucralose, Glycerin, Aqua (Water), Polysorbate 20, CI 77891, CI 77799, CI 77492, CI 45410:2, CI 45380:3. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "squalane (#8 on list, moderate evidence); butyrospermum parkii butter (#18 on list, moderate evidence); glycerin (#23 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Aging — palmitoyl pentapeptide-4 #16 on INCI, palmitoyl tetrapeptide-7 #17 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -16476,7 +17101,10 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -16484,25 +17112,70 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/hyphen-vitamin-infused-peptide-lip-balm-hazel-peachy-nude",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "VIP HAZEL LIP BALM WITH 1% VIT E, 2% SQUALANE & PEPTIDES - 10G",
+   "inciMatchScore": 1,
+   "inciText": "Hydrogenated Polyisobutene, Helianthus Annuus (Sunflower) Oil, Olive Oil PEG-7 Esters, Synthetic Wax, Caprylic/Capric Triglyceride, Propylene Glycol, Paraffin, Squalane, Polyurethane-79, Glycol Montanate, Tocotrienol (Vitamin E), Linoleic Acid (Vitamin F), Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Butyrospermum Parkii (Shea) Butter, Tapioca Starch, Vanillin, Caprylyl Glycol, Sucralose, Glycerin, Aqua (Water), Polysorbate 20, CI 77891, CI 77799, CI 77492, CI 45410:2, CI 45380:3. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "squalane",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -16562,7 +17235,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PinkTherapyLipBalmPI_1-min_0cea998e-1be4-41eb-acea-e82f272ccd4a.jpg?v=1767272486"
@@ -16739,7 +17412,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/BerrySplash-min.jpg?v=1767173072"
@@ -16844,7 +17517,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -17007,7 +17680,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/Matcha_lip_balm-min.jpg?v=1767174878"
@@ -17112,7 +17785,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PrincessbyReneeDisneyMoanaBeachyPeachyLipBalmPI.jpg?v=1767768849"
@@ -17266,7 +17939,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -17405,7 +18078,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -17590,7 +18263,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -17689,7 +18362,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lip Balm (brand site's own product type)"
   },
   "images": [
@@ -17815,7 +18488,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -17921,7 +18594,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "99STORE (brand site's own product type)"
   },
   "images": [
@@ -18087,7 +18760,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -18213,7 +18886,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -18316,7 +18989,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -18449,7 +19122,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -18579,7 +19252,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -18737,7 +19410,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -18842,7 +19515,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -18930,176 +19603,6 @@ const BSPRODUCTS = [
   }
  },
  {
-  "id": "the-man-company-bs-1dbsgw0",
-  "brand": "The Man Company",
-  "model": "Lip Lightening Regime",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "butyrospermum parkii butter high on the INCI list (moderate evidence); cera alba high on the INCI list (moderate evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 7.9,
-   "skin": 10,
-   "trust": 8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Whitening / fairness (claim), Chapped / dark lips (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "The Man Company official website (www.themancompany.com) — this product's page › Ingredients",
-   "inciSourceUrl": "https://www.themancompany.com/products/lip-lightening-regime",
-   "inciMatchedName": "Lip Lightening Regime (name match 100%)",
-   "inciList": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
-   "evidenceActives": "butyrospermum parkii butter (#1 on list, moderate evidence); cera alba (#3 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); cocos nucifera oil (#10 on list, limited evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "With Free Gifts (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/1188/2592/files/Lip_Lightning_regime_1.jpg?v=1729499714"
-  ],
-  "buyUrl": "https://www.themancompany.com/products/lip-lightening-regime",
-  "buyStore": "Brand store",
-  "title": "The Man Company Lip Lightening Regime",
-  "tags": [
-   "scope:face",
-   "claim:whitening-claim",
-   "claim:chapped-lips",
-   "aud:unisex",
-   "rating:none",
-   "store:brand-store",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "The Man Company official website (www.themancompany.com) — this product's page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.themancompany.com/products/lip-lightening-regime",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Lip Lightening Regime",
-   "inciMatchScore": 1,
-   "inciText": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.92,
-   "actives": [
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "B",
-     "position": 1,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "theobroma cacao seed butter",
-     "grade": "C",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "striae"
-    },
-    {
-     "name": "cera alba",
-     "grade": "B",
-     "position": 3,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "homosalate",
-     "grade": "A",
-     "position": 4,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "ethylhexyl methoxycinnamate",
-     "grade": "A",
-     "position": 5,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "prunus amygdalus dulcis oil",
-     "grade": "B",
-     "position": 7,
-     "core": true,
-     "trace": false,
-     "src": "squalane"
-    },
-    {
-     "name": "argania spinosa kernel oil",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "trace": false,
-     "src": "squalane"
-    },
-    {
-     "name": "cocos nucifera oil",
-     "grade": "C",
-     "position": 10,
-     "core": true,
-     "trace": false,
-     "src": "squalane"
-    }
-   ],
-   "support": [
-    "butyrospermum parkii butter"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Emami",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.emamiltd.in/our-brands/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "the-man-company-bs-1qh849t",
   "brand": "The Man Company",
   "model": "Moisturising Lip Balm | Vitamin E & Almond Oil",
@@ -19145,7 +19648,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [

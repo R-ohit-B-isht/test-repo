@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -43,7 +43,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/garnier-men/strong-beard-oil/strong-beard-oil-30ml/8901526599929-1.jpg?rev=8106827210014660bce5934fd4dade51&hash=60D68444ED60C1F0395196CE00FBFC77"
@@ -104,16 +104,18 @@ const BSPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Beard oil · ₹1163/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (limited evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: thymus vulgaris oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.9,
+   "skin": 9.5,
+   "trust": 8,
    "experience": 0
   },
   "fullSpec": {
@@ -131,14 +133,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml",
+   "inciMatchedName": "Beard Growth Oil for Men (30ml) (name match 100%)",
+   "inciList": "Caprylic/Capric Triglyceride, Isopropyl Myristate, Ocimum Basilicum Hairy Root Culture Extract, Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Thymus Vulgaris (Thyme) Oil, Rosmarinus Officinalis Oil, Lemon Oil, Geranium Maculatum Oil, Butylated Hydroxytoluene, Corylus Avellana Nut Oil, Argania Spinosa Kernel Oil & Tocopheryl Acetate",
+   "evidenceActives": "helianthus annuus seed oil (#4 on list, limited evidence); cocos nucifera oil (#5 on list, moderate evidence); simmondsia chinensis seed oil (#6 on list, limited evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: thymus vulgaris oil (−0.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Beard (brand site's own product type)"
   },
   "images": [
@@ -156,7 +160,8 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -164,27 +169,62 @@ const BSPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Beard Growth Oil for Men (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "Caprylic/Capric Triglyceride, Isopropyl Myristate, Ocimum Basilicum Hairy Root Culture Extract, Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Thymus Vulgaris (Thyme) Oil, Rosmarinus Officinalis Oil, Lemon Oil, Geranium Maculatum Oil, Butylated Hydroxytoluene, Corylus Avellana Nut Oil, Argania Spinosa Kernel Oil & Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "thymus vulgaris oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Emami",
     "kind": "india",
@@ -241,7 +281,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Beard (brand site's own product type)"
   },
   "images": [
@@ -366,7 +406,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm-hydantoin (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Beard (brand site's own product type)"
   },
   "images": [
@@ -520,7 +560,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell cart (brand site's own product type)"
   },
   "images": [
@@ -642,7 +682,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell cart (brand site's own product type)"
   },
   "images": [
@@ -785,7 +825,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: thymus vulgaris oil (−0.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Beard (brand site's own product type)"
   },
   "images": [
@@ -925,7 +965,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair (brand site's own product type)"
   },
   "images": [
@@ -1067,7 +1107,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair (brand site's own product type)"
   },
   "images": [

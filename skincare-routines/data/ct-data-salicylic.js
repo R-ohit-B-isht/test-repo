@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -114282,16 +114282,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + peptides",
   "featureLine": "Serum · ₹1947/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -114308,14 +114310,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-salicylic-acid-anti-acne-serum",
+   "inciMatchedName": "2% Salicylic Acid Anti-Acne Serum (name match 100%)",
+   "inciList": "Aqua (Water), Butylene Glycol, Niacinamide, Pentylene Glycol, Methyl Gluceth-20, Propylene Glycol, Salicylic Acid, 1,2-Hexanediol, Camellia Sinensis Leaf Extract, Centella Asiatica Leaf Extract, Cladosiphon Okamuranus Extract, Willow Bark Extract, Polylysine, Decyl Glucoside, Sodium Hyaluronate, Coffea Arabica (Coffee) Seed Extract, Panthenol, Tripeptide-1, Sclerotium Gum, Pullulan, Citrus Aurantium Bergamia (Bergamot) Leaf Extract, Pinus Densiflora Leaf Extract, Dextran, Glycerin, Xanthan Gum, Hydroxyethyl Cellulose, Lecithin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sodium Hydroxide",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #3 on INCI, salicylic acid #7 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61SzD3fduXL._AC_UL320_.jpg"
@@ -114338,7 +114342,11 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -114347,25 +114355,80 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-salicylic-acid-anti-acne-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Anti-Acne Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Butylene Glycol, Niacinamide, Pentylene Glycol, Methyl Gluceth-20, Propylene Glycol, Salicylic Acid, 1,2-Hexanediol, Camellia Sinensis Leaf Extract, Centella Asiatica Leaf Extract, Cladosiphon Okamuranus Extract, Willow Bark Extract, Polylysine, Decyl Glucoside, Sodium Hyaluronate, Coffea Arabica (Coffee) Seed Extract, Panthenol, Tripeptide-1, Sclerotium Gum, Pullulan, Citrus Aurantium Bergamia (Bergamot) Leaf Extract, Pinus Densiflora Leaf Extract, Dextran, Glycerin, Xanthan Gum, Hydroxyethyl Cellulose, Lecithin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "sodium hyaluronate",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -179449,7 +179512,7 @@ const CTPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
    "inciMatchedName": "1 salicylic acid body wash (name match 94%)",
-   "inciList": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -179500,11 +179563,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 salicylic acid body wash",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.86,
+   "recognised": 0.89,
    "actives": [
     {
      "name": "salicylic acid",
@@ -179706,7 +179769,7 @@ const CTPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
    "inciMatchedName": "1 salicylic acid body wash (name match 85%)",
-   "inciList": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -179756,11 +179819,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 salicylic acid body wash",
    "inciMatchScore": 0.85,
-   "inciText": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.86,
+   "recognised": 0.89,
    "actives": [
     {
      "name": "salicylic acid",
@@ -185540,14 +185603,13 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 172 ratings"
   ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
+  "cons": [],
   "scores": {
    "ingredients": 5.9,
-   "skin": 7.7,
+   "skin": 9,
    "trust": 7,
    "experience": 6.3
   },
@@ -185570,9 +185632,9 @@ const CTPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-body-butter",
    "inciMatchedName": "4 aha bha body butter (name match 94%)",
    "listingIngredientLine": "2% Salicylic Acid, 2% Lactic Acid, Hyaluronic Acid, Shea Butter, Cocoa Butter (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Ingredient Names Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid. Formulated Without Paraben, Silicone, Fragrance, Essential Oil, Mineral Oil, Artifical Colour, Pthalates, Alcohol",
+   "inciList": "Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 172 ratings",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)"
@@ -185607,7 +185669,8 @@ const CTPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site"
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -185628,11 +185691,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha body butter",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid. Formulated Without Paraben, Silicone, Fragrance, Essential Oil, Mineral Oil, Artifical Colour, Pthalates, Alcohol",
+   "inciText": "Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.94,
+   "recognised": 1,
    "actives": [
     {
      "name": "glycerin",
@@ -185723,12 +185786,12 @@ const CTPRODUCTS = [
      "src": "vitc"
     },
     {
-     "name": "mineral oil",
+     "name": "hyaluronic acid",
      "grade": "B",
-     "position": 30,
+     "position": 26,
      "core": false,
      "trace": true,
-     "src": "petrolatum"
+     "src": "ha"
     }
    ],
    "support": [
@@ -185737,20 +185800,11 @@ const CTPRODUCTS = [
     "ceramide np",
     "ceramide ap",
     "ceramide eop",
-    "cholesterol"
+    "cholesterol",
+    "hyaluronic acid"
    ],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -186379,7 +186433,7 @@ const CTPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-salicylic-acid-body-wash",
    "inciMatchedName": "1 salicylic acid body wash (name match 90%)",
-   "inciList": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciList": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -186434,11 +186488,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 salicylic acid body wash",
    "inciMatchScore": 0.9,
-   "inciText": "Ingredient Names Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090 Formulated Without Cruelty Free, No harmful Chemicals, Sulphate and Silicone Free",
+   "inciText": "Purified Water, Acrylate Copolymer, Sodium Lauroyl Sarcosinate, Coco-Glucoside, Cocamidopropyl Betaine, Triethanolamine, Salicylic Acid, Erythritol, Phenoxyethanol & Ethylhexylglycerin, IFRA Certified Fragrance, Biodegradable Encapsulated Salicylic Acid Beads, Saccharide Isomerate, Citric Acid, Chamomile Extract, Sodium Citrate, Disodium EDTA, Vitamin E Acetate , Brilliant Blue FCF C.I. No. 42090",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.86,
+   "recognised": 0.89,
    "actives": [
     {
      "name": "salicylic acid",

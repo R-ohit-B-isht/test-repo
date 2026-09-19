@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -159561,15 +159561,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "vitamin C",
   "featureLine": "Mask / pack · ₹958/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -159586,14 +159587,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/collagen-vitamin-c-overnight-moisture-wrapping-mask-50ml",
+   "inciMatchedName": "Collagen & Vitamin C Overnight Moisture Wrapping Mask - 50ml (name match 95%)",
+   "inciList": "Aqua, Polyvinyl Alcohol, Glycerin, Niacinamide, Ceramide Complex, Collagen, Algae Extract, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Polyglutamic Acid, Ascorbic Acid Glucoside, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Aloe Barbadensis (Aloe Vera) Extract, Phenoxyethanol, Ethylhexylglycerin, 1,3-Butylene Glycol, Tocopheryl Acetate",
+   "evidenceActives": "sodium hyaluronate (#13 on list, moderate evidence); tocopheryl acetate (#20 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — product type, niacinamide #4 on INCI; Aging — palmitoyl tripeptide-1 #8 on INCI, palmitoyl tetrapeptide-7 #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518cSsmH5KL._AC_UL320_.jpg"
@@ -159612,8 +159615,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -159622,25 +159629,87 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/collagen-vitamin-c-overnight-moisture-wrapping-mask-50ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Collagen & Vitamin C Overnight Moisture Wrapping Mask - 50ml",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Polyvinyl Alcohol, Glycerin, Niacinamide, Ceramide Complex, Collagen, Algae Extract, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Polyglutamic Acid, Ascorbic Acid Glucoside, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Aloe Barbadensis (Aloe Vera) Extract, Phenoxyethanol, Ethylhexylglycerin, 1,3-Butylene Glycol, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -222534,16 +222603,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C",
   "featureLine": "Serum · ₹2097/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); ferulic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.6
   },
   "fullSpec": {
@@ -222560,14 +222631,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/10-percent-vitamin-c-brightening-serum",
+   "inciMatchedName": "10% Vitamin C Brightening Serum (name match 100%)",
+   "inciList": "Aqua (Water), 3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Sodium PCA, Acetyl Glucosamine, Glycerin, Tasmannia Lanceolata Fruit Leaf Extract, Ferulic Acid, Ubiquinone (CoQ10), Sodium Hyaluronate, Sodium Lactate, C12-15 Alkyl Benzoate, Tocopheryl Acetate, Dipropylene Glycol, Hydroxypropyl Cyclodextrin, Polydextrose, 1,2-Hexanediol, Hydroxyethyl Cellulose, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Polysorbate-20, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide, Sodium Gluconate",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); ferulic acid (#11 on list, moderate evidence); sodium hyaluronate (#13 on list, moderate evidence); tocopheryl acetate (#15 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, niacinamide #3 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HfRoL3OzL._AC_UL320_.jpg"
@@ -222587,8 +222660,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -222597,25 +222674,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/10-percent-vitamin-c-brightening-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Vitamin C Brightening Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), 3-O-Ethyl Ascorbic Acid, Niacinamide, Butylene Glycol, Propanediol, Betaine, Sodium PCA, Acetyl Glucosamine, Glycerin, Tasmannia Lanceolata Fruit Leaf Extract, Ferulic Acid, Ubiquinone (CoQ10), Sodium Hyaluronate, Sodium Lactate, C12-15 Alkyl Benzoate, Tocopheryl Acetate, Dipropylene Glycol, Hydroxypropyl Cyclodextrin, Polydextrose, 1,2-Hexanediol, Hydroxyethyl Cellulose, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Polysorbate-20, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium pca",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

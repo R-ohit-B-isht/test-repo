@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #5 on INCI, zinc pca #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -216,7 +216,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #5 on INCI, zinc pca #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -383,7 +383,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Peeling Solution (brand site's own product type)"
   },
   "images": [
@@ -553,7 +553,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbic acid #6 on INCI; Aging — ascorbic acid #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -725,7 +725,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/5-lactic-acid-body-lotion/IntroPage_ep3sog.jpg?tr=w-600"
@@ -883,7 +883,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #14 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -1051,7 +1051,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -1218,7 +1218,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jeju - Acquisition (brand site's own product type)"
   },
   "images": [
@@ -1396,7 +1396,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -1576,7 +1576,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -1756,7 +1756,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1924,7 +1924,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -2092,7 +2092,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — aloe barbadensis leaf extract #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Peel (brand site's own product type)"
   },
   "images": [
@@ -2246,7 +2246,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -2452,7 +2452,7 @@ const BSPRODUCTS = [
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI, centella asiatica extract #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Naturally Activated™️ (brand site's own product type)"
   },
   "images": [
@@ -2614,7 +2614,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -2719,7 +2719,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #8 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -2872,7 +2872,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #16 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -3015,7 +3015,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -3166,7 +3166,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #4 on INCI, dipotassium glycyrrhizate #18 on INCI; Irritation — beta-glucan #20 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "toner (brand site's own product type)"
   },
   "images": [
@@ -3348,7 +3348,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -3448,7 +3448,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/1a9d7c2b-1055-4127-ade7-773b54fc6fb1.png"
@@ -3546,7 +3546,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/7375a882-f204-4af5-844b-f53d1a54678b.jpeg"
@@ -3648,7 +3648,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/1b6ab2fb-913f-4aff-a9fc-833638a804e6.png"
@@ -3785,7 +3785,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/b2c6319b-9d48-42f1-83ed-80fde75e7a25.png"
@@ -3883,7 +3883,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/bdbf5e36-b8c3-43c8-96d1-227c35de2f78.jpeg"

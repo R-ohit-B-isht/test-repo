@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -45,7 +45,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -204,7 +204,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbic acid #6 on INCI; Aging — ascorbic acid #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -374,7 +374,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -532,7 +532,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -654,16 +654,16 @@ const BSPRODUCTS = [
   "capacityLine": "150 ml (pack of 2)",
   "materialLine": "AHA",
   "featureLine": "Roll-on · ₹732/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -681,14 +681,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-75-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll on for Odour Control & Pigmentation (Aqua) - 75 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -708,2223 +710,11 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-17xwotl",
-  "brand": "Chemist at Play",
-  "model": "Neck, Knee & Elbow Brightening Roll On With Mandelic Acid & Niacinamide - 40 ml | Pack of …",
-  "price": 698,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "Niacinamide + Mandelic acid",
-  "featureLine": "Roll-on · ₹873/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹873/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Mandelic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/NKE_4fe6c02a-cd14-47bc-b6e9-b090223657c6.jpg?v=1787221511"
-  ],
-  "buyUrl": "https://innovist.com/products/neck-knee-elbow-brightening-roll-on-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play Neck, Knee & Elbow Brightening Roll On With Mandelic Acid & Niacinamide - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:mandelic-acid",
-   "claim:brightening",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-h3ql2s",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack o…",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · Fragrance-free · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Frag_Free.jpg?v=1787221511"
-  ],
-  "buyUrl": "https://innovist.com/products/5-aha-underarm-roll-on-fragrance-free-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "free:fragrance",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1658cst",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of…",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Jasmine_UR.jpg?v=1787221511"
-  ],
-  "buyUrl": "https://innovist.com/products/5-aha-underarm-roll-on-white-jasmine-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1jcm0dv",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach) - 40 ml | Pack of 2",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Peach_UR.jpg?v=1787221511"
-  ],
-  "buyUrl": "https://innovist.com/products/5-aha-underarm-roll-on-peach-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-13sptui",
-  "brand": "Chemist at Play",
-  "model": "Neck, Knee & Elbow Roll On & Underarm Roll On (Fragrance Free) - 40 ml Each",
-  "price": 748,
-  "capacityLine": "40 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · Fragrance-free · ₹1870/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹1870/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/NKE_Roll_on_fragrance_free_roll_on_5cc05195-6980-49b3-b554-979659d8c8ab.jpg?v=1787221982"
-  ],
-  "buyUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-fragrance-free",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play Neck, Knee & Elbow Roll On & Underarm Roll On (Fragrance Free) - 40 ml Each",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "free:fragrance",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-lbpy5s",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 75 ml",
-  "price": 549,
-  "capacityLine": "75 ml",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · Fragrance-free · ₹732/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "75 ml",
-   "pricePer100": "₹732/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Fragrance_Free_Roll_On_75_ml.jpg?v=1787219525"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-with-lactic-acid-for-odour-control-fragnrance-free-75-ml",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 75 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "free:fragrance",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1gofx4g",
-  "brand": "Chemist at Play",
-  "model": "Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml",
-  "price": 698,
-  "capacityLine": "5 g",
-  "materialLine": "Cherry / acerola",
-  "featureLine": "Lip balm · ₹13960/100g",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "5 g",
-   "pricePer100": "₹13960/100g",
-   "format": "Lip balm",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Cherry / acerola (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/cherry_lip_balm_aqua_roll_on_1c75f1b9-7c69-4ef1-b3b0-3c24887249cf.jpg?v=1787221982"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml_cherry_lip-_balm",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml",
-  "tags": [
-   "scope:both",
-   "format:balm",
-   "format:roll-on",
-   "ing:cherry-acerola",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1i4owj0",
-  "brand": "Chemist at Play",
-  "model": "Neck Knee Roll On - 40 ml & Underarm Roll On Aqua - 40 ml",
-  "price": 748,
-  "capacityLine": "40 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹1870/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹1870/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/NKE_Roll_on_aqua_roll_on_26fb0720-1335-482b-9c38-3165cdcbc2f2.jpg?v=1787221982"
-  ],
-  "buyUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-aqua",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play Neck Knee Roll On - 40 ml & Underarm Roll On Aqua - 40 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1377u3x",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach & Aqua) - 40 ml | Pack of …",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Aqua_frag_free-1_d9d31862-e08b-4763-a962-fa3f5c613b23.jpg?v=1787222241"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-peach-aqua-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach & Aqua) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1k518lb",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml | Pack of 2",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/RU_roll_on_a2960d5a-d735-463a-baeb-bf5a69bd7ce5.jpg?v=1787222357"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-oudh-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-31dufu",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml | Pack of 2",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Rolll_on_woody_musk.jpg?v=1787221512"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-woody-musk-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1hsfhxt",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Aqua) - 40 ml | Pack of 2",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/UR_aqua.jpg?v=1787221511"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Aqua) - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-5v6jct",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack o…",
-  "price": 1197,
-  "capacityLine": "120 ml (pack of 3)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · Fragrance-free · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 3 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_for_Odour_Control_Pigmentation_Fragrance_Free_-_40_ml.jpg?v=1787219680"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-fragrance-free-pack-of-3",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 3",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "free:fragrance",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-298yn4",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of…",
-  "price": 1197,
-  "capacityLine": "120 ml (pack of 3)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 3 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_for_Odour_Control_Pigmentation_White_Jasmine_-_40_ml.jpg?v=1787219680"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-white-jasmine-pack-of-3",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 3",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-95qdhv",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Aqua & Fragrance Free - 40 ml |…",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · Fragrance-free · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Aqua_Frag_free.jpg?v=1787221509"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-aqua-fragrance-free-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation - Aqua & Fragrance Free - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "free:fragrance",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-16hfkzq",
-  "brand": "Chemist at Play",
-  "model": "Underarm Roll On Set - 40 ml | Pack of 6",
-  "price": 2394,
-  "capacityLine": "240 ml (pack of 6)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 6 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on Set (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/roll_ons_pack_of_6_d1163c2e-1d4b-43bf-bdd0-1529a9dfc64f.jpg?v=1787221981"
-  ],
-  "buyUrl": "https://innovist.com/products/under-arm-roll-on-set",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play Underarm Roll On Set - 40 ml | Pack of 6",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1h5066k",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pa…",
-  "price": 1197,
-  "capacityLine": "120 ml (pack of 3)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 3 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_for_Odour_Control_Pigmentation_-_Peach_Woody_Musk_-_40_ml.jpg?v=1787219680"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-3",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pack of 3",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1h5066j",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pa…",
-  "price": 798,
-  "capacityLine": "80 ml (pack of 2)",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹998/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml × 2 pack",
-   "pricePer100": "₹998/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/roll_on_peach_and_musk.jpg?v=1787221511"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-2",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-bbwdlb",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml",
-  "price": 379,
-  "capacityLine": "40 ml",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹948/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹948/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_roll_On_Woody_Musk_40ml.jpg?v=1787219526"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-woody-musk-40-ml",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1c7xejn",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml",
-  "price": 379,
-  "capacityLine": "40 ml",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹948/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹948/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_White_jasmine_40ml.jpg?v=1787219526"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-white-jasmine-40-ml",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1641pry",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml",
-  "price": 379,
-  "capacityLine": "40 ml",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · ₹948/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹948/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_Royal_Oudh_40_ml.jpg?v=1787219526"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-royal-oudh-40-ml",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-bs-1rffd4o",
-  "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml",
-  "price": 379,
-  "capacityLine": "40 ml",
-  "materialLine": "AHA",
-  "featureLine": "Roll-on · Fragrance-free · ₹948/100ml",
-  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Added fragrance (parfum): fragrance",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 4.1,
-   "skin": 7.7,
-   "trust": 7,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹948/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
-   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-fragrance-free-40-ml",
-   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml (name match 100%)",
-   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Roll on (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Fragrance_Free_Underarm_Roll_on_40ml.jpg?v=1787219525"
-  ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-fragrance-free-40-ml",
-  "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "free:fragrance",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
    "inci:full",
    "inci:brand-site"
   ],
   "filters": {
-   "freefrom": true,
+   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -2937,9 +727,9 @@ const BSPRODUCTS = [
    "inci": "full",
    "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-fragrance-free-40-ml",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-75-ml-pack-of-2",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml",
+   "inciMatchedTitle": "5% AHA Underarm Roll on for Odour Control & Pigmentation (Aqua) - 75 ml | Pack of 2",
    "inciMatchScore": 1,
    "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
    "inciUnverified": null,
@@ -3015,9 +805,2857 @@ const BSPRODUCTS = [
   }
  },
  {
-  "id": "chemist-at-play-bs-11ilxjd",
+  "id": "chemist-at-play-bs-17xwotl",
   "brand": "Chemist at Play",
-  "model": "5% AHA Underarm Rol On for Odour Control & Pigmentation (Peach) - 40 ml",
+  "model": "Neck, Knee & Elbow Brightening Roll On With Mandelic Acid & Niacinamide - 40 ml | Pack of …",
+  "price": 698,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "Niacinamide + Mandelic acid",
+  "featureLine": "Roll-on · ₹873/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.3,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹873/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Mandelic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/neck-knee-elbow-brightening-roll-on-40-ml-pack-of-2",
+   "inciMatchedName": "Neck, Knee & Elbow Brightening Roll On With Mandelic Acid & Niacinamide - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Propanediol, Mandelic Acid, Niacinamide, Vitamin C, Phenoxyethanol, Xanthan Gum, Allantoin, 3-0-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Fragrance, Disodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbic acid #6 on INCI; Aging — ascorbic acid #6 on INCI (matching only — not proof it works)",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/NKE_4fe6c02a-cd14-47bc-b6e9-b090223657c6.jpg?v=1787221511"
+  ],
+  "buyUrl": "https://innovist.com/products/neck-knee-elbow-brightening-roll-on-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play Neck, Knee & Elbow Brightening Roll On With Mandelic Acid & Niacinamide - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:mandelic-acid",
+   "claim:brightening",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/neck-knee-elbow-brightening-roll-on-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neck, Knee & Elbow Brightening Roll On With Mandelic Acid & Niacinamide - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Propanediol, Mandelic Acid, Niacinamide, Vitamin C, Phenoxyethanol, Xanthan Gum, Allantoin, 3-0-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Fragrance, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-h3ql2s",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack o…",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · Fragrance-free · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/5-aha-underarm-roll-on-fragrance-free-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Frag_Free.jpg?v=1787221511"
+  ],
+  "buyUrl": "https://innovist.com/products/5-aha-underarm-roll-on-fragrance-free-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "free:fragrance",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/5-aha-underarm-roll-on-fragrance-free-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1658cst",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of…",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/5-aha-underarm-roll-on-white-jasmine-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Jasmine_UR.jpg?v=1787221511"
+  ],
+  "buyUrl": "https://innovist.com/products/5-aha-underarm-roll-on-white-jasmine-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/5-aha-underarm-roll-on-white-jasmine-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1jcm0dv",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach) - 40 ml | Pack of 2",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/5-aha-underarm-roll-on-peach-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Peach_UR.jpg?v=1787221511"
+  ],
+  "buyUrl": "https://innovist.com/products/5-aha-underarm-roll-on-peach-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/5-aha-underarm-roll-on-peach-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-13sptui",
+  "brand": "Chemist at Play",
+  "model": "Neck, Knee & Elbow Roll On & Underarm Roll On (Fragrance Free) - 40 ml Each",
+  "price": 748,
+  "capacityLine": "40 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · Fragrance-free · ₹1870/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹1870/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-fragrance-free",
+   "inciMatchedName": "Neck, Knee & Elbow Roll On & Underarm Roll On (Fragrance Free) - 40 ml Each (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/NKE_Roll_on_fragrance_free_roll_on_5cc05195-6980-49b3-b554-979659d8c8ab.jpg?v=1787221982"
+  ],
+  "buyUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-fragrance-free",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play Neck, Knee & Elbow Roll On & Underarm Roll On (Fragrance Free) - 40 ml Each",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "free:fragrance",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-fragrance-free",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neck, Knee & Elbow Roll On & Underarm Roll On (Fragrance Free) - 40 ml Each",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-lbpy5s",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 75 ml",
+  "price": 549,
+  "capacityLine": "75 ml",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · Fragrance-free · ₹732/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 ml",
+   "pricePer100": "₹732/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-with-lactic-acid-for-odour-control-fragnrance-free-75-ml",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 75 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Fragrance_Free_Roll_On_75_ml.jpg?v=1787219525"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-with-lactic-acid-for-odour-control-fragnrance-free-75-ml",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 75 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "free:fragrance",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-with-lactic-acid-for-odour-control-fragnrance-free-75-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 75 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1gofx4g",
+  "brand": "Chemist at Play",
+  "model": "Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml",
+  "price": 698,
+  "capacityLine": "5 g",
+  "materialLine": "Cherry / acerola",
+  "featureLine": "Lip balm · ₹13960/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "5 g",
+   "pricePer100": "₹13960/100g",
+   "format": "Lip balm",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Cherry / acerola (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml_cherry_lip-_balm",
+   "inciMatchedName": "Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/cherry_lip_balm_aqua_roll_on_1c75f1b9-7c69-4ef1-b3b0-3c24887249cf.jpg?v=1787221982"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml_cherry_lip-_balm",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml",
+  "tags": [
+   "scope:both",
+   "format:balm",
+   "format:roll-on",
+   "ing:cherry-acerola",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml_cherry_lip-_balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cherry Lip Balm - 4.5g & Aqua Underarm roll on - 40 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1i4owj0",
+  "brand": "Chemist at Play",
+  "model": "Neck Knee Roll On - 40 ml & Underarm Roll On Aqua - 40 ml",
+  "price": 748,
+  "capacityLine": "40 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · ₹1870/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹1870/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-aqua",
+   "inciMatchedName": "Neck Knee Roll On - 40 ml & Underarm Roll On Aqua - 40 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/NKE_Roll_on_aqua_roll_on_26fb0720-1335-482b-9c38-3165cdcbc2f2.jpg?v=1787221982"
+  ],
+  "buyUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-aqua",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play Neck Knee Roll On - 40 ml & Underarm Roll On Aqua - 40 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/neck-knee-roll-on-roll-on-aqua",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neck Knee Roll On - 40 ml & Underarm Roll On Aqua - 40 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1377u3x",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach & Aqua) - 40 ml | Pack of …",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-peach-aqua-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach & Aqua) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Aqua_frag_free-1_d9d31862-e08b-4763-a962-fa3f5c613b23.jpg?v=1787222241"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-peach-aqua-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach & Aqua) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-peach-aqua-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Peach & Aqua) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1k518lb",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml | Pack of 2",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-oudh-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/RU_roll_on_a2960d5a-d735-463a-baeb-bf5a69bd7ce5.jpg?v=1787222357"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-oudh-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-oudh-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-31dufu",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml | Pack of 2",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-woody-musk-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Rolll_on_woody_musk.jpg?v=1787221512"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-woody-musk-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-woody-musk-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1hsfhxt",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Aqua) - 40 ml | Pack of 2",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Aqua) - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/UR_aqua.jpg?v=1787221511"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Aqua) - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-aqua-40-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Aqua) - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-5v6jct",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack o…",
+  "price": 1197,
+  "capacityLine": "120 ml (pack of 3)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · Fragrance-free · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 3 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-fragrance-free-pack-of-3",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 3 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_for_Odour_Control_Pigmentation_Fragrance_Free_-_40_ml.jpg?v=1787219680"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-fragrance-free-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 3",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "free:fragrance",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-fragrance-free-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml | Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-298yn4",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of…",
+  "price": 1197,
+  "capacityLine": "120 ml (pack of 3)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 3 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-white-jasmine-pack-of-3",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 3 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_for_Odour_Control_Pigmentation_White_Jasmine_-_40_ml.jpg?v=1787219680"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-white-jasmine-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 3",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-white-jasmine-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml | Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-95qdhv",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Aqua & Fragrance Free - 40 ml |…",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · Fragrance-free · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-aqua-fragrance-free-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Aqua & Fragrance Free - 40 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Aqua_Frag_free.jpg?v=1787221509"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-aqua-fragrance-free-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation - Aqua & Fragrance Free - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "free:fragrance",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-aqua-fragrance-free-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Aqua & Fragrance Free - 40 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-16hfkzq",
+  "brand": "Chemist at Play",
+  "model": "Underarm Roll On Set - 40 ml | Pack of 6",
+  "price": 2394,
+  "capacityLine": "240 ml (pack of 6)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 6 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/under-arm-roll-on-set",
+   "inciMatchedName": "Underarm Roll On Set - 40 ml | Pack of 6 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on Set (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/roll_ons_pack_of_6_d1163c2e-1d4b-43bf-bdd0-1529a9dfc64f.jpg?v=1787221981"
+  ],
+  "buyUrl": "https://innovist.com/products/under-arm-roll-on-set",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play Underarm Roll On Set - 40 ml | Pack of 6",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/under-arm-roll-on-set",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Underarm Roll On Set - 40 ml | Pack of 6",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1h5066k",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pa…",
+  "price": 1197,
+  "capacityLine": "120 ml (pack of 3)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 3 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-3",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pack of 3 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_for_Odour_Control_Pigmentation_-_Peach_Woody_Musk_-_40_ml.jpg?v=1787219680"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pack of 3",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1h5066j",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pa…",
+  "price": 798,
+  "capacityLine": "80 ml (pack of 2)",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹998/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml × 2 pack",
+   "pricePer100": "₹998/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-2",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml| Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/roll_on_peach_and_musk.jpg?v=1787221511"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-woody-musk-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation - Peach & Woody Musk - 40 ml| Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-bbwdlb",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml",
   "price": 379,
   "capacityLine": "40 ml",
   "materialLine": "AHA",
@@ -3051,22 +3689,22 @@ const BSPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
-   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-40-ml",
-   "inciMatchedName": "5% AHA Underarm Rol On for Odour Control & Pigmentation (Peach) - 40 ml (name match 100%)",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-woody-musk-40-ml",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml (name match 100%)",
    "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
-   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underaram_Roll_On_Peach_40_ml.jpg?v=1787219526"
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_roll_On_Woody_Musk_40ml.jpg?v=1787219526"
   ],
-  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-40-ml",
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-woody-musk-40-ml",
   "buyStore": "Brand store",
-  "title": "Chemist at Play 5% AHA Underarm Rol On for Odour Control & Pigmentation (Peach) - 40 ml",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml",
   "tags": [
    "scope:body",
    "format:roll-on",
@@ -3094,9 +3732,481 @@ const BSPRODUCTS = [
    "inci": "full",
    "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-peach-40-ml",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-woody-musk-40-ml",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "5% AHA Underarm Rol On for Odour Control & Pigmentation (Peach) - 40 ml",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Woody Musk) - 40 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1c7xejn",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml",
+  "price": 379,
+  "capacityLine": "40 ml",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹948/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹948/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-white-jasmine-40-ml",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_White_jasmine_40ml.jpg?v=1787219526"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-white-jasmine-40-ml",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-white-jasmine-40-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (White Jasmine) - 40 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1641pry",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml",
+  "price": 379,
+  "capacityLine": "40 ml",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · ₹948/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹948/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-royal-oudh-40-ml",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Underarm_Roll_On_Royal_Oudh_40_ml.jpg?v=1787219526"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-royal-oudh-40-ml",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-royal-oudh-40-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Royal Oudh) - 40 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "chemist-at-play-bs-1rffd4o",
+  "brand": "Chemist at Play",
+  "model": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml",
+  "price": 379,
+  "capacityLine": "40 ml",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on · Fragrance-free · ₹948/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹948/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-fragrance-free-40-ml",
+   "inciMatchedName": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll on (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Fragrance_Free_Underarm_Roll_on_40ml.jpg?v=1787219525"
+  ],
+  "buyUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-fragrance-free-40-ml",
+  "buyStore": "Brand store",
+  "title": "Chemist at Play 5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:odour",
+   "free:fragrance",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/underarm-roll-on-for-odour-control-pigmentation-fragrance-free-40-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% AHA Underarm Roll On for Odour Control & Pigmentation (Fragrance Free) - 40 ml",
    "inciMatchScore": 1,
    "inciText": "Purified Water, Lactic Acid, Fragrance, Propanediol, Mandelic Acid, Phenoxyethanol, Polysorbate-80, Xanthan Gum, Allantoin, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramides, Konjac (Amorphophallus) Phytoceramides, Phospholipids, Sphingolipids, Di-Sodium EDTA",
    "inciUnverified": null,
@@ -3215,7 +4325,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -3373,7 +4483,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbic acid #6 on INCI; Aging — ascorbic acid #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -3542,7 +4652,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll on (brand site's own product type)"
   },
   "images": [
@@ -3702,7 +4812,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/4-aha-bha-underarm-roll-on/AHA%20BHA%20UAR%20%282%29_eiyc2a.jpg?tr=w-600"
@@ -3872,7 +4982,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp/3-aha-bha-back-and-body-acne-spray/3__AHA_BHA_Carousel_1_NPEEnh18l.png?tr=w-600"
@@ -3970,7 +5080,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Deos (brand site's own product type)"
   },
   "images": [
@@ -4060,14 +5170,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Deo - 150ml (brand site's own product type)"
   },
   "images": [
@@ -4158,14 +5268,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Deo - 150ml (brand site's own product type)"
   },
   "images": [
@@ -4222,6 +5332,174 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "bellavita-bs-7t2796",
+  "brand": "BELLAVITA",
+  "model": "Roll On Deodorant - Men (Pack Of 2) - 50ml",
+  "price": 398,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · ₹398/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.7,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹398/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-men-pack-of-2",
+   "inciMatchedName": "Roll On Deodorant - Men (Pack Of 2) - 50ml (name match 100%)",
+   "inciList": "Aqua, Fragrance (Parfum), Propylene Glycol, Niacinamide, Alpha Arbutin, Glycerin, Ethylhexylglycerin and Phenoxyethanol, Xanthan Gum, Glycyrrhiza Glabra (Licorice) Root Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citric Acid, Sorbitan Monolaurate, Hyaluronic Acid, Aloe Barbadensis (Aloe Vera) Extract, Morus Alba (Mulberry) Root Extract, and Disodium EDTA",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Roll On Deo Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0054/6665/2718/files/RollOnDeo-Men_PackOf2_-50ml_1.jpg?v=1694079082"
+  ],
+  "buyUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-men-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "BELLAVITA Roll On Deodorant - Men (Pack Of 2) - 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:roll-on",
+   "format:kit",
+   "format:aerosol",
+   "claim:odour",
+   "aud:men",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-men-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Roll On Deodorant - Men (Pack Of 2) - 50ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Fragrance (Parfum), Propylene Glycol, Niacinamide, Alpha Arbutin, Glycerin, Ethylhexylglycerin and Phenoxyethanol, Xanthan Gum, Glycyrrhiza Glabra (Licorice) Root Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citric Acid, Sorbitan Monolaurate, Hyaluronic Acid, Aloe Barbadensis (Aloe Vera) Extract, Morus Alba (Mulberry) Root Extract, and Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Bella Vita Organic",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://bellavitaorganic.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "bellavita-bs-6p3fe0",
   "brand": "BELLAVITA",
   "model": "CEO Man Deodorant - 150ml",
@@ -4256,14 +5534,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Deo - 150ml (brand site's own product type)"
   },
   "images": [
@@ -4354,14 +5632,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Deo - 150ml (brand site's own product type)"
   },
   "images": [
@@ -4425,16 +5703,18 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Roll-on · ₹378/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.1,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -4452,14 +5732,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-men",
+   "inciMatchedName": "Underarm Roll On For Men - 50ml (name match 100%)",
+   "inciList": "Purified Water, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Lactic Acid, Sodium Lactate, Niacinamide, Polysorbate 20, Salicylic Acid, Saccharum Officinarum (Sugar Cane) Extract, Vaccinium Myrtillus (Bilberry) Extract, Acer Saccharum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Extract, Magnesium Aluminum Silicate, Vitamin E, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Fragrance",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #9 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll On Deodorant - 50ml (brand site's own product type)"
   },
   "images": [
@@ -4476,7 +5759,10 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -4484,27 +5770,90 @@ const BSPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/underarm-roll-on-deodorant-for-men",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Underarm Roll On For Men - 50ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Glycerin, Lactic Acid, Sodium Lactate, Niacinamide, Polysorbate 20, Salicylic Acid, Saccharum Officinarum (Sugar Cane) Extract, Vaccinium Myrtillus (Bilberry) Extract, Acer Saccharum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Medica Limonum (Lemon) Extract, Magnesium Aluminum Silicate, Vitamin E, Potassium Sorbate, Sodium Benzoate, Xanthan Gum, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Bella Vita Organic",
     "kind": "d2c",
@@ -4562,7 +5911,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #10 on INCI; Dark spots — 4-butylresorcinol #14 on INCI, glycyrrhiza glabra root extract #16 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath & Body (brand site's own product type)"
   },
   "images": [
@@ -4721,7 +6070,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, kojic acid #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Roll On (brand site's own product type)"
   },
   "images": [
@@ -4882,7 +6231,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — kojic acid #11 on INCI, niacinamide #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Deodorant (brand site's own product type)"
   },
   "images": [
@@ -5052,7 +6401,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Deodorant (brand site's own product type)"
   },
   "images": [
@@ -5160,7 +6509,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Deodorant (brand site's own product type)"
   },
   "images": [
@@ -5266,6 +6615,209 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "fixderma-bs-4sp0i9",
+  "brand": "Fixderma",
+  "model": "Under Eye Roll On Cream Pack of 2",
+  "price": 669,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Roll-on",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark circles / puffiness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Triple Action eye cream, Reduces Puffines (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/under_eye_cream_0a85a543-fabb-4c55-bd33-03989abe2eea.webp?v=1779101684"
+  ],
+  "buyUrl": "https://www.fixderma.com/products/under-eye-roll-on-cream-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Fixderma Under Eye Roll On Cream Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:roll-on",
+   "format:kit",
+   "claim:dark-circles",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:none",
+   "inci:pharma-maker"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": true
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Fixderma India (dermatology company)",
+    "kind": "pharma",
+    "label": "Dermatology / pharmaceutical manufacturer",
+    "pts": 8,
+    "url": "https://www.fixderma.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "fixderma-bs-1htdd70",
+  "brand": "Fixderma",
+  "model": "Under Eye Roll On Cream",
+  "price": 335,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Roll-on",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark circles / puffiness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Triple Action eye cream, Reduces Puffines (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/websiteundereyecream-1.webp?v=1759749780"
+  ],
+  "buyUrl": "https://www.fixderma.com/products/under-eye-cream",
+  "buyStore": "Brand store",
+  "title": "Fixderma Under Eye Roll On Cream",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:roll-on",
+   "claim:dark-circles",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:none",
+   "inci:pharma-maker"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": true
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Fixderma India (dermatology company)",
+    "kind": "pharma",
+    "label": "Dermatology / pharmaceutical manufacturer",
+    "pts": 8,
+    "url": "https://www.fixderma.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "fixderma-bs-aab2ps",
   "brand": "Fixderma",
   "model": "Foobetik Foot Cream Roll On",
@@ -5309,7 +6861,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Foobetik_Foot_Cream_Roll_On.webp?v=1765534897"
@@ -5411,7 +6963,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #1 on INCI; Dark spots — niacinamide #1 on INCI, kojic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Care (brand site's own product type)"
   },
   "images": [
@@ -5558,7 +7110,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -5656,7 +7208,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -5754,7 +7306,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -5851,7 +7403,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -5948,7 +7500,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -6046,7 +7598,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2G1 Special off campaign (brand site's own product type)"
   },
   "images": [
@@ -6143,7 +7695,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Deodorant (brand site's own product type)"
   },
   "images": [
@@ -6247,7 +7799,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: mentha piperita oil, pelargonium graveolens flower oil (−1)",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Deodorant (brand site's own product type)"
   },
   "images": [
@@ -6414,7 +7966,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "OTC (brand site's own product type)"
   },
   "images": [
@@ -6511,7 +8063,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Mosquito Protection (brand site's own product type)"
   },
   "images": [
@@ -6608,7 +8160,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "OTC (brand site's own product type)"
   },
   "images": [
@@ -6711,7 +8263,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/MainimageJPEG.jpg?v=1765864236"
@@ -6845,6 +8397,182 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "-phd-bs-vtf6gz",
+  "brand": "/PHD/",
+  "model": "6% AHA Underarm Depigmentation Roll-On",
+  "price": 450,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "AHA",
+  "featureLine": "Roll-on",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/6-aha-underarm-depigmentation-roll-on",
+   "inciMatchedName": "6% AHA Underarm Depigmentation Roll-On (name match 100%)",
+   "inciList": "Aqua (Water), Triethanolamine, Lactic Acid, Niacinamide, Betaine, Glycolic Acid, Arisaema Amurense Extract, Propylene Glycol, Propanediol, Phenoxyethanol, Ethylhexylglycerin, 2-Methyl 5-Cyclohexylpentanol, 1,2-Hexanediol, Polysorbate 20, Sodium Hyaluronate, Allantoin, Sodium Benzoate, Potassium Sorbate, Xanthan Gum, Decyl Glucoside, Ethoxydiglycol, Arbutin, Sclerotium Gum, Panthenol, Lecithin, Pullulan, Silica, Tocopheryl Acetate, Disodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/6-aha-underarm-depigmentation-roll-on-9217531.png?v=1787022260"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/6-aha-underarm-depigmentation-roll-on",
+  "buyStore": "Brand store",
+  "title": "/PHD/ 6% AHA Underarm Depigmentation Roll-On",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:aha",
+   "claim:dark-spots",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/6-aha-underarm-depigmentation-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "6% AHA Underarm Depigmentation Roll-On",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Triethanolamine, Lactic Acid, Niacinamide, Betaine, Glycolic Acid, Arisaema Amurense Extract, Propylene Glycol, Propanediol, Phenoxyethanol, Ethylhexylglycerin, 2-Methyl 5-Cyclohexylpentanol, 1,2-Hexanediol, Polysorbate 20, Sodium Hyaluronate, Allantoin, Sodium Benzoate, Potassium Sorbate, Xanthan Gum, Decyl Glucoside, Ethoxydiglycol, Arbutin, Sclerotium Gum, Panthenol, Lecithin, Pullulan, Silica, Tocopheryl Acetate, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "arbutin",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "plum-bs-nvg44g",
   "brand": "Plum",
   "model": "Hawaiian Rumba Deodorant Roll On by Plum BodyLovin'",
@@ -6888,7 +8616,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "tryplum (brand site's own product type)"
   },
   "images": [
@@ -7025,7 +8753,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -7162,7 +8890,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -7302,7 +9030,7 @@ const BSPRODUCTS = [
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Period Care (brand site's own product type)"
   },
   "images": [
@@ -7482,7 +9210,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/1_c1e5ec78-a0d4-4792-9787-26bf0e640717.webp?v=1741260672"
@@ -7581,7 +9309,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/1_c1e5ec78-a0d4-4792-9787-26bf0e640717.webp?v=1741260672"
@@ -7679,7 +9407,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitled-8_copy.jpg?v=1785906158"
@@ -7782,7 +9510,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitled-8copy_eac07503-53c1-475f-8a34-491934c4701c.jpg?v=1785906274"
@@ -7906,7 +9634,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitled-8copy_669438bb-305c-4ee0-87b4-98728e1832aa.jpg?v=1785825228"
@@ -8010,7 +9738,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitled-8copy_0758fa53-0b5e-4aca-94e7-af5ea3cb9003.jpg?v=1785842686"
@@ -8133,7 +9861,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Dark Patches Corrector (brand site's own product type)"
   },
   "images": [
@@ -8233,7 +9961,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0837/8676/0477/files/Under_arm___Nykaa_1.jpg?v=1766308729"
@@ -8333,7 +10061,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "bodycare (brand site's own product type)"
   },
   "images": [
@@ -8495,7 +10223,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -8609,7 +10337,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbyl tetraisopalmitate #8 on INCI; Aging — ascorbyl tetraisopalmitate #8 on INCI (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -8780,7 +10508,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Fragrance (brand site's own product type)"
   },
   "images": [
@@ -8910,7 +10638,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonenes, linalool, alpha-isomethyl ionone, citral, geraniol (−2)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -9034,7 +10762,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell cart (brand site's own product type)"
   },
   "images": [
@@ -9147,7 +10875,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell cart (brand site's own product type)"
   },
   "images": [
@@ -9274,7 +11002,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -9372,7 +11100,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -9470,7 +11198,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -9574,7 +11302,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbyl tetraisopalmitate #8 on INCI; Aging — ascorbyl tetraisopalmitate #8 on INCI (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Fragrance (brand site's own product type)"
   },
   "images": [
@@ -9742,7 +11470,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Fragrance (brand site's own product type)"
   },
   "images": [
@@ -9854,7 +11582,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Fragrance (brand site's own product type)"
   },
   "images": [
@@ -9984,7 +11712,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Fragrance (brand site's own product type)"
   },
   "images": [
@@ -10092,7 +11820,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Gas Deos (brand site's own product type)"
   },
   "images": [
@@ -10183,14 +11911,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Gas Deos (brand site's own product type)"
   },
   "images": [
@@ -10288,7 +12016,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Gas Deos (brand site's own product type)"
   },
   "images": [
@@ -10390,7 +12118,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Fragrance (brand site's own product type)"
   },
   "images": [
@@ -10517,7 +12245,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2B Bulk (brand site's own product type)"
   },
   "images": [
@@ -10614,7 +12342,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2B Bulk (brand site's own product type)"
   },
   "images": [
@@ -10711,7 +12439,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2B Bulk (brand site's own product type)"
   },
   "images": [
@@ -10808,7 +12536,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2B Bulk (brand site's own product type)"
   },
   "images": [

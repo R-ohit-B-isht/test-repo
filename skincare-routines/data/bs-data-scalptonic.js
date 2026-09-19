@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -46,7 +46,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Arata (brand site's own product type)"
   },
   "images": [
@@ -222,7 +222,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -392,7 +392,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -522,7 +522,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -653,17 +653,19 @@ const BSPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Tea tree + Neem + Lemon",
   "featureLine": "Mist / spray · ₹200/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -681,14 +683,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/neem-lemon-dandruff-control-scalp-spray-200-ml-pack-of-2",
+   "inciMatchedName": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -710,7 +714,9 @@ const BSPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -718,25 +724,45 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/neem-lemon-dandruff-control-scalp-spray-200-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -757,17 +783,19 @@ const BSPRODUCTS = [
   "capacityLine": "25 ml",
   "materialLine": "Redensyl + Anagain + Rosemary",
   "featureLine": "Roll-on · ₹2596/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence); pisum sativum sprout extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -785,14 +813,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/hair-growth-serum-roll-on",
+   "inciMatchedName": "Advanced Hair Growth Serum Roll-On With 5% Rosemary, 4% Anagain, & 3% Redensyl - 25 ml (name match 100%)",
+   "inciList": "Aqua(Water), Rosmarinus Officinalis (Rosemary) Leaf Extract, Pisum Sativum (Pea) Sprout Extract, Glycerin, Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract, Propanediol, Arginine, Lactic Acid, Glycine Soja (Soybean) Germ Extract, Triticum Vulgare (Wheat) Germ Extract, Scutellaria Baicalensis Root Extract, Sodium Benzoate, Gluconolactone, Calcium Gluconate, Oryza Sativa (Rice) Extract, Betaine, Hydroxyethyl Urea, Phenoxyethanol, Ethylhexylglycerin, Polysorbate-20, Hydroxyethyl Cellulose, Serenoa Serrulata Fruit Extract, Polyquaternium-10, Caffeine, Biotin",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#2 on list, limited evidence); pisum sativum sprout extract (#3 on list, limited evidence); larix europaea wood extract (#6 on list, limited evidence); serenoa serrulata fruit extract (#26 on list, limited evidence); caffeine (#28 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -813,7 +843,9 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -821,25 +853,85 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/hair-growth-serum-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Hair Growth Serum Roll-On With 5% Rosemary, 4% Anagain, & 3% Redensyl - 25 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua(Water), Rosmarinus Officinalis (Rosemary) Leaf Extract, Pisum Sativum (Pea) Sprout Extract, Glycerin, Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract, Propanediol, Arginine, Lactic Acid, Glycine Soja (Soybean) Germ Extract, Triticum Vulgare (Wheat) Germ Extract, Scutellaria Baicalensis Root Extract, Sodium Benzoate, Gluconolactone, Calcium Gluconate, Oryza Sativa (Rice) Extract, Betaine, Hydroxyethyl Urea, Phenoxyethanol, Ethylhexylglycerin, Polysorbate-20, Hydroxyethyl Cellulose, Serenoa Serrulata Fruit Extract, Polyquaternium-10, Caffeine, Biotin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "pisum sativum sprout extract",
+     "grade": "C",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "larix europaea wood extract",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "serenoa serrulata fruit extract",
+     "grade": "C",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "sawPalmetto"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -860,17 +952,19 @@ const BSPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Tea tree + Neem + Lemon",
   "featureLine": "Mist / spray · ₹190/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -888,14 +982,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/dandruff-control-scalp-spray",
+   "inciMatchedName": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml (name match 100%)",
+   "inciList": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
+   "evidenceActives": "rosmarinus officinalis leaf extract (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -916,7 +1012,9 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -924,25 +1022,45 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/dandruff-control-scalp-spray",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -963,17 +1081,19 @@ const BSPRODUCTS = [
   "capacityLine": "180 ml (pack of 6)",
   "materialLine": "Redensyl + Anagain",
   "featureLine": "Serum · ₹2830/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "larix europaea wood extract high on the INCI list (limited evidence); rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -991,14 +1111,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/advanced-hair-growth-serum-with-redensyl-rosemary-rice-water-30-ml-pack-of-6",
+   "inciMatchedName": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml | Pack of 6 (name match 100%)",
+   "inciList": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "larix europaea wood extract (#5 on list, limited evidence); rosmarinus officinalis leaf extract (#24 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -1018,7 +1140,9 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1026,25 +1150,70 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/advanced-hair-growth-serum-with-redensyl-rosemary-rice-water-30-ml-pack-of-6",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml | Pack of 6",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "larix europaea wood extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "hydrolyzed rice protein",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "rosemary"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1065,17 +1234,19 @@ const BSPRODUCTS = [
   "capacityLine": "90 ml (pack of 3)",
   "materialLine": "Redensyl + Anagain",
   "featureLine": "Serum · ₹2830/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "larix europaea wood extract high on the INCI list (limited evidence); rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1093,14 +1264,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/advanced-hair-growth-serum-with-redensyl-rosemary-rice-water-30-ml-pack-of-3",
+   "inciMatchedName": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml | Pack of 3 (name match 100%)",
+   "inciList": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "larix europaea wood extract (#5 on list, limited evidence); rosmarinus officinalis leaf extract (#24 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -1120,7 +1293,9 @@ const BSPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1128,25 +1303,70 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/advanced-hair-growth-serum-with-redensyl-rosemary-rice-water-30-ml-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml | Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "larix europaea wood extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "hydrolyzed rice protein",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "rosemary"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1167,17 +1387,19 @@ const BSPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "Redensyl + Anagain",
   "featureLine": "Serum · ₹2830/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "larix europaea wood extract high on the INCI list (limited evidence); rosmarinus officinalis leaf extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1195,14 +1417,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/advanced-hair-growth-serum-with-redensyl-rosemary-rice-water-30-ml-pack-of-2",
+   "inciMatchedName": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
+   "evidenceActives": "larix europaea wood extract (#5 on list, limited evidence); rosmarinus officinalis leaf extract (#24 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -1222,7 +1446,9 @@ const BSPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1230,25 +1456,70 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/advanced-hair-growth-serum-with-redensyl-rosemary-rice-water-30-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Hair Growth Serum With 3% Redensyl, 4% Anagain, & 1% Capilia Longa - 30 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Dimethyl Isosorbide, AnaGain™ (Pisum Sativum (Pea) Sprout Extract), Redensyl® (Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, Zinc Chloride, Camellia Sinensis Leaf Extract), Baicapil™ (Arginine, Glycine Soja ( Soybean) Germ Extract, Triticum Vulgare ( Wheat) Germ Extract, Scutellaria Baicalensis Root Extract), Capilia Longa™ (Curcuma Longa (Turmeric) Callus Conditioned Media), Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Hydrolyzed Rice Protein, Biotin, Panthenol, Salvia Officinalis (Sage) Leaf Extract, Niacin, Trisodium Ethylenediamine Disuccinate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Gluconolactone, Calcium Gluconate, Glycerin, PEG-45M, Lactic Acid, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "larix europaea wood extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "hydrolyzed rice protein",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "rosemary"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1308,7 +1579,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -1446,7 +1717,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -1583,7 +1854,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -1730,7 +2001,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Tonics (brand site's own product type)"
   },
   "images": [
@@ -1833,7 +2104,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Tonics (brand site's own product type)"
   },
   "images": [
@@ -2032,7 +2303,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/advanced-hair-growth-serum/IntroPage%20copy%207_kjlbi1.jpg?tr=w-600"
@@ -2196,7 +2467,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0054/6665/2718/files/Pack_of_2_3.jpg?v=1727358739"
@@ -2333,7 +2604,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0054/6665/2718/files/1_copy_981daca2-4d31-4623-a8fe-d4c49a641aa8.jpg?v=1724313286"
@@ -2432,7 +2703,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -2544,7 +2815,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -2644,7 +2915,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -2759,7 +3030,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Growth Serum (brand site's own product type)"
   },
   "images": [
@@ -2920,7 +3191,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Growth Serum (brand site's own product type)"
   },
   "images": [
@@ -3080,7 +3351,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Growth Serum (brand site's own product type)"
   },
   "images": [
@@ -3241,7 +3512,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -3399,7 +3670,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Growth Serum (brand site's own product type)"
   },
   "images": [
@@ -3526,7 +3797,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Growth Serum (brand site's own product type)"
   },
   "images": [
@@ -3683,7 +3954,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0314/7084/5996/files/1_b0136856-f88b-4494-8228-38151e47f622.jpg?v=1759747739"
@@ -3785,7 +4056,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -3884,7 +4155,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0729/5261/1125/files/IMG_1715_Edited.jpg?v=1758777232"
@@ -3985,7 +4256,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -4141,7 +4412,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Floral Waters (brand site's own product type)"
   },
   "images": [
@@ -4240,7 +4511,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -4390,7 +4661,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -4524,7 +4795,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -4641,7 +4912,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/RHGS301.png?v=1783080902"
@@ -4776,7 +5047,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/hgsrollon10.png?v=1784965387"
@@ -4878,7 +5149,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_5.jpg?v=1783143161"
@@ -5016,7 +5287,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone (−2); Essential oil / volatile sensitiser: thymus vulgaris oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -5194,7 +5465,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: mentha piperita oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -5347,7 +5618,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: mentha piperita oil, rosmarinus officinalis leaf oil, thymus vulgaris oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -5493,7 +5764,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5610,7 +5881,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -5734,7 +6005,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -5855,7 +6126,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol, mentha piperita oil (−1)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -6045,7 +6316,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -6184,7 +6455,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -6283,7 +6554,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitled_design_42.png?v=1771576071"
@@ -6380,7 +6651,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitleddesign_39.png?v=1771502290"
@@ -6476,7 +6747,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/Untitleddesign_38.png?v=1771502153"
@@ -6572,7 +6843,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -6671,7 +6942,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -6773,7 +7044,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/PDP1_89a54150-3b12-49a4-8cc6-ff57ad5564bc.webp?v=1726638011"
@@ -6956,7 +7227,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -7055,7 +7326,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/1stimage.webp?v=1757338721"
@@ -7151,7 +7422,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/bumps_rosemarywater.png?v=1744441266"
@@ -7250,7 +7521,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/HGSSCALPSERUMMENHGSupplent_2_11zon.webp?v=1752139232"
@@ -7346,7 +7617,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -7445,7 +7716,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/rosemarywatersunscreen.webp?v=1741355855"
@@ -7542,7 +7813,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/1_copy_2_1.webp?v=1767606068"
@@ -7641,7 +7912,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/1_copy_2_1.webp?v=1767606068"
@@ -7745,7 +8016,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -7929,7 +8200,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -8028,7 +8299,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/1_copy_2_1.webp?v=1767606068"
@@ -8125,7 +8396,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/59fbba4e-094a-4da5-b293-f1dc65d1c2c4.jpeg"
@@ -8224,7 +8495,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/dc5f566d-9eeb-4596-97bc-b8a4e69049a5.png"
@@ -8321,7 +8592,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/3fb229a9-de6d-4e15-bdf1-a6340d660d7d.png"
@@ -8422,7 +8693,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosemary oil (−0.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Rosemary Water Spray (brand site's own product type)"
   },
   "images": [
@@ -8576,7 +8847,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Tonic (brand site's own product type)"
   },
   "images": [
@@ -8675,7 +8946,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_bringaras_scalp-and-hair-concentrate_50ml_1_.png?store=default&image-type=small_image"
@@ -8769,7 +9040,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -8870,7 +9141,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -9046,7 +9317,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool (−1)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -9213,7 +9484,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal, limonene, linalool (−2); Essential oil / volatile sensitiser: citrus nobilis peel oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -9368,7 +9639,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus offic nalis leaf oil (−0.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair (brand site's own product type)"
   },
   "images": [

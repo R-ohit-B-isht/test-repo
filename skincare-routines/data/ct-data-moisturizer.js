@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -196032,14 +196032,13 @@ const CTPRODUCTS = [
   "featureLine": "Cream / gel · Fragrance-free · ₹918/100g",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "dimethicone high on the INCI list (moderate evidence); copper tripeptide-1 high on the INCI list (moderate evidence)"
+   "dimethicone high on the INCI list (moderate evidence); copper tripeptide-1 high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 8.2,
-   "skin": 7.7,
+   "ingredients": 8.1,
+   "skin": 9,
    "trust": 7,
    "experience": 2.2
   },
@@ -196061,9 +196060,9 @@ const CTPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
    "inciMatchedName": "1 peptide ceramide moisturizer (name match 92%)",
-   "inciList": "Ingredient Names Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum. Formulated Without Paraben, Fragrance, Mineral Oil, Allergen, Alcohol",
+   "inciList": "Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum",
    "evidenceActives": "dimethicone (#5 on list, moderate evidence); copper tripeptide-1 (#9 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#15 on list, moderate evidence); ceramide ap (#16 on list, moderate evidence); ceramide eop (#17 on list, moderate evidence); cholesterol (#19 on list, moderate evidence); tocopheryl acetate (#23 on list, moderate evidence); allantoin (#24 on list, limited evidence); hyaluronic acid (#25 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
    "concernBasis": "Aging — copper tripeptide-1 #9 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
@@ -196091,7 +196090,8 @@ const CTPRODUCTS = [
    "target:aging",
    "target:irritation",
    "inci:full",
-   "inci:brand-site"
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -196112,11 +196112,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 peptide ceramide moisturizer",
    "inciMatchScore": 0.92,
-   "inciText": "Ingredient Names Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum. Formulated Without Paraben, Fragrance, Mineral Oil, Allergen, Alcohol",
+   "inciText": "Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.97,
+   "recognised": 1,
    "actives": [
     {
      "name": "dimethicone",
@@ -196197,14 +196197,6 @@ const CTPRODUCTS = [
      "core": true,
      "trace": true,
      "src": "ha"
-    },
-    {
-     "name": "mineral oil",
-     "grade": "B",
-     "position": 29,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
     }
    ],
    "support": [
@@ -196217,17 +196209,7 @@ const CTPRODUCTS = [
     "hyaluronic acid"
    ],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -272921,16 +272903,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 60 · ₹1078/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -272947,11 +272931,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/panthenol-hydrating-gel-sunscreen",
+   "inciMatchedName": "Panthenol Hydrating Gel Sunscreen SPF 60 PA++++ (name match 100%)",
+   "inciList": "Aqua, Aqua (and) C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipid, Ethylhexylglycerin, Hydroxyacetophenone, Propanediol, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Dicaprylyl Carbonate, Sodium Acrylates Copolymer (and) Lecithin, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Polysorbate 20, Phenylbenzimidazole Sulfonic Acid, Zinc Oxide, Tocopheryl Acetate, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Thermus Thermophillus Ferment (and) Glycerin",
+   "evidenceActives": "panthenol (#21 on list, moderate evidence); tocopheryl acetate (#25 on list, moderate evidence); sodium hyaluronate (#28 on list, moderate evidence); glycerin (#30 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
    "waterResistance": "Water resistance not stated in listing"
@@ -272980,7 +272966,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -272989,25 +272977,111 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/panthenol-hydrating-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Panthenol Hydrating Gel Sunscreen SPF 60 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Aqua (and) C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipid, Ethylhexylglycerin, Hydroxyacetophenone, Propanediol, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Dicaprylyl Carbonate, Sodium Acrylates Copolymer (and) Lecithin, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Polysorbate 20, Phenylbenzimidazole Sulfonic Acid, Zinc Oxide, Tocopheryl Acetate, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Thermus Thermophillus Ferment (and) Glycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -304928,15 +305002,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "niacinamide",
   "featureLine": "Cream / gel · ₹434/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); centella asiatica extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.2,
+   "skin": 10,
+   "trust": 8,
    "experience": 6
   },
   "fullSpec": {
@@ -304953,13 +305028,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (454 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/centella-niacinamide-moisturizing-cream-100g",
+   "inciMatchedName": "Centella & Niacinamide Moisturizing Cream - 100g (name match 92%)",
+   "inciList": "Aqua, Niacinamide, Propanediol, Centella Asiatica Extract, Capric Caprylic Triglycerides, Glycerin, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, AMP/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Butyrospermum Parkii (Shea) Butter, Stearic Acid, Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, Hyaluronic Acid, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Ethoxydiglycol, Vitamin-E, Zinc PCA, Capryloyl Glycine, Sarcosine, Cinnamomum Zeylanicum Bark Extract, Sodium Hydroxide and Sodium Gluconate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); centella asiatica extract (#4 on list, moderate evidence); glycerin (#6 on list, strong evidence); butyrospermum parkii butter (#13 on list, moderate evidence); hyaluronic acid (#17 on list, moderate evidence); urea (#22 on list, strong evidence); allantoin (#29 on list, limited evidence); panthenol (#32 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 454 ratings"
+   "buyerEvidence": "4.1★ from 454 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — centella asiatica extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/q/r/100-centella-and-niacinamide-moisturizing-cream-48-hour-original-imah5f3n2ca3mh2m.jpeg?q=90",
@@ -304980,7 +305058,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -304989,25 +305072,123 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/centella-niacinamide-moisturizing-cream-100g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Centella & Niacinamide Moisturizing Cream - 100g",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Niacinamide, Propanediol, Centella Asiatica Extract, Capric Caprylic Triglycerides, Glycerin, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, AMP/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Butyrospermum Parkii (Shea) Butter, Stearic Acid, Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, Hyaluronic Acid, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Ethoxydiglycol, Vitamin-E, Zinc PCA, Capryloyl Glycine, Sarcosine, Cinnamomum Zeylanicum Bark Extract, Sodium Hydroxide and Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin",
+    "butyrospermum parkii butter",
+    "hyaluronic acid",
+    "urea",
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -321989,15 +322170,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "niacinamide + glycolic acid + kojic acid",
   "featureLine": "Cream / gel · ₹997/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8,
+   "skin": 10,
+   "trust": 8,
    "experience": 1
   },
   "fullSpec": {
@@ -322014,13 +322196,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/kesar-kojic-daily-pigmentation-correction-cream-50g",
+   "inciMatchedName": "Kesar & Kojic Daily Pigmentation Correction Cream - 30G (name match 88%)",
+   "inciList": "Aqua, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Kojic Dipalmitate, Glycerin, Arachidyl Alcohol & Behenyl Alcohol & Arachidyl Glucoside, Cetearyl Alcohol, Niacinamide, Alpha-arbutin, Ammonium Polyacryloyldimethyl Taurate, Saffron Extract, Glycolic Acid, Phenoxyethanol, Ethylhexylglycerin, Glyceryl Stearate and Peg-100 Stearate, Pentaerythrityl Distearate, Disodium Edta, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — kojic dipalmitate #4 on INCI, niacinamide #8 on INCI, alpha-arbutin #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51uJwDaX2YL._AC_UL320_.jpg"
@@ -322043,7 +322228,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -322052,25 +322241,69 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/kesar-kojic-daily-pigmentation-correction-cream-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kesar & Kojic Daily Pigmentation Correction Cream - 30G",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Kojic Dipalmitate, Glycerin, Arachidyl Alcohol & Behenyl Alcohol & Arachidyl Glucoside, Cetearyl Alcohol, Niacinamide, Alpha-arbutin, Ammonium Polyacryloyldimethyl Taurate, Saffron Extract, Glycolic Acid, Phenoxyethanol, Ethylhexylglycerin, Glyceryl Stearate and Peg-100 Stearate, Pentaerythrityl Distearate, Disodium Edta, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -337430,15 +337663,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + centella/cica",
   "featureLine": "Oil · ₹524/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); centella asiatica extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.2,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -337455,13 +337689,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/centella-niacinamide-moisturizing-cream-50g",
+   "inciMatchedName": "Centella & Niacinamide Moisturizing Cream - 50g (name match 94%)",
+   "inciList": "Aqua, Niacinamide, Propanediol, Centella Asiatica Extract, Capric Caprylic Triglycerides, Glycerin, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, AMP/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Butyrospermum Parkii (Shea) Butter, Stearic Acid, Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, Hyaluronic Acid, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Ethoxydiglycol, Vitamin-E, Zinc PCA, Capryloyl Glycine, Sarcosine, Cinnamomum Zeylanicum Bark Extract, Sodium Hydroxide and Sodium Gluconate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); centella asiatica extract (#4 on list, moderate evidence); glycerin (#6 on list, strong evidence); butyrospermum parkii butter (#13 on list, moderate evidence); hyaluronic acid (#17 on list, moderate evidence); urea (#22 on list, strong evidence); allantoin (#29 on list, limited evidence); panthenol (#32 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — centella asiatica extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ytxdmgKCL._AC_UL320_.jpg"
@@ -337485,7 +337722,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -337494,25 +337736,123 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/centella-niacinamide-moisturizing-cream-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Centella & Niacinamide Moisturizing Cream - 50g",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Niacinamide, Propanediol, Centella Asiatica Extract, Capric Caprylic Triglycerides, Glycerin, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, AMP/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Butyrospermum Parkii (Shea) Butter, Stearic Acid, Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, Hyaluronic Acid, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Ethoxydiglycol, Vitamin-E, Zinc PCA, Capryloyl Glycine, Sarcosine, Cinnamomum Zeylanicum Bark Extract, Sodium Hydroxide and Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin",
+    "butyrospermum parkii butter",
+    "hyaluronic acid",
+    "urea",
+    "sodium pca",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -337966,16 +338306,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + peptides + centella/cica",
   "featureLine": "Oil · ₹988/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -337992,13 +338334,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/3-niacinamide-oil-free-moisturizer",
+   "inciMatchedName": "3% Niacinamide Oil-Free Moisturizer (name match 100%)",
+   "inciList": "Aqua (Water), Dimethicone, Glycerin, 1,3 Butylene Glycol, Niacinamide, Coco Caprylate/Caprate, Pentylene Glycol, AMPS/HEMA Crosspolymer, C13-15 Alkane, Stearic Acid, Polylysine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Camellia Sinensis Leaf Extract, Centella Asiatica Leaf Extract, Cladosiphon Okamuranus Extract, Willow Bark Extract, Sodium Hyaluronate, Anhydroxylitol, Sodium Acrylates Copolymer, Dextran, Tripeptide-1, Xylitol, Xylitylglucoside, Salicylic Acid, Decyl Glucoside, Coffea Arabica (Coffee) Seed Extract, 1,2-Hexanediol, Lecithin, Citrus Aurantium Bergamia (Bergamot) Leaf Extract, Pinus Densiflora Leaf Extract, Phenoxyethanol, Ethylhexylglycerin, Sodium Gluconate, Coco-Glucoside",
+   "evidenceActives": "dimethicone (#2 on list, moderate evidence); glycerin (#3 on list, strong evidence); niacinamide (#5 on list, strong evidence); camellia sinensis leaf extract (#12 on list, moderate evidence); sodium hyaluronate (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #23 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Db6UzYAbL._AC_UL320_.jpg"
@@ -338023,7 +338368,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -338032,25 +338381,80 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/3-niacinamide-oil-free-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "3% Niacinamide Oil-Free Moisturizer",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Dimethicone, Glycerin, 1,3 Butylene Glycol, Niacinamide, Coco Caprylate/Caprate, Pentylene Glycol, AMPS/HEMA Crosspolymer, C13-15 Alkane, Stearic Acid, Polylysine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Camellia Sinensis Leaf Extract, Centella Asiatica Leaf Extract, Cladosiphon Okamuranus Extract, Willow Bark Extract, Sodium Hyaluronate, Anhydroxylitol, Sodium Acrylates Copolymer, Dextran, Tripeptide-1, Xylitol, Xylitylglucoside, Salicylic Acid, Decyl Glucoside, Coffea Arabica (Coffee) Seed Extract, 1,2-Hexanediol, Lecithin, Citrus Aurantium Bergamia (Bergamot) Leaf Extract, Pinus Densiflora Leaf Extract, Phenoxyethanol, Ethylhexylglycerin, Sodium Gluconate, Coco-Glucoside",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "butylene glycol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -182,7 +182,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -285,7 +285,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -387,7 +387,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/01_fbd4aac7-cdad-4232-a4b3-753f11496994.jpg?v=1785497010"
@@ -490,7 +490,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #51 on INCI; Aging — product type, palmitoyl pentapeptide-4 #14 on INCI, copper tripeptide-1 #16 on INCI; Irritation — ceramide eop #20 on INCI, ceramide np #22 on INCI, ceramide ap #24 on INCI, bisabolol #44 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -696,7 +696,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -891,7 +891,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturiser (brand site's own product type)"
   },
   "images": [
@@ -1114,7 +1114,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #8 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type; Irritation — panthenol #3 on INCI (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -1273,7 +1273,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #8 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type; Irritation — panthenol #3 on INCI (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -1430,7 +1430,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PinkTherapy_Sunscreen_Moisturiser_PI_1_1_1.jpg?v=1773384418"
@@ -1541,7 +1541,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PinkTherapyLipBalmPI_1-min_0cea998e-1be4-41eb-acea-e82f272ccd4a.jpg?v=1767272486"
@@ -1722,7 +1722,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PinkTherapy_PDRN-min.jpg?v=1767174524"

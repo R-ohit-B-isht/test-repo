@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -212,7 +212,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -376,7 +376,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Styling (brand site's own product type)"
   },
   "images": [
@@ -514,7 +514,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -672,7 +672,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/4-redensyl-hair-oil-booster/1-1_nDdaLdiNGp.jpg?tr=w-600"
@@ -772,7 +772,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -951,7 +951,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -1116,7 +1116,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0314/7084/5996/files/1st_13_60ac0a2c-aadc-4266-ae12-7c2b7b83c552.jpg?v=1697629361"
@@ -1267,7 +1267,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Anti Dandruff Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -1365,7 +1365,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Anti Hair Fall Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -1462,7 +1462,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Oils (brand site's own product type)"
   },
   "images": [
@@ -1564,7 +1564,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, lavandulaagustifolia oil, pelargonium graveolens flower oil, cananga odorata flower oil, mentha piperita oil (−1.5)",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Oils (brand site's own product type)"
   },
   "images": [
@@ -1702,7 +1702,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Anti-DandruffHairOil.jpg?v=1684239205"
@@ -1799,7 +1799,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oils (With No Mineral Oil) (brand site's own product type)"
   },
   "images": [
@@ -1899,7 +1899,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Amla_BhringrajHairOil01.jpg?v=1684239084"
@@ -1997,7 +1997,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oils (With No Mineral Oil) (brand site's own product type)"
   },
   "images": [
@@ -2095,7 +2095,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oils (brand site's own product type)"
   },
   "images": [
@@ -2194,7 +2194,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Triphala01.jpg?v=1684568728"
@@ -2290,7 +2290,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Shikakai01.jpg?v=1684569411"
@@ -2386,7 +2386,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/BhringrajHairOilNormal01.jpg?v=1684569595"
@@ -2483,7 +2483,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Kumkumadioil01.jpg?v=1684315992"
@@ -2580,7 +2580,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Fenugreek_Methi_Hairoil01.jpg?v=1684239348"
@@ -2677,7 +2677,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/OnionBlackSeedHairOil01.jpg?v=1684240465"
@@ -2774,7 +2774,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/MoroccanArganHairOil200ml01.jpg?v=1684239584"
@@ -2875,7 +2875,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/RedOnion200ml01.jpg?v=1684300580"
@@ -2995,7 +2995,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/RedOnion100ml01.jpg?v=1684300475"
@@ -3111,7 +3111,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/300x300GingerRoothairoil.jpg?v=1752561924"
@@ -3211,7 +3211,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -3353,7 +3353,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -3457,7 +3457,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -3601,7 +3601,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -3705,7 +3705,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -3744,6 +3744,327 @@ const BSPRODUCTS = [
    "inciSourceUrl": "https://mamaearth.in/products/rosemary-hair-growth-oil-200ml",
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "Rosemary Hair Growth Oil with Rosemary & Methi Dana for Promoting Hair Growth - 200 ml",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Isopropyl Myristate, Rosmarinus Officinalis (Rosemary) Leaf Oil, Eclipta Alba (Bhringraj) Extract, Bacopa Monnieri (Brahmi) Oil, Phyllanthus Emblica (Amla) Fruit Extract, Prunus Amygdalus Dulcis (Almond) Oil, Ricinus Communis (Castor) Seed Oil, Trigonella Foenum-Graecum (Methi) Seed Oil, Murraya Koenigii (Curry) Leaf Oil, Azadirachta Indica (Neem) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Oil, Tocopherol (Vitamin E), Vitis Vinifera (Grape) Seed Oil, Tinogard® TT",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "eclipta alba extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bhringraj"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "ricinus communis seed oil",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mamaearth-bs-suy6oc",
+  "brand": "Mamaearth",
+  "model": "Onion Hair Oil for Hair Regrowth and Hair Fall Control - 250ml (Pack of 2)",
+  "price": 1198,
+  "capacityLine": "500 ml (pack of 2)",
+  "materialLine": "Onion",
+  "featureLine": "Oil · ₹240/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (limited evidence); eclipta alba extract high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.8,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 2 pack",
+   "pricePer100": "₹240/100ml",
+   "format": "Oil",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Onion (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/onion-hair-oil-for-hair-regrowth-hair-fall-control-with-redensyl-250ml-pack-of-2",
+   "inciMatchedName": "Onion Hair Oil for Hair Regrowth and Hair Fall Control - 250ml (Pack of 2) (name match 100%)",
+   "inciList": "Helianthus Annuus (Sunflower) Seed Oil, Isopropyl Myristate, Caprylic/Capric Triglyceride, Phyllanthus Emblica (Amla) Fruit Extract, Eclipta Alba (Bhringraj) Extract, Hibiscus Rosa-Sinensis (Gurhal) Extract, Sesamum Indicum (Sesame) Seed Oil, Allium Cepa (Onion) Seed Extract, Bacopa Monnieri (Brahmi) Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ricinus Communis (Castor) Seed Oil, Tocopherol (Vitamin E), Allium Cepa (Onion) Seed Oil, IFRA Certified Allergen Free Fragrance, Tinogard® TT, Redensyl",
+   "evidenceActives": "helianthus annuus seed oil (#1 on list, limited evidence); eclipta alba extract (#5 on list, limited evidence); sesamum indicum seed oil (#7 on list, limited evidence); simmondsia chinensis seed oil (#10 on list, limited evidence); prunus amygdalus dulcis oil (#12 on list, limited evidence); ricinus communis seed oil (#13 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/fop_white_bg_22.jpg?v=1777974163"
+  ],
+  "buyUrl": "https://mamaearth.in/products/onion-hair-oil-for-hair-regrowth-hair-fall-control-with-redensyl-250ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Onion Hair Oil for Hair Regrowth and Hair Fall Control - 250ml (Pack of 2)",
+  "tags": [
+   "area:scalp",
+   "format:oil",
+   "format:kit",
+   "ing:onion",
+   "concern:hair-fall",
+   "concern:hair-growth",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/onion-hair-oil-for-hair-regrowth-hair-fall-control-with-redensyl-250ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Onion Hair Oil for Hair Regrowth and Hair Fall Control - 250ml (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus (Sunflower) Seed Oil, Isopropyl Myristate, Caprylic/Capric Triglyceride, Phyllanthus Emblica (Amla) Fruit Extract, Eclipta Alba (Bhringraj) Extract, Hibiscus Rosa-Sinensis (Gurhal) Extract, Sesamum Indicum (Sesame) Seed Oil, Allium Cepa (Onion) Seed Extract, Bacopa Monnieri (Brahmi) Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ricinus Communis (Castor) Seed Oil, Tocopherol (Vitamin E), Allium Cepa (Onion) Seed Oil, IFRA Certified Allergen Free Fragrance, Tinogard® TT, Redensyl",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "C",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "eclipta alba extract",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bhringraj"
+    },
+    {
+     "name": "sesamum indicum seed oil",
+     "grade": "C",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "ricinus communis seed oil",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mamaearth-bs-1uunsq9",
+  "brand": "Mamaearth",
+  "model": "Rosemary Hair Growth Oil with Rosemary & Methi Dana for Promoting Hair Growth - 150 ml (Pa…",
+  "price": 838,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "Rosemary + Fenugreek",
+  "featureLine": "Oil · ₹279/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (limited evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.8,
+   "skin": 9.5,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹279/100ml",
+   "format": "Oil",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Rosemary, Fenugreek (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rosemary-hair-growth-oil-150ml-pack-of-2",
+   "inciMatchedName": "Rosemary Hair Growth Oil with Rosemary & Methi Dana for Promoting Hair Growth - 150 ml (Pack of 2) (name match 100%)",
+   "inciList": "Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Isopropyl Myristate, Rosmarinus Officinalis (Rosemary) Leaf Oil, Eclipta Alba (Bhringraj) Extract, Bacopa Monnieri (Brahmi) Oil, Phyllanthus Emblica (Amla) Fruit Extract, Prunus Amygdalus Dulcis (Almond) Oil, Ricinus Communis (Castor) Seed Oil, Trigonella Foenum-Graecum (Methi) Seed Oil, Murraya Koenigii (Curry) Leaf Oil, Azadirachta Indica (Neem) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Oil, Tocopherol (Vitamin E), Vitis Vinifera (Grape) Seed Oil, Tinogard® TT",
+   "evidenceActives": "helianthus annuus seed oil (#1 on list, limited evidence); cocos nucifera oil (#2 on list, moderate evidence); rosmarinus officinalis leaf oil (#4 on list, moderate evidence); eclipta alba extract (#5 on list, limited evidence); prunus amygdalus dulcis oil (#8 on list, limited evidence); ricinus communis seed oil (#9 on list, limited evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/fop_white_bg_21.jpg?v=1777974155"
+  ],
+  "buyUrl": "https://mamaearth.in/products/rosemary-hair-growth-oil-150ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Rosemary Hair Growth Oil with Rosemary & Methi Dana for Promoting Hair Growth - 150 ml (Pack of 2)",
+  "tags": [
+   "area:scalp",
+   "format:oil",
+   "format:kit",
+   "ing:rosemary",
+   "ing:fenugreek",
+   "concern:hair-growth",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rosemary-hair-growth-oil-150ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rosemary Hair Growth Oil with Rosemary & Methi Dana for Promoting Hair Growth - 150 ml (Pack of 2)",
    "inciMatchScore": 1,
    "inciText": "Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Isopropyl Myristate, Rosmarinus Officinalis (Rosemary) Leaf Oil, Eclipta Alba (Bhringraj) Extract, Bacopa Monnieri (Brahmi) Oil, Phyllanthus Emblica (Amla) Fruit Extract, Prunus Amygdalus Dulcis (Almond) Oil, Ricinus Communis (Castor) Seed Oil, Trigonella Foenum-Graecum (Methi) Seed Oil, Murraya Koenigii (Curry) Leaf Oil, Azadirachta Indica (Neem) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Oil, Tocopherol (Vitamin E), Vitis Vinifera (Grape) Seed Oil, Tinogard® TT",
    "inciUnverified": null,
@@ -3869,7 +4190,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4012,7 +4333,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4116,7 +4437,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4280,7 +4601,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4427,7 +4748,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4587,7 +4908,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4687,7 +5008,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4790,7 +5111,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -4958,7 +5279,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -5056,7 +5377,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -5159,7 +5480,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "HAIR OIL (brand site's own product type)"
   },
   "images": [
@@ -5288,7 +5609,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair oil (brand site's own product type)"
   },
   "images": [
@@ -5463,7 +5784,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil, rosmarinus officinalis leaf oil, melaleuca alternifolia leaf oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair oil (brand site's own product type)"
   },
   "images": [
@@ -5676,7 +5997,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -5776,7 +6097,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -5876,7 +6197,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -5975,7 +6296,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -6073,7 +6394,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Carrier Oil (brand site's own product type)"
   },
   "images": [
@@ -6171,7 +6492,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Carrier Oil (brand site's own product type)"
   },
   "images": [
@@ -6274,7 +6595,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosemary oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -6425,7 +6746,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -6525,7 +6846,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Carrier Oil (brand site's own product type)"
   },
   "images": [
@@ -6623,7 +6944,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -6722,7 +7043,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Carrier Oil (brand site's own product type)"
   },
   "images": [
@@ -6823,7 +7144,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil, eucalyptus globulus leaf oil, menthol, melaleuca alternifolia leaf oil, lavandula angustifolia oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7006,7 +7327,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/7_69d559eb-26bc-4759-99c7-81503728b6d6.webp?v=1732261468"
@@ -7108,7 +7429,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil, eucalyptus globulus leaf oil, menthol, melaleuca alternifolia leaf oil, lavandula angustifolia oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7289,7 +7610,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/a5612318-8ce1-4654-893a-f8eee4d720a8"
@@ -7387,7 +7708,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/80a36754-4fdc-40b6-912a-01b8187074be"
@@ -7484,7 +7805,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7582,7 +7903,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7680,7 +8001,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7777,7 +8098,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7879,7 +8200,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spa (brand site's own product type)"
   },
   "images": [
@@ -7979,7 +8300,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Onion Oil (brand site's own product type)"
   },
   "images": [
@@ -8077,7 +8398,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Ayurvedic Oil (brand site's own product type)"
   },
   "images": [
@@ -8174,7 +8495,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Rosemary Oil (brand site's own product type)"
   },
   "images": [
@@ -8272,7 +8593,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Oils (brand site's own product type)"
   },
   "images": [
@@ -8372,7 +8693,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Body Care, Body Care/Bath Oils (brand site's own product type)"
   },
   "images": [
@@ -8471,7 +8792,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Cleanser (Shampoo) (brand site's own product type)"
   },
   "images": [
@@ -8571,7 +8892,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -8673,7 +8994,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Cleanser (Shampoo), Hair care/Sulphate & Paraben Free Shampoo (brand site's own product type)"
   },
   "images": [
@@ -8774,7 +9095,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/products/SOYPROTEIN-NEWRANGE-01_ver2.png?v=1742798220"
@@ -8870,7 +9191,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/products/SHIKAKI_HONEY_Hairoil_ver2.jpg?v=1742798224"
@@ -8967,7 +9288,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -9066,7 +9387,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -9168,7 +9489,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo ( Hair Cleanser ) (brand site's own product type)"
   },
   "images": [
@@ -9269,7 +9590,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -9371,7 +9692,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Aroma Therapy, Aroma Therapy/Massage Oils (brand site's own product type)"
   },
   "images": [
@@ -9469,7 +9790,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care/Hair Oils, OFFER/Hair care (brand site's own product type)"
   },
   "images": [
@@ -9566,7 +9887,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Oils (brand site's own product type)"
   },
   "images": [
@@ -9663,7 +9984,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Oils (brand site's own product type)"
   },
   "images": [
@@ -9760,7 +10081,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oils (With No Mineral Oil) (brand site's own product type)"
   },
   "images": [
@@ -9859,7 +10180,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oils (With No Mineral Oil) (brand site's own product type)"
   },
   "images": [
@@ -9957,7 +10278,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Oils (brand site's own product type)"
   },
   "images": [
@@ -10055,7 +10376,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oils (With No Mineral Oil) (brand site's own product type)"
   },
   "images": [

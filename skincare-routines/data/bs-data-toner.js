@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -188,7 +188,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -293,7 +293,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -427,7 +427,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #14 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -590,7 +590,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -694,7 +694,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #23 on INCI; Dark spots — niacinamide #23 on INCI; Irritation — ceramide eop #10 on INCI, ceramide np #11 on INCI, ceramide ns #12 on INCI, ceramide ap #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -902,7 +902,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -1039,7 +1039,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -1140,7 +1140,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -1281,7 +1281,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -1430,7 +1430,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -1533,7 +1533,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mist & Toners (brand site's own product type)"
   },
   "images": [
@@ -1679,7 +1679,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mist & Toners (brand site's own product type)"
   },
   "images": [
@@ -1849,7 +1849,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mist & Toners (brand site's own product type)"
   },
   "images": [
@@ -1979,7 +1979,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -2080,7 +2080,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -2181,7 +2181,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -2285,7 +2285,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -2426,7 +2426,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Pocket (brand site's own product type)"
   },
   "images": [
@@ -2530,7 +2530,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -2669,7 +2669,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2G1 Special off campaign (brand site's own product type)"
   },
   "images": [
@@ -2766,7 +2766,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Floral Waters (brand site's own product type)"
   },
   "images": [
@@ -2862,7 +2862,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/CucumberWater01.jpg?v=1684756314"
@@ -2958,7 +2958,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Rosewater01.jpg?v=1684756177"
@@ -3054,7 +3054,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/products/rosewater-soap-pack-of-3_4.jpg?v=1680168157"
@@ -3151,7 +3151,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -3250,7 +3250,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/1_10b8734c-9818-4e38-b72a-4f669b0f3008.jpg?v=1750146369"
@@ -3347,7 +3347,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Vitamin_C_Skin_Brightening_Face_Toner_1600x1600-01_1.jpg?v=1750236380"
@@ -3444,7 +3444,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Cucumber_AloeVera_FaceToner-01_1.jpg?v=1750151884"
@@ -3547,7 +3547,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -3694,7 +3694,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbic acid #2 on INCI; Aging — ascorbic acid #2 on INCI; Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -3843,7 +3843,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_6.png?v=1784963137"
@@ -3944,7 +3944,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Makeup (brand site's own product type)"
   },
   "images": [
@@ -4157,7 +4157,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Makeup (brand site's own product type)"
   },
   "images": [
@@ -4351,7 +4351,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -4491,7 +4491,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "free_gift1_mini (brand site's own product type)"
   },
   "images": [
@@ -4590,7 +4590,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "free_gift2_full_size (brand site's own product type)"
   },
   "images": [
@@ -4694,7 +4694,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — avena sativa kernel extract #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "tryplum (brand site's own product type)"
   },
   "images": [
@@ -4831,7 +4831,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — avena sativa kernel extract #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -4968,7 +4968,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5108,7 +5108,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — copper tripeptide-1 #12 on INCI; Irritation — ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5330,7 +5330,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5472,7 +5472,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5605,7 +5605,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — avena sativa kernel extract #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5741,7 +5741,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -5884,7 +5884,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -6048,7 +6048,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -6193,7 +6193,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #9 on INCI, ceramide np #20 on INCI, avena sativa kernel extract #29 on INCI (matching only — not proof it works)",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -6406,7 +6406,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #13 on INCI; Dark spots — dipotassium glycyrrhizate #12 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/2_74_0d1a51a3-fa10-4f63-80d8-a747bcc9ed5c.jpg?v=1744543113"
@@ -6560,7 +6560,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Minis (brand site's own product type)"
   },
   "images": [
@@ -6732,7 +6732,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, hexylresorcinol #11 on INCI; Irritation — beta-glucan #16 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -6879,7 +6879,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — adenosine #19 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/8801051465464_a5e75f95-3949-4ccf-a902-0cdc714bcfda.jpg?v=1744358184"
@@ -7030,7 +7030,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, hexylresorcinol #11 on INCI; Irritation — beta-glucan #16 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -7177,7 +7177,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — adenosine #16 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -7342,7 +7342,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -7514,7 +7514,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #13 on INCI; Dark spots — dipotassium glycyrrhizate #12 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Tea Tree (brand site's own product type)"
   },
   "images": [
@@ -7685,7 +7685,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #4 on INCI, dipotassium glycyrrhizate #18 on INCI; Irritation — beta-glucan #20 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "toner (brand site's own product type)"
   },
   "images": [
@@ -7871,7 +7871,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5); Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -8027,7 +8027,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -8127,7 +8127,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/c9166d8c-e6de-4d61-92f2-95e48fe44b17.png"
@@ -8229,7 +8229,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: mentha piperita oil (−0.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -8389,7 +8389,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — glycyrrhiza glabra root extract #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -8568,7 +8568,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #24 on INCI; Dark spots — niacinamide #24 on INCI; Irritation — ceramide eos #15 on INCI, panthenol #23 on INCI, aloe barbadensis leaf juice #28 on INCI, centella asiatica extract #29 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -8792,7 +8792,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: mentha piperita oil (−0.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -8953,7 +8953,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — glycyrrhiza glabra root extract #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -9131,7 +9131,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: mentha piperita oil (−0.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -9291,7 +9291,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI, panthenol #8 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Toner (brand site's own product type)"
   },
   "images": [
@@ -9424,7 +9424,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Toner (brand site's own product type)"
   },
   "images": [
@@ -9523,7 +9523,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Toner (brand site's own product type)"
   },
   "images": [
@@ -9622,7 +9622,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -9726,7 +9726,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Toner (brand site's own product type)"
   },
   "images": [
@@ -9862,7 +9862,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Toner (brand site's own product type)"
   },
   "images": [
@@ -9982,7 +9982,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/files/FirstSlide_b1874353-500a-4cd5-9fa4-f662b59525eb.jpg?v=1742798146"
@@ -10080,7 +10080,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/files/Artboard_3_064f03c9-716b-4d99-8a59-bef5e59ab2ee.png?v=1765525804"
@@ -10178,7 +10178,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Glycerine Soaps (brand site's own product type)"
   },
   "images": [
@@ -10278,7 +10278,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toners (brand site's own product type)"
   },
   "images": [
@@ -10376,7 +10376,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Soaps, Soaps/Glycerine Soaps (brand site's own product type)"
   },
   "images": [
@@ -10442,16 +10442,18 @@ const BSPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Ceramides + Rice water",
   "featureLine": "Toner · ₹495/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -10469,14 +10471,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/hydrating-ceramide-toner-essence",
+   "inciMatchedName": "Ceramides Milky Toner Essence With 5% Rice Water Blend - 100 ml (name match 100%)",
+   "inciList": "Aqua (Water), Trehalose, Oryza Sativa (Rice) Water Extract, Glycerin, Isododecane, C12-15 Alkyl Benzoate, Pentylene Glycol, Diethylhexyl Maleate, Glyceryl Stearate, Urea, 5-Ureidohydantoin (Allantoin), Fructose, Maltose, Sodium PCA, Sodium Lactate, Sodium Hyaluronate, Glucose, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Beta Glucan, Avena Sativa (Oat) Meal Extract, Tremella Fuciformis (Snow Mushroom) Extract, Propanediol, Laminaria Digitata (Oarweed) Extract, Cetyl-PG Hydroxyethyl Palmitamide, Sorbitan Stearate, Cetearyl Alcohol, Cetearyl Glucoside, Potassium Cetyl Phosphate, Polysorbate 20, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Polydecene, Polysorbate 80, PEG-100 Stearate, Acacia Senegal Gum, Xanthan Gum, Titanium Dioxide Dispersion, Sodium Gluconate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); ceramide np (#19 on list, moderate evidence); beta-glucan (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Irritation — ceramide eos #17 on INCI, ceramide ns #18 on INCI, ceramide np #19 on INCI, ceramide ap #21 on INCI, beta-glucan #22 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -10496,7 +10501,10 @@ const BSPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -10504,25 +10512,116 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/hydrating-ceramide-toner-essence",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramides Milky Toner Essence With 5% Rice Water Blend - 100 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Trehalose, Oryza Sativa (Rice) Water Extract, Glycerin, Isododecane, C12-15 Alkyl Benzoate, Pentylene Glycol, Diethylhexyl Maleate, Glyceryl Stearate, Urea, 5-Ureidohydantoin (Allantoin), Fructose, Maltose, Sodium PCA, Sodium Lactate, Sodium Hyaluronate, Glucose, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Beta Glucan, Avena Sativa (Oat) Meal Extract, Tremella Fuciformis (Snow Mushroom) Extract, Propanediol, Laminaria Digitata (Oarweed) Extract, Cetyl-PG Hydroxyethyl Palmitamide, Sorbitan Stearate, Cetearyl Alcohol, Cetearyl Glucoside, Potassium Cetyl Phosphate, Polysorbate 20, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Polydecene, Polysorbate 80, PEG-100 Stearate, Acacia Senegal Gum, Xanthan Gum, Titanium Dioxide Dispersion, Sodium Gluconate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 43,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -10581,7 +10680,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -10721,7 +10820,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, tetrahexyldecyl ascorbate #18 on INCI; Aging — adenosine #6 on INCI, tetrahexyldecyl ascorbate #18 on INCI; Irritation — panthenol #11 on INCI, ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -10922,7 +11021,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/Matcha_toner-min.jpg?v=1767174819"

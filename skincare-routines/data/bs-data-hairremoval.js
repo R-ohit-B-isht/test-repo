@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -44,7 +44,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Removal (brand site's own product type)"
   },
   "images": [
@@ -144,7 +144,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "After Wax Lotion (brand site's own product type)"
   },
   "images": [
@@ -243,7 +243,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "After Wax Lotion (brand site's own product type)"
   },
   "images": [
@@ -342,7 +342,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "After Wax Lotion (brand site's own product type)"
   },
   "images": [
@@ -441,7 +441,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Pre Wax Gel (brand site's own product type)"
   },
   "images": [
@@ -540,7 +540,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Removal (brand site's own product type)"
   },
   "images": [
@@ -639,7 +639,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Removal (brand site's own product type)"
   },
   "images": [
@@ -741,7 +741,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Hair-Removal-Spray-Haldi-Chandan-Front.jpg?v=1765961592"
@@ -888,7 +888,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/DE-TAN_WAX_Main_image_copy_jpg.jpg?v=1773908020"
@@ -989,7 +989,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/MainImage22.jpg?v=1765964159"
@@ -1134,7 +1134,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Mainimage_3c15729e-2370-4ead-8493-50b0d5d20693.jpg?v=1765864593"
@@ -1235,7 +1235,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Hair-removal-Spray.jpg?v=1756025031"
@@ -1384,7 +1384,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Hair-Removal-Cream.jpg?v=1756025171"
@@ -1534,7 +1534,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Harsh anionic surfactant (SLS/ALS): sodium lauryl sulphate (−0.7)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Wax Foam (brand site's own product type)"
   },
   "images": [
@@ -1672,7 +1672,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Removal (brand site's own product type)"
   },
   "images": [
@@ -1768,7 +1768,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Removal (brand site's own product type)"
   },
   "images": [
@@ -1866,7 +1866,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Hair Remover (brand site's own product type)"
   },
   "images": [
@@ -1975,7 +1975,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Feminine Hygiene (brand site's own product type)"
   },
   "images": [
@@ -2127,7 +2127,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — kojic acid #2 on INCI, ascorbic acid #3 on INCI; Aging — ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Feminine Hygiene (brand site's own product type)"
   },
   "images": [
@@ -2301,7 +2301,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Feminine Hygiene (brand site's own product type)"
   },
   "images": [
@@ -2403,7 +2403,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Drying alcohol high in the list: ethyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/RENEESPARKEpisense_PI_11.jpg?v=1784617198"
@@ -2532,7 +2532,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair (brand site's own product type)"
   },
   "images": [

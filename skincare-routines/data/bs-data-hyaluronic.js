@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -36,14 +36,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -136,14 +136,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -245,7 +245,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -388,7 +388,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -531,7 +531,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "essence / serums (brand site's own product type)"
   },
   "images": [
@@ -674,7 +674,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI, centella asiatica extract #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -834,7 +834,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eos #6 on INCI, ceramide ns #7 on INCI, ceramide np #8 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0314/7084/5996/files/Moisture-Punch_1_cleanup_1.jpg?v=1745238538"
@@ -976,7 +976,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #1 on INCI, centella asiatica extract #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -1114,7 +1114,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -1218,7 +1218,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -1363,7 +1363,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -1466,7 +1466,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Illuminator (brand site's own product type)"
   },
   "images": [
@@ -1556,6 +1556,313 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-i4etae",
+  "brand": "Mamaearth",
+  "model": "Hydra-Glow CC Serum with Vitamin C & Hyaluronic Acid - Peach - 30 ml",
+  "price": 649,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C + Hyaluronic acid",
+  "featureLine": "Serum · ₹2163/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.2,
+   "skin": 8.5,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2163/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Tinted (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-hydra-glow-cc-serum-with-vitamin-c-hyaluronic-acid-peach-30-ml",
+   "inciMatchedName": "Mamaearth Hydra-Glow CC Serum with Vitamin C & Hyaluronic Acid - Peach - 30 ml (name match 100%)",
+   "inciList": "Aqua, Cyclopentasiloxane, Dimethicone Zinc Oxide, Ethylhexyl methoxycinnamate, Cyclopentasiloxane A & Disteardimonium Hectorite B & Propylene Carbonate C, Butylene Glycol, Caprylic/Capric Triglycerides, PEG-10 Dimethicone, Dimethicone, Hydrogenated Polyisobutene, Phenyl Trimethicone, Hydrogenated Olive Decyl Esters, Phenoxyethanol, Phenoxyethanol Ethylhexylglycerin, Sodium Hyaluronate, Magnesium Ascorbyl Phosphate, Sodium Chloride, Fragrance, Cocos Nucifera Water, Salix Alba Bark Extract, Curcuma longa (Turmeric Oil)",
+   "evidenceActives": "sodium hyaluronate (#15 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "CC Cream (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/peach_swatch_1_1.jpg?v=1777972616"
+  ],
+  "buyUrl": "https://mamaearth.in/products/mamaearth-hydra-glow-cc-serum-with-vitamin-c-hyaluronic-acid-peach-30-ml",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Hydra-Glow CC Serum with Vitamin C & Hyaluronic Acid - Peach - 30 ml",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:tinted",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-hydra-glow-cc-serum-with-vitamin-c-hyaluronic-acid-peach-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Hydra-Glow CC Serum with Vitamin C & Hyaluronic Acid - Peach - 30 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Cyclopentasiloxane, Dimethicone Zinc Oxide, Ethylhexyl methoxycinnamate, Cyclopentasiloxane A & Disteardimonium Hectorite B & Propylene Carbonate C, Butylene Glycol, Caprylic/Capric Triglycerides, PEG-10 Dimethicone, Dimethicone, Hydrogenated Polyisobutene, Phenyl Trimethicone, Hydrogenated Olive Decyl Esters, Phenoxyethanol, Phenoxyethanol Ethylhexylglycerin, Sodium Hyaluronate, Magnesium Ascorbyl Phosphate, Sodium Chloride, Fragrance, Cocos Nucifera Water, Salix Alba Bark Extract, Curcuma longa (Turmeric Oil)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "magnesium ascorbyl phosphate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "-phd-bs-2i9r3u",
+  "brand": "/PHD/",
+  "model": "2% Hyaluronic Acid Dewy Skin Serum",
+  "price": 649,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Hyaluronic acid",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.3,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-hyaluronic-acid-dewy-skin-serum",
+   "inciMatchedName": "2% Hyaluronic Acid Dewy Skin Serum (name match 100%)",
+   "inciList": "Aqua (Water), Butylene Glycol, Pentylene Glycol, Propylene Glycol, Sodium Hyaluronate, Sodium Polyglutamate, Algin, Caprylyl Glycol, Panthenol, Disodium Phosphate, Glycerin, Sclerotium Gum, Glyceryl Polyacrylate, Potassium Phosphate, Serine, Trehalose, Urea, Hydrolyzed Sclerotium Gum, Phenoxyethanol, Ethylhexylglycerin, Hydroxyethyl Cellulose, Xanthan Gum, Lecithin, Pullulan, Sodium Gluconate",
+   "evidenceActives": "sodium hyaluronate (#5 on list, moderate evidence); panthenol (#9 on list, moderate evidence); glycerin (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #9 on INCI (matching only — not proof it works)",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serums (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/2-hyaluronic-acid-dewy-skin-serum-620039.png?v=1748244483"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/2-hyaluronic-acid-dewy-skin-serum",
+  "buyStore": "Brand store",
+  "title": "/PHD/ 2% Hyaluronic Acid Dewy Skin Serum",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:hyaluronic-acid",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-hyaluronic-acid-dewy-skin-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Hyaluronic Acid Dewy Skin Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Butylene Glycol, Pentylene Glycol, Propylene Glycol, Sodium Hyaluronate, Sodium Polyglutamate, Algin, Caprylyl Glycol, Panthenol, Disodium Phosphate, Glycerin, Sclerotium Gum, Glyceryl Polyacrylate, Potassium Phosphate, Serine, Trehalose, Urea, Hydrolyzed Sclerotium Gum, Phenoxyethanol, Ethylhexylglycerin, Hydroxyethyl Cellulose, Xanthan Gum, Lecithin, Pullulan, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "panthenol",
+    "glycerin",
+    "urea"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "plum-bs-19e0542",
   "brand": "Plum",
   "model": "Bulgarian Rose & 2% Hyaluronic Acid Serum For Dry Skin",
@@ -1601,7 +1908,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -1753,7 +2060,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — 3-o-ethyl ascorbic acid #2 on INCI, niacinamide #5 on INCI, ascorbic acid #10 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -1932,7 +2239,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — 3-o-ethyl ascorbic acid #2 on INCI, niacinamide #5 on INCI, ascorbic acid #10 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI, ascorbic acid #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -2111,7 +2418,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -2300,7 +2607,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #22 on INCI (matching only — not proof it works)",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/Frozen-Serum-1000x1000.jpg?v=1744542860"
@@ -2518,7 +2825,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -2713,7 +3020,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -2837,7 +3144,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -2936,7 +3243,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -3034,7 +3341,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/3b532b8c-bc95-4506-886e-fce688136539.webp"
@@ -3132,7 +3439,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Body Cupid official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Body Cupid official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/7d8fe398-bd5f-41de-b1cd-085af14d0d64"
@@ -3232,7 +3539,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/f2a03a34-02e2-48ff-90ad-7a8d9511504e.png"
@@ -3334,7 +3641,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, alpha-arbutin #37 on INCI; Irritation — ceramide eop #41 on INCI, ceramide np #42 on INCI, ceramide ap #43 on INCI, panthenol #50 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -3597,7 +3904,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -3702,7 +4009,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: linalool, citronellol, eugenol, geraniol, benzyl alcohol, limonene, citral, anise alcohol (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "face serum (brand site's own product type)"
   },
   "images": [
@@ -3853,7 +4160,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "simple official web store (www.simpleskincare.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "simple official web store (www.simpleskincare.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [

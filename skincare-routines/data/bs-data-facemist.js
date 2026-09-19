@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mist & Toners (brand site's own product type)"
   },
   "images": [
@@ -193,7 +193,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mist & Toners (brand site's own product type)"
   },
   "images": [
@@ -323,7 +323,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Nigrifix_mist_spray.webp?v=1781266919"
@@ -421,7 +421,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Isothiazolinone preservative (MI/MCI): methylisothiazolinone (−2)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Mint_CucumberFaceSpray01.jpg?v=1684756471"
@@ -529,7 +529,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -628,7 +628,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -733,7 +733,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -852,7 +852,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Menopause (brand site's own product type)"
   },
   "images": [
@@ -954,7 +954,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Toner (brand site's own product type)"
   },
   "images": [
@@ -1086,7 +1086,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Spray (brand site's own product type)"
   },
   "images": [

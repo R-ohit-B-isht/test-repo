@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -36,7 +36,7 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -44,7 +44,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -138,7 +138,7 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -146,7 +146,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -252,7 +252,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, aloe barbadensis leaf extract #1 on INCI, centella asiatica extract #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -396,7 +396,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, centella asiatica extract #2 on INCI (matching only — not proof it works)",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -548,7 +548,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, kojic acid #3 on INCI, 3-o-ethyl ascorbic acid #4 on INCI, alpha-arbutin #5 on INCI; Aging — 3-o-ethyl ascorbic acid #4 on INCI; Irritation — product type, panthenol #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -747,7 +747,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, panthenol #8 on INCI, beta-glucan #24 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/PANTHENOL_SERUM_1.png?v=1757655495"
@@ -913,7 +913,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -1014,7 +1014,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -1118,7 +1118,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, alpha-arbutin #37 on INCI; Irritation — product type, ceramide eop #41 on INCI, ceramide np #42 on INCI, ceramide ap #43 on INCI, panthenol #50 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [

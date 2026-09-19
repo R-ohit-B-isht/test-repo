@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -4808,7 +4808,7 @@ const CTPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/niacinamide-body-lotion",
    "inciMatchedName": "niacinamide body lotion (name match 100%)",
    "listingIngredientLine": "10% Niacinamide, Aloe Vera Extract, Glycerin, Vitamin E, Coconut Oil, Almond Oil, Grapeseed Oil, Aqua (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6 Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6",
    "evidenceActives": "niacinamide (#2 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence); glycerin (#5 on list, strong evidence); tocopherol (#7 on list, moderate evidence); prunus amygdalus dulcis oil (#11 on list, moderate evidence); cocos nucifera oil (#12 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -4861,11 +4861,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "niacinamide body lotion",
    "inciMatchScore": 1,
-   "inciText": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6 Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Niacinamide, Propylene Glycol, Aloe Vera Extract, Glycerin, 3-O-Ethyl Ascorbic Acid, Vitamin E, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Phenoxyethanol (and) Ethylhexylglycerin, Almond Oil, Coconut Oil, Fragrance, Grapeseed Oil, Polyacrylate Crosspolymer-6",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.89,
+   "recognised": 1,
    "actives": [
     {
      "name": "niacinamide",
@@ -6927,11 +6927,12 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.3★ from 4,544 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
    "ingredients": 7.1,
-   "skin": 7.7,
+   "skin": 6.3,
    "trust": 7,
    "experience": 7.9
   },
@@ -6954,9 +6955,9 @@ const CTPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
    "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
    "listingIngredientLine": "5% Lactic Acid, Cica Extract, Aloe vera Extract, Vitamin E, Sunflower Oil, Argan Oil, Cucumber Extract (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#11 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Bili Lifescience Llp, 36, 27, Tulsi Industrial Estate, B/F Changodar Bridge, Changodar, Ahmedabad - 382213, Gujarat (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 4,544 ratings"
@@ -7003,11 +7004,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 lactic acid body lotion",
    "inciMatchScore": 0.94,
-   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -7057,6 +7058,15 @@ const CTPRODUCTS = [
      ],
      "penalty": 1.5,
      "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
     }
    ],
    "maker": {
@@ -54677,11 +54687,12 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.5★ from 75 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
    "ingredients": 7.1,
-   "skin": 7.7,
+   "skin": 6.3,
    "trust": 7,
    "experience": 6.2
   },
@@ -54703,9 +54714,9 @@ const CTPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
    "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
-   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#11 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 75 ratings"
   },
@@ -54767,11 +54778,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 lactic acid body lotion",
    "inciMatchScore": 0.94,
-   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -54821,6 +54832,15 @@ const CTPRODUCTS = [
      ],
      "penalty": 1.5,
      "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
     }
    ],
    "maker": {
@@ -199327,14 +199347,13 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 172 ratings"
   ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
+  "cons": [],
   "scores": {
    "ingredients": 8.7,
-   "skin": 7.7,
+   "skin": 9,
    "trust": 7,
    "experience": 6.3
   },
@@ -199357,9 +199376,9 @@ const CTPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-body-butter",
    "inciMatchedName": "4 aha bha body butter (name match 94%)",
    "listingIngredientLine": "2% Salicylic Acid, 2% Lactic Acid, Hyaluronic Acid, Shea Butter, Cocoa Butter (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Ingredient Names Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid. Formulated Without Paraben, Silicone, Fragrance, Essential Oil, Mineral Oil, Artifical Colour, Pthalates, Alcohol",
+   "inciList": "Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid",
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#6 on list, strong evidence); butyrospermum parkii butter (#10 on list, moderate evidence); theobroma cacao seed butter (#14 on list, limited evidence); aloe barbadensis leaf extract (#15 on list, moderate evidence); ceramide np (#16 on list, moderate evidence); ceramide ap (#17 on list, moderate evidence); ceramide eop (#18 on list, moderate evidence); cholesterol (#20 on list, moderate evidence); tocopheryl acetate (#25 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 172 ratings",
    "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
@@ -199394,7 +199413,8 @@ const CTPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site"
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -199415,11 +199435,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha body butter",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid. Formulated Without Paraben, Silicone, Fragrance, Essential Oil, Mineral Oil, Artifical Colour, Pthalates, Alcohol",
+   "inciText": "Aqua, Glycerin, Propylene Glycol, Cetostearyl alcohol, Glyceryl Stearate, Lactic Acid , Salicylic Acid, Sodium Acrylates Copolymer (and) Lecithin, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol (and) Ethylhexylglycerin, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Aloe Barbadensis Leaf Extract, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Disodium EDTA, Tocopheryl Acetate, Hyaluronic Acid",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.94,
+   "recognised": 1,
    "actives": [
     {
      "name": "glycerin",
@@ -199510,12 +199530,12 @@ const CTPRODUCTS = [
      "src": "vitc"
     },
     {
-     "name": "mineral oil",
+     "name": "hyaluronic acid",
      "grade": "B",
-     "position": 30,
+     "position": 26,
      "core": false,
      "trace": true,
-     "src": "petrolatum"
+     "src": "ha"
     }
    ],
    "support": [
@@ -199524,20 +199544,11 @@ const CTPRODUCTS = [
     "ceramide np",
     "ceramide ap",
     "ceramide eop",
-    "cholesterol"
+    "cholesterol",
+    "hyaluronic acid"
    ],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",

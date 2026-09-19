@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -156,6 +156,332 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "bare-anatomy-bs-1w2ywe5",
+  "brand": "Bare Anatomy",
+  "model": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack …",
+  "price": 1647,
+  "capacityLine": "150 ml (pack of 3)",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Serum · ₹1098/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "melaleuca alternifolia leaf oil high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.6,
+   "skin": 6.7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 3 pack",
+   "pricePer100": "₹1098/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/advanced-anti-dandruff-serum-with-salicylic-acid-pentavitin-50-ml-pack-of-3",
+   "inciMatchedName": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack of 3 (name match 100%)",
+   "inciList": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "evidenceActives": "melaleuca alternifolia leaf oil (#8 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, melaleuca alternifolia leaf oil #8 on INCI, salicylic acid #11 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Hair Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Anti_Dandruff_serum_pack_of_3.jpg?v=1787210995"
+  ],
+  "buyUrl": "https://innovist.com/products/advanced-anti-dandruff-serum-with-salicylic-acid-pentavitin-50-ml-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Bare Anatomy Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack of 3",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/advanced-anti-dandruff-serum-with-salicylic-acid-pentavitin-50-ml-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "bare-anatomy-bs-1w2ywe4",
+  "brand": "Bare Anatomy",
+  "model": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack …",
+  "price": 1098,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Serum · ₹1098/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "melaleuca alternifolia leaf oil high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.6,
+   "skin": 6.7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹1098/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/advanced-anti-dandruff-serum-with-salicylic-acid-pentavitin-50-ml-pack-of-2",
+   "inciMatchedName": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack of 2 (name match 100%)",
+   "inciList": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "evidenceActives": "melaleuca alternifolia leaf oil (#8 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, melaleuca alternifolia leaf oil #8 on INCI, salicylic acid #11 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Hair Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Anti_Dandruff_serum_pack_of_2_1.jpg?v=1787210995"
+  ],
+  "buyUrl": "https://innovist.com/products/advanced-anti-dandruff-serum-with-salicylic-acid-pentavitin-50-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Bare Anatomy Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/advanced-anti-dandruff-serum-with-salicylic-acid-pentavitin-50-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "chemist-at-play-bs-1flexbj",
   "brand": "Chemist at Play",
   "model": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 473 ml | Pack of 2",
@@ -163,16 +489,18 @@ const BSPRODUCTS = [
   "capacityLine": "946 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + Lactic acid",
   "featureLine": "Wash / cleanser · ₹169/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -190,15 +518,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-body-wash-with-lactic-acid-salicylic-acid-473-ml-pack-of-2",
+   "inciMatchedName": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 473 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Acrylates Copolymer, Glycol Stearate, Propanediol, Lactic Acid, Cocamide MEA, Betaine, Salicylic Acid, Phenoxyethanol, Fragrance, Tocopheryl Acetate, Oryza Sativa (Rice) Powder & Cellulose, Astrocaryum Murumuru Bioscrub, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramide, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -219,7 +549,8 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -227,27 +558,73 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-body-wash-with-lactic-acid-salicylic-acid-473-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 473 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Acrylates Copolymer, Glycol Stearate, Propanediol, Lactic Acid, Cocamide MEA, Betaine, Salicylic Acid, Phenoxyethanol, Fragrance, Tocopheryl Acetate, Oryza Sativa (Rice) Powder & Cellulose, Astrocaryum Murumuru Bioscrub, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramide, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -266,16 +643,18 @@ const BSPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Wash / cleanser · ₹299/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); azelaic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -293,15 +672,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/salicylic-acid-face-wash-pack-of-2",
+   "inciMatchedName": "2% Salicylic Acid Face Wash for Acne & Oil Control - 100 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Sodium C14-16 Alpha Olefin Sulfonate, Sorbitol, Salicylic Acid, Glycerin, Acrylates/C10-30 Alkyl Acrylate CrossPolymer, Centella Asiatica (Cica) Extract, Salix Alba (Willow Bark) Bark Extract, Phenoxyethanol, Polysorbate 80, Caprylyl/Capryl Glucoside, Sodium Methyl Cocoyl Taurate, Niacinamide, Azelaic Acid, Zinc PCA, Disodium Cocoamphoacetate, Sodium Cocoamphoacetate, Oryza Sativa (Rice) Phytoceramides, Amorphophallus Konjac Ceramide, Phospholipids, Sphingolipids, Cellulose Beads, Xanthan Gum, Citric Acid, Fragrance, Disodium EDTA Menthol , CI 14700, CI 15985",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); azelaic acid (#15 on list, strong evidence); zinc pca (#16 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -322,7 +703,9 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -330,27 +713,97 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/salicylic-acid-face-wash-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Face Wash for Acne & Oil Control - 100 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Sodium C14-16 Alpha Olefin Sulfonate, Sorbitol, Salicylic Acid, Glycerin, Acrylates/C10-30 Alkyl Acrylate CrossPolymer, Centella Asiatica (Cica) Extract, Salix Alba (Willow Bark) Bark Extract, Phenoxyethanol, Polysorbate 80, Caprylyl/Capryl Glucoside, Sodium Methyl Cocoyl Taurate, Niacinamide, Azelaic Acid, Zinc PCA, Disodium Cocoamphoacetate, Sodium Cocoamphoacetate, Oryza Sativa (Rice) Phytoceramides, Amorphophallus Konjac Ceramide, Phospholipids, Sphingolipids, Cellulose Beads, Xanthan Gum, Citric Acid, Fragrance, Disodium EDTA Menthol , CI 14700, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "azelaic"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -369,16 +822,18 @@ const BSPRODUCTS = [
   "capacityLine": "708 ml (pack of 3)",
   "materialLine": "Salicylic acid (BHA) + Lactic acid",
   "featureLine": "Wash / cleanser · ₹169/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -396,15 +851,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-body-wash-236-ml-pack-of-3",
+   "inciMatchedName": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 236 ml | Pack of 3 (name match 100%)",
+   "inciList": "Purified Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Acrylates Copolymer, Glycol Stearate, Propanediol, Lactic Acid, Cocamide MEA, Betaine, Salicylic Acid, Phenoxyethanol, Fragrance, Tocopheryl Acetate, Oryza Sativa (Rice) Powder & Cellulose, Astrocaryum Murumuru Bioscrub, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramide, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -425,7 +882,8 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -433,27 +891,73 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-body-wash-236-ml-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 236 ml | Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Acrylates Copolymer, Glycol Stearate, Propanediol, Lactic Acid, Cocamide MEA, Betaine, Salicylic Acid, Phenoxyethanol, Fragrance, Tocopheryl Acetate, Oryza Sativa (Rice) Powder & Cellulose, Astrocaryum Murumuru Bioscrub, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramide, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -472,16 +976,18 @@ const BSPRODUCTS = [
   "capacityLine": "472 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Wash / cleanser · ₹169/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -499,15 +1005,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/1-salicylic-acid-body-wash-for-acne-control-236-ml-pack-of-2",
+   "inciMatchedName": "1% Salicylic Acid Body Wash for Body Acne - 236 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Sodium C14-16 Olefin Sulfonate, Decyl Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Propanediol, Glycerine, Fragrance, Saccharide Isomerate, Citric Acid, Sodium Citrate, Salicylic Acid, Phenoxyethanol, Polysorbate 80, Sodium Hydroxide, Cellulose Beads, Rice (Oryza Sativa) Phytoceramide, Zaminkand Root(Amorphophallus Konjac) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hyaluronate, Sodium Polyacrylate & Sodium Polyacryloyldimethyl Taurate",
+   "evidenceActives": "salicylic acid (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -527,7 +1035,8 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -535,27 +1044,74 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/1-salicylic-acid-body-wash-for-acne-control-236-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1% Salicylic Acid Body Wash for Body Acne - 236 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium C14-16 Olefin Sulfonate, Decyl Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Propanediol, Glycerine, Fragrance, Saccharide Isomerate, Citric Acid, Sodium Citrate, Salicylic Acid, Phenoxyethanol, Polysorbate 80, Sodium Hydroxide, Cellulose Beads, Rice (Oryza Sativa) Phytoceramide, Zaminkand Root(Amorphophallus Konjac) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hyaluronate, Sodium Polyacrylate & Sodium Polyacryloyldimethyl Taurate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -574,16 +1130,18 @@ const BSPRODUCTS = [
   "capacityLine": "472 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + Lactic acid",
   "featureLine": "Wash / cleanser · ₹169/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -601,15 +1159,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-body-wash-with-lactic-acid-salicylic-acid-236-ml-pack-of-2",
+   "inciMatchedName": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 236 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Acrylates Copolymer, Glycol Stearate, Propanediol, Lactic Acid, Cocamide MEA, Betaine, Salicylic Acid, Phenoxyethanol, Fragrance, Tocopheryl Acetate, Oryza Sativa (Rice) Powder & Cellulose, Astrocaryum Murumuru Bioscrub, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramide, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hydroxide, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -630,7 +1190,8 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -638,33 +1199,241 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-body-wash-with-lactic-acid-salicylic-acid-236-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Exfoliating Body Wash with 1% Lactic Acid & 2% Salicylic Acid - 236 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Acrylates Copolymer, Glycol Stearate, Propanediol, Lactic Acid, Cocamide MEA, Betaine, Salicylic Acid, Phenoxyethanol, Fragrance, Tocopheryl Acetate, Oryza Sativa (Rice) Powder & Cellulose, Astrocaryum Murumuru Bioscrub, Sodium Hyaluronate, Rice (Oryza Sativa) Phytoceramide, Konjac (Amorphophallus) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hydroxide, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://chemistatplay.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "bare-anatomy-bs-1wt4844",
+  "brand": "Bare Anatomy",
+  "model": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml",
+  "price": 329,
+  "capacityLine": "50 ml",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Serum · ₹658/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "melaleuca alternifolia leaf oil high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.6,
+   "skin": 6.7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹658/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-serum",
+   "inciMatchedName": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml (name match 100%)",
+   "inciList": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "evidenceActives": "melaleuca alternifolia leaf oil (#8 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, melaleuca alternifolia leaf oil #8 on INCI, salicylic acid #11 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Hair Serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0039/6073/3763/files/Anti_Dandruff_serum.jpg?v=1787210995"
+  ],
+  "buyUrl": "https://innovist.com/products/anti-dandruff-serum",
+  "buyStore": "Brand store",
+  "title": "Bare Anatomy Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }
@@ -677,16 +1446,18 @@ const BSPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + AHA + PHA",
   "featureLine": "Other · ₹1663/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -704,15 +1475,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-peeling-solution-30-ml-pack-of-2",
+   "inciMatchedName": "26% AHA + 4% PHA + 2% BHA Exfoliating Peeling Solution for Tan Removal & Pigmentation - 30 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Lactobionic Acid, Sodium Hydroxide, Propanediol, Sodium Salicylate, Polyquaternium-39, Phenoxyethanol, Hibiscus Sabdariffa (Hibiscus) Flower Extract, Allantoin, Amorphophallus Konjac Ceramide, Oryza Sativa (Rice) Ceramide, Aloe Barbadensis (Aloe) Leaf Extract, Xanthan Gum, Phenethyl Alcohol, Sodium Hyaluronate, Buteth-3, Disodium EDTA, Sodium Benzotriazolyl Butylphenol Sulfonate, Chamomilla Recutita (Matricaria) Flower Extract, Tributyl Citrate, Phospholipids, Sphingolipids, Maltodextrin",
+   "evidenceActives": "mandelic acid (#4 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Peeling Solution (brand site's own product type)"
   },
   "images": [
@@ -736,7 +1509,9 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -744,25 +1519,85 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-peeling-solution-30-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "26% AHA + 4% PHA + 2% BHA Exfoliating Peeling Solution for Tan Removal & Pigmentation - 30 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Lactobionic Acid, Sodium Hydroxide, Propanediol, Sodium Salicylate, Polyquaternium-39, Phenoxyethanol, Hibiscus Sabdariffa (Hibiscus) Flower Extract, Allantoin, Amorphophallus Konjac Ceramide, Oryza Sativa (Rice) Ceramide, Aloe Barbadensis (Aloe) Leaf Extract, Xanthan Gum, Phenethyl Alcohol, Sodium Hyaluronate, Buteth-3, Disodium EDTA, Sodium Benzotriazolyl Butylphenol Sulfonate, Chamomilla Recutita (Matricaria) Flower Extract, Tributyl Citrate, Phospholipids, Sphingolipids, Maltodextrin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -783,16 +1618,18 @@ const BSPRODUCTS = [
   "capacityLine": "236 ml",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Wash / cleanser · ₹211/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -810,15 +1647,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/salicylic-acid-body-wash-for-acne-control-236-ml-with-loofah",
+   "inciMatchedName": "1% Salicylic Acid Body Wash for Body Acne with Loofah - 236 ml (name match 100%)",
+   "inciList": "Purified Water, Sodium C14-16 Olefin Sulfonate, Decyl Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Propanediol, Glycerine, Fragrance, Saccharide Isomerate, Citric Acid, Sodium Citrate, Salicylic Acid, Phenoxyethanol, Polysorbate 80, Sodium Hydroxide, Cellulose Beads, Rice (Oryza Sativa) Phytoceramide, Zaminkand Root(Amorphophallus Konjac) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hyaluronate, Sodium Polyacrylate & Sodium Polyacryloyldimethyl Taurate",
+   "evidenceActives": "salicylic acid (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -837,7 +1676,8 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -845,27 +1685,74 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/salicylic-acid-body-wash-for-acne-control-236-ml-with-loofah",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1% Salicylic Acid Body Wash for Body Acne with Loofah - 236 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium C14-16 Olefin Sulfonate, Decyl Glucoside, Cocamidopropyl Betaine, Acrylates Copolymer, Propanediol, Glycerine, Fragrance, Saccharide Isomerate, Citric Acid, Sodium Citrate, Salicylic Acid, Phenoxyethanol, Polysorbate 80, Sodium Hydroxide, Cellulose Beads, Rice (Oryza Sativa) Phytoceramide, Zaminkand Root(Amorphophallus Konjac) Phytoceramide, Phospholipids, Sphingolipids, Sodium Hyaluronate, Sodium Polyacrylate & Sodium Polyacryloyldimethyl Taurate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -923,7 +1810,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -1076,7 +1963,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI, zinc pca #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -1244,7 +2131,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI, zinc pca #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serums (brand site's own product type)"
   },
   "images": [
@@ -1412,7 +2299,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -1565,7 +2452,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -1718,7 +2605,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -1896,7 +2783,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Peeling Solution (brand site's own product type)"
   },
   "images": [
@@ -2067,7 +2954,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -2220,7 +3107,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Washes (brand site's own product type)"
   },
   "images": [
@@ -2373,7 +3260,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/4-aha-bha-underarm-roll-on/AHA%20BHA%20UAR%20%282%29_eiyc2a.jpg?tr=w-600"
@@ -2548,7 +3435,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/1-salicylic-acid-body-wash/250ml%20-%20Hero_iihi7g.jpg?tr=w-600"
@@ -2678,7 +3565,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/4-aha-bha-body-butter/Intro_1254l0.jpg?tr=w-600"
@@ -2884,7 +3771,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp/3-aha-bha-back-and-body-acne-spray/3__AHA_BHA_Carousel_1_NPEEnh18l.png?tr=w-600"
@@ -2988,7 +3875,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/2-salicylic-acid-face-wash/Artboard%201_ihynt3.jpg?tr=w-600"
@@ -3128,7 +4015,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp/salicylic-acid-face-wash/1SAFW_UBHYBP7yM.png?tr=w-600"
@@ -3268,7 +4155,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #4 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/mosaic-wellness/image/upload/v1648210350/staging/products/acne-spot-correction/0_2SAG/CAROUSEL/0_2.png?tr=w-800"
@@ -3409,7 +4296,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face wash (brand site's own product type)"
   },
   "images": [
@@ -3572,7 +4459,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath & Body (brand site's own product type)"
   },
   "images": [
@@ -3707,7 +4594,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI; Irritation — panthenol #9 on INCI, avena sativa kernel extract #16 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -3883,7 +4770,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -4032,7 +4919,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -4199,7 +5086,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #12 on INCI; Dark spots — 3-o-ethyl ascorbic acid #9 on INCI; Aging — 3-o-ethyl ascorbic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -4375,7 +5262,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #6 on INCI, salicylic acid #8 on INCI, zinc pca #9 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "cleansers (brand site's own product type)"
   },
   "images": [
@@ -4522,7 +5409,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #6 on INCI, salicylic acid #8 on INCI, zinc pca #9 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "cleansers (brand site's own product type)"
   },
   "images": [
@@ -4669,7 +5556,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jeju - Acquisition (brand site's own product type)"
   },
   "images": [
@@ -4847,7 +5734,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash & Cleansers (brand site's own product type)"
   },
   "images": [
@@ -5009,7 +5896,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -5150,16 +6037,18 @@ const BSPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Salicylic acid (BHA) + Glycolic acid",
   "featureLine": "Foam / mousse",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); melaleuca alternifolia leaf oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: tea tree oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.2,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -5177,15 +6066,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/salicylic-glycolic-acid-foaming-face-wash",
+   "inciMatchedName": "Salicylic & Glycolic Acid Anti-Acne Foaming Face Wash (name match 100%)",
+   "inciList": "Purified Water, Cocamidopropyl Betaine, Decyl Glucoside, Glycerin, Glycolic Acid, Salicylic Acid, Sodium PCA, Betaine, Heptyl Glucoside, Yugdugu Extract, Polyquaternium-39, Butylene Glycol, Phellodendron Amurense Bark Extract, Glycolic Acid, PEG-60 Hydrogeneted Castor Oil, Willow Bark Extract, Rehmannia Chinensis Root Extract, Neem Leaf Extract, Scutellaria Baicalensis Root Extract, Houttuynia Cordata Extract, Soybean Seed Extract, Lactobacillus/Pear Juice Ferment Filtrate, Glyceryl caprylate, Ethylhexylglycerin -CYMEN-5-OL, Phenoxyethanol, Ethylhexylglycerin, Panthenol (Vitamin B5), Hydrogenated Castor Oil, Sodium Benzoate, Potassium Sorbate, Caprylyl/Capryl Glucoside, Sodium Oliveoyl/Cocoyl Ainoacid, Sodium Oliveoyl/Cocoyl Fruttoside, Sodium Peg-7 Olive Oil Carboxylate, Sodium Gluconate, Tocopherol Acetate, Peppermint Oil, Tea Tree Oil",
+   "evidenceActives": "salicylic acid (#6 on list, strong evidence); melaleuca alternifolia leaf oil (#38 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, salicylic acid #6 on INCI (matching only — not proof it works)",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash & Cleansers (brand site's own product type)"
   },
   "images": [
@@ -5205,7 +6096,8 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -5213,27 +6105,91 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/salicylic-glycolic-acid-foaming-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic & Glycolic Acid Anti-Acne Foaming Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cocamidopropyl Betaine, Decyl Glucoside, Glycerin, Glycolic Acid, Salicylic Acid, Sodium PCA, Betaine, Heptyl Glucoside, Yugdugu Extract, Polyquaternium-39, Butylene Glycol, Phellodendron Amurense Bark Extract, Glycolic Acid, PEG-60 Hydrogeneted Castor Oil, Willow Bark Extract, Rehmannia Chinensis Root Extract, Neem Leaf Extract, Scutellaria Baicalensis Root Extract, Houttuynia Cordata Extract, Soybean Seed Extract, Lactobacillus/Pear Juice Ferment Filtrate, Glyceryl caprylate, Ethylhexylglycerin -CYMEN-5-OL, Phenoxyethanol, Ethylhexylglycerin, Panthenol (Vitamin B5), Hydrogenated Castor Oil, Sodium Benzoate, Potassium Sorbate, Caprylyl/Capryl Glucoside, Sodium Oliveoyl/Cocoyl Ainoacid, Sodium Oliveoyl/Cocoyl Fruttoside, Sodium Peg-7 Olive Oil Carboxylate, Sodium Gluconate, Tocopherol Acetate, Peppermint Oil, Tea Tree Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": true,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -5291,7 +6247,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -5471,7 +6427,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -5631,7 +6587,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -5824,7 +6780,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -5986,7 +6942,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Wash (brand site's own product type)"
   },
   "images": [
@@ -6129,7 +7085,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI; Irritation — aloe barbadensis leaf extract #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -6309,7 +7265,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/salicylic-cleanser.jpg?v=1721023065"
@@ -6411,7 +7367,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -6514,7 +7470,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -6617,7 +7573,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -6723,7 +7679,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/Artboard_30_copy-100.jpg?v=1785413668"
@@ -6913,7 +7869,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -7103,7 +8059,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -7252,7 +8208,7 @@ const BSPRODUCTS = [
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #4 on INCI; Irritation — aloe barbadensis leaf juice #1 on INCI (matching only — not proof it works)",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Naturally Activated™️ (brand site's own product type)"
   },
   "images": [
@@ -7413,7 +8369,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/2_SalicylicAcid01_414bd2c8-6011-4000-9787-5eb9c7a7316f.jpg?v=1684311539"
@@ -7517,7 +8473,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/NeemTulsi_FaceGel-01_1_1.jpg?v=1750146881"
@@ -7616,7 +8572,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -7722,7 +8678,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/tea-tree-fop-po3-100ml.png?v=1787290237"
@@ -7878,7 +8834,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/tea-tree-bop-po3-150ml.png?v=1787289702"
@@ -8034,7 +8990,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -8219,7 +9175,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Scrub (brand site's own product type)"
   },
   "images": [
@@ -8406,7 +9362,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -8589,7 +9545,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -8710,7 +9666,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -8867,7 +9823,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Scrub (brand site's own product type)"
   },
   "images": [
@@ -9053,7 +10009,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -9209,7 +10165,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -9342,7 +10298,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -9449,7 +10405,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -9584,7 +10540,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -9704,7 +10660,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -9860,7 +10816,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, melaleuca alternifolia leaf oil #11 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -10016,7 +10972,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -10137,7 +11093,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #10 on INCI, melaleuca alternifolia leaf oil #15 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_e7641458-f145-4db3-a876-f71f64a010ca.jpg?v=1706699739"
@@ -10302,7 +11258,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_9.png?v=1787295527"
@@ -10462,7 +11418,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Mainimage1_jpg.jpg?v=1773314034"
@@ -10582,6 +11538,508 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "-phd-bs-10r7ncb",
+  "brand": "/PHD/",
+  "model": "2% Salicylic Acid Gel Face Wash",
+  "price": 315,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); mandelic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.1,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-salicylic-acid-gel-face-wash",
+   "inciMatchedName": "2% Salicylic Acid Gel Face Wash (name match 100%)",
+   "inciList": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Salicylic Acid, Disodium Cocoamphodiacetate, PEG-150 Distearate, Phenoxyethanol, Sodium Benzoate, Mandelic Acid, Sodium Hydroxide, Lactic Acid, Niacinamide, Polyquaternium-7, Aloe Barbadensis Leaf Extract, Zinc PCA, Avena Sativa (Oat) Kernel Extract, Allantoin, PEG-50 Shea Butter, Disodium EDTA",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); mandelic acid (#9 on list, moderate evidence); zinc pca (#15 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI (matching only — not proof it works)",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Facial Cleansers (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/2-salicylic-acid-gel-face-wash-6766097.png?v=1783725852"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/2-salicylic-acid-gel-face-wash",
+  "buyStore": "Brand store",
+  "title": "/PHD/ 2% Salicylic Acid Gel Face Wash",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-salicylic-acid-gel-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Gel Face Wash",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Glycerin, Salicylic Acid, Disodium Cocoamphodiacetate, PEG-150 Distearate, Phenoxyethanol, Sodium Benzoate, Mandelic Acid, Sodium Hydroxide, Lactic Acid, Niacinamide, Polyquaternium-7, Aloe Barbadensis Leaf Extract, Zinc PCA, Avena Sativa (Oat) Kernel Extract, Allantoin, PEG-50 Shea Butter, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "oat"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "-phd-bs-1gnmxmq",
+  "brand": "/PHD/",
+  "model": "Salicylic Acid Acne Spot Treatment Gel",
+  "price": 495,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Gel",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/salicylic-acid-acne-spot-treatment-gel",
+   "inciMatchedName": "Salicylic Acid Acne Spot Treatment Gel (name match 100%)",
+   "inciList": "Aqua (Water), Propanediol, Carbomer, Glycerin, Myristoyl Hexapeptide-5, Willow Bark Extract, Centella Asiatica Leaf Extract, Dextran, Tripeptide-1, Salicylic Acid, Niacinamide, Zinc PCA, Butylene Glycol, Xylitylglucoside, Ethoxy Diglycol, Anhydroxylitol, Xylitol, Phenoxyethanol, Polylysine, Pentylene Glycol, Panthenol, Ethylhexylglycerin, Sodium Hydroxide, Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#10 on list, strong evidence); zinc pca (#12 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #10 on INCI, niacinamide #11 on INCI, zinc pca #12 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Acne Treatments & Kits (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/salicylic-acid-acne-spot-treatment-gel-6659059.png?v=1758272891"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/salicylic-acid-acne-spot-treatment-gel",
+  "buyStore": "Brand store",
+  "title": "/PHD/ Salicylic Acid Acne Spot Treatment Gel",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "ing:salicylic-acid-bha",
+   "claim:acne",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/salicylic-acid-acne-spot-treatment-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Acne Spot Treatment Gel",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Propanediol, Carbomer, Glycerin, Myristoyl Hexapeptide-5, Willow Bark Extract, Centella Asiatica Leaf Extract, Dextran, Tripeptide-1, Salicylic Acid, Niacinamide, Zinc PCA, Butylene Glycol, Xylitylglucoside, Ethoxy Diglycol, Anhydroxylitol, Xylitol, Phenoxyethanol, Polylysine, Pentylene Glycol, Panthenol, Ethylhexylglycerin, Sodium Hydroxide, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "-phd-bs-1vwl5ey",
+  "brand": "/PHD/",
+  "model": "2% Salicylic Acid Anti-Acne Serum",
+  "price": 649,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-salicylic-acid-anti-acne-serum",
+   "inciMatchedName": "2% Salicylic Acid Anti-Acne Serum (name match 100%)",
+   "inciList": "Aqua (Water), Butylene Glycol, Niacinamide, Pentylene Glycol, Methyl Gluceth-20, Propylene Glycol, Salicylic Acid, 1,2-Hexanediol, Camellia Sinensis Leaf Extract, Centella Asiatica Leaf Extract, Cladosiphon Okamuranus Extract, Willow Bark Extract, Polylysine, Decyl Glucoside, Sodium Hyaluronate, Coffea Arabica (Coffee) Seed Extract, Panthenol, Tripeptide-1, Sclerotium Gum, Pullulan, Citrus Aurantium Bergamia (Bergamot) Leaf Extract, Pinus Densiflora Leaf Extract, Dextran, Glycerin, Xanthan Gum, Hydroxyethyl Cellulose, Lecithin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sodium Hydroxide",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, niacinamide #3 on INCI, salicylic acid #7 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #17 on INCI (matching only — not proof it works)",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Serums (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/2-salicylic-acid-anti-acne-serum-809146.png?v=1748244482"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/2-salicylic-acid-anti-acne-serum",
+  "buyStore": "Brand store",
+  "title": "/PHD/ 2% Salicylic Acid Anti-Acne Serum",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "claim:acne",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/2-salicylic-acid-anti-acne-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid Anti-Acne Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Butylene Glycol, Niacinamide, Pentylene Glycol, Methyl Gluceth-20, Propylene Glycol, Salicylic Acid, 1,2-Hexanediol, Camellia Sinensis Leaf Extract, Centella Asiatica Leaf Extract, Cladosiphon Okamuranus Extract, Willow Bark Extract, Polylysine, Decyl Glucoside, Sodium Hyaluronate, Coffea Arabica (Coffee) Seed Extract, Panthenol, Tripeptide-1, Sclerotium Gum, Pullulan, Citrus Aurantium Bergamia (Bergamot) Leaf Extract, Pinus Densiflora Leaf Extract, Dextran, Glycerin, Xanthan Gum, Hydroxyethyl Cellulose, Lecithin, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sodium Hydroxide",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide",
+    "sodium hyaluronate",
+    "panthenol",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-plant-fix-plix-bs-1f00vyp",
   "brand": "The Plant Fix Plix",
   "model": "Shop Acne Patches With Salicylic Acid For Reducing Active Acne | Plix",
@@ -10624,7 +12082,7 @@ const BSPRODUCTS = [
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Plant Fix Plix official web store (plixlife.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Plant Fix Plix official web store (plixlife.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://plixlifefc-media.farziengineer.co/__sized__/products/617-4002bcb157804889b3117abe64a3ee04-thumbnail-255x255-70.jpg"
@@ -10727,7 +12185,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #3 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "tryplum (brand site's own product type)"
   },
   "images": [
@@ -10864,7 +12322,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -11030,7 +12488,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -11194,7 +12652,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -11356,7 +12814,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -11513,7 +12971,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -11620,7 +13078,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -11752,7 +13210,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -11854,7 +13312,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -11961,7 +13419,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -12096,7 +13554,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -12259,7 +13717,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -12422,7 +13880,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -12556,7 +14014,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -12690,7 +14148,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -12823,7 +14281,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Toner (brand site's own product type)"
   },
   "images": [
@@ -12988,7 +14446,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -13151,7 +14609,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -13313,7 +14771,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -13468,7 +14926,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -13631,7 +15089,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -13768,7 +15226,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -13930,7 +15388,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -14084,7 +15542,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI, zinc pca #12 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -14229,7 +15687,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #3 on INCI, niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -14402,7 +15860,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -14555,7 +16013,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #9 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #11 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -14741,7 +16199,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #17 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -14899,7 +16357,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #10 on INCI; Irritation — aloe barbadensis leaf juice #5 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -15076,7 +16534,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -15209,7 +16667,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #25 on INCI; Dark spots — kojic dipalmitate #23 on INCI, alpha-arbutin #24 on INCI, niacinamide #25 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -15438,7 +16896,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #11 on INCI (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Scalp Care (brand site's own product type)"
   },
   "images": [
@@ -15590,7 +17048,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -15691,7 +17149,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Wash (brand site's own product type)"
   },
   "images": [
@@ -15795,7 +17253,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -15898,7 +17356,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -16001,7 +17459,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/30e65904-2e4e-4776-8ce3-fa33ef120442.png"
@@ -16106,7 +17564,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/1593e59f-5bef-4a13-92fe-0f72e123278a"
@@ -16206,7 +17664,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/1d770455-71fc-47a7-9f74-d2b4b71c8dde"
@@ -16306,7 +17764,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/4e70a409-6c49-4a2b-b76f-76c44b00892c.png"
@@ -16406,7 +17864,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/01b90652-1bc8-4220-96e3-0cb74712eaff.png"
@@ -16510,7 +17968,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #6 on INCI, melaleuca alternifolia leaf oil #10 on INCI, zinc pca #11 on INCI; Irritation — aloe barbadensis leaf juice #1 on INCI, panthenol #25 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -16706,7 +18164,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, zinc pca #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -16904,7 +18362,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, zinc pca #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -17101,7 +18559,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #7 on INCI, zinc pca #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -17296,7 +18754,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Mask (brand site's own product type)"
   },
   "images": [
@@ -17472,7 +18930,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI, zinc pca #14 on INCI, niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI; Irritation — centella asiatica extract #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -17661,7 +19119,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, ascorbyl glucoside #11 on INCI; Aging — ascorbyl glucoside #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/fresh-and-bright/salicylic-fresh-and-matte-sorbet-cream/packshot/f13.jpg?rev=22bddad94ab242bbbdedc5c6d616770c&hash=F2461F85B1A5EC48F9BADAB0FE3C47D3"
@@ -17842,7 +19300,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleansing Gel (brand site's own product type)"
   },
   "images": [
@@ -18013,7 +19471,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #7 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -18167,7 +19625,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #4 on INCI, azelaic acid #6 on INCI; Dark spots — azelaic acid #6 on INCI; Irritation — aloe barbadensis leaf extract #2 on INCI, azelaic acid #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -18316,7 +19774,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0742/5160/0188/files/card1_bf2b1428-4f69-41dc-8e4c-f1bdf076e8ba.jpg?v=1707453592"
@@ -18383,16 +19841,18 @@ const BSPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Wash / cleanser · ₹299/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -18410,15 +19870,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/hyphen-clarifying-acne-cleanser",
+   "inciMatchedName": "Clarifying Acne Cleanser with 2% Salicylic Acid - 100 ml (name match 100%)",
+   "inciList": "Aqua (water), Hamamelis Virginiana (Witch Hazel) Extract, Decyl Glucoside, Capryl Glucoside, Glycerin, Salicylic Acid, Zinc PCA, Trehalose, Saccharide Isomerate, Xanthan Gum, Citric Acid, Sodium Citrate, Benzoic Acid, Capryloyl Glycine, Undecylenoyl Glycine, Phenoxyethanol. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "salicylic acid (#6 on list, strong evidence); zinc pca (#7 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, salicylic acid #6 on INCI, zinc pca #7 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cleanser (brand site's own product type)"
   },
   "images": [
@@ -18437,7 +19899,9 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -18445,25 +19909,60 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/hyphen-clarifying-acne-cleanser",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Clarifying Acne Cleanser with 2% Salicylic Acid - 100 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (water), Hamamelis Virginiana (Witch Hazel) Extract, Decyl Glucoside, Capryl Glucoside, Glycerin, Salicylic Acid, Zinc PCA, Trehalose, Saccharide Isomerate, Xanthan Gum, Citric Acid, Sodium Citrate, Benzoic Acid, Capryloyl Glycine, Undecylenoyl Glycine, Phenoxyethanol. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -18484,16 +19983,18 @@ const BSPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Salicylic acid (BHA) + Azelaic acid",
   "featureLine": "Serum · ₹2163/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -18511,15 +20012,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/acne-defence-daily-serum",
+   "inciMatchedName": "Anti Acne Face Serum with 10% Azelaic Acid & 2% Salicylic Acid - 30 ml (name match 100%)",
+   "inciList": "Aqua (water), Propanediol, Azelaic Acid, Centella Asiatica (Cica) Extract, Triethanolamine, Niacinamide, 1,2-Hexanediol, Pentylene Glycol, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Sodium Gluconate, Xanthan Gum, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "azelaic acid (#3 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -18539,7 +20042,11 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -18547,25 +20054,61 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/acne-defence-daily-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Acne Face Serum with 10% Azelaic Acid & 2% Salicylic Acid - 30 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (water), Propanediol, Azelaic Acid, Centella Asiatica (Cica) Extract, Triethanolamine, Niacinamide, 1,2-Hexanediol, Pentylene Glycol, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Sodium Gluconate, Xanthan Gum, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -18625,7 +20168,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI; Irritation — bisabolol #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Exfoliator (brand site's own product type)"
   },
   "images": [
@@ -18775,7 +20318,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type; Irritation — bisabolol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Exfoliator (brand site's own product type)"
   },
   "images": [
@@ -18961,7 +20504,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mask (brand site's own product type)"
   },
   "images": [
@@ -19095,7 +20638,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -19219,7 +20762,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [

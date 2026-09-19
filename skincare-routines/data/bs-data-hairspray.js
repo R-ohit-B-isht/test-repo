@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Styling Product (brand site's own product type)"
   },
   "images": [
@@ -225,7 +225,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Styling Product (brand site's own product type)"
   },
   "images": [
@@ -402,7 +402,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Styling Product (brand site's own product type)"
   },
   "images": [
@@ -576,7 +576,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -676,17 +676,17 @@ const BSPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Aloe vera + Amla + Fenugreek",
   "featureLine": "Mist / spray · ₹180/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 2.9,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -704,14 +704,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/fenugreek-curry-leaves-hair-strengthening-spray",
+   "inciMatchedName": "Methi Hair Strengthening Spray With Curry Leaves, Amla & Aloe Vera Extracts - 200 ml (name match 100%)",
+   "inciList": "Purified Water, Trigonella Foenum-Graecum Seed Extract, Propanediol, Propylene Glycol, Murraya Koenigii Leaf Extract, Glycerin, Eugenia Caryophyllus Bud Extraxt, Emblica Officinalis Fruit Extract, Nigella Sativa Seed Extract, Aloe Barbadensis Leaf Powder, Rosmarinus Officinalis Leaf Oil, Hibiscus Rosa-Sinensis Leaf Extract, Phenoxyethanol, Sodium Benzoate, Citric Acid, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, PEG-40 Hydrogenated Castor Oil, Sodium Gluconate Sodium Hydroxide",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -732,7 +734,8 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -740,27 +743,57 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/fenugreek-curry-leaves-hair-strengthening-spray",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Methi Hair Strengthening Spray With Curry Leaves, Amla & Aloe Vera Extracts - 200 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Trigonella Foenum-Graecum Seed Extract, Propanediol, Propylene Glycol, Murraya Koenigii Leaf Extract, Glycerin, Eugenia Caryophyllus Bud Extraxt, Emblica Officinalis Fruit Extract, Nigella Sativa Seed Extract, Aloe Barbadensis Leaf Powder, Rosmarinus Officinalis Leaf Oil, Hibiscus Rosa-Sinensis Leaf Extract, Phenoxyethanol, Sodium Benzoate, Citric Acid, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, PEG-40 Hydrogenated Castor Oil, Sodium Gluconate Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -806,14 +839,14 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kits (brand site's own product type)"
   },
   "images": [
@@ -913,7 +946,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kits (brand site's own product type)"
   },
   "images": [
@@ -1013,7 +1046,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1113,7 +1146,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1213,7 +1246,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Spray (brand site's own product type)"
   },
   "images": [
@@ -1314,7 +1347,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Spray (brand site's own product type)"
   },
   "images": [
@@ -1468,7 +1501,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Styling (brand site's own product type)"
   },
   "images": [
@@ -1567,7 +1600,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Styling (brand site's own product type)"
   },
   "images": [
@@ -1666,7 +1699,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "TarinixBBlunt (brand site's own product type)"
   },
   "images": [
@@ -1768,7 +1801,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dasher official web store (dasher.co.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Dasher official web store (dasher.co.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0602/9289/0816/files/Single_bottle_copy_1.jpg?v=1747940882"
@@ -1896,7 +1929,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Setting Spray (brand site's own product type)"
   },
   "images": [
@@ -2018,7 +2051,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [

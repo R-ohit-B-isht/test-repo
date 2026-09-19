@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -43,7 +43,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -141,7 +141,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -238,7 +238,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -339,7 +339,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -493,7 +493,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -662,7 +662,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -831,7 +831,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #3 on INCI, niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -1005,7 +1005,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "maskcombo (brand site's own product type)"
   },
   "images": [
@@ -1206,7 +1206,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "maskcombo (brand site's own product type)"
   },
   "images": [
@@ -1379,7 +1379,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "maskcombo (brand site's own product type)"
   },
   "images": [
@@ -1551,7 +1551,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI, salicylic acid #4 on INCI; Dark spots — niacinamide #3 on INCI, ascorbyl glucoside #6 on INCI; Aging — ascorbyl glucoside #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/anti-pimple-sheet-mask-combo/anti-pimple-sheet-mask-combo-129g/8901526008247-1.jpg?rev=84918cfb8fe543789c44134ca5cdcfce&hash=9D90A530C97378F3AEFE23E59A165867"
@@ -1729,7 +1729,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/light-complete-serum-sheet-mask/6970175253959-0.jpg?rev=f6fe085c0319448eb174410ba35a2f7b&hash=482AFF8FC542A05FEC3EDD68A3C3929E"
@@ -1895,7 +1895,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/charcoal-serum-sheet-mask/charcoal-serum-sheet-mask-28g/6970175255885-0.jpg?rev=e0365a52ed234d3fb284e886d13d4350&hash=31CACB1AD9ED6FAEDC8FC7EDC2911274"
@@ -2038,7 +2038,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/hydra-bomb-green-tea-serum-sheet-mask/hydra-bomb-green-tea-serum-sheet-mask-32g/6970175253638-0.jpg?rev=cde15aba603c473abbafe34186c191f0&hash=77F25424B20CF83AE04BB26533FBC56A"
@@ -2206,7 +2206,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/hydra-bomb-pomegranate-serum-sheet-mask/hydra-bomb-pomegranate-serum-sheet-mask-32g/6970175253645-0.jpg?rev=f135748ded9a4ebbbaf45beab6664681&hash=D9D1CC7615629388F2503DD605AEC684"
@@ -2366,7 +2366,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/sakura-white-serum-sheet-mask/sakura-white-serum-sheet-mask-32g/6970175253652-0.jpg?rev=51140f8c05204fd6b0138413710f6c9a&hash=3C602EEEDEFCE84420B8B7A03A81431C"
@@ -2519,7 +2519,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/sheet-mask-combo-pack-of-10-charcoal-sakura-white-light-complete-green-tea-hydrabomb/10-charcoal-sakura-white-light-complete-green-tea-hydrabomb-445g/89015260039380-01.jpg?rev=3c88b5394eeb4d3bb3b68c87e59a04ff&hash=658321B6297998E9ACC62BC9B62DE382"
@@ -2690,7 +2690,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/sheet-mask-combo-pack-of-3-light-complete-sakura-white-and-charcoal/3-light-complete-sakura-white-and-charcoal-124g/8901526004157-01.jpg?rev=7ea4249dcb9646049e9d4a75adc72a53&hash=7F21EECC8AC6B8649E70E52992CFB4C2"
@@ -2860,7 +2860,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/sheet-mask-combo-pack-of-5-charcoal-and-light-complete-serum/5-charcoal-and-light-complete-serum-220g/8901526003914-01.jpg?rev=1bff5adb9bf940f891efc35085072256&hash=34B6EEF3B32DA53443E1ACA9B880A1EF"
@@ -3029,7 +3029,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/sheet-mask-combo-pack-of-5-charcoal-sakura-light-complete-green-tea-hydrabomb/5-charcoal-sakura-light-complete-green-tea-hydrabomb-220g/8901526002627-001.jpg?rev=5258e6fc60b642b698dccdd9ead42f46&hash=F6BE2A0A81534C99B2E2D05C84920406"
@@ -3200,7 +3200,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/sheet-mask-combo-pack-of-5-green-tea-and-sakura-white/5-green-tea-and-sakura-white-220g/8901526003921-01.jpg?rev=a717efb45cb64f1f84f4219f084676d7&hash=D109E5410B8E8E1D62DD79A641946B3F"
@@ -3363,7 +3363,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "L'Oréal official web store (www.lorealparis.co.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "L'Oréal official web store (www.lorealparis.co.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.lorealparis.co.in/-/media/project/loreal/brand-sites/oap/apac/in/local-products/skincare/6923700978148_packshot.png"
@@ -3465,7 +3465,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mask (brand site's own product type)"
   },
   "images": [
@@ -3599,7 +3599,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiozolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydrantoin (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -3789,7 +3789,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -3893,7 +3893,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — glycyrrhiza glabra root extract #10 on INCI, magnesium ascorbyl phosphate #13 on INCI, niacinamide #17 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Miniature (brand site's own product type)"
   },
   "images": [
@@ -4096,7 +4096,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiozolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydrantoin (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Miniature (brand site's own product type)"
   },
   "images": [
@@ -4291,7 +4291,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — glycyrrhiza glabra root extract #10 on INCI, magnesium ascorbyl phosphate #13 on INCI, niacinamide #17 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -4495,7 +4495,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiozolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydrantoin (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [

@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -47,7 +47,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -189,7 +189,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -332,7 +332,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — ethyl ascorbic acid #2 on INCI, niacinamide #7 on INCI; Aging — ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -478,7 +478,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — centella asiatica extract #9 on INCI, panthenol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "single (brand site's own product type)"
   },
   "images": [
@@ -610,16 +610,18 @@ const BSPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Ceramides + Rice water",
   "featureLine": "Toner · ₹495/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -637,14 +639,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/hydrating-ceramide-toner-essence",
+   "inciMatchedName": "Ceramides Milky Toner Essence With 5% Rice Water Blend - 100 ml (name match 100%)",
+   "inciList": "Aqua (Water), Trehalose, Oryza Sativa (Rice) Water Extract, Glycerin, Isododecane, C12-15 Alkyl Benzoate, Pentylene Glycol, Diethylhexyl Maleate, Glyceryl Stearate, Urea, 5-Ureidohydantoin (Allantoin), Fructose, Maltose, Sodium PCA, Sodium Lactate, Sodium Hyaluronate, Glucose, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Beta Glucan, Avena Sativa (Oat) Meal Extract, Tremella Fuciformis (Snow Mushroom) Extract, Propanediol, Laminaria Digitata (Oarweed) Extract, Cetyl-PG Hydroxyethyl Palmitamide, Sorbitan Stearate, Cetearyl Alcohol, Cetearyl Glucoside, Potassium Cetyl Phosphate, Polysorbate 20, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Polydecene, Polysorbate 80, PEG-100 Stearate, Acacia Senegal Gum, Xanthan Gum, Titanium Dioxide Dispersion, Sodium Gluconate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); ceramide np (#19 on list, moderate evidence); beta-glucan (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Irritation — ceramide eos #17 on INCI, ceramide ns #18 on INCI, ceramide np #19 on INCI, ceramide ap #21 on INCI, beta-glucan #22 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -664,7 +669,10 @@ const BSPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -672,25 +680,116 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/hydrating-ceramide-toner-essence",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramides Milky Toner Essence With 5% Rice Water Blend - 100 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Trehalose, Oryza Sativa (Rice) Water Extract, Glycerin, Isododecane, C12-15 Alkyl Benzoate, Pentylene Glycol, Diethylhexyl Maleate, Glyceryl Stearate, Urea, 5-Ureidohydantoin (Allantoin), Fructose, Maltose, Sodium PCA, Sodium Lactate, Sodium Hyaluronate, Glucose, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Beta Glucan, Avena Sativa (Oat) Meal Extract, Tremella Fuciformis (Snow Mushroom) Extract, Propanediol, Laminaria Digitata (Oarweed) Extract, Cetyl-PG Hydroxyethyl Palmitamide, Sorbitan Stearate, Cetearyl Alcohol, Cetearyl Glucoside, Potassium Cetyl Phosphate, Polysorbate 20, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Polydecene, Polysorbate 80, PEG-100 Stearate, Acacia Senegal Gum, Xanthan Gum, Titanium Dioxide Dispersion, Sodium Gluconate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 43,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

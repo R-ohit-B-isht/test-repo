@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -241,7 +241,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -457,7 +457,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -648,7 +648,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -824,7 +824,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -995,7 +995,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -1209,7 +1209,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -1423,7 +1423,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -1593,7 +1593,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -1723,7 +1723,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -1884,7 +1884,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -2045,7 +2045,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -2220,17 +2220,19 @@ const BSPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + Piroctone olamine + Biotin",
   "featureLine": "Other · ₹265/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "piroctone olamine high on the INCI list (moderate evidence); salicylic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.2,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -2248,14 +2250,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-shampoo-with-salicylic-acid-biotin-100-ml-pack-of-2",
+   "inciMatchedName": "Anti Dandruff Shampoo with Salicylic Acid, Piroctone Olamine & Biotin - 100 ml | Pack of 2 (name match 100%)",
+   "inciList": "Water, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Propanediol, Dimethiconol, Glycerin, TEA-Dodecylbenzenesulfonate, Acrylates Copolymer , Perfume, Piroctone Olamine, Salicylic Acid, Epilobium Angustifolium Extract, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, Aloe Barbadensis Leaf Extract, Menthol, Cocos Nucifera (Coconut) Milk Protein, Stearamidopropyl Dimethylamine, Glycol Stearate, Guar Hydroxypropyltrimonium chloride, Mica,Titanium Dioxide,Tin Oxide, PEG-45M, Sodium Chloride, Citric acid, Phenoxyethanol, Sodium Benzoate, Disodium EDTA",
+   "evidenceActives": "piroctone olamine (#10 on list, moderate evidence); salicylic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -2276,7 +2280,8 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -2284,27 +2289,133 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-shampoo-with-salicylic-acid-biotin-100-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Dandruff Shampoo with Salicylic Acid, Piroctone Olamine & Biotin - 100 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Water, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Propanediol, Dimethiconol, Glycerin, TEA-Dodecylbenzenesulfonate, Acrylates Copolymer , Perfume, Piroctone Olamine, Salicylic Acid, Epilobium Angustifolium Extract, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, Aloe Barbadensis Leaf Extract, Menthol, Cocos Nucifera (Coconut) Milk Protein, Stearamidopropyl Dimethylamine, Glycol Stearate, Guar Hydroxypropyltrimonium chloride, Mica,Titanium Dioxide,Tin Oxide, PEG-45M, Sodium Chloride, Citric acid, Phenoxyethanol, Sodium Benzoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "acrylates copolymer",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "dandruffIndia"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "sodium lauroyl methyl isethionate",
+    "cocamidopropyl betaine",
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -2323,17 +2434,18 @@ const BSPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Tea tree + Neem + Lemon",
   "featureLine": "Mist / spray · ₹200/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -2351,14 +2463,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/neem-lemon-dandruff-control-scalp-spray-200-ml-pack-of-2",
+   "inciMatchedName": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -2380,7 +2494,9 @@ const BSPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -2388,25 +2504,45 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/neem-lemon-dandruff-control-scalp-spray-200-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -2427,17 +2563,19 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Salicylic acid (BHA)",
   "featureLine": "Serum · ₹658/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "melaleuca alternifolia leaf oil high on the INCI list (moderate evidence); salicylic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4,
+   "skin": 6.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -2455,14 +2593,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-serum",
+   "inciMatchedName": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml (name match 100%)",
+   "inciList": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
+   "evidenceActives": "melaleuca alternifolia leaf oil (#8 on list, moderate evidence); salicylic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -2480,7 +2620,8 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -2488,27 +2629,82 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Anti-Dandruff Serum With Defenscalp™, Salicylic Acid & Pentavitin - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Water, Epilobium Angustifolium Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Propanediol, Saccharide Isomerate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe barbadensis (Aloe Vera) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Salicylic Acid, Glycerin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Sodium Benzoate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "teaTreeDandruff"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -2527,17 +2723,18 @@ const BSPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Tea tree + Neem + Lemon",
   "featureLine": "Mist / spray · ₹190/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -2555,14 +2752,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/dandruff-control-scalp-spray",
+   "inciMatchedName": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml (name match 100%)",
+   "inciList": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Spray (brand site's own product type)"
   },
   "images": [
@@ -2583,7 +2782,9 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -2591,25 +2792,45 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/dandruff-control-scalp-spray",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Neem & Lemon Dandruff Control Scalp Spray With Tea Tree and ACB Fruit Extracts - 200 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Propanediol, Propylene Glycol, Glycerin, Citrus Limon (Lemon) Fruit Extract, Azadirachta Indica (Neem) Leaf Extract, Eugenia Caryophyllus (Clove) Bud Extract, Saccharide Isomerate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hamamelis Virginiana (Witch Hazel) Extract, Sodium Gluconate, Chamomilla Recutita (Matricaria) Flower Extract, Zingiber Officinale (Ginger) Root Extract, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Aloe Barbadensis (Aloe Vera) Extract , Biotin, Cimbopogon Citratus (Lemongrass) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Acer Saccharum (Sugar Maple) Extract, Phenoxyethanol, PEG 40 Hydrogenated Castor Oil, Polysorbate 20, Sodium Benzoate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -2630,17 +2851,19 @@ const BSPRODUCTS = [
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + Piroctone olamine + Biotin",
   "featureLine": "Other · ₹194/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "piroctone olamine high on the INCI list (moderate evidence); salicylic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.2,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -2658,14 +2881,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-shampoo-with-salicylic-acid-biotin-250ml-pack-of-2",
+   "inciMatchedName": "Anti Dandruff Shampoo with Salicylic Acid, Piroctone Olamine & Biotin - 250 ml | Pack of 2 (name match 100%)",
+   "inciList": "Water, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Propanediol, Dimethiconol, Glycerin, TEA-Dodecylbenzenesulfonate, Acrylates Copolymer , Perfume, Piroctone Olamine, Salicylic Acid, Epilobium Angustifolium Extract, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, Aloe Barbadensis Leaf Extract, Menthol, Cocos Nucifera (Coconut) Milk Protein, Stearamidopropyl Dimethylamine, Glycol Stearate, Guar Hydroxypropyltrimonium chloride, Mica,Titanium Dioxide,Tin Oxide, PEG-45M, Sodium Chloride, Citric acid, Phenoxyethanol, Sodium Benzoate, Disodium EDTA",
+   "evidenceActives": "piroctone olamine (#10 on list, moderate evidence); salicylic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -2686,7 +2911,8 @@ const BSPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -2694,27 +2920,133 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/anti-dandruff-shampoo-with-salicylic-acid-biotin-250ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Dandruff Shampoo with Salicylic Acid, Piroctone Olamine & Biotin - 250 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Water, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Propanediol, Dimethiconol, Glycerin, TEA-Dodecylbenzenesulfonate, Acrylates Copolymer , Perfume, Piroctone Olamine, Salicylic Acid, Epilobium Angustifolium Extract, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, Aloe Barbadensis Leaf Extract, Menthol, Cocos Nucifera (Coconut) Milk Protein, Stearamidopropyl Dimethylamine, Glycol Stearate, Guar Hydroxypropyltrimonium chloride, Mica,Titanium Dioxide,Tin Oxide, PEG-45M, Sodium Chloride, Citric acid, Phenoxyethanol, Sodium Benzoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethiconol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "acrylates copolymer",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "stylingPolymers"
+    },
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "dandruffIndia"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "guar hydroxypropyltrimonium chloride",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    }
+   ],
+   "support": [
+    "sodium lauroyl methyl isethionate",
+    "cocamidopropyl betaine",
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -2772,7 +3104,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -2985,7 +3317,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -3155,7 +3487,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -3366,7 +3698,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Other Hair Products (brand site's own product type)"
   },
   "images": [
@@ -3547,7 +3879,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -3760,7 +4092,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kits (brand site's own product type)"
   },
   "images": [
@@ -3944,7 +4276,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -4128,7 +4460,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -4347,7 +4679,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -4529,7 +4861,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/1-ketoconazole-dandruff-shampoo-250ml/1_Hero_7uyza9.jpg?tr=w-600"
@@ -4673,7 +5005,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Formaldehyde-releasing preservative: imidazolidinyl urea (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil, menthol (−0.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/anti-dandruff-serum/IntroPage_3meqvq.jpg?tr=w-600"
@@ -4868,7 +5200,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -4969,7 +5301,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -5117,7 +5449,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -5282,7 +5614,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -5405,7 +5737,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -5564,7 +5896,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -5764,7 +6096,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -5963,7 +6295,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol, melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -6149,7 +6481,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol, melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -6335,7 +6667,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -6534,7 +6866,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -6731,7 +7063,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Growth Serum (brand site's own product type)"
   },
   "images": [
@@ -6856,7 +7188,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo Bar (brand site's own product type)"
   },
   "images": [
@@ -7022,7 +7354,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -7122,7 +7454,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -7222,7 +7554,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -7322,7 +7654,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Anti Dandruff Shampoo (brand site's own product type)"
   },
   "images": [
@@ -7421,7 +7753,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Anti Dandruff Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -7519,7 +7851,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Anti Dandruff Shampoo (brand site's own product type)"
   },
   "images": [
@@ -7620,7 +7952,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: lavandula agustifolia oil, rosmarinus officinalis leaf oil, melaleuca alternifolia leaf oil (−0.8)",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoos (brand site's own product type)"
   },
   "images": [
@@ -7773,7 +8105,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Anti-DandruffHairOil.jpg?v=1684239205"
@@ -7870,7 +8202,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/AntiDandruff01.jpg?v=1684145520"
@@ -7969,7 +8301,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/300x300GingerRoothairoil.jpg?v=1752561924"
@@ -8070,7 +8402,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternafolia leaf oil (−0.3)",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -8231,7 +8563,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -8409,7 +8741,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -8578,7 +8910,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -8756,7 +9088,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -8907,7 +9239,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -9075,7 +9407,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -9253,7 +9585,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -9388,7 +9720,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -9543,7 +9875,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -9696,7 +10028,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cleanser (brand site's own product type)"
   },
   "images": [
@@ -9800,7 +10132,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -9949,7 +10281,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -10138,7 +10470,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair serum (brand site's own product type)"
   },
   "images": [
@@ -10311,7 +10643,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "plumofweek (brand site's own product type)"
   },
   "images": [
@@ -10414,7 +10746,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -10596,7 +10928,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -10720,7 +11052,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -10866,7 +11198,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Oil (brand site's own product type)"
   },
   "images": [
@@ -10968,7 +11300,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol, mentha piperita oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -11161,7 +11493,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol, mentha piperita oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Shampoo (brand site's own product type)"
   },
   "images": [
@@ -11354,7 +11686,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: menthol, mentha piperita oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Serum (brand site's own product type)"
   },
   "images": [
@@ -11548,7 +11880,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil, pogostemon cablin oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Scalp Care (brand site's own product type)"
   },
   "images": [
@@ -11696,7 +12028,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "True Frog official web store (truefrog.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "True Frog official web store (truefrog.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -11810,7 +12142,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/20c1d287-10c0-4c93-b471-a401def4f64b.jpeg"
@@ -11824,101 +12156,6 @@ const BSPRODUCTS = [
    "concern:dandruff",
    "aud:unisex",
    "size:large",
-   "rating:none",
-   "store:brand-store",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Body Cupid",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.buywow.in/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "wow-skin-science-bs-1amh1xs",
-  "brand": "Wow Skin Science",
-  "model": "Scalp Reboot Pre-Shampoo Treatment Deep Scalp Detox",
-  "price": 449,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Body Cupid — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
-  },
-  "images": [
-   "https://media.buywow.in/public/8d0cb922-f27b-4c04-8195-66c4bd4d927a.jpeg"
-  ],
-  "buyUrl": "https://www.buywow.in/products/scalp-reboot-pre-shampoo-treatment",
-  "buyStore": "Brand store",
-  "title": "Wow Skin Science Scalp Reboot Pre-Shampoo Treatment Deep Scalp Detox",
-  "tags": [
-   "area:scalp",
-   "format:shampoo",
-   "aud:unisex",
    "rating:none",
    "store:brand-store",
    "inci:none"
@@ -12007,7 +12244,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8); Harsh anionic surfactant (SLS/ALS): sodium lauryl sulphate (−0.7); Essential oil / volatile sensitiser: rosemary oil (−0.3)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Shampoo (brand site's own product type)"
   },
   "images": [
@@ -12162,7 +12399,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Anti-Dandruff Shampoo (brand site's own product type)"
   },
   "images": [
@@ -12260,7 +12497,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Cleanser (Shampoo) (brand site's own product type)"
   },
   "images": [
@@ -12367,7 +12604,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: citronellol, alpha-isomethyl ionone, hydroxycitronellal, limonene, linalool (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "SHAMPOO (brand site's own product type)"
   },
   "images": [
@@ -12557,7 +12794,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: citronellol, alpha-isomethyl ionone, hydroxycitronellal, limonene, linalool (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "SHAMPOO (brand site's own product type)"
   },
   "images": [
@@ -12745,7 +12982,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -12921,7 +13158,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, linalool (−0.6)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -13086,7 +13323,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal, limonene, linalool (−1.2); Essential oil / volatile sensitiser: citrus nobilis peel oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -13241,7 +13478,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -13410,7 +13647,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair (brand site's own product type)"
   },
   "images": [

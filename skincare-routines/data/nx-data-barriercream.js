@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -149670,15 +149670,16 @@ const NXPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "Vitamin C + Ceramides + Collagen",
   "featureLine": "Cream · ₹1580/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); centella asiatica extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.2,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -149696,14 +149697,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/ceramide-vitamin-c-daily-brightening-repair-cream-50g",
+   "inciMatchedName": "Ceramide & Vitamin C Daily Brightening & Repair Cream - 30G (name match 96%)",
+   "inciList": "Purified Water, 3-O-Ethyl Ascorbic Acid, Caprylic Capric Triglyceride, Cetyl Alcohol, Glycerin, Cyclopentasiloxane, Emulsifying Wax, Glyceryl Stearate & PEG-100 Stearate, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Amla Extract, Isoamyl Laurate, Phenoxyethanol, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Glyceryl Mono Sterate, Centella Asiatica Extract, Colloidal Oatmeal, Sodium Hydroxide, Sodium Hyaluronate, Acrylates Cross Co-Polymer, Disodium EDTA, Sodium Benzoate",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); centella asiatica extract (#15 on list, moderate evidence); colloidal oatmeal (#16 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51yPRNsL7GL._SL1000_.jpg",
@@ -149728,8 +149731,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -149737,25 +149744,69 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/ceramide-vitamin-c-daily-brightening-repair-cream-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide & Vitamin C Daily Brightening & Repair Cream - 30G",
+   "inciMatchScore": 0.96,
+   "inciText": "Purified Water, 3-O-Ethyl Ascorbic Acid, Caprylic Capric Triglyceride, Cetyl Alcohol, Glycerin, Cyclopentasiloxane, Emulsifying Wax, Glyceryl Stearate & PEG-100 Stearate, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Amla Extract, Isoamyl Laurate, Phenoxyethanol, Polyacrylamide & C13-14 Isoparaffin & Laureth-7, Glyceryl Mono Sterate, Centella Asiatica Extract, Colloidal Oatmeal, Sodium Hydroxide, Sodium Hyaluronate, Acrylates Cross Co-Polymer, Disodium EDTA, Sodium Benzoate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "colloidal oatmeal",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "oat"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

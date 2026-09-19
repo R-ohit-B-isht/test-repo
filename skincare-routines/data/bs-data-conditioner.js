@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -44,7 +44,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0696/0821/0650/files/01_d3f8d42e-875a-4241-ab83-77ddd325b28c.jpg?v=1779526617"
@@ -140,7 +140,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0696/0821/0650/files/1_fef5bfc6-67d0-4ecc-884d-10b1c62f21d4.png?v=1766996170"
@@ -240,7 +240,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -416,7 +416,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -592,7 +592,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -808,7 +808,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -1015,7 +1015,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -1194,7 +1194,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -1365,7 +1365,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -1536,7 +1536,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Other Hair Products (brand site's own product type)"
   },
   "images": [
@@ -1710,7 +1710,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Other Hair Products (brand site's own product type)"
   },
   "images": [
@@ -1845,17 +1845,19 @@ const BSPRODUCTS = [
   "capacityLine": "350 g (pack of 2)",
   "materialLine": "Peptides + Redensyl + Rosemary",
   "featureLine": "Other · ₹257/100g",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); amodimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.7,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1873,14 +1875,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/anti-hair-fall-conditioner-with-redensyl-rosemary-peptides-for-hair-fall-thinning-175-gm-pack-of-2",
+   "inciMatchedName": "Anti-Hair Fall Conditioner With Redensyl, Rosemary & Peptides - 175 gm | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Cetostearyl Alcohol, Behentrimonium, Chloride, Cetyl Esters, Glycerin, Cetyl Alcohol, Perfume, Adenosine, Rosmarinus Officinalis (Rosemary) Leaf Extract, Oryza Sativa (Rice) Bran Extract, Biotinoyl Tripeptide-1, Cyclodextrin, Hydroxypropyl Cyclodextrin, Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Zinc Chloride, Camellia Sinensis Leaf Extract, Apigenin, Oleanolic Acid, PEG-45M, Butylene Glycol, Isoniacinamide, Amodimethicone, Euphortis Cerifera Wax, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Cetrimonium Chloride, Butylated Hydroxytoluene, Trideceth-12, Disodium EDTA",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); amodimethicone (#26 on list, moderate evidence); butyrospermum parkii butter (#29 on list, limited evidence); cetrimonium chloride (#31 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -1901,7 +1905,8 @@ const BSPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -1909,27 +1914,98 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bare Anatomy official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/anti-hair-fall-conditioner-with-redensyl-rosemary-peptides-for-hair-fall-thinning-175-gm-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti-Hair Fall Conditioner With Redensyl, Rosemary & Peptides - 175 gm | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Cetostearyl Alcohol, Behentrimonium, Chloride, Cetyl Esters, Glycerin, Cetyl Alcohol, Perfume, Adenosine, Rosmarinus Officinalis (Rosemary) Leaf Extract, Oryza Sativa (Rice) Bran Extract, Biotinoyl Tripeptide-1, Cyclodextrin, Hydroxypropyl Cyclodextrin, Sodium Metabisulfite, Larix Europaea Wood Extract, Glycine, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Zinc Chloride, Camellia Sinensis Leaf Extract, Apigenin, Oleanolic Acid, PEG-45M, Butylene Glycol, Isoniacinamide, Amodimethicone, Euphortis Cerifera Wax, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Cetrimonium Chloride, Butylated Hydroxytoluene, Trideceth-12, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "biotinoyl tripeptide-1",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "larix europaea wood extract",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "agaCosmeceuticals"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -1987,7 +2063,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -2157,7 +2233,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -2335,7 +2411,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: lavandula angustifolia oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Other Hair Products (brand site's own product type)"
   },
   "images": [
@@ -2520,7 +2596,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Other Hair Products (brand site's own product type)"
   },
   "images": [
@@ -2690,7 +2766,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kits (brand site's own product type)"
   },
   "images": [
@@ -2893,7 +2969,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kits (brand site's own product type)"
   },
   "images": [
@@ -3092,7 +3168,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kits (brand site's own product type)"
   },
   "images": [
@@ -3295,7 +3371,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -3498,7 +3574,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -3697,7 +3773,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -3896,7 +3972,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0616/4994/4654/files/intense_moisture_sample_conditioner_829f47c8-f19d-4f06-afc5-87064330ea12.jpg?v=1734339786"
@@ -3995,7 +4071,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0616/4994/4654/files/conditioner_fop_1_f2717f40-581b-4fbc-8079-b96a90c5174d.jpg?v=1734340031"
@@ -4061,16 +4137,18 @@ const BSPRODUCTS = [
   "capacityLine": "20 g",
   "materialLine": "Caffeine",
   "featureLine": "Other · ₹495/100g",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bblunt official website (bblunt.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.1,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 0
   },
   "fullSpec": {
@@ -4088,14 +4166,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bblunt official website (bblunt.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://bblunt.com/products/deal-hair-fall-control-conditioner-with-pea-protein-caffeine-for-stronger-hair-20-g",
+   "inciMatchedName": "Deal Hair Fall Control Conditioner with Pea Protein & Caffeine for Stronger Hair - 20 g (name match 100%)",
+   "inciList": "Purified Water, Light Liquid Paraffin, Cetostearyl Alcohol, Behentrimonium Chloride, Glycerin, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Dimethicone, Amodimethicone, Laureth-23, Polyquaternium- 10, Laureth-4, Cyclopentasiloxane, Shea Butter, Divinyldimethicone/Dimethicone Copolymer, C12-13 Alketh-23, C12-13 Alketh-3, Ethylhexyl Glycerin, Phenoxyethanol, Aloe Vera Extract, Kerashaft, Citric Acid, Bis-Diisopropanolamino-PG-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer, Disodium EDTA, Caffeine, Pea Protein, Perfume",
+   "evidenceActives": "behentrimonium chloride (#4 on list, moderate evidence); glycerin (#5 on list, strong evidence); stearamidopropyl dimethylamine (#7 on list, moderate evidence); dimethicone (#8 on list, moderate evidence); amodimethicone (#9 on list, moderate evidence); polyquaternium-10 (#11 on list, moderate evidence); shea butter (#14 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0616/4994/4654/files/conditioner_fop_94be7d57-dba2-47c1-be99-1c86e7a866f3.jpg?v=1734595489"
@@ -4112,7 +4192,8 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -4120,27 +4201,122 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bblunt official website (bblunt.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bblunt.com/products/deal-hair-fall-control-conditioner-with-pea-protein-caffeine-for-stronger-hair-20-g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Deal Hair Fall Control Conditioner with Pea Protein & Caffeine for Stronger Hair - 20 g",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Light Liquid Paraffin, Cetostearyl Alcohol, Behentrimonium Chloride, Glycerin, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Dimethicone, Amodimethicone, Laureth-23, Polyquaternium- 10, Laureth-4, Cyclopentasiloxane, Shea Butter, Divinyldimethicone/Dimethicone Copolymer, C12-13 Alketh-23, C12-13 Alketh-3, Ethylhexyl Glycerin, Phenoxyethanol, Aloe Vera Extract, Kerashaft, Citric Acid, Bis-Diisopropanolamino-PG-Propyl Disiloxane/Bis-Vinyl Dimethicone Copolymer, Disodium EDTA, Caffeine, Pea Protein, Perfume",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "stearamidopropyl dimethylamine",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cyclopentasiloxane",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "shea butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -4193,7 +4369,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -4296,7 +4472,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -4471,7 +4647,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -4657,7 +4833,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -4756,7 +4932,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -4861,7 +5037,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0616/4994/4654/files/intense_moisture_sample_conditioner_829f47c8-f19d-4f06-afc5-87064330ea12.jpg?v=1734339786"
@@ -5086,7 +5262,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -5277,7 +5453,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -5475,7 +5651,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0616/4994/4654/files/conditioner_fop_1_f2717f40-581b-4fbc-8079-b96a90c5174d.jpg?v=1734340031"
@@ -5579,7 +5755,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0616/4994/4654/files/conditioner_fop_94be7d57-dba2-47c1-be99-1c86e7a866f3.jpg?v=1734595489"
@@ -5778,7 +5954,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -5996,7 +6172,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -6198,7 +6374,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bblunt official web store (bblunt.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -6397,7 +6573,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/deep-moisturizing-conditioner/IntroPage%20copy%20%282%29_iehyls.jpg?tr=w-600"
@@ -6572,7 +6748,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Haircare (brand site's own product type)"
   },
   "images": [
@@ -6738,7 +6914,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -6936,7 +7112,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -7126,7 +7302,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -7300,7 +7476,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -7457,7 +7633,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/femme-specific-conditioner-15ml.webp?v=1719219307"
@@ -7556,7 +7732,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/nati-hair-loss-conditioner.webp?v=1772192769"
@@ -7656,7 +7832,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -7755,7 +7931,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -7856,7 +8032,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -7956,7 +8132,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -8054,7 +8230,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0729/5261/1125/files/IMG_1728_fb887478-50f0-485e-8aef-5e5820ee9090.jpg?v=1758781842"
@@ -8151,7 +8327,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sulphate Free Conditioner (brand site's own product type)"
   },
   "images": [
@@ -8249,7 +8425,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Types of Hair (brand site's own product type)"
   },
   "images": [
@@ -8348,7 +8524,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Hairmac official web store (hairmac.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Types of Hair (brand site's own product type)"
   },
   "images": [
@@ -8445,7 +8621,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Shikakai_HoneyhairConditioner01.jpg?v=1689335044"
@@ -8543,7 +8719,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/GreenteaandAloeVeraconditioner01.jpg?v=1689333499"
@@ -8644,7 +8820,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Front_9cf21c54-b351-4f2b-8f45-dc479d0073bc.jpg?v=1735207448"
@@ -8755,7 +8931,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/front_ff106c94-06a6-44e0-b8f1-ffc42c8c320f.jpg?v=1735196921"
@@ -8854,7 +9030,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Amla_BhringrajHairConditioner01.jpg?v=1684153396"
@@ -8953,7 +9129,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Orange_Lemongrass01_668a56f7-b02e-42cf-aec8-a206ef24c399.jpg?v=1684564889"
@@ -9049,7 +9225,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/front_7c8b5881-deee-497d-907b-9586b3b33b0d.jpg?v=1735207351"
@@ -9146,7 +9322,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/GreenTea_Aloevera01_cc747737-021a-443d-9036-2363c3f796c9.jpg?v=1684565111"
@@ -9248,7 +9424,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/RedOnion01.jpg?v=1684152734"
@@ -9359,7 +9535,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/MoroccanArgan01_dbe815f8-3e52-4da2-b98f-8816682b1001.jpg?v=1684153296"
@@ -9462,7 +9638,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -9631,7 +9807,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -9748,6 +9924,148 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-d4t5lq",
+  "brand": "Mamaearth",
+  "model": "Rosemary Anti-Hair Fall Conditioner - 20 ml",
+  "price": 99,
+  "capacityLine": "20 ml",
+  "materialLine": "Rosemary",
+  "featureLine": "Other · ₹495/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); polyquaternium-10 high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹495/100ml",
+   "format": "Other",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Rosemary (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair fall / shedding (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/rosemary-anti-hair-fall-conditioner-20-ml",
+   "inciMatchedName": "Rosemary Anti-Hair Fall Conditioner - 20 ml (name match 100%)",
+   "inciList": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Cocamide MEA, Rosmarinus Officinalis (Rosemary) Leaf Extract, Glycerin, Glycol Stearate, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Phenoxyethanol, Ethylhexylglycerin, IFRA Certified Allergen Free Fragrance, Sodium Benzoate, Hydroxypropylgluconamide/Hydroxypropylammonium Gluconate, Citric Acid, Guar, Hydroxypropyltrimonium Chloride, Polyquaternium-10, Hydrolyzed Lupine, Protein Triolein, Sodium Gluconate, Panthenol, Trigonella Foenum Graecum (Methi) Seed Oil",
+   "evidenceActives": "glycerin (#8 on list, strong evidence); polyquaternium-10 (#19 on list, moderate evidence); panthenol (#23 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Shampoo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/fop_2.jpg?v=1777974801"
+  ],
+  "buyUrl": "https://mamaearth.in/products/rosemary-anti-hair-fall-conditioner-20-ml",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Rosemary Anti-Hair Fall Conditioner - 20 ml",
+  "tags": [
+   "area:scalp",
+   "format:shampoo",
+   "format:conditioner",
+   "ing:rosemary",
+   "concern:hair-fall",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/rosemary-anti-hair-fall-conditioner-20-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Rosemary Anti-Hair Fall Conditioner - 20 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium Cocoyl Isethionate, Disodium Cocoyl Glutamate, Cocamide MEA, Rosmarinus Officinalis (Rosemary) Leaf Extract, Glycerin, Glycol Stearate, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Phenoxyethanol, Ethylhexylglycerin, IFRA Certified Allergen Free Fragrance, Sodium Benzoate, Hydroxypropylgluconamide/Hydroxypropylammonium Gluconate, Citric Acid, Guar, Hydroxypropyltrimonium Chloride, Polyquaternium-10, Hydrolyzed Lupine, Protein Triolein, Sodium Gluconate, Panthenol, Trigonella Foenum Graecum (Methi) Seed Oil",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "rosmarinus officinalis leaf extract",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "rosemary"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "polyquaternium-10",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-593ovi",
   "brand": "Mamaearth",
   "model": "Kerala Thaali Conditioner with Hibiscus, Amla, Reetha and Methi Dana for Smooth, Thick & L…",
@@ -9793,7 +10111,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -9952,7 +10270,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -10117,7 +10435,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -10310,7 +10628,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -10466,7 +10784,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -10634,7 +10952,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -10808,7 +11126,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -10964,7 +11282,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -11120,7 +11438,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -11274,7 +11592,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -11431,7 +11749,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -11597,7 +11915,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Leave-in Conditioner (brand site's own product type)"
   },
   "images": [
@@ -11736,7 +12054,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Manetain official web store (manetain.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -11898,7 +12216,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "CONDITIONER (brand site's own product type)"
   },
   "images": [
@@ -12033,7 +12351,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "CONDITIONER (brand site's own product type)"
   },
   "images": [
@@ -12174,7 +12492,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Styling (brand site's own product type)"
   },
   "images": [
@@ -12332,7 +12650,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "CONDITIONER (brand site's own product type)"
   },
   "images": [
@@ -12465,7 +12783,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "CONDITIONER (brand site's own product type)"
   },
   "images": [
@@ -12599,7 +12917,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "CONDITIONER (brand site's own product type)"
   },
   "images": [
@@ -12731,7 +13049,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "MOXIE BEAUTY official web store (moxiebeauty.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Styling (brand site's own product type)"
   },
   "images": [
@@ -12887,7 +13205,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: mentha piperita oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair conditioner (brand site's own product type)"
   },
   "images": [
@@ -13096,7 +13414,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, mentha piperita oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair conditioner (brand site's own product type)"
   },
   "images": [
@@ -13290,7 +13608,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13392,7 +13710,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13553,7 +13871,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: rosemary oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -13708,7 +14026,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/rosemary-conditioner_c9a3e7b3-8e17-4af5-a276-8fbe6ff32c5d.jpg?v=1739509154"
@@ -13806,7 +14124,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -13905,7 +14223,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/3_ce4669ab-b822-44c2-9ac6-f32fc367f804.webp?v=1732254149"
@@ -14002,7 +14320,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/5_767e81c5-b894-465c-beb4-ff81543145dc.webp?v=1732254093"
@@ -14100,7 +14418,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/6_5bfd6d2a-8b6e-43a7-907d-f7b352830706.webp?v=1732254334"
@@ -14203,7 +14521,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/color-protection-conditioner.jpg?v=1775050486"
@@ -14353,7 +14671,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -14528,7 +14846,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -14678,7 +14996,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "True Frog official web store (truefrog.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "True Frog official web store (truefrog.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -14801,7 +15119,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "True Frog official web store (truefrog.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "True Frog official web store (truefrog.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Care (brand site's own product type)"
   },
   "images": [
@@ -14937,7 +15255,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/c26b061f-3c32-4892-b480-10f26c151095"
@@ -15034,7 +15352,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/a0b66192-f921-4f69-a5d9-e1dd7335e841.jpg"
@@ -15136,7 +15454,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -15310,7 +15628,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "haircare (brand site's own product type)"
   },
   "images": [
@@ -15480,7 +15798,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -15579,7 +15897,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -15643,16 +15961,18 @@ const BSPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "AHA",
   "featureLine": "Other",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (limited evidence); behentrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -15670,14 +15990,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/herbal-hair-conditioner",
+   "inciMatchedName": "Jovees AHA Natural Fruit Extracts Conditioner | Smooth, Tangle-Free Hair (name match 100%)",
+   "inciList": "Jojoba oil, Shea butter, Soya bean extract, Bhringraj extract, Musk root extract, Sweet lime juice, Pineapple juice, Wheat protein, Cetyl, Behentrimonium chloride, Cetrimonium chloride, Ceteareth-20, Glycerin, Phenoxyethanol, Parfum, Purified water",
+   "evidenceActives": "shea butter (#2 on list, limited evidence); behentrimonium chloride (#10 on list, moderate evidence); cetrimonium chloride (#11 on list, moderate evidence); glycerin (#13 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -15695,7 +16017,8 @@ const BSPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -15703,27 +16026,89 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/herbal-hair-conditioner",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Jovees AHA Natural Fruit Extracts Conditioner | Smooth, Tangle-Free Hair",
+   "inciMatchScore": 1,
+   "inciText": "Jojoba oil, Shea butter, Soya bean extract, Bhringraj extract, Musk root extract, Sweet lime juice, Pineapple juice, Wheat protein, Cetyl, Behentrimonium chloride, Cetrimonium chloride, Ceteareth-20, Glycerin, Phenoxyethanol, Parfum, Purified water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "eclipta prostrata extract",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "bhringraj"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Jovees Herbal Care India",
     "kind": "d2c",
@@ -15776,7 +16161,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_hc-shampoo_200ml_1_.png?store=default&image-type=small_image"
@@ -15873,7 +16258,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_l_p-conditioner_200ml.png?store=default&image-type=small_image"
@@ -15970,7 +16355,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_rose-_-jasmine-conditioner_200ml.png?store=default&image-type=small_image"
@@ -16067,7 +16452,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Onion Conditioner (brand site's own product type)"
   },
   "images": [
@@ -16167,7 +16552,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Anti-Hairfall Conditioner (brand site's own product type)"
   },
   "images": [
@@ -16268,7 +16653,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Kesh King official web store (www.keshking.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Rosemary Conditioner (brand site's own product type)"
   },
   "images": [
@@ -16366,7 +16751,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products (brand site's own product type)"
   },
   "images": [
@@ -16463,7 +16848,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -16561,7 +16946,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -16662,7 +17047,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/products/SOYPROTEINConditioner_01_ver1.jpg?v=1742798221"
@@ -16758,7 +17143,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/products/KNH-SHIKAKI_HONEY_Hairconditioner_Ver2.jpg?v=1742798226"
@@ -16855,7 +17240,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -16953,7 +17338,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17050,7 +17435,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17148,7 +17533,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17247,7 +17632,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17345,7 +17730,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17443,7 +17828,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17541,7 +17926,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17640,7 +18025,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17738,7 +18123,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Cleanser (Shampoo) (brand site's own product type)"
   },
   "images": [
@@ -17837,7 +18222,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -17938,7 +18323,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18039,7 +18424,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18140,7 +18525,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care/Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18239,7 +18624,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care/Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18337,7 +18722,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care/Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18436,7 +18821,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18533,7 +18918,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Hair care, Hair care/Hair Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18635,7 +19020,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "L'Oréal official web store (www.lorealparis.co.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "L'Oréal official web store (www.lorealparis.co.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.lorealparis.co.in/-/media/project/loreal/brand-sites/oap/apac/in/products/hair/hair-care/hyaluron-moisture/conditioner/c-hm_175ml.png"
@@ -18793,7 +19178,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl salicylate, citronellol, geraniol, hexyl cinnamal, limonene, linalool (−1.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -18949,7 +19334,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl salicylate, geraniol, hexyl cinnamal, limonene, linalool (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -19114,7 +19499,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -19279,7 +19664,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -19420,7 +19805,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: citronellel, geraniol, hydroxycitronellal, limonene (−1.2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -19631,7 +20016,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate, citronellol, limonene, linalool (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "New (brand site's own product type)"
   },
   "images": [
@@ -19810,7 +20195,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: benzyl alcohol, benzyl salicylate, hexyl cinnamal, limonene, linalool (−1.5); Essential oil / volatile sensitiser: citrus nobilis peel oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -19990,7 +20375,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -20121,7 +20506,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -20262,7 +20647,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -20402,7 +20787,7 @@ const BSPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [
@@ -20567,7 +20952,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Love Beauty And Planet official web store (www.lovebeautyandplanet.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Conditioner (brand site's own product type)"
   },
   "images": [

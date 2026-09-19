@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/4-aha-bha-body-butter/Intro_1254l0.jpg?tr=w-600"
@@ -257,7 +257,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Baby Care (brand site's own product type)"
   },
   "images": [
@@ -400,7 +400,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Baby Oils (brand site's own product type)"
   },
   "images": [
@@ -533,7 +533,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Front_d70f4766-5b40-44c2-96fe-6b79f9cc0da8.jpg?v=1735208734"
@@ -631,7 +631,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Lavender_Neroli01.jpg?v=1712832217"
@@ -727,7 +727,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Front_62a57309-8f64-4fb6-ae95-8356f734c1b8.jpg?v=1735208656"
@@ -826,7 +826,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/SandalwoodMassageOil.jpg?v=1692684382"
@@ -923,7 +923,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/jasmine-massage-oil_35d72f66-cf44-4244-ab8e-191718251e33.png?v=1682576506"
@@ -1019,7 +1019,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Catalog_Cardr_Body_Cream_-19.jpg?v=1750146259"
@@ -1116,7 +1116,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Catalog_Cardr_Body_Cream_-07.jpg?v=1750145915"
@@ -1214,7 +1214,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Catalog_Cardr_Body_Cream_-01.jpg?v=1750145812"
@@ -1270,6 +1270,186 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-1wvgxwd",
+  "brand": "Mamaearth",
+  "model": "Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Deep Moisturization …",
+  "price": 899,
+  "capacityLine": "600 ml",
+  "materialLine": "Cocoa butter + Vitamin E",
+  "featureLine": "Body butter · ₹150/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "theobroma cacao seed butter high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.3,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "600 ml",
+   "pricePer100": "₹150/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-600-ml",
+   "inciMatchedName": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Deep Moisturization - 600 ml (name match 100%)",
+   "inciList": "Aqua, Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Xylitol, Betaine",
+   "evidenceActives": "theobroma cacao seed butter (#6 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Lotion (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/1_1.jpg?v=1781775353"
+  ],
+  "buyUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-600-ml",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Deep Moisturization - 600 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-600-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Deep Moisturization - 600 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid, Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Xylitol, Betaine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-1setw17",
   "brand": "Mamaearth",
   "model": "Soothing Massage Oil for Babies with Sesame, Almond and Jojoba Oil - 200ml (Pack of 2)",
@@ -1315,7 +1495,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -1418,6 +1598,211 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-ka2znn",
+  "brand": "Mamaearth",
+  "model": "Cocoa Rich Moisturizer with Cocoa Butter & Vitamin E for Deep Nourishment - 200 g (Pack of…",
+  "price": 898,
+  "capacityLine": "400 g (pack of 2)",
+  "materialLine": "Cocoa butter + Vitamin E",
+  "featureLine": "Body butter · ₹225/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); theobroma cacao seed butter high on the INCI list (limited evidence)"
+  ],
+  "cons": [
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 8.5,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 g × 2 pack",
+   "pricePer100": "₹225/100g",
+   "format": "Body butter",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-cream-with-cocoa-butter-vitamin-e-for-deep-nourishment-200-g-pack-of-2",
+   "inciMatchedName": "Cocoa Rich Moisturizer with Cocoa Butter & Vitamin E for Deep Nourishment - 200 g (Pack of 2) (name match 100%)",
+   "inciList": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Theobroma Cacao (Cocoa) Extract, Isopropyl Myristate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Lauryl Glucoside, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Propanediol (Zemea), Stearic Acid, Theobroma Cacao Seed Butter, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Ethylhexanoate, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, IFRA Certified Allergen Free Fragrance, Imidazolidinyl Urea, Hexyldecanol, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris (Rapeseed) Sterols, Sodium Hydroxide, Sodium Gluconate",
+   "evidenceActives": "butyrospermum parkii butter (#6 on list, moderate evidence); theobroma cacao seed butter (#15 on list, limited evidence); tocopheryl acetate (#18 on list, moderate evidence)",
+   "safetyFlags": "Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/cocoa_fop.jpg?v=1777975938"
+  ],
+  "buyUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-cream-with-cocoa-butter-vitamin-e-for-deep-nourishment-200-g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Cocoa Rich Moisturizer with Cocoa Butter & Vitamin E for Deep Nourishment - 200 g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:balm",
+   "format:kit",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-cream-with-cocoa-butter-vitamin-e-for-deep-nourishment-200-g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cocoa Rich Moisturizer with Cocoa Butter & Vitamin E for Deep Nourishment - 200 g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Theobroma Cacao (Cocoa) Extract, Isopropyl Myristate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Lauryl Glucoside, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Propanediol (Zemea), Stearic Acid, Theobroma Cacao Seed Butter, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Ethylhexanoate, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, IFRA Certified Allergen Free Fragrance, Imidazolidinyl Urea, Hexyldecanol, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris (Rapeseed) Sterols, Sodium Hydroxide, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "propanediol",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-ah10o1",
   "brand": "Mamaearth",
   "model": "Cocoa Rich Moisturizing Cream with Cocoa Butter & Vitamin E for Deep Nourishment - 50 g",
@@ -1463,7 +1848,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -1623,6 +2008,212 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-wi3emv",
+  "brand": "Mamaearth",
+  "model": "Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturizati…",
+  "price": 1098,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "Cocoa butter + Vitamin E",
+  "featureLine": "Body butter · ₹137/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "theobroma cacao seed butter high on the INCI list (limited evidence); cocos nucifera oil high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹137/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-400-ml-pack-of-2",
+   "inciMatchedName": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturization - 400 ml (Pack of 2) (name match 100%)",
+   "inciList": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol, Tocopheryl Acetate (Vitamin E)",
+   "evidenceActives": "theobroma cacao seed butter (#6 on list, limited evidence); cocos nucifera oil (#32 on list, limited evidence); tocopheryl acetate (#37 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Lotion (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/front_of_pack_fop_white_bg.jpg?v=1777975165"
+  ],
+  "buyUrl": "https://mamaearth.in/products/mamaearth-cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-400-ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturization - 400 ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-400-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturization - 400 ml (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol, Tocopheryl Acetate (Vitamin E)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-14hrzxc",
   "brand": "Mamaearth",
   "model": "Cocoa Rich Moisturizer with Cocoa Butter & Vitamin E for Deep Nourishment - 200 g",
@@ -1668,7 +2259,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -1827,6 +2418,211 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-10qgltg",
+  "brand": "Mamaearth",
+  "model": "Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturizati…",
+  "price": 549,
+  "capacityLine": "400 ml",
+  "materialLine": "Cocoa butter + Vitamin E",
+  "featureLine": "Body butter · ₹137/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "theobroma cacao seed butter high on the INCI list (limited evidence); cocos nucifera oil high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹137/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-400-ml",
+   "inciMatchedName": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturization - 400 ml (name match 100%)",
+   "inciList": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol, Tocopheryl Acetate (Vitamin E)",
+   "evidenceActives": "theobroma cacao seed butter (#6 on list, limited evidence); cocos nucifera oil (#32 on list, limited evidence); tocopheryl acetate (#37 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Body Lotion (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/1_66.jpg?v=1777974953"
+  ],
+  "buyUrl": "https://mamaearth.in/products/mamaearth-cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-400-ml",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturization - 400 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-cocoa-rich-moisturizing-body-lotion-with-cocoa-butter-vitamin-e-for-intense-moisturization-400-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Cocoa Rich Moisturizing Body Lotion with Cocoa Butter & Vitamin E for Intense Moisturization - 400 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Isopropyl Myristate, Glycerin, Ethyl Ascorbic Acid (Vitamin C), Stearic Acid, Theobroma Cacao (Cocoa) Seed Butter, Cetearyl Alcohol, Palmitic Acid, Glyceryl Stearate, Microcrystalline Wax, Pentylene Glycol, Fructose, Urea, Citric Acid, Sodium Hydroxide, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Glucose, IFRA Certified Allergen Free Fragrance, Phenoxyethanol, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Sodium Benzoate, Xanthan Gum, Cocos Nucifera (Coconut) Oil, AMPS/HEMA Crosspolymer, C13-15 Alkane, Coco-Glucoside, Sodium Gluconate, Panthenol, Tocopheryl Acetate (Vitamin E)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-gua0i0",
   "brand": "Mamaearth",
   "model": "Rich Moisturizing Cream With Almond Oil & Shea Butter For Dry Skin - 200 g",
@@ -1872,7 +2668,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -2042,7 +2838,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -2188,7 +2984,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -2323,7 +3119,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -2426,7 +3222,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/body-butter_cc24a6af-cb9c-41fb-afb5-7841082d0fa1.jpg?v=1705917780"
@@ -2598,7 +3394,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -2754,7 +3550,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -2910,7 +3706,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -3066,7 +3862,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -3215,7 +4011,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -3313,7 +4109,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Carrier Oil (brand site's own product type)"
   },
   "images": [
@@ -3412,7 +4208,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Scrub (brand site's own product type)"
   },
   "images": [
@@ -3512,7 +4308,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0837/8676/0477/files/vanillamainimage.jpg?v=1774949368"
@@ -3614,7 +4410,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Scrub (brand site's own product type)"
   },
   "images": [
@@ -3718,7 +4514,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Scrub (brand site's own product type)"
   },
   "images": [
@@ -3819,7 +4615,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Scrub (brand site's own product type)"
   },
   "images": [
@@ -3923,7 +4719,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Scrub (brand site's own product type)"
   },
   "images": [
@@ -4026,7 +4822,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/fd9a2fb8-0040-43b9-b153-4e36b7a8297c"
@@ -4124,7 +4920,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/15e372fe-b3cc-46ef-a889-5e46317fc6fb.jpeg"
@@ -4226,7 +5022,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -4392,7 +5188,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jovees (brand site's own product type)"
   },
   "images": [
@@ -4551,7 +5347,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -4651,7 +5447,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Butter Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -4789,7 +5585,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_eladi-restorative-facebody-oil_100ml-primary.png?store=default&image-type=small_image"
@@ -4885,7 +5681,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_kokum-almond-body-butter_200ml_1_.png?store=default&image-type=small_image"
@@ -4982,7 +5778,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_sandanya-facial-fry-oil.png?store=default&image-type=small_image"
@@ -5079,7 +5875,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Oil (brand site's own product type)"
   },
   "images": [
@@ -5179,7 +5975,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Baby Massage Oil (brand site's own product type)"
   },
   "images": [
@@ -5283,7 +6079,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oils (brand site's own product type)"
   },
   "images": [
@@ -5398,7 +6194,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: jasminum officinale oil, citrus aurantifolia oil (−1)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -5536,7 +6332,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -5634,7 +6430,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, OFFER/Skin care, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -5734,7 +6530,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -5836,7 +6632,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Aroma Therapy, Aroma Therapy/Massage Oils (brand site's own product type)"
   },
   "images": [
@@ -5946,7 +6742,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Aroma Therapy, Aroma Therapy/Massage Oils, OFFER/Aroma Therapy (brand site's own product type)"
   },
   "images": [
@@ -6046,7 +6842,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Massage Oils (brand site's own product type)"
   },
   "images": [
@@ -6143,7 +6939,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Aroma Therapy, Aroma Therapy/Massage Oils, OFFER/Aroma Therapy (brand site's own product type)"
   },
   "images": [
@@ -6245,7 +7041,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: jasminum officinale oil, citrus aurantifolia oil (−1)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -6384,7 +7180,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -6488,7 +7284,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -6668,7 +7464,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body (brand site's own product type)"
   },
   "images": [
@@ -6773,7 +7569,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [

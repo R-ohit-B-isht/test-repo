@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI, kojic dipalmitate #13 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/pigmentation-repair-cream/Artboard%201%20%283%29_iayba9.jpg?tr=w-600"
@@ -217,7 +217,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — copper tripeptide-1 #9 on INCI; Irritation — product type, panthenol #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/1-peptide-ceramide-moisturizer/Product_Hero_4dxycu.jpg?tr=w-600"
@@ -366,6 +366,185 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "minimalist-bs-1jq3y0c",
+  "brand": "Minimalist",
+  "model": "Ceramide & Squalane Nourishing Lotion",
+  "price": 854,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Ceramides + Squalane",
+  "featureLine": "Lotion",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); squalane high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 8.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides, Squalane (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — this product's page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/pediatrics-ceramide-squalane-nourishing-lotion",
+   "inciMatchedName": "Ceramide & Squalane Nourishing Lotion (name match 100%)",
+   "inciList": "Water/Aqua, Isostearyl Isostearate, Dimethicone, Cetearyl Alcohol, Ceteareth-20, Microcrystalline Wax, Squalane, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Avena Sativa (Oat) Kernel Extract, Allantoin, Panthenol, Carbomer, Caprylyl Glycol, Pentylene Glycol, Ethylhexylglycerin, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); squalane (#7 on list, moderate evidence); sodium hyaluronate (#8 on list, moderate evidence); ceramide np (#9 on list, moderate evidence); ceramide ap (#10 on list, moderate evidence); avena sativa kernel extract (#11 on list, moderate evidence); allantoin (#12 on list, limited evidence); panthenol (#13 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type, ceramide np #9 on INCI, ceramide ap #10 on INCI, avena sativa kernel extract #11 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Baby Care (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/BabyNourishingNew.png?v=1721632055"
+  ],
+  "buyUrl": "https://beminimalist.co/products/pediatrics-ceramide-squalane-nourishing-lotion",
+  "buyStore": "Brand store",
+  "title": "Minimalist Ceramide & Squalane Nourishing Lotion",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:ceramides",
+   "ing:squalane",
+   "claim:hydrating",
+   "aud:kids",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/pediatrics-ceramide-squalane-nourishing-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide & Squalane Nourishing Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Water/Aqua, Isostearyl Isostearate, Dimethicone, Cetearyl Alcohol, Ceteareth-20, Microcrystalline Wax, Squalane, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Avena Sativa (Oat) Kernel Extract, Allantoin, Panthenol, Carbomer, Caprylyl Glycol, Pentylene Glycol, Ethylhexylglycerin, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "squalane",
+    "sodium hyaluronate",
+    "ceramide np",
+    "ceramide ap",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "minimalist-bs-12un28p",
   "brand": "Minimalist",
   "model": "Ceramides 0.3% + Madecassoside Moisturizer",
@@ -412,7 +591,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, avena sativa kernel extract #3 on INCI, madecassoside #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -607,7 +786,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type, centella asiatica extract #15 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Creams & Moisturizers (brand site's own product type)"
   },
   "images": [
@@ -786,7 +965,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #11 on INCI; Aging — 3-o-ethyl ascorbic acid #11 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -959,7 +1138,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -1107,7 +1286,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #11 on INCI; Aging — 3-o-ethyl ascorbic acid #11 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -1277,7 +1456,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -1384,7 +1563,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #12 on INCI; Aging — 3-o-ethyl ascorbic acid #12 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -1565,7 +1744,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #11 on INCI; Aging — 3-o-ethyl ascorbic acid #11 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -1608,6 +1787,180 @@ const BSPRODUCTS = [
    "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-oil-free-moisturizer-10g",
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "Ceramide & Vitamin C Oil-Free Moisturizer - 10g",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Caprylic Capric Triglycerides, Glycerin, Sodium acrylates Copolymer, Coconut alkanes, Dimethicone, Amla extract, Vitamin E Acetate, Terminalia Ferdinandiana Fruit Extract, Laminaria Digitata Extract, 3-O-Ethyl Ascorbic Acid, Phenoxyethanol, Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6II, Ashwagandha extract, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-sheth-s-bs-1kkkk59",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Oil-Free Moisturizer - 50g (Pack of 2)",
+  "price": 698,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Vitamin C + Ceramides",
+  "featureLine": "Cream · ₹698/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.7,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹698/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-oil-free-moisturizer-50-gm-pack-of-2",
+   "inciMatchedName": "Ceramide & Vitamin C Oil-Free Moisturizer - 50g (Pack of 2) (name match 100%)",
+   "inciList": "Purified Water, Caprylic Capric Triglycerides, Glycerin, Sodium acrylates Copolymer, Coconut alkanes, Dimethicone, Amla extract, Vitamin E Acetate, Terminalia Ferdinandiana Fruit Extract, Laminaria Digitata Extract, 3-O-Ethyl Ascorbic Acid, Phenoxyethanol, Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6II, Ashwagandha extract, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#6 on list, moderate evidence); ceramide eos (#15 on list, moderate evidence); ceramide ns (#16 on list, moderate evidence); ceramide np (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #11 on INCI; Aging — 3-o-ethyl ascorbic acid #11 on INCI; Irritation — product type (matching only — not proof it works)",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/CVC-OFM_1.jpg?v=1683141815"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-oil-free-moisturizer-50-gm-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Ceramide & Vitamin C Oil-Free Moisturizer - 50g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "claim:hydrating",
+   "free:oil-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-oil-free-moisturizer-50-gm-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide & Vitamin C Oil-Free Moisturizer - 50g (Pack of 2)",
    "inciMatchScore": 1,
    "inciText": "Purified Water, Caprylic Capric Triglycerides, Glycerin, Sodium acrylates Copolymer, Coconut alkanes, Dimethicone, Amla extract, Vitamin E Acetate, Terminalia Ferdinandiana Fruit Extract, Laminaria Digitata Extract, 3-O-Ethyl Ascorbic Acid, Phenoxyethanol, Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6II, Ashwagandha extract, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol",
    "inciUnverified": null,
@@ -1739,7 +2092,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -1886,7 +2239,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Aging — adenosine #19 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -2101,7 +2454,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/dewrav_barrier_repair.webp?v=1785323658"
@@ -2202,7 +2555,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -2306,7 +2659,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/FXN-ESMZ100_10.jpg?v=1766149976"
@@ -2516,7 +2869,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Pocket (brand site's own product type)"
   },
   "images": [
@@ -2619,7 +2972,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -2787,7 +3140,7 @@ const BSPRODUCTS = [
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "B2G1 Special off campaign (brand site's own product type)"
   },
   "images": [
@@ -2916,7 +3269,7 @@ const BSPRODUCTS = [
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturiser (brand site's own product type)"
   },
   "images": [
@@ -3022,7 +3375,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, ceramide eop #6 on INCI, ceramide np #8 on INCI, ceramide ap #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -3196,7 +3549,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -3383,7 +3736,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -3534,6 +3887,217 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "plum-bs-fv2x7a",
+  "brand": "Plum",
+  "model": "Oat & 1% Ceramide Face Cream For Dry Skin (50 g) - Pack of 2",
+  "price": 662,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Colloidal oatmeal + Ceramides",
+  "featureLine": "Cream · ₹662/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); avena sativa kernel extract high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹662/100g",
+   "format": "Cream",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Colloidal oatmeal, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/oat-1-ceramide-face-cream-for-dry-skin-copy",
+   "inciMatchedName": "Oat & 1% Ceramide Face Cream For Dry Skin (50 g) - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Undecane, Tridecane, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Avena Sativa (Oat) Kernel Extract, Glycosphingolipids, Ceramide Complex 1% (Hexyldecanol (and) Bisabolol (and) Cetylhydroxyproline Palmitamide (and) Stearic Acid (and) Brassica Campestris (Rapeseed) Sterols), Allantoin, Butyrospermum Parkii (Shea) Butter, Betaine, Zea Mays (Corn) Starch, Argania Spinosa (Argan) Kernel Oil, Phenoxyethanol, Ethylhexylglycerin, Ammonium Polyacryloyldimethyl Taurate, Glyceryl Stearate, Polyacrylate Crosspolymer-6, Panthenol, Silica, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Oryza Sativa (Rice) Bran Wax, Fragrance (IFRA-Certified), Titanium Dioxide, Sodium Gluconate, Tocopheryl Acetate, Sodium Citrate, Citric Acid",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); avena sativa kernel extract (#10 on list, moderate evidence); bisabolol (#13 on list, moderate evidence); allantoin (#17 on list, limited evidence); butyrospermum parkii butter (#18 on list, moderate evidence); panthenol (#27 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type, avena sativa kernel extract #10 on INCI, bisabolol #13 on INCI (matching only — not proof it works)",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0390/2985/files/Combo-SKUs-Oat-Face-Cream-1st-Tile-1001x1001-px.webp?v=1778053168"
+  ],
+  "buyUrl": "https://plumgoodness.com/products/oat-1-ceramide-face-cream-for-dry-skin-copy",
+  "buyStore": "Brand store",
+  "title": "Plum Oat & 1% Ceramide Face Cream For Dry Skin (50 g) - Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:kit",
+   "ing:colloidal-oatmeal",
+   "ing:ceramides",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/oat-1-ceramide-face-cream-for-dry-skin-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Oat & 1% Ceramide Face Cream For Dry Skin (50 g) - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Undecane, Tridecane, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Avena Sativa (Oat) Kernel Extract, Glycosphingolipids, Ceramide Complex 1% (Hexyldecanol (and) Bisabolol (and) Cetylhydroxyproline Palmitamide (and) Stearic Acid (and) Brassica Campestris (Rapeseed) Sterols), Allantoin, Butyrospermum Parkii (Shea) Butter, Betaine, Zea Mays (Corn) Starch, Argania Spinosa (Argan) Kernel Oil, Phenoxyethanol, Ethylhexylglycerin, Ammonium Polyacryloyldimethyl Taurate, Glyceryl Stearate, Polyacrylate Crosspolymer-6, Panthenol, Silica, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Oryza Sativa (Rice) Bran Wax, Fragrance (IFRA-Certified), Titanium Dioxide, Sodium Gluconate, Tocopheryl Acetate, Sodium Citrate, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "plum-bs-15qilj9",
   "brand": "Plum",
   "model": "Oat & 1% Ceramide Face Cream For Dry Skin",
@@ -3580,7 +4144,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, avena sativa kernel extract #10 on INCI, bisabolol #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -3789,7 +4353,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -3831,6 +4395,261 @@ const BSPRODUCTS = [
    "inciSourceUrl": "https://thedermaco.com/products/5-nia-ceramide-daily-hydrating-moisturizer-100g",
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g",
+   "inciMatchScore": 1,
+   "inciText": "Purified water, Niacinamide, Glycerin, Caprylic/capric triglyceride, Dimethicone, Cyclopentasiloxane, Glyceryl Stearate, PEG-100 Stearate, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, HydrolyzedHyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Pentylene Glycol, Butylene Glycol, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Propanediol, DimethysilanolHyaluronate, Sodium Benzoate, Ascorbyl Propyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Laminaria Digitata Extract, Cetyl-Pg Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Cetearyl Olivate, Sorbitan Olivate, Saccharide Isomerate, Citric Acid, Sodium Citrate, Panthenol, Tocopheryl acetate, Squalane, Shea butter, Betaine, Dimethicone Crosspolymer, phenoxyethanol, Ethylhexylglycerin, Sodium Polyacrylate, Hydrogenated Polydecene, Trideceth-6",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 40,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 41,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "butylene glycol",
+    "propanediol",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "panthenol",
+    "squalane",
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "the-derma-co-bs-ssh06u",
+  "brand": "The Derma Co",
+  "model": "5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g (Pack…",
+  "price": 898,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "Niacinamide + Ceramides",
+  "featureLine": "Cream · ₹449/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.6,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹449/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/5-nia-ceramide-daily-hydrating-moisturizer-100g-pack-of-2",
+   "inciMatchedName": "5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g (Pack of 2) (name match 100%)",
+   "inciList": "Purified water, Niacinamide, Glycerin, Caprylic/capric triglyceride, Dimethicone, Cyclopentasiloxane, Glyceryl Stearate, PEG-100 Stearate, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, HydrolyzedHyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Pentylene Glycol, Butylene Glycol, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Propanediol, DimethysilanolHyaluronate, Sodium Benzoate, Ascorbyl Propyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Laminaria Digitata Extract, Cetyl-Pg Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Cetearyl Olivate, Sorbitan Olivate, Saccharide Isomerate, Citric Acid, Sodium Citrate, Panthenol, Tocopheryl acetate, Squalane, Shea butter, Betaine, Dimethicone Crosspolymer, phenoxyethanol, Ethylhexylglycerin, Sodium Polyacrylate, Hydrogenated Polydecene, Trideceth-6",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); dimethicone (#5 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence); hyaluronic acid (#13 on list, moderate evidence); ceramide eos (#28 on list, moderate evidence); ceramide ns (#29 on list, moderate evidence); ceramide np (#30 on list, moderate evidence); ceramide ap (#32 on list, moderate evidence); panthenol (#38 on list, moderate evidence); squalane (#40 on list, moderate evidence); shea butter (#41 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — product type (matching only — not proof it works)",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0888/8057/8807/files/fop_pack_of_2.jpg?v=1764760279"
+  ],
+  "buyUrl": "https://thedermaco.com/products/5-nia-ceramide-daily-hydrating-moisturizer-100g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "The Derma Co 5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/5-nia-ceramide-daily-hydrating-moisturizer-100g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Nia-Ceramide Daily Hydrating Moisturizer with 5% Niacinamide & 2% Ceramide - 100g (Pack of 2)",
    "inciMatchScore": 1,
    "inciText": "Purified water, Niacinamide, Glycerin, Caprylic/capric triglyceride, Dimethicone, Cyclopentasiloxane, Glyceryl Stearate, PEG-100 Stearate, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, HydrolyzedHyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Pentylene Glycol, Butylene Glycol, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Propanediol, DimethysilanolHyaluronate, Sodium Benzoate, Ascorbyl Propyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Laminaria Digitata Extract, Cetyl-Pg Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Cetearyl Olivate, Sorbitan Olivate, Saccharide Isomerate, Citric Acid, Sodium Citrate, Panthenol, Tocopheryl acetate, Squalane, Shea butter, Betaine, Dimethicone Crosspolymer, phenoxyethanol, Ethylhexylglycerin, Sodium Polyacrylate, Hydrogenated Polydecene, Trideceth-6",
    "inciUnverified": null,
@@ -4043,7 +4862,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -4296,7 +5115,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, ceramide np #15 on INCI, ceramide ap #16 on INCI, avena sativa kernel extract #33 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -4513,7 +5332,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -4670,7 +5489,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — product type, panthenol #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -4843,7 +5662,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, ceramide np #15 on INCI, ceramide ap #16 on INCI, avena sativa kernel extract #33 on INCI, panthenol #39 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cream (brand site's own product type)"
   },
   "images": [
@@ -5070,7 +5889,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -5228,7 +6047,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -5349,7 +6168,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -5506,7 +6325,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -5626,7 +6445,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -5814,7 +6633,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, ceramide np #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Minis (brand site's own product type)"
   },
   "images": [
@@ -5982,7 +6801,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -6091,7 +6910,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, ceramide np #10 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -6263,7 +7082,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, ceramide np #16 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -6431,7 +7250,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Minis (brand site's own product type)"
   },
   "images": [
@@ -6537,7 +7356,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — product type, ceramide eos #20 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -6735,7 +7554,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — glycyrrhiza glabra root extract #7 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -6911,7 +7730,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -7011,7 +7830,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -7115,7 +7934,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, ceramide eos #16 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturiser (brand site's own product type)"
   },
   "images": [
@@ -7328,7 +8147,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -7510,7 +8329,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -7615,7 +8434,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -7801,7 +8620,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #24 on INCI; Dark spots — niacinamide #24 on INCI; Irritation — product type, ceramide eos #15 on INCI, panthenol #23 on INCI, aloe barbadensis leaf juice #28 on INCI, centella asiatica extract #29 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -7979,6 +8798,388 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-1yjein8",
+  "brand": "Dot & Key",
+  "model": "Barrier Repair Moisturizer-Pack of 2",
+  "price": 1198,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.2,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/barrier-repair-moisturizer-duo",
+   "inciMatchedName": "Barrier Repair Moisturizer-Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Caprylic/Capric Triglyceride, Glycerine, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Cetearyl Olivate (and) Sorbitan Olivate, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Sodium Polyacrylate (and) Dicaprylyl Carbonate (and) Polyglyceryl-3 Caprate, Dimethicone, C14-22 Alcohols (and) C12-20 Alkyl Glucoside, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Stearic Acid, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Laminaria Digitata Extract [and] Hydrogenated Lecithin (and) Cetyl-PG Hydroxyethyl Palmitamide (and) Ceramide 1, 2,3,4,6|| (and) Cholesterol [and] 1,2-hexanediol, Sodium Hyaluronate, Glycerin (and) Aqua [and] Vaccinium Angustifolium (Blueberry) Fruit Extract, Aqua [and] Oryza Sativa (Rice) Extract (and) Saccharomyces ferment lysate filtrate (and) Citric acid [and] Sodium Benzoate [and] Potassium sorbate, Polyglutamic Acid, Lactobacillus [and] Maltodextrin, Tocopheryl Acetate, Xanthan Gum, Disodium EDTA, Sodium Hydroxide, Butylated hydroxytoluene, Phenoxyethanol (and) Ethylhexylglycerin",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#14 on list, moderate evidence); ceramide eos (#23 on list, moderate evidence); sodium hyaluronate (#26 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type, ceramide eos #23 on INCI (matching only — not proof it works)",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/100brm.jpg?v=1788343839"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/barrier-repair-moisturizer-duo",
+  "buyStore": "Brand store",
+  "title": "Dot & Key Barrier Repair Moisturizer-Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "claim:hydrating",
+   "claim:barrier",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/barrier-repair-moisturizer-duo",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Barrier Repair Moisturizer-Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Caprylic/Capric Triglyceride, Glycerine, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Cetearyl Olivate (and) Sorbitan Olivate, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Sodium Polyacrylate (and) Dicaprylyl Carbonate (and) Polyglyceryl-3 Caprate, Dimethicone, C14-22 Alcohols (and) C12-20 Alkyl Glucoside, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Stearic Acid, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Laminaria Digitata Extract [and] Hydrogenated Lecithin (and) Cetyl-PG Hydroxyethyl Palmitamide (and) Ceramide 1, 2,3,4,6|| (and) Cholesterol [and] 1,2-hexanediol, Sodium Hyaluronate, Glycerin (and) Aqua [and] Vaccinium Angustifolium (Blueberry) Fruit Extract, Aqua [and] Oryza Sativa (Rice) Extract (and) Saccharomyces ferment lysate filtrate (and) Citric acid [and] Sodium Benzoate [and] Potassium sorbate, Polyglutamic Acid, Lactobacillus [and] Maltodextrin, Tocopheryl Acetate, Xanthan Gum, Disodium EDTA, Sodium Hydroxide, Butylated hydroxytoluene, Phenoxyethanol (and) Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "ceramide eos",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dot-key-bs-1grc6ut",
+  "brand": "Dot & Key",
+  "model": "Retinol + Ceramide Night Cream, Pack of 2",
+  "price": 1198,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Retinol + Ceramides",
+  "featureLine": "Cream",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.5,
+   "skin": 9.5,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/retinol-ceramide-night-cream-pack-of-2",
+   "inciMatchedName": "Retinol + Ceramide Night Cream, Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Glycerine, Dicaprylyl Ether, Dimethicone (and) Dimethicone Crosspolymer, Polyacrylamide (and) C13-14 Isoparaffin (and) Laureth-7, Methylsilanol Mannuronate, Retinyl Palmitate (Retinol Ester), Silanetriol (and) Hyaluronic Acid, Hibiscus Sabdariffa Flower Extract, Punica Granatum (Pomegranate) Seed Oil, Oenothera Biennis (Evening Primrose) Oil, Laminaria Digitata Extract (and) Cetyl - PG Hydroxyethyl Palmitamide (and) Ceramide 1 (and) Ceramide 2 (and) Ceramide 3 (and) Ceramide 4 (and) Ceramide 6 II, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Sodium Hydroxide, Panthenol, Allantoin, Disodium EDTA, Benzyl Alcohol (and) Ethylhexylglycerin (and) Tocopherol, IFRA Certified Allergen Free Fragrance, CI 16185, CI 15985, CI 42090",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); dimethicone (#4 on list, moderate evidence); hyaluronic acid (#11 on list, moderate evidence); ceramide eos (#17 on list, moderate evidence); ceramide ns (#18 on list, moderate evidence); ceramide np (#19 on list, moderate evidence); ceramide ap (#21 on list, moderate evidence); panthenol (#25 on list, moderate evidence); allantoin (#26 on list, limited evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type, ceramide eos #17 on INCI, ceramide ns #18 on INCI, ceramide np #19 on INCI, ceramide ap #21 on INCI, panthenol #25 on INCI (matching only — not proof it works)",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/retinolcopy.jpg?v=1735980978"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/retinol-ceramide-night-cream-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key Retinol + Ceramide Night Cream, Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:retinol",
+   "ing:ceramides",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/retinol-ceramide-night-cream-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol + Ceramide Night Cream, Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Glycerine, Dicaprylyl Ether, Dimethicone (and) Dimethicone Crosspolymer, Polyacrylamide (and) C13-14 Isoparaffin (and) Laureth-7, Methylsilanol Mannuronate, Retinyl Palmitate (Retinol Ester), Silanetriol (and) Hyaluronic Acid, Hibiscus Sabdariffa Flower Extract, Punica Granatum (Pomegranate) Seed Oil, Oenothera Biennis (Evening Primrose) Oil, Laminaria Digitata Extract (and) Cetyl - PG Hydroxyethyl Palmitamide (and) Ceramide 1 (and) Ceramide 2 (and) Ceramide 3 (and) Ceramide 4 (and) Ceramide 6 II, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Sodium Hydroxide, Panthenol, Allantoin, Disodium EDTA, Benzyl Alcohol (and) Ethylhexylglycerin (and) Tocopherol, IFRA Certified Allergen Free Fragrance, CI 16185, CI 15985, CI 42090",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "hyaluronic acid",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-1pyd10a",
   "brand": "Dot & Key",
   "model": "Barrier Repair Moisturizer (Hyaluronic + Ceramides)",
@@ -8025,7 +9226,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — product type, ceramide eos #23 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturiser (brand site's own product type)"
   },
   "images": [
@@ -8187,7 +9388,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — glycyrrhiza glabra root extract #7 on INCI; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Toner (brand site's own product type)"
   },
   "images": [
@@ -8366,7 +9567,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -8491,16 +9692,18 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Ceramides",
   "featureLine": "Cream · ₹898/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.5,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -8518,15 +9721,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/ceramide-rich-pillow-cream",
+   "inciMatchedName": "7% Ceramides-NMF Face Moisturizer Rich Pillow Cream - 50 ml (name match 100%)",
+   "inciList": "Aqua (Water), Caprylic/Capric Triglyceride, Houttuynia Cordata (Heartleaf) Extract, Trehalose, Glycerin, Glyceryl Stearate SE, Dicaprylyl Carbonate, Steareth-21, Butyrospermum Parkii (Shea) Butter, 5-ureidohydantoin (Allantoin), Panthenol, Urea, Pentylene Glycol, Fructose, Maltose, Sodium PCA, Sodium Lactate, Sodium Hyaluronate, Glucose, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Beta Glucan, Laminaria Digitata (Oarweed) Extract, Hippophae Rhamnoides (Sea Buckthorn) Oil, Cetyl-PG Hydroxyethyl Palmitamide, Sodium Acrylates Copolymer, C12-18 Alkanoyl Glycerin/Sebacic Acid Copolymer, Sodium Polyacrylate, Sodium Gluconate, Citric Acid, Sodium Hydroxide, Sodium Chloride, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); butyrospermum parkii butter (#9 on list, moderate evidence); panthenol (#11 on list, moderate evidence); urea (#12 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence); ceramide eos (#20 on list, moderate evidence); ceramide ns (#21 on list, moderate evidence); ceramide np (#22 on list, moderate evidence); ceramide ap (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Irritation — product type, panthenol #11 on INCI, ceramide eos #20 on INCI, ceramide ns #21 on INCI, ceramide np #22 on INCI, ceramide ap #24 on INCI, beta-glucan #25 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -8545,7 +9750,9 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8553,25 +9760,133 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/ceramide-rich-pillow-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "7% Ceramides-NMF Face Moisturizer Rich Pillow Cream - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Caprylic/Capric Triglyceride, Houttuynia Cordata (Heartleaf) Extract, Trehalose, Glycerin, Glyceryl Stearate SE, Dicaprylyl Carbonate, Steareth-21, Butyrospermum Parkii (Shea) Butter, 5-ureidohydantoin (Allantoin), Panthenol, Urea, Pentylene Glycol, Fructose, Maltose, Sodium PCA, Sodium Lactate, Sodium Hyaluronate, Glucose, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Beta Glucan, Laminaria Digitata (Oarweed) Extract, Hippophae Rhamnoides (Sea Buckthorn) Oil, Cetyl-PG Hydroxyethyl Palmitamide, Sodium Acrylates Copolymer, C12-18 Alkanoyl Glycerin/Sebacic Acid Copolymer, Sodium Polyacrylate, Sodium Gluconate, Citric Acid, Sodium Hydroxide, Sodium Chloride, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 34,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "panthenol",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8592,16 +9907,18 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Ceramides + Peptides",
   "featureLine": "Cream · ₹898/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); avena sativa kernel extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -8619,15 +9936,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/barrier-care-cream-oily-skin",
+   "inciMatchedName": "Barrier Repair Moisturizer with 2% Ceramide-Peptide Complex - 50 ml (name match 100%)",
+   "inciList": "Aqua (Water), Aloe Barbadensis (Aloe Vera) Extract, Glycerin, Propanediol, Chamomilla Recutita (Matricaria) Flower Extract, Avena Sativa (Oat) Kernel Extract, Caprylic/Capric Triglyceride, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sodium Acrylate/Sodium Acryloyldimethyl taurate copolymer, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Laminaria Digitata (Oarweed) Extract, Cetyl-PG Hydroxyethyl Palmitamide, Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Squalane, Saccharide Isomerate, Hydrogenated polydecene, Trideceth-6, Sorbitan laurate, Polysorbate 20, Citric Acid, Sodium Citrate, Sodium Benzoate, Potassium Sorbate, Sodium Gluconate, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); avena sativa kernel extract (#6 on list, moderate evidence); ceramide eos (#10 on list, moderate evidence); ceramide ns (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence); ceramide ap (#14 on list, moderate evidence); squalane (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "concernBasis": "Aging — palmitoyl pentapeptide-4 #20 on INCI, palmitoyl tetrapeptide-7 #21 on INCI; Irritation — product type, avena sativa kernel extract #6 on INCI, ceramide eos #10 on INCI, ceramide ns #11 on INCI, ceramide np #12 on INCI, ceramide ap #14 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0742/5160/0188/files/1_6b0928ae-5786-46a4-9005-a50bff7a9723.jpg?v=1748866166"
@@ -8645,8 +9964,11 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
+   "target:aging",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8654,25 +9976,122 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/barrier-care-cream-oily-skin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Barrier Repair Moisturizer with 2% Ceramide-Peptide Complex - 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Aloe Barbadensis (Aloe Vera) Extract, Glycerin, Propanediol, Chamomilla Recutita (Matricaria) Flower Extract, Avena Sativa (Oat) Kernel Extract, Caprylic/Capric Triglyceride, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sodium Acrylate/Sodium Acryloyldimethyl taurate copolymer, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6 II, Laminaria Digitata (Oarweed) Extract, Cetyl-PG Hydroxyethyl Palmitamide, Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Squalane, Saccharide Isomerate, Hydrogenated polydecene, Trideceth-6, Sorbitan laurate, Polysorbate 20, Citric Acid, Sodium Citrate, Sodium Benzoate, Potassium Sorbate, Sodium Gluconate, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8732,7 +10151,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — adenosine #18 on INCI; Irritation — product type, ceramide np #12 on INCI, ceramide ap #13 on INCI, ceramide ns #15 on INCI, ceramide eop #16 on INCI (matching only — not proof it works)",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Exfoliator (brand site's own product type)"
   },
   "images": [

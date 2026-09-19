@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -54044,17 +54044,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "bakuchiol",
   "featureLine": "Serum · ₹2663/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "retinal high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.5★ from 34 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.7,
+   "skin": 10,
+   "trust": 8,
    "experience": 5.7
   },
   "fullSpec": {
@@ -54071,14 +54071,16 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.5/5 (34 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/bakuchiol-pdrn-serum-30ml",
+   "inciMatchedName": "Bakuchiol & Pdrn Ampoule Serum - 30ml (name match 94%)",
+   "inciList": "Purified water, Niacinamide, Glycerin, Diethylene Glycol Monoethyl Ether, Propanediol, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Ascorbylpropyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Sodium Benzoate, Pentylene Glycol, Butylene Glycol, Ethyexyl Glycerine & Phenoxy Ethanol, Tranexamic Acid, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Carbomer & Polysorbate 20 & Palmitoyl Tripeptide-1 & Palmitoyl Tetrapeptide-7, Betaine, Sodium DNA, Hydroxyethylcellulose, Panthenol, Allantoin, Phosphatidylcholine, Mannitol, Glycerin, Polyglyceryl-10 Laurate, Retinal, Cetyl Alcohol, Tocopherol, Psoralea Corylifolia Fruit Extract, Squalane & Polyglyceryl-10 Stearate, Citric Acid",
+   "evidenceActives": "retinal (#36 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.5★ from 34 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/c/o/30-0-bakuchiol-pdrn-ampoule-serum-firms-plumps-skin-improves-original-imaherntbsyftdce.jpeg?q=90",
@@ -54106,8 +54108,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -54116,25 +54122,139 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/bakuchiol-pdrn-serum-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Bakuchiol & Pdrn Ampoule Serum - 30ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified water, Niacinamide, Glycerin, Diethylene Glycol Monoethyl Ether, Propanediol, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Ascorbylpropyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Sodium Benzoate, Pentylene Glycol, Butylene Glycol, Ethyexyl Glycerine & Phenoxy Ethanol, Tranexamic Acid, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Carbomer & Polysorbate 20 & Palmitoyl Tripeptide-1 & Palmitoyl Tetrapeptide-7, Betaine, Sodium DNA, Hydroxyethylcellulose, Panthenol, Allantoin, Phosphatidylcholine, Mannitol, Glycerin, Polyglyceryl-10 Laurate, Retinal, Cetyl Alcohol, Tocopherol, Psoralea Corylifolia Fruit Extract, Squalane & Polyglyceryl-10 Stearate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinal",
+     "grade": "A",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -126513,15 +126633,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "bakuchiol",
   "featureLine": "Serum · ₹2830/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinal high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.7,
+   "skin": 10,
+   "trust": 8,
    "experience": 1.3
   },
   "fullSpec": {
@@ -126538,14 +126659,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/bakuchiol-pdrn-serum-30ml",
+   "inciMatchedName": "Bakuchiol & Pdrn Ampoule Serum - 30ml (name match 90%)",
+   "inciList": "Purified water, Niacinamide, Glycerin, Diethylene Glycol Monoethyl Ether, Propanediol, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Ascorbylpropyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Sodium Benzoate, Pentylene Glycol, Butylene Glycol, Ethyexyl Glycerine & Phenoxy Ethanol, Tranexamic Acid, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Carbomer & Polysorbate 20 & Palmitoyl Tripeptide-1 & Palmitoyl Tetrapeptide-7, Betaine, Sodium DNA, Hydroxyethylcellulose, Panthenol, Allantoin, Phosphatidylcholine, Mannitol, Glycerin, Polyglyceryl-10 Laurate, Retinal, Cetyl Alcohol, Tocopherol, Psoralea Corylifolia Fruit Extract, Squalane & Polyglyceryl-10 Stearate, Citric Acid",
+   "evidenceActives": "retinal (#36 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iyUiOk3eL._AC_UL320_.jpg"
@@ -126565,8 +126688,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -126575,25 +126702,139 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/bakuchiol-pdrn-serum-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Bakuchiol & Pdrn Ampoule Serum - 30ml",
+   "inciMatchScore": 0.9,
+   "inciText": "Purified water, Niacinamide, Glycerin, Diethylene Glycol Monoethyl Ether, Propanediol, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Ascorbylpropyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Sodium Benzoate, Pentylene Glycol, Butylene Glycol, Ethyexyl Glycerine & Phenoxy Ethanol, Tranexamic Acid, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Carbomer & Polysorbate 20 & Palmitoyl Tripeptide-1 & Palmitoyl Tetrapeptide-7, Betaine, Sodium DNA, Hydroxyethylcellulose, Panthenol, Allantoin, Phosphatidylcholine, Mannitol, Glycerin, Polyglyceryl-10 Laurate, Retinal, Cetyl Alcohol, Tocopherol, Psoralea Corylifolia Fruit Extract, Squalane & Polyglyceryl-10 Stearate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinal",
+     "grade": "A",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

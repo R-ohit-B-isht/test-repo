@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -45,7 +45,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair (brand site's own product type)"
   },
   "images": [
@@ -144,7 +144,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "3TENX official web store (3tenx.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0696/0821/0650/files/01_a3227b33-7661-4a3c-ba3e-67b740853451.jpg?v=1733822192"
@@ -241,7 +241,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/Detan_Cooling_Sun_Serum50g.jpg?v=1786347454"
@@ -342,7 +342,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -443,7 +443,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -546,7 +546,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -567,6 +567,115 @@ const BSPRODUCTS = [
    "claim:spf-claim",
    "aud:unisex",
    "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aqualogica-bs-1rzxd3e",
+  "brand": "Aqualogica",
+  "model": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex™ & Wild Berries - …",
+  "price": 876,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "Hyaluronic acid + Kojic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹584/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹584/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid, Kojic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Kit (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/FOP_19.jpg?v=1753093917"
+  ],
+  "buyUrl": "https://aqualogica.in/products/detan-dewy-sunscreen-50-g-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Aqualogica Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex™ & Wild Berries - 50 g(Pack of 3)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:hyaluronic-acid",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
    "rating:none",
    "store:brand-store",
    "target:dark-spots",
@@ -654,7 +763,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -762,7 +871,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -872,7 +981,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1049,7 +1158,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1160,7 +1269,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -1350,7 +1459,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Scrub (brand site's own product type)"
   },
   "images": [
@@ -1521,7 +1630,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Scrub (brand site's own product type)"
   },
   "images": [
@@ -1652,16 +1761,18 @@ const BSPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + AHA + PHA",
   "featureLine": "Other · ₹1663/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -1679,15 +1790,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-peeling-solution-30-ml-pack-of-2",
+   "inciMatchedName": "26% AHA + 4% PHA + 2% BHA Exfoliating Peeling Solution for Tan Removal & Pigmentation - 30 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Lactobionic Acid, Sodium Hydroxide, Propanediol, Sodium Salicylate, Polyquaternium-39, Phenoxyethanol, Hibiscus Sabdariffa (Hibiscus) Flower Extract, Allantoin, Amorphophallus Konjac Ceramide, Oryza Sativa (Rice) Ceramide, Aloe Barbadensis (Aloe) Leaf Extract, Xanthan Gum, Phenethyl Alcohol, Sodium Hyaluronate, Buteth-3, Disodium EDTA, Sodium Benzotriazolyl Butylphenol Sulfonate, Chamomilla Recutita (Matricaria) Flower Extract, Tributyl Citrate, Phospholipids, Sphingolipids, Maltodextrin",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); mandelic acid (#4 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Peeling Solution (brand site's own product type)"
   },
   "images": [
@@ -1711,7 +1824,9 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1719,25 +1834,85 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/exfoliating-peeling-solution-30-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "26% AHA + 4% PHA + 2% BHA Exfoliating Peeling Solution for Tan Removal & Pigmentation - 30 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycolic Acid, Lactic Acid, Mandelic Acid, Propylene Glycol, Lactobionic Acid, Sodium Hydroxide, Propanediol, Sodium Salicylate, Polyquaternium-39, Phenoxyethanol, Hibiscus Sabdariffa (Hibiscus) Flower Extract, Allantoin, Amorphophallus Konjac Ceramide, Oryza Sativa (Rice) Ceramide, Aloe Barbadensis (Aloe) Leaf Extract, Xanthan Gum, Phenethyl Alcohol, Sodium Hyaluronate, Buteth-3, Disodium EDTA, Sodium Benzotriazolyl Butylphenol Sulfonate, Chamomilla Recutita (Matricaria) Flower Extract, Tributyl Citrate, Phospholipids, Sphingolipids, Maltodextrin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1798,7 +1973,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Scrub (brand site's own product type)"
   },
   "images": [
@@ -1964,7 +2139,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Accessories (brand site's own product type)"
   },
   "images": [
@@ -2063,7 +2238,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Bare Anatomy official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Hair Accessories (brand site's own product type)"
   },
   "images": [
@@ -2165,7 +2340,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Peeling Solution (brand site's own product type)"
   },
   "images": [
@@ -2337,7 +2512,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, kojic dipalmitate #12 on INCI (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath Soap (brand site's own product type)"
   },
   "images": [
@@ -2530,7 +2705,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, kojic dipalmitate #12 on INCI (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath Soap (brand site's own product type)"
   },
   "images": [
@@ -2721,7 +2896,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -2880,7 +3055,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -3038,7 +3213,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Campaign Product (brand site's own product type)"
   },
   "images": [
@@ -3198,7 +3373,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Campaign Product (brand site's own product type)"
   },
   "images": [
@@ -3399,7 +3574,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #12 on INCI; Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash & Cleansers (brand site's own product type)"
   },
   "images": [
@@ -3562,7 +3737,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, kojic dipalmitate #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Salon professional (brand site's own product type)"
   },
   "images": [
@@ -3729,7 +3904,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — product type, kojic acid #11 on INCI, niacinamide #12 on INCI (matching only — not proof it works)",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Deodorant (brand site's own product type)"
   },
   "images": [
@@ -3903,7 +4078,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -4008,7 +4183,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/FXN-SGFW100_71.jpg?v=1783578445"
@@ -4150,7 +4325,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — product type, niacinamide #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -4328,7 +4503,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — product type, niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -4534,7 +4709,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/SRM-01_2.jpg?v=1765882983"
@@ -4711,7 +4886,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -4811,7 +4986,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -4910,7 +5085,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/DE-TANSCRUB_3f9c59fa-1862-4084-bacf-5cc26d597bbc.jpg?v=1715664636"
@@ -5008,7 +5183,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/DetanFW.jpg?v=1747737228"
@@ -5107,7 +5282,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Mask.jpg?v=1747732023"
@@ -5212,7 +5387,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, alpha-arbutin #6 on INCI (matching only — not proof it works)",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/Detangel1-min.jpg?v=1695638945"
@@ -5350,7 +5525,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -5455,7 +5630,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/UbtanFacewash200ml-07.jpg?v=1751526041"
@@ -5557,7 +5732,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -5659,7 +5834,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -5764,7 +5939,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -5869,7 +6044,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -5970,7 +6145,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -6073,7 +6248,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -6182,7 +6357,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type; Irritation — panthenol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -6348,7 +6523,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type; Irritation — panthenol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -6513,7 +6688,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -6677,7 +6852,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Wash (brand site's own product type)"
   },
   "images": [
@@ -6832,7 +7007,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Wash (brand site's own product type)"
   },
   "images": [
@@ -6988,7 +7163,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -7215,7 +7390,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, sodium ascorbyl phosphate #20 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -7375,7 +7550,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type; Irritation — aloe barbadensis leaf extract #7 on INCI, bisabolol #26 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -7552,7 +7727,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -7701,7 +7876,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Scrub (brand site's own product type)"
   },
   "images": [
@@ -7870,7 +8045,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Masks (brand site's own product type)"
   },
   "images": [
@@ -8026,7 +8201,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type; Irritation — panthenol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cleanser (brand site's own product type)"
   },
   "images": [
@@ -8188,7 +8363,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/DE-TAN_WAX_Main_image_copy_jpg.jpg?v=1773908020"
@@ -8291,7 +8466,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — product type, kojic acid #6 on INCI, niacinamide #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/DE-TAN_Honey_WAX_3_jpg.jpg?v=1773832349"
@@ -8459,7 +8634,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — product type, kojic acid #14 on INCI, niacinamide #16 on INCI; Aging — retinol #15 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mask (brand site's own product type)"
   },
   "images": [
@@ -8672,7 +8847,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — product type, niacinamide #11 on INCI (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -8892,7 +9067,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — product type, kojic acid #5 on INCI, alpha-arbutin #17 on INCI, niacinamide #18 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -9128,7 +9303,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI, melaleuca alternifolia leaf oil #23 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #15 on INCI, niacinamide #18 on INCI; Aging — 3-o-ethyl ascorbic acid #15 on INCI; Irritation — aloe barbadensis leaf extract #14 on INCI, panthenol #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Mask (brand site's own product type)"
   },
   "images": [
@@ -9359,7 +9534,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — product type, alpha-arbutin #2 on INCI, niacinamide #5 on INCI, glycyrrhiza glabra root extract #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "tryplum (brand site's own product type)"
   },
   "images": [
@@ -9521,7 +9696,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — product type, alpha-arbutin #2 on INCI, niacinamide #5 on INCI, glycyrrhiza glabra root extract #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -9680,7 +9855,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Soap (brand site's own product type)"
   },
   "images": [
@@ -9782,7 +9957,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Soulflower official web store (soulflower.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Soap (brand site's own product type)"
   },
   "images": [
@@ -9883,7 +10058,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Wash (brand site's own product type)"
   },
   "images": [
@@ -9991,7 +10166,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0837/8676/0477/files/Brighteningbodywashmainimage_Updated.png?v=1779439312"
@@ -10099,7 +10274,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/3e6b876a-1ae1-4c75-a6f8-c3e61aacdf43"
@@ -10208,7 +10383,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10420,7 +10595,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — product type, niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Mask (brand site's own product type)"
   },
   "images": [
@@ -10637,7 +10812,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, ascorbyl glucoside #18 on INCI; Aging — ascorbyl glucoside #18 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Wash (brand site's own product type)"
   },
   "images": [
@@ -10812,7 +10987,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type; Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Srub (brand site's own product type)"
   },
   "images": [
@@ -10977,7 +11152,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Pack (brand site's own product type)"
   },
   "images": [
@@ -11132,7 +11307,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jovees (brand site's own product type)"
   },
   "images": [
@@ -11293,7 +11468,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "De-Tan Face Wash (brand site's own product type)"
   },
   "images": [
@@ -11424,7 +11599,7 @@ const BSPRODUCTS = [
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_hc-shampoo_200ml_1_.png?store=default&image-type=small_image"
@@ -11524,7 +11699,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell cart (brand site's own product type)"
   },
   "images": [
@@ -11666,7 +11841,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -11782,7 +11957,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [

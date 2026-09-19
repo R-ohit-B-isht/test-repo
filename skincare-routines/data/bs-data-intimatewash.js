@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -43,7 +43,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/IN1.jpg?v=1747724804"
@@ -148,7 +148,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/WhatsAppImage2026-04-23at5.05.37PM.jpg?v=1776944165"
@@ -276,7 +276,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/intimate_wash_green_color.png?v=1785387406"
@@ -378,7 +378,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Haldi-Chandan-Intimate-Wash_3d5d2398-d05c-4755-9ef8-3266884ae53b.jpg?v=1765862863"
@@ -538,7 +538,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/Mainimage.jpg?v=1765860139"
@@ -686,7 +686,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Intimate Wash (brand site's own product type)"
   },
   "images": [
@@ -807,7 +807,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Intimate Hygiene (brand site's own product type)"
   },
   "images": [
@@ -908,7 +908,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Intimate Wash (brand site's own product type)"
   },
   "images": [
@@ -1030,7 +1030,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Feminine Hygiene (brand site's own product type)"
   },
   "images": [
@@ -1128,7 +1128,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Feminine Hygiene (brand site's own product type)"
   },
   "images": [
@@ -1227,7 +1227,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Everteen official web store (www.everteen.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Feminine Hygiene (brand site's own product type)"
   },
   "images": [

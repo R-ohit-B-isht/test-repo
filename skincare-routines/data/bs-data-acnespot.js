@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -44,7 +44,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/FOP_f289213d-13e6-4f26-874f-5d1d7bdd1c7a.jpg?v=1782286444"
@@ -142,7 +142,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/mosaic-wellness/image/upload/v1652359379/staging/products/hydrocolloid-acne-pimple-patch/CAROUSEL/0.png?tr=w-800"
@@ -241,7 +241,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Pimple Patch (brand site's own product type)"
   },
   "images": [
@@ -340,7 +340,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Pimple Patch (brand site's own product type)"
   },
   "images": [
@@ -398,6 +398,176 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "conscious-chemist-bs-1nlrbh9",
+  "brand": "Conscious Chemist",
+  "model": "Trubiom Dark Spot Corrector Gel Cream",
+  "price": 169,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); azelaic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.2,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/trubiom-dark-spot-corrector-gel-cream-season-sale",
+   "inciMatchedName": "Trubiom Dark Spot Corrector Gel Cream | Season Sale (name match 100%)",
+   "inciList": "Aqua, Niacinamide, Tranexamic Acid, Kojic Acid, Cetearyl Alcohol, Dicetyl Phosphate, Ceteth-10 Phosphate, C12-C15 Alkyl Benzoate, Azelaic Acid, Polyglutamic Acid, Natural Betaine, Trehalose, Trimethylolpropane Tricaprylate/Tricaprate, Hydrolyzed Milk Protein, Phenylalanine, Vitamin B5, Allantoin, Evening Primrose Oil, Sodium Lactate, Mulberry Leaf Extract, Hyaluronic Acid, Tomato Extract, Vetiver Water, Licorice Root Extract, Phenoxyethanol, Xanthan Gum, Benzyl Alcohol, Glyceryl Laurate, Beta Carotine",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); azelaic acid (#9 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #9 on INCI; Dark spots — niacinamide #2 on INCI, tranexamic acid #3 on INCI, kojic acid #4 on INCI, azelaic acid #9 on INCI; Irritation — azelaic acid #9 on INCI (matching only — not proof it works)",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Moisturisers (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0081/1155/4613/files/Artboard_5_copy_5_5.webp?v=1775568366"
+  ],
+  "buyUrl": "https://consciouschemist.com/products/trubiom-dark-spot-corrector-gel-cream-season-sale",
+  "buyStore": "Brand store",
+  "title": "Conscious Chemist Trubiom Dark Spot Corrector Gel Cream",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/trubiom-dark-spot-corrector-gel-cream-season-sale",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Trubiom Dark Spot Corrector Gel Cream | Season Sale",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Niacinamide, Tranexamic Acid, Kojic Acid, Cetearyl Alcohol, Dicetyl Phosphate, Ceteth-10 Phosphate, C12-C15 Alkyl Benzoate, Azelaic Acid, Polyglutamic Acid, Natural Betaine, Trehalose, Trimethylolpropane Tricaprylate/Tricaprate, Hydrolyzed Milk Protein, Phenylalanine, Vitamin B5, Allantoin, Evening Primrose Oil, Sodium Lactate, Mulberry Leaf Extract, Hyaluronic Acid, Tomato Extract, Vetiver Water, Licorice Root Extract, Phenoxyethanol, Xanthan Gum, Benzyl Alcohol, Glyceryl Laurate, Beta Carotine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "conscious-chemist-bs-scd3k4",
   "brand": "Conscious Chemist",
   "model": "Acne Spot Corrector Gel ( Pack Of 2) | 2x15 ml",
@@ -444,7 +614,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "essence / serums (brand site's own product type)"
   },
   "images": [
@@ -600,7 +770,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #9 on INCI; Dark spots — niacinamide #2 on INCI, tranexamic acid #3 on INCI, kojic acid #4 on INCI, azelaic acid #9 on INCI; Irritation — azelaic acid #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0081/1155/4613/files/Artboard9_b3097bc2-858d-49e1-b7fa-2bdb51d25194.jpg?v=1775568366"
@@ -771,7 +941,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "essence / serums (brand site's own product type)"
   },
   "images": [
@@ -925,7 +1095,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #6 on INCI, azelaic acid #7 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI, bisabolol #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "patches (brand site's own product type)"
   },
   "images": [
@@ -1074,7 +1244,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Salyzap_Acne_Spot_Corrector_4c741819-0572-455b-9e81-a43d1141e16b.webp?v=1758538818"
@@ -1178,7 +1348,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #5 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -1328,7 +1498,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #6 on INCI; Dark spots — kojic dipalmitate #4 on INCI, alpha-arbutin #5 on INCI (matching only — not proof it works)",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/AntiBlemishCream01.jpg?v=1684821646"
@@ -1503,7 +1673,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #4 on INCI; Dark spots — kojic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/AcnePimpleCream01.jpg?v=1684821008"
@@ -1621,6 +1791,161 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "-phd-bs-1gnmxmq",
+  "brand": "/PHD/",
+  "model": "Salicylic Acid Acne Spot Treatment Gel",
+  "price": 495,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA)",
+  "featureLine": "Gel",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.5,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/salicylic-acid-acne-spot-treatment-gel",
+   "inciMatchedName": "Salicylic Acid Acne Spot Treatment Gel (name match 100%)",
+   "inciList": "Aqua (Water), Propanediol, Carbomer, Glycerin, Myristoyl Hexapeptide-5, Willow Bark Extract, Centella Asiatica Leaf Extract, Dextran, Tripeptide-1, Salicylic Acid, Niacinamide, Zinc PCA, Butylene Glycol, Xylitylglucoside, Ethoxy Diglycol, Anhydroxylitol, Xylitol, Phenoxyethanol, Polylysine, Pentylene Glycol, Panthenol, Ethylhexylglycerin, Sodium Hydroxide, Sodium Gluconate",
+   "evidenceActives": "salicylic acid (#10 on list, strong evidence); niacinamide (#11 on list, strong evidence); zinc pca (#12 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #10 on INCI, niacinamide #11 on INCI, zinc pca #12 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Acne Treatments & Kits (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/salicylic-acid-acne-spot-treatment-gel-6659059.png?v=1758272891"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/salicylic-acid-acne-spot-treatment-gel",
+  "buyStore": "Brand store",
+  "title": "/PHD/ Salicylic Acid Acne Spot Treatment Gel",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "ing:salicylic-acid-bha",
+   "claim:acne",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/salicylic-acid-acne-spot-treatment-gel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid Acne Spot Treatment Gel",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Propanediol, Carbomer, Glycerin, Myristoyl Hexapeptide-5, Willow Bark Extract, Centella Asiatica Leaf Extract, Dextran, Tripeptide-1, Salicylic Acid, Niacinamide, Zinc PCA, Butylene Glycol, Xylitylglucoside, Ethoxy Diglycol, Anhydroxylitol, Xylitol, Phenoxyethanol, Polylysine, Pentylene Glycol, Panthenol, Ethylhexylglycerin, Sodium Hydroxide, Sodium Gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "the-plant-fix-plix-bs-1f00vyp",
   "brand": "The Plant Fix Plix",
   "model": "Shop Acne Patches With Salicylic Acid For Reducing Active Acne | Plix",
@@ -1663,7 +1988,7 @@ const BSPRODUCTS = [
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Plant Fix Plix official web store (plixlife.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Plant Fix Plix official web store (plixlife.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://plixlifefc-media.farziengineer.co/__sized__/products/617-4002bcb157804889b3117abe64a3ee04-thumbnail-255x255-70.jpg"
@@ -1762,7 +2087,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Acne Patch (brand site's own product type)"
   },
   "images": [
@@ -1866,7 +2191,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, benzoyl peroxide #7 on INCI, niacinamide #8 on INCI, zinc pca #10 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Gel (brand site's own product type)"
   },
   "images": [
@@ -2019,7 +2344,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, azelaic acid #15 on INCI; Dark spots — kojic dipalmitate #4 on INCI, azelaic acid #15 on INCI, tranexamic acid #16 on INCI, arbutin #18 on INCI, glycyrrhiza glabra root extract #22 on INCI; Irritation — azelaic acid #15 on INCI, ceramide eos #26 on INCI, ceramide ns #27 on INCI, ceramide np #28 on INCI, ceramide ap #30 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Gel (brand site's own product type)"
   },
   "images": [
@@ -2223,7 +2548,7 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -2231,7 +2556,7 @@ const BSPRODUCTS = [
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Period Care (brand site's own product type)"
   },
   "images": [
@@ -2331,7 +2656,7 @@ const BSPRODUCTS = [
    "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sirona official web store (thesirona.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Period Care (brand site's own product type)"
   },
   "images": [
@@ -2432,7 +2757,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Wash (brand site's own product type)"
   },
   "images": [
@@ -2533,7 +2858,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -2635,7 +2960,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -2737,7 +3062,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [

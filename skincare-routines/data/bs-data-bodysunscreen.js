@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -50,7 +50,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -261,7 +261,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -431,17 +431,19 @@ const BSPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Niacinamide",
   "featureLine": "Sunscreen · SPF 50 · ₹178/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sunscoop official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "octocrylene high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.9,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -460,15 +462,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/5-niacinamide-sunscreen-body-lotion-spf-50-pa-in-vitro-tested-200ml-pack-of-2",
+   "inciMatchedName": "5% Niacinamide Sunscreen Body Lotion| SPF 50+ PA++++ - 200 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Octocrylene, Niacinamide, Octyl Salicylate, Butyl Methoxydibenzoylmethane, Trehalose, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Peg-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Decyl Glucoside, Avena sativa (Oat) Kernel Extract, Oryza Sativa (Rice) Bran Water, Aloe Barbadensis (Aloe Vera) Extract, Sodium Polyacrylate, Lauryl Glucoside, Propylene Glycol, Xanthan Gum, Propanendiol, Phenoxyethanol, Dimethicone,1,2-Hexanediol, Hexyldecanol, Hydroxypropylcyclodextrin, Ceramide NP, Ceramide AS, Ceramide EOP, Ceramide NS, Ceramide NG, Fragrance, Disodium EDTA",
+   "evidenceActives": "octocrylene (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); ethylhexyl salicylate (#4 on list, strong evidence); butyl methoxydibenzoylmethane (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -490,7 +495,11 @@ const BSPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -498,27 +507,125 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/5-niacinamide-sunscreen-body-lotion-spf-50-pa-in-vitro-tested-200ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Niacinamide Sunscreen Body Lotion| SPF 50+ PA++++ - 200 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Octocrylene, Niacinamide, Octyl Salicylate, Butyl Methoxydibenzoylmethane, Trehalose, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Peg-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Decyl Glucoside, Avena sativa (Oat) Kernel Extract, Oryza Sativa (Rice) Bran Water, Aloe Barbadensis (Aloe Vera) Extract, Sodium Polyacrylate, Lauryl Glucoside, Propylene Glycol, Xanthan Gum, Propanendiol, Phenoxyethanol, Dimethicone,1,2-Hexanediol, Hexyldecanol, Hydroxypropylcyclodextrin, Ceramide NP, Ceramide AS, Ceramide EOP, Ceramide NS, Ceramide NG, Fragrance, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "dimethicone",
+    "ceramide np",
+    "ceramide eop",
+    "ceramide ns"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -537,17 +644,19 @@ const BSPRODUCTS = [
   "capacityLine": "250 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 60 · ₹259/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sunscoop official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl salicylate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: menthol, citrus aurantium dulcis peel oil",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -566,15 +675,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/hydrating-fluid-sunscreen-for-face-and-body-spf-60-pa-125-ml-pack-of-2",
+   "inciMatchedName": "Hydrating Fluid Sunscreen for Face & Body | SPF 60 PA++++| In-Vivo Tested - 125 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Octocrylene, Glycerine, Betaine, Coco-Caprylate, Zinc Oxide, Stearic Acid, Phenoxyethanol, Cetyl Alcohol, Glyceryl Monostearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propylene Glycol, Menthol, Methyl Di isopropyl Propionamide, Ethyl Methane Carboxamide, Menthyl Lactate, Hydroxypropyl Cellulose, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita Flower Extract, Avena Sativa Kernel Milk Extract, Caesalpinia Spinosa Fruit Extract, Helianthus Annuus Sprout Extract, Citrus Aurantium Dulcis Peel Oil, Rosmarinus Officinalis Leaf Oil, Propylene Glycol, Sodium Benzoate, Disodium EDTA, Sodium Hydroxide",
+   "evidenceActives": "ethylhexyl salicylate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); zinc oxide (#8 on list, strong evidence); aloe barbadensis leaf extract (#21 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol, citrus aurantium dulcis peel oil, rosmarinus officinalis leaf oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen Spray (brand site's own product type)"
   },
   "images": [
@@ -597,7 +708,8 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -605,27 +717,98 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/hydrating-fluid-sunscreen-for-face-and-body-spf-60-pa-125-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydrating Fluid Sunscreen for Face & Body | SPF 60 PA++++| In-Vivo Tested - 125 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Octocrylene, Glycerine, Betaine, Coco-Caprylate, Zinc Oxide, Stearic Acid, Phenoxyethanol, Cetyl Alcohol, Glyceryl Monostearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propylene Glycol, Menthol, Methyl Di isopropyl Propionamide, Ethyl Methane Carboxamide, Menthyl Lactate, Hydroxypropyl Cellulose, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita Flower Extract, Avena Sativa Kernel Milk Extract, Caesalpinia Spinosa Fruit Extract, Helianthus Annuus Sprout Extract, Citrus Aurantium Dulcis Peel Oil, Rosmarinus Officinalis Leaf Oil, Propylene Glycol, Sodium Benzoate, Disodium EDTA, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol",
+      "citrus aurantium dulcis peel oil",
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -685,7 +868,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -897,7 +1080,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1108,7 +1291,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen Spray (brand site's own product type)"
   },
   "images": [
@@ -1289,7 +1472,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath & Body (brand site's own product type)"
   },
   "images": [
@@ -1455,7 +1638,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -1559,7 +1742,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1666,7 +1849,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -1908,7 +2091,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -2097,7 +2280,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -2270,7 +2453,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -2458,7 +2641,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -2630,7 +2813,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/Artboard_7.jpg?v=1780643798"
@@ -2843,7 +3026,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -3040,7 +3223,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -3247,7 +3430,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/1a5e27f6-cd2e-4c60-a093-0221e4e8e396.png"
@@ -3354,7 +3537,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -3544,7 +3727,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — niacinamide #17 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)",
    "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -3940,11 +3940,12 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.3★ from 4,544 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
    "ingredients": 6.9,
-   "skin": 7.7,
+   "skin": 6.3,
    "trust": 7,
    "experience": 7.9
   },
@@ -3967,9 +3968,9 @@ const CTPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
    "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
    "listingIngredientLine": "5% Lactic Acid, Cica Extract, Aloe vera Extract, Vitamin E, Sunflower Oil, Argan Oil, Cucumber Extract (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#11 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Bili Lifescience Llp, 36, 27, Tulsi Industrial Estate, B/F Changodar Bridge, Changodar, Ahmedabad - 382213, Gujarat (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 4,544 ratings"
@@ -4016,11 +4017,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 lactic acid body lotion",
    "inciMatchScore": 0.94,
-   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -4070,6 +4071,15 @@ const CTPRODUCTS = [
      ],
      "penalty": 1.5,
      "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
     }
    ],
    "maker": {
@@ -7800,11 +7810,12 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.5★ from 75 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
    "ingredients": 6.9,
-   "skin": 7.7,
+   "skin": 6.3,
    "trust": 7,
    "experience": 6.2
   },
@@ -7826,9 +7837,9 @@ const CTPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
    "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
-   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#11 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 75 ratings"
   },
@@ -7890,11 +7901,11 @@ const CTPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 lactic acid body lotion",
    "inciMatchScore": 0.94,
-   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -7944,6 +7955,15 @@ const CTPRODUCTS = [
      ],
      "penalty": 1.5,
      "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
     }
    ],
    "maker": {

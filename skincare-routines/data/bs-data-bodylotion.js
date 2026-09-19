@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -49,7 +49,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lotion (brand site's own product type)"
   },
   "images": [
@@ -197,17 +197,19 @@ const BSPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion · ₹140/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cocos nucifera oil high on the INCI list (limited evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.1,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -225,14 +227,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-hydrating-body-lotion-250ml",
+   "inciMatchedName": "Hydrating Body Lotion - 250 ml (name match 100%)",
+   "inciList": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
+   "evidenceActives": "cocos nucifera oil (#6 on list, limited evidence); dimethicone (#10 on list, moderate evidence); tocopheryl acetate (#22 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lotion (brand site's own product type)"
   },
   "images": [
@@ -249,7 +253,8 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -257,27 +262,107 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-hydrating-body-lotion-250ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydrating Body Lotion - 250 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -336,7 +421,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Lotion (brand site's own product type)"
   },
   "images": [
@@ -475,16 +560,19 @@ const BSPRODUCTS = [
   "capacityLine": "236 ml",
   "materialLine": "Aloe vera + Magnesium + Lavender",
   "featureLine": "Oil · ₹233/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Essential oil / volatile sensitiser: lavandula angustifolia oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.3,
+   "skin": 7.2,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -502,14 +590,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/magnesium-body-lotion",
+   "inciMatchedName": "10% Magnesium Body Lotion with Lavender Oil & Aloe Vera - 236 ml (name match 100%)",
+   "inciList": "Purified Water, Magnesium Chloride Hexahydrate, Isopropyl Palmitate, Cetostearyl Alcohol, Propanediol, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Peg-100 Stearate, Fragrance, Phenoxyethanol, Cyclopentasiloxane, Dimethicone, Ceteareth 20, Olive Oil Methyl Ester, Dicaprylyl Carbonate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tocopheryl Acetate, Aloe Barbadensis Leaf Powder, Chamomilla Recutita (Matricaria) Flower Extract, Lavandula Angustifolia (Lavender) Oil, Ceramide NP, Ceramide AS, Ceramide EOP, Ceramide NS, Ceramide NG, 1,2-Hexanediol, Hexyldecanol, Hydroxypropyl Cyclodextrin, Disodium EDTA",
+   "evidenceActives": "butyrospermum parkii butter (#6 on list, moderate evidence); dimethicone (#11 on list, moderate evidence); tocopheryl acetate (#16 on list, moderate evidence); ceramide np (#20 on list, moderate evidence); ceramide eop (#22 on list, moderate evidence); ceramide ns (#23 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: lavandula angustifolia oil (−0.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -529,7 +619,8 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -537,27 +628,102 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Chemist at Play official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/magnesium-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Magnesium Body Lotion with Lavender Oil & Aloe Vera - 236 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Magnesium Chloride Hexahydrate, Isopropyl Palmitate, Cetostearyl Alcohol, Propanediol, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Peg-100 Stearate, Fragrance, Phenoxyethanol, Cyclopentasiloxane, Dimethicone, Ceteareth 20, Olive Oil Methyl Ester, Dicaprylyl Carbonate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tocopheryl Acetate, Aloe Barbadensis Leaf Powder, Chamomilla Recutita (Matricaria) Flower Extract, Lavandula Angustifolia (Lavender) Oil, Ceramide NP, Ceramide AS, Ceramide EOP, Ceramide NS, Ceramide NG, 1,2-Hexanediol, Hexyldecanol, Hydroxypropyl Cyclodextrin, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "ceramide np",
+    "ceramide eop",
+    "ceramide ns"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "lavandula angustifolia oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -615,7 +781,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -812,7 +978,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -984,7 +1150,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1182,7 +1348,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #18 on INCI, avena sativa kernel extract #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1404,7 +1570,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #18 on INCI, avena sativa kernel extract #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1625,7 +1791,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1822,7 +1988,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -1993,7 +2159,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/4-aha-bha-body-butter/Intro_1254l0.jpg?tr=w-600"
@@ -2203,7 +2369,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/5-lactic-acid-body-lotion/IntroPage_ep3sog.jpg?tr=w-600"
@@ -2361,7 +2527,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #6 on INCI; Aging — 3-o-ethyl ascorbic acid #6 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/niacinamide-body-lotion/IntroPage_gmnyoo.jpg?tr=w-600"
@@ -2537,7 +2703,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #10 on INCI, avena sativa kernel extract #11 on INCI, panthenol #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Baby Care (brand site's own product type)"
   },
   "images": [
@@ -2716,7 +2882,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath & Body (brand site's own product type)"
   },
   "images": [
@@ -2859,7 +3025,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -3034,7 +3200,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -3215,7 +3381,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -3395,7 +3561,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -3539,395 +3705,6 @@ const BSPRODUCTS = [
   }
  },
  {
-  "id": "dr-sheth-s-bs-i7rk8k",
-  "brand": "Dr. Sheth's",
-  "model": "Ceramide & Vitamin C Body Lotion - 200ml",
-  "price": 349,
-  "capacityLine": "200 ml",
-  "materialLine": "Vitamin C + Ceramides",
-  "featureLine": "Lotion · ₹175/100ml",
-  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 7.3,
-   "skin": 10,
-   "trust": 8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹175/100ml",
-   "format": "Lotion",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C, Ceramides (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
-   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-body-lotion-200ml",
-   "inciMatchedName": "Ceramide & Vitamin C Body Lotion - 200ml (name match 100%)",
-   "inciList": "DM Water, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Glycerin, Light Liquid Paraffin, Stearic Acid, Glyceryl Mono stearate (SE), Xylitylglucoside and Anhydroxylitol and Xylitol (AQUAXYL), Sodium Ascorbyl Phosphate, Cetostearyl Alcohol, Aloe Butter, Dimethicone (DC 350), Isopropyl Myristate, Olive Oil, Polysorbate 80 (Tween 80), Cetyl Palmitate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer & Hydrogenated Polydecene & Trideceth -6 & Sorbitan Laurate (Kvopol V), Ceramide, 2 Phenoxyethanol, Carbomer, Sodium Benzoate, Vitamin E Acetate, Sodium Hydroxide, Potassium Sorbate, EDTA Disodium, Butylated Hydroxytoluene, Amla Extract",
-   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#13 on list, moderate evidence); tocopheryl acetate (#23 on list, moderate evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — sodium ascorbyl phosphate #10 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Body Lotion (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0490/6011/8686/products/Ceramide-_-Vitamin-C-Body-Lotion_c8f74f29-02ea-45a0-b621-d06f97648d08.jpg?v=1665755032"
-  ],
-  "buyUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-body-lotion-200ml",
-  "buyStore": "Brand store",
-  "title": "Dr. Sheth's Ceramide & Vitamin C Body Lotion - 200ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "ing:vitamin-c",
-   "ing:ceramides",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:brand-store",
-   "target:dark-spots",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-body-lotion-200ml",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Ceramide & Vitamin C Body Lotion - 200ml",
-   "inciMatchScore": 1,
-   "inciText": "DM Water, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Glycerin, Light Liquid Paraffin, Stearic Acid, Glyceryl Mono stearate (SE), Xylitylglucoside and Anhydroxylitol and Xylitol (AQUAXYL), Sodium Ascorbyl Phosphate, Cetostearyl Alcohol, Aloe Butter, Dimethicone (DC 350), Isopropyl Myristate, Olive Oil, Polysorbate 80 (Tween 80), Cetyl Palmitate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer & Hydrogenated Polydecene & Trideceth -6 & Sorbitan Laurate (Kvopol V), Ceramide, 2 Phenoxyethanol, Carbomer, Sodium Benzoate, Vitamin E Acetate, Sodium Hydroxide, Potassium Sorbate, EDTA Disodium, Butylated Hydroxytoluene, Amla Extract",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 3,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "paraffinum liquidum",
-     "grade": "B",
-     "position": 4,
-     "core": false,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "sodium ascorbyl phosphate",
-     "grade": "B",
-     "position": 10,
-     "core": false,
-     "trace": false,
-     "src": "vitc"
-    },
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 13,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 23,
-     "core": true,
-     "trace": true,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "dimethicone"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Honasa Consumer (listed)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://honasa.in/brands"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dr-sheth-s-bs-nu5zf1",
-  "brand": "Dr. Sheth's",
-  "model": "Kesar & Kojic Acid Neck, Knee & Elbow Cream - 50 gm",
-  "price": 449,
-  "capacityLine": "50 g",
-  "materialLine": "Kojic acid + Saffron",
-  "featureLine": "Cream · ₹898/100g",
-  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 9.8,
-   "skin": 10,
-   "trust": 8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹898/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Kojic acid, Saffron (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
-   "inciSourceUrl": "https://www.drsheths.com/products/kesar-kojic-acid-neck-knee-elbow-cream-50g",
-   "inciMatchedName": "Kesar & Kojic Acid Neck, Knee & Elbow Cream - 50 gm (name match 100%)",
-   "inciList": "Purified Water, Caprylic Capric Triglyceride, Glycolic Acid, Lactic Acid, Glycerin, Niacinamide, Glyceryl Monostearate, Kojic Acid Dipalmitate,Propanediol, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Hydroxyethyl Urea, Centella Asiatica Extract, Crocus Sativus (Saffron) Flower Extract, Butyrospermum Parkii (Shea Butter), Panthenol, Theobroma Cacao Seed Butter, Tocopheryl Acetate, Sodium Hyaluronate, Prunus Amygdalus Dulcis (Almond) Oil, Helianthus Annuus (Sunflower) Seed Oil, Polyacrylate Crosspolymer-6, Sodium Hydroxide, Phenoxyethanol, Sodium Benzoate, Xanthan Gum, Carbomer, Ethylhexylglycerin, Potassium Sorbate, Sodium Gluconate",
-   "evidenceActives": "glycolic acid (#3 on list, strong evidence); lactic acid (#4 on list, strong evidence); glycerin (#5 on list, strong evidence); niacinamide (#6 on list, strong evidence); dimethicone (#10 on list, moderate evidence); butyrospermum parkii butter (#16 on list, moderate evidence); panthenol (#17 on list, moderate evidence); theobroma cacao seed butter (#18 on list, limited evidence); tocopheryl acetate (#19 on list, moderate evidence); prunus amygdalus dulcis oil (#21 on list, moderate evidence); helianthus annuus seed oil (#22 on list, moderate evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, kojic dipalmitate #8 on INCI; Irritation — centella asiatica extract #14 on INCI, panthenol #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Body Cream (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/12_6b7f2306-701e-4feb-93b2-74ef9df924f9.jpg?v=1739253231"
-  ],
-  "buyUrl": "https://www.drsheths.com/products/kesar-kojic-acid-neck-knee-elbow-cream-50g",
-  "buyStore": "Brand store",
-  "title": "Dr. Sheth's Kesar & Kojic Acid Neck, Knee & Elbow Cream - 50 gm",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "ing:kojic-acid",
-   "ing:saffron",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "target:acne",
-   "target:dark-spots",
-   "target:irritation",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.drsheths.com/products/kesar-kojic-acid-neck-knee-elbow-cream-50g",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Kesar & Kojic Acid Neck, Knee & Elbow Cream - 50 gm",
-   "inciMatchScore": 1,
-   "inciText": "Purified Water, Caprylic Capric Triglyceride, Glycolic Acid, Lactic Acid, Glycerin, Niacinamide, Glyceryl Monostearate, Kojic Acid Dipalmitate,Propanediol, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Hydroxyethyl Urea, Centella Asiatica Extract, Crocus Sativus (Saffron) Flower Extract, Butyrospermum Parkii (Shea Butter), Panthenol, Theobroma Cacao Seed Butter, Tocopheryl Acetate, Sodium Hyaluronate, Prunus Amygdalus Dulcis (Almond) Oil, Helianthus Annuus (Sunflower) Seed Oil, Polyacrylate Crosspolymer-6, Sodium Hydroxide, Phenoxyethanol, Sodium Benzoate, Xanthan Gum, Carbomer, Ethylhexylglycerin, Potassium Sorbate, Sodium Gluconate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "glycolic acid",
-     "grade": "A",
-     "position": 3,
-     "core": true,
-     "trace": false,
-     "src": "aha"
-    },
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 4,
-     "core": true,
-     "trace": false,
-     "src": "aha"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 6,
-     "core": true,
-     "trace": false,
-     "src": "niacinamide"
-    },
-    {
-     "name": "kojic dipalmitate",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "trace": false,
-     "src": "pigment"
-    },
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 10,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "centella asiatica extract",
-     "grade": "B",
-     "position": 14,
-     "core": false,
-     "trace": false,
-     "src": "centella"
-    },
-    {
-     "name": "crocus sativus flower extract",
-     "grade": "C",
-     "position": 15,
-     "core": false,
-     "trace": false,
-     "src": "pigment"
-    },
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "B",
-     "position": 16,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 17,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "theobroma cacao seed butter",
-     "grade": "C",
-     "position": 18,
-     "core": true,
-     "trace": false,
-     "src": "striae"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 19,
-     "core": true,
-     "trace": false,
-     "src": "vitc"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 20,
-     "core": false,
-     "trace": false,
-     "src": "ha"
-    },
-    {
-     "name": "prunus amygdalus dulcis oil",
-     "grade": "B",
-     "position": 21,
-     "core": true,
-     "trace": false,
-     "src": "squalane"
-    },
-    {
-     "name": "helianthus annuus seed oil",
-     "grade": "B",
-     "position": 22,
-     "core": true,
-     "trace": false,
-     "src": "squalane"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "niacinamide",
-    "propanediol",
-    "dimethicone",
-    "butyrospermum parkii butter",
-    "panthenol",
-    "sodium hyaluronate"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Honasa Consumer (listed)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://honasa.in/brands"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "dr-sheth-s-bs-kdmso7",
   "brand": "Dr. Sheth's",
   "model": "Tea Tree & Lactic Acid Body Lotion - 300ml",
@@ -3974,7 +3751,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -4141,7 +3918,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -4310,7 +4087,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -4475,7 +4252,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Dewrav_Brightening_Body_Lotion_d6b6c211-56bc-4334-b3a0-4ad370e6ba15.webp?v=1770033982"
@@ -4574,7 +4351,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Dewrav_Deep_Hydration_Body_Lotion.webp?v=1770034141"
@@ -4673,7 +4450,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Dewrav_deep_exfoliating_body_lotion.webp?v=1767344796"
@@ -4772,7 +4549,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Dewrav_body_lotion_1.webp?v=1769679858"
@@ -4873,7 +4650,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Care (brand site's own product type)"
   },
   "images": [
@@ -4972,7 +4749,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Care (brand site's own product type)"
   },
   "images": [
@@ -5072,7 +4849,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -5172,7 +4949,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -5271,7 +5048,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Fidelia_Nourishing_Body_Lotion_100_ml.webp?v=1758110072"
@@ -5370,7 +5147,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Fidelia_Hydrating_Body_Lotion.webp?v=1758027044"
@@ -5469,7 +5246,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Fidelia_Daily_Moisture_Body_Lotion_100ml.webp?v=1758109188"
@@ -5571,7 +5348,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -5790,7 +5567,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -5996,7 +5773,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: citronellol, alpha isomethyl ionone, benzyl salicylate, benzyl benzoate, citral, coumarin (−2)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -6206,7 +5983,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -6417,7 +6194,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/AquaPlungeDeepMoistureBodyLotion10ml.jpg?v=1758735289"
@@ -6513,7 +6290,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Aloe-_-Argan-Oil-Body-Lotion_1600x1600_A_f409df7c-fc7e-4078-a453-556410d200a3.jpg?v=1762517331"
@@ -6610,7 +6387,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/A_2_efc4dbcf-2730-4663-b614-ab2747140098.jpg?v=1760355432"
@@ -6707,7 +6484,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Cocoa-_-Murumuru-Body-Lotion_1600x1600_A_c78149f0-b4ad-421e-bb4b-a29701ff4f85.jpg?v=1762517373"
@@ -6803,7 +6580,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Catalog_Cardr_Body_Cream_-19.jpg?v=1750146259"
@@ -6900,7 +6677,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/1600x1600-A_4.jpg?v=1750146042"
@@ -6998,7 +6775,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Catalog_Cardr_Body_Cream_-07.jpg?v=1750145915"
@@ -7096,7 +6873,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/Catalog_Cardr_Body_Cream_-01.jpg?v=1750145812"
@@ -7198,7 +6975,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -7411,7 +7188,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -7598,7 +7375,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -7812,7 +7589,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -8026,7 +7803,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -8206,7 +7983,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eop #28 on INCI, ceramide ns #29 on INCI, ceramide np #31 on INCI, ceramide ap #33 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -8446,7 +8223,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -8658,7 +8435,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #1 on INCI, aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -8827,7 +8604,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -8986,7 +8763,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -9201,7 +8978,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -9407,7 +9184,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -9594,7 +9371,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -9809,7 +9586,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -10014,7 +9791,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -10227,7 +10004,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -10441,7 +10218,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -10627,7 +10404,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -10778,7 +10555,7 @@ const BSPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -10936,7 +10713,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: lavandula angustifolia oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -11124,7 +10901,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -11227,7 +11004,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — ethyl ascorbic acid #3 on INCI, niacinamide #4 on INCI; Aging — ethyl ascorbic acid #3 on INCI (matching only — not proof it works)",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_809f5460-cd99-42d2-bd0f-21b23c2f3e0d.jpg?v=1706701917"
@@ -11405,7 +11182,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_309e6dba-4550-416c-b1bb-b75fadbd6636.jpg?v=1706700971"
@@ -11557,7 +11334,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_9.png?v=1787295527"
@@ -11716,7 +11493,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Namyaa official web store (namyaa.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/2611/0314/files/body-butter_cc24a6af-cb9c-41fb-afb5-7841082d0fa1.jpg?v=1705917780"
@@ -11889,7 +11666,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Care (brand site's own product type)"
   },
   "images": [
@@ -12142,7 +11919,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Care (brand site's own product type)"
   },
   "images": [
@@ -12390,7 +12167,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "free_gift1_mini (brand site's own product type)"
   },
   "images": [
@@ -12487,7 +12264,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "free_gift4_full_size (brand site's own product type)"
   },
   "images": [
@@ -12549,16 +12326,18 @@ const BSPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); helianthus annuus seed oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.6,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -12576,14 +12355,16 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+   "inciMatchedName": "Hazelnut Eclair Body Lotion by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); helianthus annuus seed oil (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#13 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -12598,7 +12379,8 @@ const BSPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -12606,27 +12388,90 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hazelnut Eclair Body Lotion by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Polysorbate 60, Fragrance, Theobroma Cacao (Cocoa) Seed Butter, Polyacrylate-13, Polyisobutene, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Xanthan Gum, Carbomer, Disodium EDTA, Panthenol, Polysorbate 20, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -12683,7 +12528,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -12856,7 +12701,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13056,7 +12901,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -13222,7 +13067,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13386,7 +13231,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13558,7 +13403,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13715,7 +13560,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -13895,7 +13740,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -14060,7 +13905,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -14216,7 +14061,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -14388,7 +14233,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -14544,7 +14389,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -14700,7 +14545,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -14874,7 +14719,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: benzyl benzoate, linalool, limonene (−1.5)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -15063,7 +14908,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #13 on INCI, ceramide np #14 on INCI (matching only — not proof it works)",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -15259,7 +15104,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Dark Patches Corrector (brand site's own product type)"
   },
   "images": [
@@ -15365,7 +15210,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — niacinamide #16 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -15540,7 +15385,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — niacinamide #16 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -15709,7 +15554,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "WILD OAK official web store (wildoak.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -15806,7 +15651,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/8739aae9-e803-40a5-a164-70302bb1de2c.png"
@@ -15905,7 +15750,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/1a9d7c2b-1055-4127-ade7-773b54fc6fb1.png"
@@ -16003,7 +15848,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/b7030dba-709a-40ea-b30e-33884f8e8dbd.jpeg"
@@ -16100,7 +15945,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/f489b7d2-e01a-4bd2-b0c9-059218143a21.png"
@@ -16200,7 +16045,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/7375a882-f204-4af5-844b-f53d1a54678b.jpeg"
@@ -16298,7 +16143,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/b2c6319b-9d48-42f1-83ed-80fde75e7a25.png"
@@ -16396,7 +16241,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/bdbf5e36-b8c3-43c8-96d1-227c35de2f78.jpeg"
@@ -16494,7 +16339,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/5191accc-bc2f-4937-8f69-ccd5ba768904.jpeg"
@@ -16595,7 +16440,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI, sodium ascorbyl phosphate #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -16732,7 +16577,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Free (brand site's own product type)"
   },
   "images": [
@@ -16836,7 +16681,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eos #17 on INCI, ceramide ns #18 on INCI, ceramide np #19 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "bodycare (brand site's own product type)"
   },
   "images": [
@@ -17023,7 +16868,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI, sodium ascorbyl phosphate #13 on INCI (matching only — not proof it works)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "bodycare (brand site's own product type)"
   },
   "images": [
@@ -17120,6 +16965,172 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "jovees-bs-ifhk0l",
+  "brand": "Jovees",
+  "model": "Shea Body Butter for Dry & Rough Skin",
+  "price": 396,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Jovees official website (www.jovees.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence); prunus amygdalus dulcis oil high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7.7,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Jovees official website (www.jovees.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.jovees.com/products/shea-body-butter-for-dry-rough-skin-deep-nourishment-non-sticky-200gm",
+   "inciMatchedName": "Shea Body Butter for Dry & Rough Skin (name match 100%)",
+   "inciList": "Shea butter, Mango butter, Olive oil, Almond oil, Coconut oil, Wheat germ oil, Jojoba oil, Vitamin E, Bee wax, Sorbitan Oleate, Cetyl Palmitate, Cetearyl Olivate, Glycerin, Sodium Stearoyl glutamate, Phenoxyethanol & Ethyl hexyl glyerin, Perfume, Sodium Gluconate, Purified Water",
+   "evidenceActives": "shea butter (#1 on list, moderate evidence); prunus amygdalus dulcis oil (#4 on list, moderate evidence); cocos nucifera oil (#5 on list, limited evidence); simmondsia chinensis seed oil (#7 on list, moderate evidence); tocopherol (#8 on list, moderate evidence); glycerin (#13 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Face Cream (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0579/8694/1012/files/Shea_Body_Butter_200g_6.jpg?v=1764238509"
+  ],
+  "buyUrl": "https://www.jovees.com/products/shea-body-butter-for-dry-rough-skin-deep-nourishment-non-sticky-200gm",
+  "buyStore": "Brand store",
+  "title": "Jovees Shea Body Butter for Dry & Rough Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:balm",
+   "ing:shea-butter",
+   "skin:dry",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Jovees official website (www.jovees.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.jovees.com/products/shea-body-butter-for-dry-rough-skin-deep-nourishment-non-sticky-200gm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Shea Body Butter for Dry & Rough Skin",
+   "inciMatchScore": 1,
+   "inciText": "Shea butter, Mango butter, Olive oil, Almond oil, Coconut oil, Wheat germ oil, Jojoba oil, Vitamin E, Bee wax, Sorbitan Oleate, Cetyl Palmitate, Cetearyl Olivate, Glycerin, Sodium Stearoyl glutamate, Phenoxyethanol & Ethyl hexyl glyerin, Perfume, Sodium Gluconate, Purified Water",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Jovees Herbal Care India",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.jovees.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "jovees-bs-149d6ut",
   "brand": "Jovees",
   "model": "Kokum Body Butter for Dry & Rough Skin",
@@ -17165,7 +17176,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jovees (brand site's own product type)"
   },
   "images": [
@@ -17328,7 +17339,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Guard Lotion (brand site's own product type)"
   },
   "images": [
@@ -17459,7 +17470,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jovees (brand site's own product type)"
   },
   "images": [
@@ -17600,7 +17611,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Guard Lotion (brand site's own product type)"
   },
   "images": [
@@ -17752,7 +17763,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_hc-hand-_-body-lotion_200ml.png?store=default&image-type=small_image"
@@ -17848,7 +17859,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_kokum-almond-hand-_-body-lotion_200ml.png?store=default&image-type=small_image"
@@ -17945,7 +17956,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_kokum-almond-body-butter_200ml_1_.png?store=default&image-type=small_image"
@@ -18042,7 +18053,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_l_p-hand-and-body-lotion_200ml.png?store=default&image-type=small_image"
@@ -18139,7 +18150,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_l_p-hand-and-body-cleanser_200ml.png?store=default&image-type=small_image"
@@ -18236,7 +18247,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_rose-_-jasmine-body-lotion_50ml_1.png?store=default&image-type=small_image"
@@ -18333,7 +18344,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_rose-_-jasmine-hand-and-body-cleanser_50ml_1.png?store=default&image-type=small_image"
@@ -18431,7 +18442,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_hc-hand-_-body-cleanser_200ml.png?store=default&image-type=small_image"
@@ -18527,7 +18538,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -18625,7 +18636,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Skin care, Skin care/Creams & Bodybutter (brand site's own product type)"
   },
   "images": [
@@ -18728,7 +18739,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0742/5160/0188/files/Card1_1.png?v=1785162569"
@@ -18896,7 +18907,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, ascorbyl tetraisopalmitate #8 on INCI; Aging — ascorbyl tetraisopalmitate #8 on INCI (matching only — not proof it works)",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell Flash (brand site's own product type)"
   },
   "images": [
@@ -19062,7 +19073,7 @@ const BSPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body (brand site's own product type)"
   },
   "images": [

@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -46,7 +46,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -153,7 +153,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, azelaic acid #15 on INCI; Dark spots — product type, kojic dipalmitate #4 on INCI, azelaic acid #15 on INCI, tranexamic acid #16 on INCI, arbutin #18 on INCI, glycyrrhiza glabra root extract #22 on INCI; Irritation — product type, azelaic acid #15 on INCI, ceramide eos #26 on INCI, ceramide ns #27 on INCI, ceramide np #28 on INCI, ceramide ap #30 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Gel (brand site's own product type)"
   },
   "images": [
@@ -369,7 +369,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, salicylic acid #4 on INCI, azelaic acid #6 on INCI; Dark spots — product type, azelaic acid #6 on INCI; Irritation — product type, aloe barbadensis leaf extract #2 on INCI, azelaic acid #6 on INCI (matching only — not proof it works)",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -483,16 +483,18 @@ const BSPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Salicylic acid (BHA) + Azelaic acid",
   "featureLine": "Serum · ₹2163/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -510,15 +512,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/acne-defence-daily-serum",
+   "inciMatchedName": "Anti Acne Face Serum with 10% Azelaic Acid & 2% Salicylic Acid - 30 ml (name match 100%)",
+   "inciList": "Aqua (water), Propanediol, Azelaic Acid, Centella Asiatica (Cica) Extract, Triethanolamine, Niacinamide, 1,2-Hexanediol, Pentylene Glycol, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Sodium Gluconate, Xanthan Gum, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "azelaic acid (#3 on list, strong evidence); niacinamide (#6 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — product type, azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -540,7 +544,9 @@ const BSPRODUCTS = [
    "target:acne",
    "target:dark-spots",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -548,25 +554,61 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/acne-defence-daily-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti Acne Face Serum with 10% Azelaic Acid & 2% Salicylic Acid - 30 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (water), Propanediol, Azelaic Acid, Centella Asiatica (Cica) Extract, Triethanolamine, Niacinamide, 1,2-Hexanediol, Pentylene Glycol, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Sodium Gluconate, Xanthan Gum, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -626,7 +668,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type, azelaic acid #2 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI, glycyrrhiza glabra root extract #11 on INCI; Aging — adenosine #10 on INCI; Irritation — product type, azelaic acid #2 on INCI, bisabolol #14 on INCI (matching only — not proof it works)",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0709/4118/0185/files/10_-azelaic-acid-booster-5ml.jpg?v=1786438489"

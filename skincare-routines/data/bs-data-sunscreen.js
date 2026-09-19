@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -44,7 +44,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -146,7 +146,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -249,7 +249,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -352,7 +352,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -452,7 +452,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -551,7 +551,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -655,7 +655,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -755,7 +755,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -857,7 +857,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -957,7 +957,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -1058,7 +1058,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -1157,7 +1157,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1258,7 +1258,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -1362,7 +1362,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -1463,7 +1463,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1567,7 +1567,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1674,7 +1674,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -1856,7 +1856,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -2035,7 +2035,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -2140,7 +2140,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -2243,7 +2243,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -2350,7 +2350,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -2371,6 +2371,113 @@ const BSPRODUCTS = [
    "claim:spf-claim",
    "aud:unisex",
    "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aqualogica-bs-1rzxd3e",
+  "brand": "Aqualogica",
+  "model": "Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex™ & Wild Berries - …",
+  "price": 876,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "Hyaluronic acid + Kojic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹584/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹584/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid, Kojic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Kit (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/FOP_19.jpg?v=1753093917"
+  ],
+  "buyUrl": "https://aqualogica.in/products/detan-dewy-sunscreen-50-g-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Aqualogica Detan+ Dewy Gel Sunscreen SPF 50+ PA++++ with 2% Kojic-Hyaluron Complex™ & Wild Berries - 50 g(Pack of 3)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:hyaluronic-acid",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
    "rating:none",
    "store:brand-store",
    "inci:none"
@@ -2456,7 +2563,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -2562,7 +2669,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -2583,6 +2690,112 @@ const BSPRODUCTS = [
    "claim:spf-claim",
    "aud:unisex",
    "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aqualogica-bs-1xxfgoq",
+  "brand": "Aqualogica",
+  "model": "Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++…",
+  "price": 876,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "Niacinamide + Watermelon",
+  "featureLine": "Sunscreen · SPF 50 · ₹584/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹584/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Watermelon (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Kit (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/FOP_33.jpg?v=1759999604"
+  ],
+  "buyUrl": "https://aqualogica.in/products/radiance-dewy-sunscreen-50g-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Aqualogica Radiance+ Dewy Sunscreen In-Vivo Tested with Watermelon & Niacinamide with SPF 50 & PA++++ - 50g(Pack of 3)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:watermelon",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
    "rating:none",
    "store:brand-store",
    "inci:none"
@@ -2668,7 +2881,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -2774,7 +2987,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -2881,7 +3094,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -2987,7 +3200,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combos (brand site's own product type)"
   },
   "images": [
@@ -3009,6 +3222,113 @@ const BSPRODUCTS = [
    "claim:spf-claim",
    "aud:unisex",
    "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aqualogica-bs-1t2kgq8",
+  "brand": "Aqualogica",
+  "model": "Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 50g (Pack…",
+  "price": 875,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "Vitamin C + Papaya",
+  "featureLine": "Sunscreen · SPF 50 · ₹583/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹583/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Papaya (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Kit (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0670/3287/5233/files/FOP_3_72734354-c0fd-4953-996a-c21ab94eb4f8.jpg?v=1773221224"
+  ],
+  "buyUrl": "https://aqualogica.in/products/glow-dewy-sunscreen-50g-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Aqualogica Glow+ Dewy Gel Sunscreen In-Vivo Tested SPF 50+ PA++++ with Papaya & Vitamin C - 50g (Pack of 3)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:papaya",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
    "rating:none",
    "store:brand-store",
    "inci:none"
@@ -3094,7 +3414,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -3203,7 +3523,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -3377,7 +3697,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -3482,7 +3802,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -3585,7 +3905,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Aqualogica official web store (aqualogica.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -3649,17 +3969,17 @@ const BSPRODUCTS = [
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · ₹798/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: menthol",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 1.6,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -3677,15 +3997,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-uv-defence-sunscreen-gel-50-ml-pack-of-2",
+   "inciMatchedName": "UV-Defence Sunscreen Gel - 50 ml - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Gel (brand site's own product type)"
   },
   "images": [
@@ -3703,7 +4025,8 @@ const BSPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -3711,27 +4034,109 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-uv-defence-sunscreen-gel-50-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "UV-Defence Sunscreen Gel - 50 ml - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Mineral Oil, Pentylene Glycol, Cocos Nucifera Oil, Terminalia Chebula Extract, Phenoxyethanol, Amodimethicone, Dimethicone, Polyglyceryl-4 Oleate, Polyacrylate Crosspolymer-6, Alpha-Glucan Hydroxypropyltrimonium Chloride, Propylene Glycol, Polyglyceryl-6 Oleate, Polyhydroxystearic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Perfume, Polyester-11, Polyquaternium-10, Sodium Hyaluronate, Tocopheryl Acetate, 3-O-Ethyl Ascorbic Acid, Ferulic Acid, Sodium Gluconate, Ethylhexylglycerin, Menthol, Sodium Hydroxide, Potassium Sorbate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -3788,7 +4193,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Gel (brand site's own product type)"
   },
   "images": [
@@ -3974,7 +4379,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Arata official web store (arata.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Gel (brand site's own product type)"
   },
   "images": [
@@ -4162,7 +4567,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -4373,7 +4778,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -4543,17 +4948,19 @@ const BSPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Niacinamide",
   "featureLine": "Sunscreen · SPF 50 · ₹178/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sunscoop official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "octocrylene high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.9,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -4572,15 +4979,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/5-niacinamide-sunscreen-body-lotion-spf-50-pa-in-vitro-tested-200ml-pack-of-2",
+   "inciMatchedName": "5% Niacinamide Sunscreen Body Lotion| SPF 50+ PA++++ - 200 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Octocrylene, Niacinamide, Octyl Salicylate, Butyl Methoxydibenzoylmethane, Trehalose, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Peg-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Decyl Glucoside, Avena sativa (Oat) Kernel Extract, Oryza Sativa (Rice) Bran Water, Aloe Barbadensis (Aloe Vera) Extract, Sodium Polyacrylate, Lauryl Glucoside, Propylene Glycol, Xanthan Gum, Propanendiol, Phenoxyethanol, Dimethicone,1,2-Hexanediol, Hexyldecanol, Hydroxypropylcyclodextrin, Ceramide NP, Ceramide AS, Ceramide EOP, Ceramide NS, Ceramide NG, Fragrance, Disodium EDTA",
+   "evidenceActives": "octocrylene (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); ethylhexyl salicylate (#4 on list, strong evidence); butyl methoxydibenzoylmethane (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -4602,7 +5012,11 @@ const BSPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -4610,27 +5024,125 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/5-niacinamide-sunscreen-body-lotion-spf-50-pa-in-vitro-tested-200ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Niacinamide Sunscreen Body Lotion| SPF 50+ PA++++ - 200 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Octocrylene, Niacinamide, Octyl Salicylate, Butyl Methoxydibenzoylmethane, Trehalose, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Peg-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Decyl Glucoside, Avena sativa (Oat) Kernel Extract, Oryza Sativa (Rice) Bran Water, Aloe Barbadensis (Aloe Vera) Extract, Sodium Polyacrylate, Lauryl Glucoside, Propylene Glycol, Xanthan Gum, Propanendiol, Phenoxyethanol, Dimethicone,1,2-Hexanediol, Hexyldecanol, Hydroxypropylcyclodextrin, Ceramide NP, Ceramide AS, Ceramide EOP, Ceramide NS, Ceramide NG, Fragrance, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "dimethicone",
+    "ceramide np",
+    "ceramide eop",
+    "ceramide ns"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -4649,17 +5161,19 @@ const BSPRODUCTS = [
   "capacityLine": "90 ml (pack of 2)",
   "materialLine": "Niacinamide",
   "featureLine": "Sunscreen · SPF 50 · ₹648/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sunscoop official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -4678,15 +5192,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/niacinamide-featherlight-fluid-sunscreen-pack-of-2",
+   "inciMatchedName": "3% Niacinamide Featherlight Fluid Sunscreen| SPF 50+ PA++++ - 45 ml | Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Caprylyl Methicone, Dibutyl Adipate, Niacinamide, Propanediol, Octyl Methoxycinnamate, PEG-12 Dimethicone/PPG-20 Crosspolymer, Avobenzone, 1,3 Butylene glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sargassum Fluitans/Natans Extract, Polysorbate 20, Phenoxyethanol, Allantoin, Menthone Glycerin Acetal, Diethylhexyl Butamido Triazone, Pentylene Glycol, Xanthan Gum, Phospholipids, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Leaf Extract, Centella Asiatica Extract, Sodium Polyacrylate, Ethylhexyl Glycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tocopheryl Acetate, VP/Acrylates/Lauryl Methacrylate Copolymer",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); ethylhexyl methoxycinnamate (#6 on list, strong evidence); avobenzone (#8 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#10 on list, strong evidence); diethylhexyl butamido triazone (#16 on list, strong evidence); aloe barbadensis leaf extract (#21 on list, moderate evidence); centella asiatica extract (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -4709,7 +5226,11 @@ const BSPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -4717,25 +5238,102 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/niacinamide-featherlight-fluid-sunscreen-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "3% Niacinamide Featherlight Fluid Sunscreen| SPF 50+ PA++++ - 45 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Caprylyl Methicone, Dibutyl Adipate, Niacinamide, Propanediol, Octyl Methoxycinnamate, PEG-12 Dimethicone/PPG-20 Crosspolymer, Avobenzone, 1,3 Butylene glycol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sargassum Fluitans/Natans Extract, Polysorbate 20, Phenoxyethanol, Allantoin, Menthone Glycerin Acetal, Diethylhexyl Butamido Triazone, Pentylene Glycol, Xanthan Gum, Phospholipids, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Leaf Extract, Centella Asiatica Extract, Sodium Polyacrylate, Ethylhexyl Glycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Tocopheryl Acetate, VP/Acrylates/Lauryl Methacrylate Copolymer",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "avobenzone",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -4756,17 +5354,19 @@ const BSPRODUCTS = [
   "capacityLine": "250 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 60 · ₹259/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sunscoop official website (bareanatomy.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl salicylate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: menthol, citrus aurantium dulcis peel oil",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -4785,15 +5385,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://innovist.com/products/hydrating-fluid-sunscreen-for-face-and-body-spf-60-pa-125-ml-pack-of-2",
+   "inciMatchedName": "Hydrating Fluid Sunscreen for Face & Body | SPF 60 PA++++| In-Vivo Tested - 125 ml | Pack of 2 (name match 100%)",
+   "inciList": "Purified Water, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Octocrylene, Glycerine, Betaine, Coco-Caprylate, Zinc Oxide, Stearic Acid, Phenoxyethanol, Cetyl Alcohol, Glyceryl Monostearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propylene Glycol, Menthol, Methyl Di isopropyl Propionamide, Ethyl Methane Carboxamide, Menthyl Lactate, Hydroxypropyl Cellulose, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita Flower Extract, Avena Sativa Kernel Milk Extract, Caesalpinia Spinosa Fruit Extract, Helianthus Annuus Sprout Extract, Citrus Aurantium Dulcis Peel Oil, Rosmarinus Officinalis Leaf Oil, Propylene Glycol, Sodium Benzoate, Disodium EDTA, Sodium Hydroxide",
+   "evidenceActives": "ethylhexyl salicylate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); zinc oxide (#8 on list, strong evidence); aloe barbadensis leaf extract (#21 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: menthol, citrus aurantium dulcis peel oil, rosmarinus officinalis leaf oil (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen Spray (brand site's own product type)"
   },
   "images": [
@@ -4816,7 +5418,8 @@ const BSPRODUCTS = [
    "size:large",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -4824,27 +5427,98 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sunscoop official website (bareanatomy.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://innovist.com/products/hydrating-fluid-sunscreen-for-face-and-body-spf-60-pa-125-ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydrating Fluid Sunscreen for Face & Body | SPF 60 PA++++| In-Vivo Tested - 125 ml | Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Octocrylene, Glycerine, Betaine, Coco-Caprylate, Zinc Oxide, Stearic Acid, Phenoxyethanol, Cetyl Alcohol, Glyceryl Monostearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propylene Glycol, Menthol, Methyl Di isopropyl Propionamide, Ethyl Methane Carboxamide, Menthyl Lactate, Hydroxypropyl Cellulose, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita Flower Extract, Avena Sativa Kernel Milk Extract, Caesalpinia Spinosa Fruit Extract, Helianthus Annuus Sprout Extract, Citrus Aurantium Dulcis Peel Oil, Rosmarinus Officinalis Leaf Oil, Propylene Glycol, Sodium Benzoate, Disodium EDTA, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "menthol",
+      "citrus aurantium dulcis peel oil",
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -4904,7 +5578,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -5115,7 +5789,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — avena sativa kernel extract #12 on INCI, ceramide eop #18 on INCI, ceramide ns #19 on INCI, ceramide np #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Chemist at Play official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -5324,7 +5998,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -5516,7 +6190,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — avena sativa kernel extract #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -5728,7 +6402,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — avena sativa kernel extract #18 on INCI, bisabolol #20 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Kid's Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -5875,7 +6549,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Sunscoop official web store (bareanatomy.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen Spray (brand site's own product type)"
   },
   "images": [
@@ -6052,7 +6726,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/sunscreen-gel-spf-50/Product_Hero%20%282%29_6fyjlu.jpg?tr=w-600"
@@ -6152,7 +6826,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/sunscreen-stick-spf-50-with-pa-protection/3792---6_fjyh66.jpg?tr=w-600"
@@ -6254,7 +6928,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/kojic-acid-sunscreen-lotion-spf50/8__3__Mjn8Xu322.jpg?tr=w-800"
@@ -6355,7 +7029,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/media/misc/pdp_rcl/kojic-acid-sunscreen-lotion-spf30/8__4__vG0hpu_H9.jpg?tr=w-600"
@@ -6457,7 +7131,7 @@ const BSPRODUCTS = [
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Be Bodywise official web store (bebodywise.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://i.mscwlns.co/mosaic-wellness/image/upload/v1639096997/staging/products/Sunscreen/0_BLUE/CAROUSEL/0.png?tr=w-800"
@@ -6560,7 +7234,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -6717,7 +7391,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0054/6665/2718/files/1-a_f8d3fab7-2173-45b2-964b-8aa65a6a64b4.jpg?v=1776064108"
@@ -6898,7 +7572,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -7057,7 +7731,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -7216,7 +7890,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -7444,7 +8118,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -7661,7 +8335,7 @@ const BSPRODUCTS = [
    "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturizer (brand site's own product type)"
   },
   "images": [
@@ -7824,7 +8498,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Campaign Product (brand site's own product type)"
   },
   "images": [
@@ -8042,7 +8716,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -8212,6 +8886,221 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "bellavita-bs-1oog02w",
+  "brand": "BELLAVITA",
+  "model": "Mini Travel-Ready Hydrating Sunscreen - 10ml | Pack of 5",
+  "price": 209,
+  "capacityLine": "50 ml (pack of 5)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · ₹418/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "10 ml × 5 pack",
+   "pricePer100": "₹418/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/mini-travel-ready-hydrating-sunscreen-10ml-pack-of-5",
+   "inciMatchedName": "Mini Travel-Ready Hydrating Sunscreen - 10ml | Pack of 5 (name match 100%)",
+   "inciList": "Purified Water, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Sodium Hyaluronate,1,3, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Niacinamide, Benzophenone-3, Phospholipids, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Glycerin, Allantoin, Citric Acid, Sodium Gluconate, Sodium Hydroxide, Tocopheryl Acetate (Vitamin E), Fragrance, Glucose, Sodium Lactate, Trehalose, Fructose, Maltose, Sodium Chloride, Sodium Pyrrolidone Carboxylic Acid, Urea, Aloe Barbadensis (Aloe Vera) Extract",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); niacinamide (#7 on list, strong evidence); benzophenone-3 (#8 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0054/6665/2718/files/1_12_2964320b-1c76-4e2b-b748-892a2a46fc50.jpg?v=1742555563"
+  ],
+  "buyUrl": "https://bellavitaorganic.com/products/mini-travel-ready-hydrating-sunscreen-10ml-pack-of-5",
+  "buyStore": "Brand store",
+  "title": "BELLAVITA Mini Travel-Ready Hydrating Sunscreen - 10ml | Pack of 5",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "BELLAVITA official website (bellavitaorganic.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/mini-travel-ready-hydrating-sunscreen-10ml-pack-of-5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mini Travel-Ready Hydrating Sunscreen - 10ml | Pack of 5",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Sodium Hyaluronate,1,3, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Niacinamide, Benzophenone-3, Phospholipids, Phenoxyethanol, Ethylhexylglycerin, Pentylene Glycol, Glycerin, Allantoin, Citric Acid, Sodium Gluconate, Sodium Hydroxide, Tocopheryl Acetate (Vitamin E), Fragrance, Glucose, Sodium Lactate, Trehalose, Fructose, Maltose, Sodium Chloride, Sodium Pyrrolidone Carboxylic Acid, Urea, Aloe Barbadensis (Aloe Vera) Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "butylene glycol",
+    "niacinamide",
+    "glycerin",
+    "urea"
+   ],
+   "formulaNotes": [
+    "Avobenzone-type UVA filter without a photostabiliser"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Bella Vita Organic",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://bellavitaorganic.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "bellavita-bs-1ozzccf",
   "brand": "BELLAVITA",
   "model": "Sunscreen for Oily Skin",
@@ -8259,7 +9148,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -8473,7 +9362,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -8674,7 +9563,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Cred (brand site's own product type)"
   },
   "images": [
@@ -8890,7 +9779,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "BELLAVITA official web store (bellavitaorganic.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -9106,7 +9995,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -9249,7 +10138,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bath & Body (brand site's own product type)"
   },
   "images": [
@@ -9417,7 +10306,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -9584,7 +10473,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -9772,7 +10661,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI; Irritation — ceramide np #9 on INCI, ceramide ap #20 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10007,7 +10896,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #17 on INCI; Aging — ethyl ascorbic acid #17 on INCI; Irritation — ceramide np #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10164,16 +11053,18 @@ const BSPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.6,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -10192,15 +11083,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast",
+   "inciMatchedName": "100% Mineral Sunscreen SPF 50 PA++++ | Matte Finish (name match 100%)",
+   "inciList": "Aqua (Water), Zinc Oxide and Coco-Caprylate/Caprate, Olive Squalane, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Polyglyceryl-4 Isostearate and Cetyl PEG/PPG-10/1 Dimethicone and Hexyl Laurate, Glycerin, VP/Wicosene Copolymer, Polyaquol V4, Titanium dioxide, Hydrogenated Polyisobutene, Niacinamide, Ceramide NP and Ceramide AP and Ceramide EOP and Phytosphingosine and Cholesterol, Betaine, Bisabolol, Resveratrol, Allantoin, Sodium Hyaluronate, 1,2-Hexanediol, Phenoxyethanol and Ethylhexylglycerin, Tasmannia Lanceolata Fruit/Leaf Extract (Tazman Pepper), Laminaria Digitata Extract, Carnauba Wax, Trimethylsiloxysilicate, Centella Asiatica Leaf Vesicles and Pentylene Glycol",
+   "evidenceActives": "zinc oxide (#2 on list, strong evidence); titanium dioxide (#12 on list, strong evidence); niacinamide (#14 on list, strong evidence); bisabolol (#21 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI; Irritation — ceramide np #15 on INCI, ceramide ap #16 on INCI, ceramide eop #17 on INCI, bisabolol #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10220,7 +11114,12 @@ const BSPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -10228,25 +11127,130 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/100-percent-mineral-sunscreen-spf-50-pa-matte-finish-zero-white-cast",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "100% Mineral Sunscreen SPF 50 PA++++ | Matte Finish",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Zinc Oxide and Coco-Caprylate/Caprate, Olive Squalane, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Polyglyceryl-4 Isostearate and Cetyl PEG/PPG-10/1 Dimethicone and Hexyl Laurate, Glycerin, VP/Wicosene Copolymer, Polyaquol V4, Titanium dioxide, Hydrogenated Polyisobutene, Niacinamide, Ceramide NP and Ceramide AP and Ceramide EOP and Phytosphingosine and Cholesterol, Betaine, Bisabolol, Resveratrol, Allantoin, Sodium Hyaluronate, 1,2-Hexanediol, Phenoxyethanol and Ethylhexylglycerin, Tasmannia Lanceolata Fruit/Leaf Extract (Tazman Pepper), Laminaria Digitata Extract, Carnauba Wax, Trimethylsiloxysilicate, Centella Asiatica Leaf Vesicles and Pentylene Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -10307,7 +11311,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #17 on INCI, ceramide eop #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10516,7 +11520,7 @@ const BSPRODUCTS = [
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10667,16 +11671,18 @@ const BSPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "titanium dioxide high on the INCI list (strong evidence); zinc oxide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -10695,15 +11701,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-sunscreen-water-resistant",
+   "inciMatchedName": "Berry Bright Sunscreen | SPF50 PA ++++ (name match 100%)",
+   "inciList": "Aqua, Titanium Dioxide, Zinc Oxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene Glycol, Lecithin, Ceramide NP, Phospholipids, Aluminum Hydroxide, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Alpha Lipoic Acid, Sodium Polyacrylate, Xylitol, Hectorite (and) Hydroxyethylcellulose, Niacinamide, Ceramide AP, Ceramide EOP, Cholesterol, Sodium Lauroyl Lactylate, Caprylic Acid, Glyceryl Stearate, Sodium Hyaluronate, Phytosphingosine, Milk Thistle Extract, D-alpha Tocopherol Acetate, Olive Squalane, Sorbitol, Resveratrol, Black Berry Extract, Sodium Levulinate And Potassium Sorbate, Fragrance",
+   "evidenceActives": "titanium dioxide (#2 on list, strong evidence); zinc oxide (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); butyl methoxydibenzoylmethane (#5 on list, strong evidence); octocrylene (#6 on list, strong evidence); niacinamide (#19 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI; Irritation — ceramide np #9 on INCI, ceramide ap #20 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -10721,7 +11730,11 @@ const BSPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -10729,27 +11742,150 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-sunscreen-water-resistant",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Berry Bright Sunscreen | SPF50 PA ++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Titanium Dioxide, Zinc Oxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene Glycol, Lecithin, Ceramide NP, Phospholipids, Aluminum Hydroxide, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Alpha Lipoic Acid, Sodium Polyacrylate, Xylitol, Hectorite (and) Hydroxyethylcellulose, Niacinamide, Ceramide AP, Ceramide EOP, Cholesterol, Sodium Lauroyl Lactylate, Caprylic Acid, Glyceryl Stearate, Sodium Hyaluronate, Phytosphingosine, Milk Thistle Extract, D-alpha Tocopherol Acetate, Olive Squalane, Sorbitol, Resveratrol, Black Berry Extract, Sodium Levulinate And Potassium Sorbate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "ceramide np",
+    "niacinamide",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Conscious Chemist",
     "kind": "d2c",
@@ -10809,7 +11945,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #17 on INCI; Aging — ethyl ascorbic acid #17 on INCI; Irritation — ceramide np #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -11006,7 +12142,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #17 on INCI, ceramide eop #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -11217,7 +12353,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #17 on INCI, ceramide eop #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0081/1155/4613/files/Mini-Sundrink.jpg?v=1743250482"
@@ -11426,7 +12562,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #17 on INCI, ceramide eop #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0081/1155/4613/files/25.jpg?v=1739780613"
@@ -11635,7 +12771,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #17 on INCI, ceramide eop #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Conscious Chemist official web store (consciouschemist.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "sunscreen (brand site's own product type)"
   },
   "images": [
@@ -11846,7 +12982,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -12040,7 +13176,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -12241,7 +13377,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -12408,7 +13544,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -12570,7 +13706,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -12678,7 +13814,7 @@ const BSPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Pilgrim official web store (discoverpilgrim.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Creams & Moisturizers (brand site's own product type)"
   },
   "images": [
@@ -12837,6 +13973,107 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-bs-olst19",
+  "brand": "Dr. Sheth's",
+  "model": "Kesar & Kojic Acid Oil Free Sunscreen - 30g",
+  "price": 299,
+  "capacityLine": "30 g",
+  "materialLine": "Kojic acid + Saffron",
+  "featureLine": "Sunscreen · ₹997/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹997/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Kojic acid, Saffron (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/shootimage_90325ff5-2942-466d-bff0-0f9072999a28.jpg?v=1754566750"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/kesar-kojic-acid-oil-free-sunscreen-30g",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Kesar & Kojic Acid Oil Free Sunscreen - 30g",
+  "tags": [
+   "scope:unstated",
+   "water:unstated",
+   "ing:kojic-acid",
+   "ing:saffron",
+   "free:oil-free",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dr-sheth-s-bs-m59u8z",
   "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Sunscreen - 30g",
@@ -12883,7 +14120,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -13123,7 +14360,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/shoot_4eeac8da-33da-4f1d-aea8-f48808891eb9.jpg?v=1782715289"
@@ -13223,7 +14460,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -13241,6 +14478,210 @@ const BSPRODUCTS = [
    "free:oil-free",
    "aud:unisex",
    "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-sheth-s-bs-96cocl",
+  "brand": "Dr. Sheth's",
+  "model": "Kesar & Kojic Acid Oil Free Sunscreen - 30g (Pack of 2)",
+  "price": 598,
+  "capacityLine": "60 g (pack of 2)",
+  "materialLine": "Kojic acid + Saffron",
+  "featureLine": "Sunscreen · ₹997/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g × 2 pack",
+   "pricePer100": "₹997/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Kojic acid, Saffron (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/1_e5197494-6d6e-4885-9d89-69b1efc24611.jpg?v=1754974175"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/kesar-kojic-acid-oil-free-sunscreen-30g-copy",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Kesar & Kojic Acid Oil Free Sunscreen - 30g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:kojic-acid",
+   "ing:saffron",
+   "free:oil-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-sheth-s-bs-1meqqck",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Oil Free Sunscreen - 30g (Pack of 2)",
+  "price": 598,
+  "capacityLine": "60 g (pack of 2)",
+  "materialLine": "Vitamin C + Ceramides",
+  "featureLine": "Sunscreen · ₹997/100g",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g × 2 pack",
+   "pricePer100": "₹997/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site ingredient text is unreadable / marketing copy — treated as not published (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/1_71bce9cc-38dc-45b1-8f79-e7417abf398f.jpg?v=1754976835"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-oil-free-sunscreen-30g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Ceramide & Vitamin C Oil Free Sunscreen - 30g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "free:oil-free",
+   "aud:unisex",
+   "size:standard",
    "rating:none",
    "store:brand-store",
    "inci:none"
@@ -13329,7 +14770,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -13489,6 +14930,251 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-bs-1lndwqu",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Sunscreen - 30g (Pack of 2)",
+  "price": 598,
+  "capacityLine": "60 g (pack of 2)",
+  "materialLine": "Vitamin C + Ceramides",
+  "featureLine": "Sunscreen · ₹997/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "titanium dioxide high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g × 2 pack",
+   "pricePer100": "₹997/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-sunscreen-30g-pack-of-2",
+   "inciMatchedName": "Ceramide & Vitamin C Sunscreen - 30g (Pack of 2) (name match 100%)",
+   "inciList": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, E-Ascorbic acid, Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate Calendula flower extract, Aloe Barbadensis Leaf Juice, Dimethicone, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "evidenceActives": "titanium dioxide (#2 on list, strong evidence); ethylhexyl methoxycinnamate (#3 on list, strong evidence); butyl methoxydibenzoylmethane (#4 on list, strong evidence); octocrylene (#5 on list, strong evidence); zinc oxide (#11 on list, strong evidence); aloe barbadensis leaf juice (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/Ceramide_Vitamin_C_Sunscreen_FOP.jpg?v=1727157182"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-sunscreen-30g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Ceramide & Vitamin C Sunscreen - 30g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-sunscreen-30g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide & Vitamin C Sunscreen - 30g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, E-Ascorbic acid, Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate Calendula flower extract, Aloe Barbadensis Leaf Juice, Dimethicone, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "hyaluronic acid",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dr-sheth-s-bs-j4a9mr",
   "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil Free Sunscreen - 50 gm In-Vivo Tested SPF 50+ PA ++++",
@@ -13537,7 +15223,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eop #19 on INCI, ceramide np #21 on INCI, ceramide ap #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -13791,7 +15477,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -13853,6 +15539,217 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-bs-en1qa2",
+  "brand": "Dr. Sheth's",
+  "model": "Kesar & Kojic Acid Sunscreen - 30g (Pack of 2)",
+  "price": 598,
+  "capacityLine": "60 g (pack of 2)",
+  "materialLine": "Kojic acid + Saffron",
+  "featureLine": "Sunscreen · ₹997/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.5,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g × 2 pack",
+   "pricePer100": "₹997/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Kojic acid, Saffron (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/kesar-kojic-acid-sunscreen-30g-pack-of-2",
+   "inciMatchedName": "Kesar & Kojic Acid Sunscreen - 30g (Pack of 2) (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Glyceryl Stearate, Dimethicone, Cetostearyl Alcohol, Dicaprylyl Carbonate, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera (Date Palm) Extract, Polyglycerine-3, Sodium Acrylates Copolymer, Kojic Acid Complex, Vaccinium Angustifolium (Blueberry) Fruit Extract, Niacinamide, Citrus Grandis (Grapefruit) Fruit Extract, Phenoxyethanol, Helianthus Annuus (Sunflower) Seed Oil, Crocus Sativus Flower Extract (Saffron), Aloe Barbadensis Leaf Juice, Shea Butter Glycerides, Sodium Levulinate, Brassica Campestris/Aleurites Fordi Oil Copolymer, Allantoin, Citrus Junos Seed Extract, Lactobacillus Ferment, Scutellaria Baicalensis Root Extract, Sodium Benzoate, Zinc Oxide, Oxothiazolidine, Titanium Dioxide and Tocopheryl Acetate",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); niacinamide (#19 on list, strong evidence); aloe barbadensis leaf juice (#24 on list, moderate evidence); zinc oxide (#33 on list, strong evidence); titanium dioxide (#35 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/Kesar_KojicAcidSunscreenFOP.jpg?v=1732859789"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/kesar-kojic-acid-sunscreen-30g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Kesar & Kojic Acid Sunscreen - 30g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:kojic-acid",
+   "ing:saffron",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/kesar-kojic-acid-sunscreen-30g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kesar & Kojic Acid Sunscreen - 30g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Glyceryl Stearate, Dimethicone, Cetostearyl Alcohol, Dicaprylyl Carbonate, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera (Date Palm) Extract, Polyglycerine-3, Sodium Acrylates Copolymer, Kojic Acid Complex, Vaccinium Angustifolium (Blueberry) Fruit Extract, Niacinamide, Citrus Grandis (Grapefruit) Fruit Extract, Phenoxyethanol, Helianthus Annuus (Sunflower) Seed Oil, Crocus Sativus Flower Extract (Saffron), Aloe Barbadensis Leaf Juice, Shea Butter Glycerides, Sodium Levulinate, Brassica Campestris/Aleurites Fordi Oil Copolymer, Allantoin, Citrus Junos Seed Extract, Lactobacillus Ferment, Scutellaria Baicalensis Root Extract, Sodium Benzoate, Zinc Oxide, Oxothiazolidine, Titanium Dioxide and Tocopheryl Acetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "crocus sativus flower extract",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dr-sheth-s-bs-1gjhjyu",
   "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Sunscreen - 125g In-Vivo Tested SPF 50+ PA ++++",
@@ -13901,7 +15798,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -14114,7 +16011,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -14323,6 +16220,220 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-bs-1p0pkc",
+  "brand": "Dr. Sheth's",
+  "model": "Kesar & Kojic Acid Sunscreen - 80g In-Vivo Tested SPF 50+ PA ++++",
+  "price": 699,
+  "capacityLine": "80 g",
+  "materialLine": "Kojic acid + Saffron",
+  "featureLine": "Sunscreen · SPF 50 · ₹874/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.5,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹874/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Kojic acid, Saffron (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/kesar-kojic-acid-sunscreen-80g",
+   "inciMatchedName": "Kesar & Kojic Acid Sunscreen - 80g In-Vivo Tested SPF 50+ PA ++++ (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Glyceryl Stearate, Dimethicone, Cetostearyl Alcohol, Dicaprylyl Carbonate, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera (Date Palm) Extract, Polyglycerine-3, Sodium Acrylates Copolymer, Kojic Acid Complex, Vaccinium Angustifolium (Blueberry) Fruit Extract, Niacinamide, Citrus Grandis (Grapefruit) Fruit Extract, Phenoxyethanol, Helianthus Annuus (Sunflower) Seed Oil, Crocus Sativus Flower Extract (Saffron), Aloe Barbadensis Leaf Juice, Shea Butter Glycerides, Sodium Levulinate, Brassica Campestris/Aleurites Fordi Oil Copolymer, Allantoin, Citrus Junos Seed Extract, Lactobacillus Ferment, Scutellaria Baicalensis Root Extract, Sodium Benzoate, Zinc Oxide, Oxothiazolidine, Titanium Dioxide and Tocopheryl Acetate",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); niacinamide (#19 on list, strong evidence); aloe barbadensis leaf juice (#24 on list, moderate evidence); zinc oxide (#33 on list, strong evidence); titanium dioxide (#35 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/1_-_Website.jpg?v=1747720115"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/kesar-kojic-acid-sunscreen-80g",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Kesar & Kojic Acid Sunscreen - 80g In-Vivo Tested SPF 50+ PA ++++",
+  "tags": [
+   "scope:unstated",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:kojic-acid",
+   "ing:saffron",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/kesar-kojic-acid-sunscreen-80g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kesar & Kojic Acid Sunscreen - 80g In-Vivo Tested SPF 50+ PA ++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Glyceryl Stearate, Dimethicone, Cetostearyl Alcohol, Dicaprylyl Carbonate, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera (Date Palm) Extract, Polyglycerine-3, Sodium Acrylates Copolymer, Kojic Acid Complex, Vaccinium Angustifolium (Blueberry) Fruit Extract, Niacinamide, Citrus Grandis (Grapefruit) Fruit Extract, Phenoxyethanol, Helianthus Annuus (Sunflower) Seed Oil, Crocus Sativus Flower Extract (Saffron), Aloe Barbadensis Leaf Juice, Shea Butter Glycerides, Sodium Levulinate, Brassica Campestris/Aleurites Fordi Oil Copolymer, Allantoin, Citrus Junos Seed Extract, Lactobacillus Ferment, Scutellaria Baicalensis Root Extract, Sodium Benzoate, Zinc Oxide, Oxothiazolidine, Titanium Dioxide and Tocopheryl Acetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "crocus sativus flower extract",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dr-sheth-s-bs-ju8l6y",
   "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Long Lasting Sunscreen - 50gm",
@@ -14370,7 +16481,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #19 on INCI; Aging — ethyl ascorbic acid #19 on INCI; Irritation — ceramide eos #24 on INCI, ceramide ns #25 on INCI, ceramide np #26 on INCI, ceramide ap #28 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -14545,6 +16656,621 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-bs-1pkcwvn",
+  "brand": "Dr. Sheth's",
+  "model": "Centella & Niacinamide Sunscreen - 50g (Pack of 2)",
+  "price": 1398,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Niacinamide + Centella / cica",
+  "featureLine": "Sunscreen · ₹1398/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); zinc oxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.7,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹1398/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/centella-niacinamide-sunscreen-pack-of-2",
+   "inciMatchedName": "Centella & Niacinamide Sunscreen - 50g (Pack of 2) (name match 100%)",
+   "inciList": "Cyclopentasiloxane (and) Dimethicone Vinyl Dimethicone Crosspolymer, Octyl Methoxycinnamate, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, C12-15 Alkyl Benzoat, Zinc Oxide (and) Triethoxycaprylylsilane, Diethylhexyl butamido triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Titanium Dioxide (and) Alumina (and) Simethicone, Caprylyl methicone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Centellae Extract, Diethylhexyl Syringylidenemalonate (and) Caprylic/Capric Triglyceride",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#3 on list, strong evidence); zinc oxide (#6 on list, strong evidence); diethylhexyl butamido triazone (#8 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#9 on list, strong evidence); niacinamide (#10 on list, strong evidence); titanium dioxide (#13 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#17 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/C_N-Sunscreen-Pack-of-2-shoot-image.jpg?v=1688378672"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/centella-niacinamide-sunscreen-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Centella & Niacinamide Sunscreen - 50g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/centella-niacinamide-sunscreen-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Centella & Niacinamide Sunscreen - 50g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Cyclopentasiloxane (and) Dimethicone Vinyl Dimethicone Crosspolymer, Octyl Methoxycinnamate, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, C12-15 Alkyl Benzoat, Zinc Oxide (and) Triethoxycaprylylsilane, Diethylhexyl butamido triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Titanium Dioxide (and) Alumina (and) Simethicone, Caprylyl methicone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Centellae Extract, Diethylhexyl Syringylidenemalonate (and) Caprylic/Capric Triglyceride",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-sheth-s-bs-wlca4f",
+  "brand": "Dr. Sheth's",
+  "model": "Haldi & Hyaluronic Acid Sunscreen - 50g (Pack of 2)",
+  "price": 998,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Hyaluronic acid + Turmeric",
+  "featureLine": "Sunscreen · ₹998/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.3,
+   "skin": 9.5,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹998/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid, Turmeric (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/haldi-hyaluronic-acid-sunscreen-pack-of-2",
+   "inciMatchedName": "Haldi & Hyaluronic Acid Sunscreen - 50g (Pack of 2) (name match 100%)",
+   "inciList": "Aqua,Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octrylene, Phospholipids, 1,3-Butylene Glycol, Propendiol, Helianthus Annuus (Sunflower) Seed Oil, Sodium Polyacrylate, Xylitol, Curcuma Longa Root Extract, Caprylic Acid, Glyceryl Stearate, Cylopentasiloxane, Titanium Dioxide , Zinc Oxide (and) Coco-Caprylate/Caprate (and) Polyglyceryl-3 Polyricinoleate (and) Isostearic Acid,Hyaluronic Acid, Aloevera leaf juice, Phenoxyethanol, Trehalose, Hydrolyzed Vegetable Protein, Tocopherol Acetate, Allantoin, Licorice extract, Sodium Benzoate, Benzyl alcohol, Melanin, sodium gluconate",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); titanium dioxide (#15 on list, strong evidence); zinc oxide (#16 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/H_H-Sunscreen_1.jpg?v=1683143498"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/haldi-hyaluronic-acid-sunscreen-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Haldi & Hyaluronic Acid Sunscreen - 50g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:hyaluronic-acid",
+   "ing:turmeric",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/haldi-hyaluronic-acid-sunscreen-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Haldi & Hyaluronic Acid Sunscreen - 50g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua,Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octrylene, Phospholipids, 1,3-Butylene Glycol, Propendiol, Helianthus Annuus (Sunflower) Seed Oil, Sodium Polyacrylate, Xylitol, Curcuma Longa Root Extract, Caprylic Acid, Glyceryl Stearate, Cylopentasiloxane, Titanium Dioxide , Zinc Oxide (and) Coco-Caprylate/Caprate (and) Polyglyceryl-3 Polyricinoleate (and) Isostearic Acid,Hyaluronic Acid, Aloevera leaf juice, Phenoxyethanol, Trehalose, Hydrolyzed Vegetable Protein, Tocopherol Acetate, Allantoin, Licorice extract, Sodium Benzoate, Benzyl alcohol, Melanin, sodium gluconate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-sheth-s-bs-t7s6cm",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Sunscreen - 50g (Pack of 2)",
+  "price": 998,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Vitamin C + Ceramides",
+  "featureLine": "Sunscreen · ₹998/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "titanium dioxide high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹998/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-sunscreen-spf-50-pa-50-gm-pack-of-2",
+   "inciMatchedName": "Ceramide & Vitamin C Sunscreen - 50g (Pack of 2) (name match 100%)",
+   "inciList": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, E-Ascorbic acid, Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate Calendula flower extract, Aloe Barbadensis Leaf Juice, Dimethicone, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "evidenceActives": "titanium dioxide (#2 on list, strong evidence); ethylhexyl methoxycinnamate (#3 on list, strong evidence); butyl methoxydibenzoylmethane (#4 on list, strong evidence); octocrylene (#5 on list, strong evidence); zinc oxide (#11 on list, strong evidence); aloe barbadensis leaf juice (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/CVC-Sunscreen_1.jpg?v=1683142671"
+  ],
+  "buyUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-sunscreen-spf-50-pa-50-gm-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dr. Sheth's Ceramide & Vitamin C Sunscreen - 50g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.drsheths.com/products/ceramide-vitamin-c-sunscreen-spf-50-pa-50-gm-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide & Vitamin C Sunscreen - 50g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, E-Ascorbic acid, Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate Calendula flower extract, Aloe Barbadensis Leaf Juice, Dimethicone, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "hyaluronic acid",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dr-sheth-s-bs-1p0nc9",
   "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Sunscreen - 50 gm In-Vivo Tested SPF 50+ PA ++++",
@@ -14593,7 +17319,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #19 on INCI; Dark spots — niacinamide #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -14802,7 +17528,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -14909,7 +17635,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -15054,139 +17780,6 @@ const BSPRODUCTS = [
   }
  },
  {
-  "id": "dr-sheth-s-bs-3yrh1e",
-  "brand": "Dr. Sheth's",
-  "model": "Waterproof Mineral Sunscreen 50g",
-  "price": 699,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · ₹1398/100g",
-  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "zinc oxide high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 5.8,
-   "skin": 10,
-   "trust": 8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1398/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Water / sweat resistant (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
-   "inciSourceUrl": "https://www.drsheths.com/products/mineral-sunscreen-50g",
-   "inciMatchedName": "Waterproof Mineral Sunscreen 50g (name match 100%)",
-   "inciList": "Purified Water, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Cyclopentasiloxane, PEG/PPG-18/18 Dimethicone, Caprylyl Methicone, PEG-12 Dimethicone/PPG-20 Crosspolymer, Silica, Glycerin, Dimethicone/Vinyl Dimethicone Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Polymethylsilsesquioxane, Caprylyl Glycol, Methylpropanediol, Didecyldimonium Chloride, Polyquaternium-80, Xanthan Gum and Magnesium Aluminium Silicate",
-   "evidenceActives": "zinc oxide (#2 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
-   "storeCategory": "Sunscreen (brand site's own product type)"
-  },
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0490/6011/8686/files/27.jpg?v=1689311556"
-  ],
-  "buyUrl": "https://www.drsheths.com/products/mineral-sunscreen-50g",
-  "buyStore": "Brand store",
-  "title": "Dr. Sheth's Waterproof Mineral Sunscreen 50g",
-  "tags": [
-   "scope:unstated",
-   "sun:mineral",
-   "water:resistant",
-   "claim:water-resistant",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:brand-store",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Dr. Sheth's official website (drsheths.com) — this product's page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.drsheths.com/products/mineral-sunscreen-50g",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Waterproof Mineral Sunscreen 50g",
-   "inciMatchScore": 1,
-   "inciText": "Purified Water, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Cyclopentasiloxane, PEG/PPG-18/18 Dimethicone, Caprylyl Methicone, PEG-12 Dimethicone/PPG-20 Crosspolymer, Silica, Glycerin, Dimethicone/Vinyl Dimethicone Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Polymethylsilsesquioxane, Caprylyl Glycol, Methylpropanediol, Didecyldimonium Chloride, Polyquaternium-80, Xanthan Gum and Magnesium Aluminium Silicate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "zinc oxide",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 10,
-     "core": false,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "sodium chloride",
-     "grade": "C",
-     "position": 13,
-     "core": false,
-     "trace": false,
-     "src": "aadScrub"
-    }
-   ],
-   "support": [
-    "glycerin"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Honasa Consumer (listed)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://honasa.in/brands"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "dr-sheth-s-bs-m59xyg",
   "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Sunscreen - 80 gm In-Vivo Tested SPF 50+ PA ++++",
@@ -15234,7 +17827,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -15482,7 +18075,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -15660,7 +18253,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dr. Sheth's official web store (drsheths.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -15848,7 +18441,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Stick (brand site's own product type)"
   },
   "images": [
@@ -15954,7 +18547,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Stick (brand site's own product type)"
   },
   "images": [
@@ -16159,7 +18752,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Earth Rhythm official web store (earthrhythm.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Protection (brand site's own product type)"
   },
   "images": [
@@ -16313,7 +18906,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -16417,7 +19010,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/DermatologistTestedForMenSunscreenSPF50.webp?v=1782907206"
@@ -16520,7 +19113,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Shadow_Light_Fluid_Sunscreen.webp?v=1780913303"
@@ -16623,7 +19216,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/Shadow_Mineral_Sunscreen.webp?v=1780913443"
@@ -16725,7 +19318,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0505/3559/6226/files/shadowsunscreenstick1.webp?v=1757333433"
@@ -16827,7 +19420,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -16931,7 +19524,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17035,7 +19628,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17139,7 +19732,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17245,7 +19838,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17349,7 +19942,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17455,7 +20048,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17561,7 +20154,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17667,7 +20260,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17772,7 +20365,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17877,7 +20470,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -17982,7 +20575,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18087,7 +20680,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18192,7 +20785,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18297,7 +20890,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18400,7 +20993,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18502,7 +21095,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -18606,7 +21199,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -18710,7 +21303,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18814,7 +21407,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -18918,7 +21511,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19022,7 +21615,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19126,7 +21719,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19230,7 +21823,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19336,7 +21929,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19442,7 +22035,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19546,7 +22139,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19650,7 +22243,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19754,7 +22347,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Care (brand site's own product type)"
   },
   "images": [
@@ -19857,7 +22450,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -19961,7 +22554,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -20065,7 +22658,7 @@ const BSPRODUCTS = [
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Fixderma official web store (fixderma.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -20171,7 +22764,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #2 on INCI; Aging — ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/FXN-OCGS50_31-ab.jpg?v=1787249535"
@@ -20338,7 +22931,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Bodycare (brand site's own product type)"
   },
   "images": [
@@ -20574,7 +23167,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -20680,7 +23273,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/FXN-ESDS50_51-x.jpg?v=1775659555"
@@ -20850,7 +23443,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -21038,7 +23631,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -21219,7 +23812,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -21398,7 +23991,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/GLOWSUNSCREEN_c71c73fb-c347-4dc2-9dee-33ca522f3c09.jpg?v=1734415520"
@@ -21496,7 +24089,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/DEWYSUNSCREEN_638fcc2f-1e45-498c-91da-c68846148d6d.jpg?v=1734415429"
@@ -21593,7 +24186,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/MATTIFYINGSUNSCREEN_b1aeb53b-a40c-4433-afbc-5c6b9a375ec9.jpg?v=1734415456"
@@ -21691,7 +24284,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/GLOWSUNSCREEN_c71c73fb-c347-4dc2-9dee-33ca522f3c09.jpg?v=1734415520"
@@ -21790,7 +24383,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/DEWYSUNSCREEN_638fcc2f-1e45-498c-91da-c68846148d6d.jpg?v=1734415429"
@@ -21886,7 +24479,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Freebie (brand site's own product type)"
   },
   "images": [
@@ -21989,7 +24582,7 @@ const BSPRODUCTS = [
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "recommended (brand site's own product type)"
   },
   "images": [
@@ -22171,7 +24764,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Foxtale official web store (foxtale-consumer.myshopify.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "pair with sunscreen (brand site's own product type)"
   },
   "images": [
@@ -22355,7 +24948,7 @@ const BSPRODUCTS = [
    "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Juicy Chemistry official web store (juicychemistry.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -22462,7 +25055,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, alpha-arbutin #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/VitaminCDayCreamWithSPF3001.jpg?v=1684309065"
@@ -22656,7 +25249,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/products/khadi-organique-sunscreen-lotion-spf-30_3.jpg?v=1679312951"
@@ -22758,7 +25351,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/products/khadi-organique-sunscreen-lotion-spf-40.jpg?v=1682362489"
@@ -22859,7 +25452,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/products/khadi-organique-sunscreen-lotion-spf-50.jpg?v=1682362479"
@@ -22960,7 +25553,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/products/khadi-organique-sunscreen-lotion-spf-60.jpg?v=1682362468"
@@ -23065,7 +25658,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "khadi ORGANIQUE official web store (khadiorganique.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0727/9211/3427/files/kumkumadidaycreamSPF3001.jpg?v=1684315778"
@@ -23239,7 +25832,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -23350,7 +25943,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0693/9620/1776/files/MiniVitCSunscreen-07_1321ff52-5779-48db-8481-04ef3e157fa4.jpg?v=1693029658"
@@ -23561,7 +26154,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -23664,7 +26257,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -23770,7 +26363,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -23875,7 +26468,7 @@ const BSPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Lotus Botanicals official web store (lotusbotanicals.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -23981,7 +26574,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -24099,6 +26692,200 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-3udhxk",
+  "brand": "Mamaearth",
+  "model": "Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, C…",
+  "price": 1198,
+  "capacityLine": "160 g (pack of 2)",
+  "materialLine": "Vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹749/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "terephthalylidene dicamphor sulfonic acid high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.1,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g × 2 pack",
+   "pricePer100": "₹749/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-80-g-pack-of-2-1",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 80 g (Pack of 2) (name match 100%)",
+   "inciList": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "evidenceActives": "terephthalylidene dicamphor sulfonic acid (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); phenylbenzimidazole sulfonic acid (#5 on list, strong evidence); ethylhexyl methoxycinnamate (#6 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#12 on list, strong evidence); ethylhexyl salicylate (#16 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/vit-c-glow-sunscreen-fop_white_bg.jpg?v=1777974180"
+  ],
+  "buyUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-80-g-pack-of-2-1",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 80 g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-80-g-pack-of-2-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 80 g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "terephthalylidene dicamphor sulfonic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-1q4kdd1",
   "brand": "Mamaearth",
   "model": "Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, C…",
@@ -24146,7 +26933,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -24339,7 +27126,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -24526,7 +27313,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -24685,7 +27472,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -24872,7 +27659,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -24984,6 +27771,555 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-1wqqnzt",
+  "brand": "Mamaearth",
+  "model": "Rice Water Dewy Sunscreen with SPF 50 & PA++++ - 80g (Pack of 2)",
+  "price": 1098,
+  "capacityLine": "160 g (pack of 2)",
+  "materialLine": "Rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹686/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aloe barbadensis leaf juice high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.7,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g × 2 pack",
+   "pricePer100": "₹686/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Rice water (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-rice-water-dewy-sunscreen-with-spf-50-pa-80g-pack-of-2",
+   "inciMatchedName": "Mamaearth Rice Water Dewy Sunscreen with SPF 50 & PA++++ - 80g (Pack of 2) (name match 100%)",
+   "inciList": "Aqua (Water), Suncat DE, Glycerin, Starch, C12-15 Alkyl Benzoate, Parsol TX, Aloe Barbadensis (Aloe Vera) Leaf Juice, Ethylhexyl Palmitate, Isopropyl Myristate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Niacinamide, Sodium Lactate, Sorbitan Stearate, Sucrose Cocoate, Betaine, Glyceryl Stearate, Oryza Sativa (Rice) Bran Water, Tocopheryl Acetate (Vitamin E), Phenoxyethanol, Sodium Benzoate, Sodium Gluconate, Sodium Hydroxide, Sodium Hyaluronate (Hyaluronic Acid), IFRA Certified Allergen Free Fragrance",
+   "evidenceActives": "aloe barbadensis leaf juice (#6 on list, moderate evidence); niacinamide (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/rice_ss_80g_fop.jpg?v=1777976102"
+  ],
+  "buyUrl": "https://mamaearth.in/products/mamaearth-rice-water-dewy-sunscreen-with-spf-50-pa-80g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Rice Water Dewy Sunscreen with SPF 50 & PA++++ - 80g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:rice-water",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/mamaearth-rice-water-dewy-sunscreen-with-spf-50-pa-80g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Rice Water Dewy Sunscreen with SPF 50 & PA++++ - 80g (Pack of 2)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Suncat DE, Glycerin, Starch, C12-15 Alkyl Benzoate, Parsol TX, Aloe Barbadensis (Aloe Vera) Leaf Juice, Ethylhexyl Palmitate, Isopropyl Myristate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Niacinamide, Sodium Lactate, Sorbitan Stearate, Sucrose Cocoate, Betaine, Glyceryl Stearate, Oryza Sativa (Rice) Bran Water, Tocopheryl Acetate (Vitamin E), Phenoxyethanol, Sodium Benzoate, Sodium Gluconate, Sodium Hydroxide, Sodium Hyaluronate (Hyaluronic Acid), IFRA Certified Allergen Free Fragrance",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mamaearth-bs-mh1xlx",
+  "brand": "Mamaearth",
+  "model": "Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, C…",
+  "price": 1797,
+  "capacityLine": "240 g (pack of 3)",
+  "materialLine": "Vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹749/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "terephthalylidene dicamphor sulfonic acid high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.1,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g × 3 pack",
+   "pricePer100": "₹749/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-80-g-pack-of-3",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 80 g (Pack of 3) (name match 100%)",
+   "inciList": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "evidenceActives": "terephthalylidene dicamphor sulfonic acid (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); phenylbenzimidazole sulfonic acid (#5 on list, strong evidence); ethylhexyl methoxycinnamate (#6 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#12 on list, strong evidence); ethylhexyl salicylate (#16 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/vitc-80g_fop.jpg?v=1777976094"
+  ],
+  "buyUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-80-g-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 80 g (Pack of 3)",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-80-g-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 80 g (Pack of 3)",
+   "inciMatchScore": 1,
+   "inciText": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "terephthalylidene dicamphor sulfonic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mamaearth-bs-1bk1k7c",
+  "brand": "Mamaearth",
+  "model": "Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, C…",
+  "price": 1197,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "Vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "terephthalylidene dicamphor sulfonic acid high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.1,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹798/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g-pack-of-3",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 50 g - Pack of 3 (name match 100%)",
+   "inciList": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "evidenceActives": "terephthalylidene dicamphor sulfonic acid (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); phenylbenzimidazole sulfonic acid (#5 on list, strong evidence); ethylhexyl methoxycinnamate (#6 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#12 on list, strong evidence); ethylhexyl salicylate (#16 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/vitc_ss_50g_fop.jpg?v=1777976086"
+  ],
+  "buyUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g-pack-of-3",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 50 g - Pack of 3",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g-pack-of-3",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 50 g - Pack of 3",
+   "inciMatchScore": 1,
+   "inciText": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "terephthalylidene dicamphor sulfonic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-vooarj",
   "brand": "Mamaearth",
   "model": "Vitamin C Daily Glow Sunscreen with Vitamin C & Turmeric for Sun Protection & Glow - 125 g",
@@ -25030,7 +28366,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -25222,7 +28558,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -25380,7 +28716,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -25606,7 +28942,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -25764,7 +29100,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #13 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -25958,7 +29294,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — niacinamide #10 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -26117,7 +29453,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -26238,6 +29574,200 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-bs-1bk1k7b",
+  "brand": "Mamaearth",
+  "model": "Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, C…",
+  "price": 798,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "terephthalylidene dicamphor sulfonic acid high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.1,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹798/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g-pack-of-2",
+   "inciMatchedName": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 50 g - Pack of 2 (name match 100%)",
+   "inciList": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "evidenceActives": "terephthalylidene dicamphor sulfonic acid (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); phenylbenzimidazole sulfonic acid (#5 on list, strong evidence); ethylhexyl methoxycinnamate (#6 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#12 on list, strong evidence); ethylhexyl salicylate (#16 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0721/7558/3279/files/fop_white_bg_54.jpg?v=1777973390"
+  ],
+  "buyUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 50 g - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mamaearth Vitamin C Daily Glow Sunscreen SPF 50 PA++++ – In-Vivo Tested (ISO 24444:2019 Certified, CTRI/2025/05/087276) - 50 g - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Lemon Water, Terephthalylidene Dicamphor Sulfonic Acid, Butyl Methoxydibenzoylmethane, Propylene Glycol, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Methoxycinnamate, Glycerin, Curcuma Longa Root (Turmeric) Extract, Triethanolamine, Caprylic/Capric Triglyceride, Tapioca Starch, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Xanthan Gum, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethylhexyl Salicylate, Isododecane, Cetearyl Olivate, Sorbitan Olivate, Glyceryl Stearate, Cetearyl Alcohol, Ceteareth-20, Phenoxyethanol, Ethylhexylglycerin, Citrus Limon (Lemon) Extract, Dicaprylyl Carbonate, Sodium Polyacrylate, Xylitylglucoside, Anhydroxylitol, Xylitol, Biosaccharide Gum-4, Allantoin, Sodium Gluconate, Glucose fermentation, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Ascorbyl Phosphate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "terephthalylidene dicamphor sulfonic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "mamaearth-bs-y1wmj3",
   "brand": "Mamaearth",
   "model": "Milky Soft Mineral Based Sunscreen SPF 30 & PA+++ With Oats, Milk and Calendula for Babies…",
@@ -26285,7 +29815,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -26457,7 +29987,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -26611,7 +30141,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -26793,7 +30323,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -26968,7 +30498,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -27162,7 +30692,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -27351,7 +30881,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -27519,7 +31049,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -27628,7 +31158,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -27816,7 +31346,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -27987,7 +31517,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -28174,7 +31704,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -28356,7 +31886,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -28486,7 +32016,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -28639,7 +32169,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Mamaearth official web store (mamaearth.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Care (brand site's own product type)"
   },
   "images": [
@@ -28784,7 +32314,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/nobfs_5ml.jpg_1.jpg?v=1784967695"
@@ -28886,7 +32416,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — panthenol #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/Light-L101-1_58179a30-8045-4a7a-b5b0-bec51f163bd1.jpg?v=1788180875"
@@ -29106,7 +32636,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI, zinc pca #20 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — ceramide ap #22 on INCI, ceramide np #23 on INCI, ceramide eos #24 on INCI, panthenol #25 on INCI, centella asiatica extract #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_1.jpg?v=1780657511"
@@ -29364,7 +32894,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — 3-o-ethyl ascorbic acid #19 on INCI, niacinamide #22 on INCI, kojic acid #23 on INCI; Aging — 3-o-ethyl ascorbic acid #19 on INCI; Irritation — panthenol #18 on INCI, ceramide ap #27 on INCI, ceramide np #28 on INCI, ceramide eos #29 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/VPGMS.jpg?v=1780121275"
@@ -29624,7 +33154,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/Artboard_7.jpg?v=1780643798"
@@ -29837,7 +33367,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -30067,7 +33597,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -30277,7 +33807,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -30495,7 +34025,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -30600,7 +34130,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -30705,7 +34235,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -30814,7 +34344,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -31062,7 +34592,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -31310,7 +34840,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -31544,7 +35074,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -31769,7 +35299,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Orgatre official web store (orgatre.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -31953,6 +35483,397 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "-phd-bs-4vni4e",
+  "brand": "/PHD/",
+  "model": "Panthenol Hydrating Gel Sunscreen SPF 60 PA++++",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin B5 / panthenol",
+  "featureLine": "Sunscreen · SPF 60",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence); ethylhexyl triazone high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.8,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin B5 / panthenol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 60 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/panthenol-hydrating-gel-sunscreen",
+   "inciMatchedName": "Panthenol Hydrating Gel Sunscreen SPF 60 PA++++ (name match 100%)",
+   "inciList": "Aqua, Aqua (and) C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipid, Ethylhexylglycerin, Hydroxyacetophenone, Propanediol, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Dicaprylyl Carbonate, Sodium Acrylates Copolymer (and) Lecithin, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Polysorbate 20, Phenylbenzimidazole Sulfonic Acid, Zinc Oxide, Tocopheryl Acetate, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Thermus Thermophillus Ferment (and) Glycerin",
+   "evidenceActives": "diethylamino hydroxybenzoyl hexyl benzoate (#3 on list, strong evidence); ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#6 on list, strong evidence); panthenol (#21 on list, moderate evidence); phenylbenzimidazole sulfonic acid (#23 on list, strong evidence); zinc oxide (#24 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Sunscreens (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/panthenol-hydrating-gel-sunscreen-spf-60-pa-2295482.png?v=1771616599"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/panthenol-hydrating-gel-sunscreen",
+  "buyStore": "Brand store",
+  "title": "/PHD/ Panthenol Hydrating Gel Sunscreen SPF 60 PA++++",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/panthenol-hydrating-gel-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Panthenol Hydrating Gel Sunscreen SPF 60 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Aqua (and) C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phospholipid, Ethylhexylglycerin, Hydroxyacetophenone, Propanediol, Caprylyl Methicone (and) PEG-12 Dimethicone/PPG-20 Crosspolymer, Dicaprylyl Carbonate, Sodium Acrylates Copolymer (and) Lecithin, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Phenoxyethanol (and) Ethylhexylglycerin, Panthenol, Polysorbate 20, Phenylbenzimidazole Sulfonic Acid, Zinc Oxide, Tocopheryl Acetate, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, 3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Thermus Thermophillus Ferment (and) Glycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "-phd-bs-agllpv",
+  "brand": "/PHD/",
+  "model": "Niacinamide Dry Touch Matte Sunscreen",
+  "price": 495,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.2,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/niacinamide-dry-touch-matte-sunscreen",
+   "inciMatchedName": "Niacinamide Dry Touch Matte Sunscreen (name match 100%)",
+   "inciList": "Sodium Gluconate, Tocopheryl Acetate, Sorbitan Isostearate, Stearic Acid, Dimethicone, Polysorbate 20, Stearyl Stearate, Achyrocline Satureioides Extract, Verbascum Thapsus Extract, Fabiana Imbricata Leaf/Stem Extract, Plantago Lanceolata Leaf Extract, Sodium PCA, Alcohol, Glycerin, Sodium Hyaluronate, Ethylhexylglycerin, Hydrogenated Vegetable Oil, Cera Microcristallina, Polyisobutene, Xanthan Gum, Polyacrylate-13, Acacia Senegal Gum, Camellia Sinensis Extract, Centella Asiatica Extract, Nelumbo Nucifera Flower Extract, Phenoxyethanol, Cetearyl Alcohol, Propanediol, PEG-100 Stearate, Glyceryl Stearate, Coco-Caprylate/Caprate, Glyceryl Monostearate, Butyl Methoxydibenzoylmethane, Dicaprylyl Carbonate, Methyl Methacrylate Crosspolymer, Ethylhexyl Salicylate, Niacinamide, Octocrylene, Homosalate, Aqua (Water)",
+   "evidenceActives": "centella asiatica extract (#24 on list, moderate evidence); butyl methoxydibenzoylmethane (#32 on list, strong evidence); ethylhexyl salicylate (#35 on list, strong evidence); niacinamide (#36 on list, strong evidence); octocrylene (#37 on list, strong evidence); homosalate (#38 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "/PHD/ official web store (phdbeauty.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Sunscreens (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0589/4219/3735/files/niacinamide-dry-touch-matte-sunscreen-4722208.png?v=1758604473"
+  ],
+  "buyUrl": "https://phdbeauty.com/products/niacinamide-dry-touch-matte-sunscreen",
+  "buyStore": "Brand store",
+  "title": "/PHD/ Niacinamide Dry Touch Matte Sunscreen",
+  "tags": [
+   "scope:unstated",
+   "water:unstated",
+   "ing:niacinamide",
+   "claim:oil-control",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/niacinamide-dry-touch-matte-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide Dry Touch Matte Sunscreen",
+   "inciMatchScore": 1,
+   "inciText": "Sodium Gluconate, Tocopheryl Acetate, Sorbitan Isostearate, Stearic Acid, Dimethicone, Polysorbate 20, Stearyl Stearate, Achyrocline Satureioides Extract, Verbascum Thapsus Extract, Fabiana Imbricata Leaf/Stem Extract, Plantago Lanceolata Leaf Extract, Sodium PCA, Alcohol, Glycerin, Sodium Hyaluronate, Ethylhexylglycerin, Hydrogenated Vegetable Oil, Cera Microcristallina, Polyisobutene, Xanthan Gum, Polyacrylate-13, Acacia Senegal Gum, Camellia Sinensis Extract, Centella Asiatica Extract, Nelumbo Nucifera Flower Extract, Phenoxyethanol, Cetearyl Alcohol, Propanediol, PEG-100 Stearate, Glyceryl Stearate, Coco-Caprylate/Caprate, Glyceryl Monostearate, Butyl Methoxydibenzoylmethane, Dicaprylyl Carbonate, Methyl Methacrylate Crosspolymer, Ethylhexyl Salicylate, Niacinamide, Octocrylene, Homosalate, Aqua (Water)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 36,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 38,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "sodium pca",
+    "glycerin",
+    "sodium hyaluronate",
+    "propanediol",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "plum-bs-jpwj2i",
   "brand": "Plum",
   "model": "Rice Water & 2% Niacinamide Hybrid Sunscreen | 7 gm | Travel-Size",
@@ -31995,7 +35916,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "free_gift4_mini (brand site's own product type)"
   },
   "images": [
@@ -32102,7 +36023,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — centella asiatica extract #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -32338,7 +36259,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -32524,7 +36445,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — zinc pca #24 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "tryplum (brand site's own product type)"
   },
   "images": [
@@ -32708,7 +36629,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — zinc pca #24 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -32845,6 +36766,193 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "plum-bs-fitng5",
+  "brand": "Plum",
+  "model": "Squalane & Vitamin E Dewy-Bright Sunscreen SPF 50 PA+++ (50 g) - Pack of 2",
+  "price": 828,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Squalane + Vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹828/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl salicylate high on the INCI list (strong evidence); octocrylene high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.4,
+   "skin": 9,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹828/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Squalane, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/squalane-vitamin-e-dewy-bright-sunscreen-spf-50-pa-copy",
+   "inciMatchedName": "Squalane & Vitamin E Dewy-Bright Sunscreen SPF 50 PA+++ (50 g) - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Octocrylene, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Squalane, Neopentyl Glycol Diheptanoate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Gluconate, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Tocopheryl Acetate, Ethylhexylglycerin, Ethylhexyl Triazone",
+   "evidenceActives": "ethylhexyl salicylate (#2 on list, strong evidence); octocrylene (#8 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#9 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#16 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#17 on list, strong evidence); ethylhexyl triazone (#23 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0390/2985/files/Combo-SKUs-Squalane-SPF-Pack-of-2-1st-Tile-1001x1001-px_1.webp?v=1782285524"
+  ],
+  "buyUrl": "https://plumgoodness.com/products/squalane-vitamin-e-dewy-bright-sunscreen-spf-50-pa-copy",
+  "buyStore": "Brand store",
+  "title": "Plum Squalane & Vitamin E Dewy-Bright Sunscreen SPF 50 PA+++ (50 g) - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:squalane",
+   "ing:vitamin-e",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/squalane-vitamin-e-dewy-bright-sunscreen-spf-50-pa-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Squalane & Vitamin E Dewy-Bright Sunscreen SPF 50 PA+++ (50 g) - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-15 Alkyl Benzoate, Ethylhexyl Salicylate, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Octocrylene, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Squalane, Neopentyl Glycol Diheptanoate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Gluconate, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Tocopheryl Acetate, Ethylhexylglycerin, Ethylhexyl Triazone",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "plum-bs-pb7bgk",
   "brand": "Plum",
   "model": "Saffron & Kumkumadi Oil Glow Bright Moisturizer with SPF 35 (50 g) - Pack of 2",
@@ -32893,7 +37001,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Combo (brand site's own product type)"
   },
   "images": [
@@ -33032,6 +37140,201 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "plum-bs-f90iqd",
+  "brand": "Plum",
+  "model": "2% Niacinamide & Rice Water SPF 50 PA++++ Hybrid Sunscreen (50 g) - Pack of 2",
+  "price": 662,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Niacinamide + Rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹662/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "EU-declared fragrance allergen: benzyl alcohol",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 8.6,
+   "skin": 8.6,
+   "trust": 7,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹662/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Rice water (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-spf-50-pa-hybrid-sunscreen-copy",
+   "inciMatchedName": "2% Niacinamide & Rice Water SPF 50 PA++++ Hybrid Sunscreen (50 g) - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Propanediol, Niacinamide, Glycerin, Titanium Dioxide, Rice Ferment Filtrate, Oryza Sativa (Rice) Extract, Aluminum Hydroxide, Benzyl Alcohol, Hydroxyacetophenone, Stearic Acid, Caprylyl Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Polyacryloyldimethyl Taurate, Sodium Benzoate, Potassium Sorbate, Sodium Gluconate, D-Panthenol",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); niacinamide (#8 on list, strong evidence); titanium dioxide (#10 on list, strong evidence); panthenol (#23 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0390/2985/files/Combo-SKUs-Nia-SPF-50g-Pack-of-2-1st-Tile-1001x1001-px.webp?v=1777964218"
+  ],
+  "buyUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-spf-50-pa-hybrid-sunscreen-copy",
+  "buyStore": "Brand store",
+  "title": "Plum 2% Niacinamide & Rice Water SPF 50 PA++++ Hybrid Sunscreen (50 g) - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "sun:hybrid",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-spf-50-pa-hybrid-sunscreen-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Niacinamide & Rice Water SPF 50 PA++++ Hybrid Sunscreen (50 g) - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Propanediol, Niacinamide, Glycerin, Titanium Dioxide, Rice Ferment Filtrate, Oryza Sativa (Rice) Extract, Aluminum Hydroxide, Benzyl Alcohol, Hydroxyacetophenone, Stearic Acid, Caprylyl Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Polyacryloyldimethyl Taurate, Sodium Benzoate, Potassium Sorbate, Sodium Gluconate, D-Panthenol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "plum-bs-1mhiuqq",
   "brand": "Plum",
   "model": "Yuzu & Alpha Arbutin Weightless Fluid Sunscreen 35 PA++++",
@@ -33079,7 +37382,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — alpha-arbutin #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -33249,7 +37552,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — ceramide eop #19 on INCI, ceramide np #21 on INCI, ceramide ap #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "single (brand site's own product type)"
   },
   "images": [
@@ -33461,7 +37764,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -33646,7 +37949,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -33844,7 +38147,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -34037,7 +38340,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf juice #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Single (brand site's own product type)"
   },
   "images": [
@@ -34240,7 +38543,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -34450,7 +38753,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -34660,7 +38963,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -34871,7 +39174,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -35081,7 +39384,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eop #24 on INCI, ceramide np #26 on INCI, ceramide ap #28 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -35306,7 +39609,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -35517,7 +39820,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eop #24 on INCI, ceramide np #26 on INCI, ceramide ap #28 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -35741,7 +40044,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -35952,7 +40255,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -36157,7 +40460,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — aloe barbadensis leaf extract #14 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -36363,7 +40666,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -36552,7 +40855,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -36759,7 +41062,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — niacinamide #17 on INCI, ethyl ascorbic acid #18 on INCI; Aging — ethyl ascorbic acid #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -36974,7 +41277,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — aloe barbadensis leaf extract #14 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -37179,7 +41482,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -37366,7 +41669,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -37574,7 +41877,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -37713,7 +42016,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -37918,7 +42221,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -38067,7 +42370,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -38273,7 +42576,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — niacinamide #17 on INCI, ethyl ascorbic acid #18 on INCI; Aging — ethyl ascorbic acid #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -38487,7 +42790,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -38642,7 +42945,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — aloe barbadensis leaf extract #14 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -38849,7 +43152,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -39002,7 +43305,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -39148,7 +43451,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -39352,7 +43655,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -39512,7 +43815,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #42 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -39726,7 +44029,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/2_7ea09be2-bba7-4b92-83c6-0d3506250b3c.jpg?v=1744542872"
@@ -39833,7 +44136,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #19 on INCI, avena sativa kernel extract #21 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/2_375aee36-1d69-4400-b9d5-0ae02e475b4d.jpg?v=1744542820"
@@ -40062,7 +44365,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Aging — adenosine #24 on INCI; Irritation — panthenol #17 on INCI, avena sativa kernel extract #25 on INCI (matching only — not proof it works)",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/60100080-2.jpg?v=1744543036"
@@ -40272,7 +44575,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — dipotassium glycyrrhizate #42 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -40490,7 +44793,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #17 on INCI, avena sativa kernel extract #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "belif official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/2_81.jpg?v=1744543024"
@@ -40684,7 +44987,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #15 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "FULL SIZE (brand site's own product type)"
   },
   "images": [
@@ -40893,7 +45196,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #29 on INCI; Aging — adenosine #21 on INCI, ascorbyl glucoside #29 on INCI; Irritation — panthenol #11 on INCI, ceramide np #36 on INCI (matching only — not proof it works)",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Full size (brand site's own product type)"
   },
   "images": [
@@ -41138,7 +45441,7 @@ const BSPRODUCTS = [
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "The Face Shop official web store (thefaceshop.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0486/7552/0664/files/1_ba3116dc-6ea6-4360-9516-47a1f68a11c8.jpg?v=1761110366"
@@ -41240,7 +45543,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0360/4211/3164/files/rosemarywatersunscreen.webp?v=1741355855"
@@ -41340,7 +45643,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -41449,7 +45752,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — azelaic acid #11 on INCI; Dark spots — azelaic acid #11 on INCI; Irritation — azelaic acid #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -41698,7 +46001,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — azelaic acid #11 on INCI; Dark spots — azelaic acid #11 on INCI; Irritation — azelaic acid #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -41946,7 +46249,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "ThriveCo official web store (thriveco.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -42130,7 +46433,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/5d913f75-77dd-4d4f-8a4a-2a8b0ddf46bc"
@@ -42234,7 +46537,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Nature Derma official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/7c6c9657-dd6f-484f-b85d-94593ed2548f"
@@ -42338,7 +46641,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/67fa1385-ec61-45c8-91c0-0b0210a8f04b.mp4"
@@ -42443,7 +46746,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/b25b386d-a7c5-4327-b918-2f9c4f0f32ec.mp4"
@@ -42686,7 +46989,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/9847f9d1-fc84-4f12-ac53-4853e03fe33f.png"
@@ -42789,7 +47092,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/1a5e27f6-cd2e-4c60-a093-0221e4e8e396.png"
@@ -42896,7 +47199,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/public/db7c7421-a0b8-48f8-9391-b62bab3ebbec.jpeg"
@@ -43079,7 +47382,7 @@ const BSPRODUCTS = [
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)",
-   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Wow Skin Science official web store (www.buywow.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://media.buywow.in/uploads/999dec1f-27ad-480c-9680-975bad37003c.png"
@@ -43180,6 +47483,196 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-1bsonn8",
+  "brand": "Dot & Key",
+  "model": "Strawberry Dew Tinted Sunscreen Sand, Pack of 2",
+  "price": 1098,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Strawberry",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.9,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Strawberry (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Tinted (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-sand-pack-of-2",
+   "inciMatchedName": "Strawberry Dew Tinted Sunscreen Sand, Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Isododecane, Glycerine, Phenyl Trimethicone, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Titanium Dioxide (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Cross polymer, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Zea Mays (Corn) Starch, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Hyaluronate, Niacinamide, Panthenol, Tocopheryl acetate, Polyglyceryl-3 Polyricinoleate, Xanthan Gum, Polyacrylate Crosspolymer-6, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Sodium Gluconate, Phenoxyethanol (and) Ethylhexylglycerin, Disodium EDTA, CI 77491 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77492 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77499 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); titanium dioxide (#12 on list, strong evidence); niacinamide (#23 on list, strong evidence); panthenol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #23 on INCI; Dark spots — niacinamide #23 on INCI; Irritation — panthenol #24 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Untitled-1_8238dabc-ca81-40a2-9d19-88289bc026fb.jpg?v=1787999359"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-sand-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key Strawberry Dew Tinted Sunscreen Sand, Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "ing:strawberry",
+   "claim:tinted",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-sand-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Strawberry Dew Tinted Sunscreen Sand, Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Isododecane, Glycerine, Phenyl Trimethicone, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Titanium Dioxide (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Cross polymer, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Zea Mays (Corn) Starch, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Hyaluronate, Niacinamide, Panthenol, Tocopheryl acetate, Polyglyceryl-3 Polyricinoleate, Xanthan Gum, Polyacrylate Crosspolymer-6, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Sodium Gluconate, Phenoxyethanol (and) Ethylhexylglycerin, Disodium EDTA, CI 77491 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77492 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77499 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "niacinamide",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-c5z9oj",
   "brand": "Dot & Key",
   "model": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
@@ -43228,7 +47721,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — niacinamide #16 on INCI, ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -43371,6 +47864,247 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-1c3u083",
+  "brand": "Dot & Key",
+  "model": "SPF 50+ Cica & Niacinamide Sunscreen - Pack of 2",
+  "price": 1190,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Centella / cica",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-cica-niacinamide-sunscreen-duo",
+   "inciMatchedName": "SPF 50+ Cica & Niacinamide Sunscreen - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Cyclopentasiloxane, Sodium Acrylates Copolymer (and) Lecithin, Glycerine, Niacinamide, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propylene Glycol, Propanediol, Zea Mays (Corn) Starch, Centella Asiatica (Cica) Extract, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide (and) Silica, Silanediol Salicylate, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Tocopheryl Acetate, Bisabolol, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Polymethylsilsesquioxane, Cetearyl Alcohol, Glyceryl Monostearate,Sodium Gluconate, Disodium EDTA, Silica, Phenoxyethanol (and) Ethylhexylglycerin",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); niacinamide (#11 on list, strong evidence); centella asiatica extract (#16 on list, moderate evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#17 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#22 on list, strong evidence); titanium dioxide (#23 on list, strong evidence); aloe barbadensis leaf juice (#27 on list, moderate evidence); camellia sinensis leaf extract (#28 on list, moderate evidence); bisabolol (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — centella asiatica extract #16 on INCI, aloe barbadensis leaf juice #27 on INCI, bisabolol #30 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/sun80.jpg?v=1772019241"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/spf-50-cica-niacinamide-sunscreen-duo",
+  "buyStore": "Brand store",
+  "title": "Dot & Key SPF 50+ Cica & Niacinamide Sunscreen - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50+",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-cica-niacinamide-sunscreen-duo",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "SPF 50+ Cica & Niacinamide Sunscreen - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Cyclopentasiloxane, Sodium Acrylates Copolymer (and) Lecithin, Glycerine, Niacinamide, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propylene Glycol, Propanediol, Zea Mays (Corn) Starch, Centella Asiatica (Cica) Extract, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide (and) Silica, Silanediol Salicylate, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Tocopheryl Acetate, Bisabolol, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Polymethylsilsesquioxane, Cetearyl Alcohol, Glyceryl Monostearate,Sodium Gluconate, Disodium EDTA, Silica, Phenoxyethanol (and) Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "propanediol",
+    "sodium hyaluronate",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-6j8772",
   "brand": "Dot & Key",
   "model": "Dragon Fruit Bounce Gel Sunscreen SPF 50+ PA++++, With New-Age UV Filters",
@@ -43418,7 +48152,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -43691,7 +48425,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #26 on INCI; Aging — ascorbyl glucoside #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -43824,6 +48558,199 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-1wkvusl",
+  "brand": "Dot & Key",
+  "model": "Strawberry Dew Tinted Sunscreen SPF 50+, Warm Ivory- Pack of 2",
+  "price": 1098,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Strawberry",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.9,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Strawberry (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Tinted, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-spf-50-warm-ivory-pack-of-2",
+   "inciMatchedName": "Strawberry Dew Tinted Sunscreen SPF 50+, Warm Ivory- Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Isododecane, Glycerine, Phenyl Trimethicone, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Titanium Dioxide (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Cross polymer, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Zea Mays (Corn) Starch, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Hyaluronate, Niacinamide, Panthenol, Tocopheryl acetate, Polyglyceryl-3 Polyricinoleate, Xanthan Gum, Polyacrylate Crosspolymer-6, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Sodium Gluconate, Phenoxyethanol (and) Ethylhexylglycerin, Disodium EDTA, CI 77491 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77492 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77499 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); titanium dioxide (#12 on list, strong evidence); niacinamide (#23 on list, strong evidence); panthenol (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #23 on INCI; Dark spots — niacinamide #23 on INCI; Irritation — panthenol #24 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/image_8_7e9e71ad-15f8-47ee-a781-18bd2856f9e5.png?v=1787999350"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-spf-50-warm-ivory-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50+, Warm Ivory- Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50+",
+   "water:unstated",
+   "ing:strawberry",
+   "claim:tinted",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-spf-50-warm-ivory-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Strawberry Dew Tinted Sunscreen SPF 50+, Warm Ivory- Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Isododecane, Glycerine, Phenyl Trimethicone, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Titanium Dioxide (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Cross polymer, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Zea Mays (Corn) Starch, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Hyaluronate, Niacinamide, Panthenol, Tocopheryl acetate, Polyglyceryl-3 Polyricinoleate, Xanthan Gum, Polyacrylate Crosspolymer-6, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Sodium Gluconate, Phenoxyethanol (and) Ethylhexylglycerin, Disodium EDTA, CI 77491 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77492 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77499 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "niacinamide",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-1e2wj0y",
   "brand": "Dot & Key",
   "model": "Strawberry Dew Tinted Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
@@ -43872,7 +48799,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #23 on INCI; Dark spots — niacinamide #23 on INCI; Irritation — panthenol #24 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -44017,6 +48944,193 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-1qdzvel",
+  "brand": "Dot & Key",
+  "model": "SPF 50+ Watermelon Sunscreen 50g-Pack of 2",
+  "price": 890,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Watermelon",
+  "featureLine": "Sunscreen · SPF 50 · ₹890/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 9.8,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹890/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Watermelon (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-watermelon-sunscreen-50g-pack-of-2",
+   "inciMatchedName": "SPF 50+ Watermelon Sunscreen 50g-Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospho- lipids (and) 1,3-Butylene Glycol, Glycerine, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propanediol, Cyclopentasiloxane, Zea Mays (Corn) Starch, Citrullus Lanatus (Watermelon) Fruit Extract, Oxothiazolidine (and) Butylene glycol (and) Sodium benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [and] Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide (and) Silica, Fructooligosaccharides (and) Beta Vulgaris (Beet) Root Extract (and) Water, Sodium Hyaluronate, Aloe Barbadensis (Aloe Vera) Leaf Juice, Tocopheryl Acetate, Menthyl Lactate, Glyceryl Stearate (and) PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sorbitan Stearate (and) Sucrose Cocoate, Sodium Lactate, Sodium Gluconate, Disodium EDTA, Sodium Hydroxide, Phenoxyethanol (and) Ethylhexylglycerin",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#20 on list, strong evidence); titanium dioxide (#21 on list, strong evidence); aloe barbadensis leaf juice (#27 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/watermelonsuncopy.jpg?v=1771417490"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/spf-50-watermelon-sunscreen-50g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key SPF 50+ Watermelon Sunscreen 50g-Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50+",
+   "water:unstated",
+   "ing:watermelon",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-watermelon-sunscreen-50g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "SPF 50+ Watermelon Sunscreen 50g-Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospho- lipids (and) 1,3-Butylene Glycol, Glycerine, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propanediol, Cyclopentasiloxane, Zea Mays (Corn) Starch, Citrullus Lanatus (Watermelon) Fruit Extract, Oxothiazolidine (and) Butylene glycol (and) Sodium benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [and] Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide (and) Silica, Fructooligosaccharides (and) Beta Vulgaris (Beet) Root Extract (and) Water, Sodium Hyaluronate, Aloe Barbadensis (Aloe Vera) Leaf Juice, Tocopheryl Acetate, Menthyl Lactate, Glyceryl Stearate (and) PEG-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sorbitan Stearate (and) Sucrose Cocoate, Sodium Lactate, Sodium Gluconate, Disodium EDTA, Sodium Hydroxide, Phenoxyethanol (and) Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-1fvvlmn",
   "brand": "Dot & Key",
   "model": "Strawberry Sunscreen Face Mist In-Vivo Tested SPF 50+ PA+++",
@@ -44065,7 +49179,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -44216,6 +49330,248 @@ const BSPRODUCTS = [
   }
  },
  {
+  "id": "dot-key-bs-1rxrjlg",
+  "brand": "Dot & Key",
+  "model": "SPF 50+ Cica & Niacinamide Sunscreen 50g - Pack of 2",
+  "price": 890,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Niacinamide + Centella / cica",
+  "featureLine": "Sunscreen · SPF 50 · ₹890/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); butyl methoxydibenzoylmethane high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹890/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-cica-niacinamide-sunscreen-50g-pack-of-2",
+   "inciMatchedName": "SPF 50+ Cica & Niacinamide Sunscreen 50g - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Cyclopentasiloxane, Sodium Acrylates Copolymer (and) Lecithin, Glycerine, Niacinamide, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propylene Glycol, Propanediol, Zea Mays (Corn) Starch, Centella Asiatica (Cica) Extract, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide (and) Silica, Silanediol Salicylate, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Tocopheryl Acetate, Bisabolol, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Polymethylsilsesquioxane, Cetearyl Alcohol, Glyceryl Monostearate,Sodium Gluconate, Disodium EDTA, Silica, Phenoxyethanol (and) Ethylhexylglycerin",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); benzophenone-3 (#4 on list, strong evidence); niacinamide (#11 on list, strong evidence); centella asiatica extract (#16 on list, moderate evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#17 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#22 on list, strong evidence); titanium dioxide (#23 on list, strong evidence); aloe barbadensis leaf juice (#27 on list, moderate evidence); camellia sinensis leaf extract (#28 on list, moderate evidence); bisabolol (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — centella asiatica extract #16 on INCI, aloe barbadensis leaf juice #27 on INCI, bisabolol #30 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
+   "storeCategory": "Combo (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica50.jpg?v=1772019056"
+  ],
+  "buyUrl": "https://www.dotandkey.com/products/spf-50-cica-niacinamide-sunscreen-50g-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "Dot & Key SPF 50+ Cica & Niacinamide Sunscreen 50g - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "spf:50+",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/spf-50-cica-niacinamide-sunscreen-50g-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "SPF 50+ Cica & Niacinamide Sunscreen 50g - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Cyclopentasiloxane, Sodium Acrylates Copolymer (and) Lecithin, Glycerine, Niacinamide, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propylene Glycol, Propanediol, Zea Mays (Corn) Starch, Centella Asiatica (Cica) Extract, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (and) Aqua (and) Decyl Glucoside (and) Propylene Glycol (and) Xanthan Gum, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Titanium Dioxide (and) Silica, Silanediol Salicylate, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Tocopheryl Acetate, Bisabolol, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Polymethylsilsesquioxane, Cetearyl Alcohol, Glyceryl Monostearate,Sodium Gluconate, Disodium EDTA, Silica, Phenoxyethanol (and) Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "propanediol",
+    "sodium hyaluronate",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dot-key-bs-ftuj8l",
   "brand": "Dot & Key",
   "model": "Mango Detan Gel Sunscreen, In-Vivo Tested SPF 50+ PA++++",
@@ -44263,7 +49619,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -44476,7 +49832,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — ceramide eos #22 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -44680,7 +50036,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -44941,7 +50297,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -45131,7 +50487,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — niacinamide #17 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)",
    "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -45312,7 +50668,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -45573,7 +50929,7 @@ const BSPRODUCTS = [
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -45762,7 +51118,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #27 on INCI; Dark spots — niacinamide #27 on INCI; Irritation — ceramide eos #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Dot & Key official web store (www.dotandkey.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturiser (brand site's own product type)"
   },
   "images": [
@@ -46014,7 +51370,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #14 on INCI; Aging — ascorbyl glucoside #14 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/super-uv/invisible-air-mist-sunscreen/super-uv-mist_1.jpg?rev=11da3ddd8d8c4b38b4d446e542e48302&hash=2D4B2ACB0350C13850456B25B822093F"
@@ -46236,7 +51592,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #14 on INCI; Aging — ascorbyl glucoside #14 on INCI, adenosine #19 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/super-uv/invisible-serum-sunscreen/super-uv-serum-sunscreen_1.jpg?rev=7aaf1b4992ff447186882c747d37fc89&hash=FBE4FEA1241EF524960F79CF7D3B0557"
@@ -46454,7 +51810,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/others/sun-control-moisturiser-spf-15/sun-control-moisturiser-spf15-50ml/8901526200375_t1.jpg?rev=1c0122b306c74e939a4327b29c5b81c0&hash=4C72850D271CCE516BE1C102967015D4"
@@ -46634,7 +51990,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbyl glucoside #15 on INCI; Aging — ascorbyl glucoside #15 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/super-uv-cooling-watergel-sunscreen/pdp/watergel-sunscreen-00.jpg?rev=e72ed4317be3487991343c5d7665ba02&hash=7305B47BB58C3F9FBBFE0F8E938573AE"
@@ -46840,7 +52196,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Garnier official web store (www.garnier.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/light-complete/serum-cream-spf-40/lc-serum-cream-spf40--45g/8901526005185-0.jpg?rev=f56ca49e91a9467c92e6c7feeea22369&hash=48D46B52F9332FBB1B4FF3A15AA32E44"
@@ -47076,7 +52432,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen Gel (brand site's own product type)"
   },
   "images": [
@@ -47240,7 +52596,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -47402,7 +52758,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Jovees (brand site's own product type)"
   },
   "images": [
@@ -47587,7 +52943,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Serum (brand site's own product type)"
   },
   "images": [
@@ -47737,7 +53093,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Body Lotion (brand site's own product type)"
   },
   "images": [
@@ -47843,7 +53199,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Lotion (brand site's own product type)"
   },
   "images": [
@@ -47993,7 +53349,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -48143,7 +53499,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "De-Tan Lotion (brand site's own product type)"
   },
   "images": [
@@ -48285,7 +53641,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — melaleuca alternifolia leaf oil #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Derma Care Lotion (brand site's own product type)"
   },
   "images": [
@@ -48477,7 +53833,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -48623,7 +53979,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Protective sunscreen (brand site's own product type)"
   },
   "images": [
@@ -48798,7 +54154,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sun Guard Lotion (brand site's own product type)"
   },
   "images": [
@@ -48970,7 +54326,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Powder (brand site's own product type)"
   },
   "images": [
@@ -49077,7 +54433,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen Gel (brand site's own product type)"
   },
   "images": [
@@ -49219,7 +54575,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Lotion (brand site's own product type)"
   },
   "images": [
@@ -49389,7 +54745,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -49540,7 +54896,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Cream (brand site's own product type)"
   },
   "images": [
@@ -49689,7 +55045,7 @@ const BSPRODUCTS = [
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Jovees official web store (www.jovees.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Day Cream (brand site's own product type)"
   },
   "images": [
@@ -49832,7 +55188,7 @@ const BSPRODUCTS = [
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Kama Ayurveda official web store (www.kamaayurveda.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://static.kamaayurveda.com/media/catalog/product/0/1/01_amsuman-daily-sun-shield-30ml.png?store=default&image-type=small_image"
@@ -49932,7 +55288,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/files/0_1.jpg?v=1759313402"
@@ -50036,7 +55392,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0563/2625/8739/files/0_2.jpg?v=1759313548"
@@ -50140,7 +55496,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Sun Shield Range, Sun Shield Range/Sunscreen Lotions (brand site's own product type)"
   },
   "images": [
@@ -50243,7 +55599,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Sun Shield Range, Sun Shield Range/Sunscreen Lotions (brand site's own product type)"
   },
   "images": [
@@ -50346,7 +55702,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Sun Shield Range, Sun Shield Range/Sunscreen Lotions (brand site's own product type)"
   },
   "images": [
@@ -50449,7 +55805,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Sun Shield Range, Sun Shield Range/Sunscreen Lotions (brand site's own product type)"
   },
   "images": [
@@ -50552,7 +55908,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Sun Shield Range, Sun Shield Range/Sunscreen Lotions (brand site's own product type)"
   },
   "images": [
@@ -50655,7 +56011,7 @@ const BSPRODUCTS = [
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Khadi Natural official web store (www.khadinatural.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "All Products, Sun Shield Range, Sun Shield Range/Sunscreen Lotions (brand site's own product type)"
   },
   "images": [
@@ -50763,7 +56119,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Irritation — panthenol #14 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -50923,16 +56279,18 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Milk",
   "featureLine": "Sunscreen · SPF 50 · ₹1298/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -50951,15 +56309,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/sun-milk-100-mineral-sunscreen-spf-50-pa",
+   "inciMatchedName": "Sun milk 100% mineral sunscreen SPF 50 PA++++ | 50 ml (name match 100%)",
+   "inciList": "Purified Water, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Cyclopentasiloxane, PEG/PPG-18/18 Dimethicone, Isododecane, Glycerin, Niacinamide, Silica, Dimethicone/Vinyl Dimethicone Crosspolymer, Caprylyl Methicone, PEG-12 Dimethicone/PPG-20 Crosspolymer, Titanium Dioxide, Cetyl PEG/PPG-10/1 Dimethicone, Talc, Sodium Chloride, Salix Alba (Willow) Bark Extract, Melia Azadirachta (Neem) Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Scutellaria Baicalensis, Centella Asiatica (Cica) Extract, Bisabolol, Hamamelis Virginiana (Witch Hazel) Extract, Glycine Soja (Soybean) Seed Extract, Houttuynia Cordata (Heart Leaf) Extract, Scutellaria Baicalensis (Chinese Skullcap) Root Extract, Rehmannia Chinensis Root Extract, Phellodendron Amurense (Amur Cork Tree) Bark Extract, Lactobacillus/Pear Juice Ferment Filtrate, Butylene Glycol, Glycolic Acid, PEG-60 Hydrogenated Castor Oil, Ethylhexylglycerin, Glyceryl Caprylate, O-Cymen-5-Ol, PEG-10 Dimethicone, Magnesium Sulfate, Phenoxyethanol",
+   "evidenceActives": "zinc oxide (#2 on list, strong evidence); niacinamide (#9 on list, strong evidence); titanium dioxide (#14 on list, strong evidence); centella asiatica extract (#22 on list, moderate evidence); bisabolol (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — centella asiatica extract #22 on INCI, bisabolol #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -50980,7 +56341,12 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -50988,25 +56354,94 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/sun-milk-100-mineral-sunscreen-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sun milk 100% mineral sunscreen SPF 50 PA++++ | 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Cyclopentasiloxane, PEG/PPG-18/18 Dimethicone, Isododecane, Glycerin, Niacinamide, Silica, Dimethicone/Vinyl Dimethicone Crosspolymer, Caprylyl Methicone, PEG-12 Dimethicone/PPG-20 Crosspolymer, Titanium Dioxide, Cetyl PEG/PPG-10/1 Dimethicone, Talc, Sodium Chloride, Salix Alba (Willow) Bark Extract, Melia Azadirachta (Neem) Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Scutellaria Baicalensis, Centella Asiatica (Cica) Extract, Bisabolol, Hamamelis Virginiana (Witch Hazel) Extract, Glycine Soja (Soybean) Seed Extract, Houttuynia Cordata (Heart Leaf) Extract, Scutellaria Baicalensis (Chinese Skullcap) Root Extract, Rehmannia Chinensis Root Extract, Phellodendron Amurense (Amur Cork Tree) Bark Extract, Lactobacillus/Pear Juice Ferment Filtrate, Butylene Glycol, Glycolic Acid, PEG-60 Hydrogenated Castor Oil, Ethylhexylglycerin, Glyceryl Caprylate, O-Cymen-5-Ol, PEG-10 Dimethicone, Magnesium Sulfate, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -51027,16 +56462,18 @@ const BSPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 70",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); zinc oxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -51055,15 +56492,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/matte-max-velvet-touch-sunscreen-spf-70-pa",
+   "inciMatchedName": "Matte Max Velvet Touch Sunscreen SPF 70+ PA++++ (name match 100%)",
+   "inciList": "Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Octyl Methoxycinnamate, Zinc Oxide, Coco-Caprylate/Caprate, Polyglyceryl-3 Polyricinoleate, Isostearic Acid, Silica, C12 -C15 Alkyl Benzoate, Dimethicone, Octisalate, Homosalate, Caprylic/Capric Triglyceride, Tocopheryl Acetate, Laminaria Ochroleuca (Brown Algae) Extract, Limnanthes Alba (Meadowfoam) Seed Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#3 on list, strong evidence); zinc oxide (#4 on list, strong evidence); octisalate (#11 on list, strong evidence); homosalate (#12 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#17 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -51082,7 +56521,9 @@ const BSPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -51090,25 +56531,84 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/matte-max-velvet-touch-sunscreen-spf-70-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Matte Max Velvet Touch Sunscreen SPF 70+ PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Octyl Methoxycinnamate, Zinc Oxide, Coco-Caprylate/Caprate, Polyglyceryl-3 Polyricinoleate, Isostearic Acid, Silica, C12 -C15 Alkyl Benzoate, Dimethicone, Octisalate, Homosalate, Caprylic/Capric Triglyceride, Tocopheryl Acetate, Laminaria Ochroleuca (Brown Algae) Extract, Limnanthes Alba (Meadowfoam) Seed Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "octisalate",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -51129,16 +56629,18 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50 · ₹1098/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aloe barbadensis leaf extract high on the INCI list (moderate evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 9,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -51157,15 +56659,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/ultra-light-water-sunscreen-spf-50-pa",
+   "inciMatchedName": "ULTRA LIGHT WATER SUNSCREEN SPF 50 PA ++++ | 50 ml (name match 100%)",
+   "inciList": "Aqua (Water), Aloe Barbadensis Leaf (Aloe Vera) Extract, Ethylhexyl Methoxycinnamate, Dimethicone, Niacinamide, Methylene Bis-Benzotriazolyl Tetra methylbutylphenol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Centella Asiatica (Cica) Extract, Glycerin, Oryza Sativa (Rice) Starch, Undecane, Tridecane, Sodium Hyaluronate, Sodium Hyaluronate Cross polymer, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Chamomilla Recutita (Matricaria) Flower Extract, Ethylhexyl Triazone, Tocotrienol (Vitamin E), Glyceryl Glucoside, 1,2-Hexanediol, Sodium Stearoyl Glutamate, Sodium Polyacrylate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Isohexadecane, Polysorbate 80, Xanthan gum, Phenoxyethanol, Ethylhexylglycerin, Decyl Glucoside, Propylene Glycol, Sodium Gluconate, Citric Acid",
+   "evidenceActives": "aloe barbadensis leaf extract (#2 on list, moderate evidence); ethylhexyl methoxycinnamate (#3 on list, strong evidence); niacinamide (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#6 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#7 on list, strong evidence); centella asiatica extract (#8 on list, moderate evidence); ethylhexyl triazone (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — aloe barbadensis leaf extract #2 on INCI, centella asiatica extract #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -51184,7 +56689,12 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -51192,25 +56702,127 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/ultra-light-water-sunscreen-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "ULTRA LIGHT WATER SUNSCREEN SPF 50 PA ++++ | 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Aloe Barbadensis Leaf (Aloe Vera) Extract, Ethylhexyl Methoxycinnamate, Dimethicone, Niacinamide, Methylene Bis-Benzotriazolyl Tetra methylbutylphenol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Centella Asiatica (Cica) Extract, Glycerin, Oryza Sativa (Rice) Starch, Undecane, Tridecane, Sodium Hyaluronate, Sodium Hyaluronate Cross polymer, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Chamomilla Recutita (Matricaria) Flower Extract, Ethylhexyl Triazone, Tocotrienol (Vitamin E), Glyceryl Glucoside, 1,2-Hexanediol, Sodium Stearoyl Glutamate, Sodium Polyacrylate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Isohexadecane, Polysorbate 80, Xanthan gum, Phenoxyethanol, Ethylhexylglycerin, Decyl Glucoside, Propylene Glycol, Sodium Gluconate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "niacinamide",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -51231,16 +56843,18 @@ const BSPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50 · ₹898/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl methoxycinnamate high on the INCI list (strong evidence); diethylamino hydroxybenzoyl hexyl benzoate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 9,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -51259,15 +56873,18 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/all-i-need-sunscreen-spf-50",
+   "inciMatchedName": "All I Need Sunscreen SPF 50 PA++++ | 50 ml (name match 100%)",
+   "inciList": "Aqua (Water), Ethylhexyl Methoxycinnamate, Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Dibutyl Adipate, Rice starch,Tris-Biphenyl Triazine, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetra Methylbutylphenol, Terminalia ferdinandiana (Kakadu) Extract, Niacinamide, Kojic acid, Ceramide EOP, Ceramide NP, Ceramide AP, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer, Lauryl Glucoside, Sodium Stearoyl Glutamate, Phytosphingosine, Glycosphingolipids, Propylene Glycol, Glyceryl Glucoside, Decyl Glucoside, Butylene Glycol, Disodium Phosphate, Sodium Polyacrylate,Tetraacetyl Phytosphingosine, Stearic Acid, Hydrogenated polydecene, Glyceryl Stearate, Cetearyl alcohol, 1,2-Hexanediol, Xanthan Gum, Cholesterol, Hydrogenated Lecithin, Sodium Gluconate, Phenoxyethanol. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#4 on list, strong evidence); tris-biphenyl triazine (#8 on list, strong evidence); ethylhexyl triazone (#9 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#10 on list, strong evidence); niacinamide (#12 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI, kojic acid #13 on INCI; Irritation — ceramide eop #14 on INCI, ceramide np #15 on INCI, ceramide ap #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -51286,7 +56903,12 @@ const BSPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:brand-store",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -51294,25 +56916,139 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/all-i-need-sunscreen-spf-50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "All I Need Sunscreen SPF 50 PA++++ | 50 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Ethylhexyl Methoxycinnamate, Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Dibutyl Adipate, Rice starch,Tris-Biphenyl Triazine, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetra Methylbutylphenol, Terminalia ferdinandiana (Kakadu) Extract, Niacinamide, Kojic acid, Ceramide EOP, Ceramide NP, Ceramide AP, Sodium Acrylates/Beheneth-25 Methacrylate Crosspolymer, Lauryl Glucoside, Sodium Stearoyl Glutamate, Phytosphingosine, Glycosphingolipids, Propylene Glycol, Glyceryl Glucoside, Decyl Glucoside, Butylene Glycol, Disodium Phosphate, Sodium Polyacrylate,Tetraacetyl Phytosphingosine, Stearic Acid, Hydrogenated polydecene, Glyceryl Stearate, Cetearyl alcohol, 1,2-Hexanediol, Xanthan Gum, Cholesterol, Hydrogenated Lecithin, Sodium Gluconate, Phenoxyethanol. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tris-biphenyl triazine",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "niacinamide",
+    "ceramide eop",
+    "ceramide np",
+    "ceramide ap",
+    "butylene glycol",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -51369,7 +57105,7 @@ const BSPRODUCTS = [
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "L'Oréal official web store (www.lorealparis.co.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "L'Oréal official web store (www.lorealparis.co.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://www.lorealparis.co.in/-/media/project/loreal/brand-sites/oap/apac/in/local-products/packshots-2026/updated/loral-paris-glycolic-bright-day-cream-with-spf-17.png"
@@ -51475,7 +57211,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI, glycyrrhiza glabra root extract #20 on INCI; Irritation — avena sativa kernel extract #24 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -51673,7 +57409,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -51859,7 +57595,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #14 on INCI; Aging — tetrahexyldecyl ascorbate #14 on INCI, adenosine #15 on INCI; Irritation — bisabolol #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -52034,7 +57770,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Paula's Choice official web store (www.paulaschoice.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -52224,7 +57960,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -52331,7 +58067,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/Facebright_Sunscreen_Listing_image_1_1_1.jpg?v=1773384379"
@@ -52494,7 +58230,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PinkTherapy_Sunscreen_Moisturiser_PI_1_1_1.jpg?v=1773384418"
@@ -52605,7 +58341,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/ReneeEveryday_CCBBButterVanilla_PI_01_1_-min.jpg?v=1767079618"
@@ -52770,7 +58506,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/Lumi_Glow_Sunscreen_Listing_image_1_1_1.jpg?v=1773299704"
@@ -52934,7 +58670,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — palmitoyl tripeptide-1 #10 on INCI, palmitoyl tetrapeptide-7 #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/GlassSkinSunscreenSPF50_01.jpg?v=1744745049"
@@ -53159,7 +58895,7 @@ const BSPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0597/9422/7350/files/PrincessbyReneeDisneyMoanaSunscreenwithSPF50PI.jpg?v=1767768974"
@@ -53330,7 +59066,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — sodium ascorbyl phosphate #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [
@@ -53553,7 +59289,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — ascorbic acid #11 on INCI; Aging — ascorbic acid #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -53760,7 +59496,7 @@ const BSPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI, ascorbic acid #14 on INCI; Aging — ascorbic acid #14 on INCI; Irritation — aloe barbadensis leaf extract #16 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Renee official web store (www.reneecosmetics.in) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Sunscreen (brand site's own product type)"
   },
   "images": [
@@ -53975,7 +59711,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Upsell (brand site's own product type)"
   },
   "images": [
@@ -54181,7 +59917,7 @@ const BSPRODUCTS = [
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing",
-   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Man Company official web store (www.themancompany.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face (brand site's own product type)"
   },
   "images": [

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -53104,15 +53104,16 @@ const CTPRODUCTS = [
   "capacityLine": "15 g",
   "materialLine": "peptides",
   "featureLine": "Cream / gel · ₹4993/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); caffeine high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.4,
+   "skin": 10,
+   "trust": 8,
    "experience": 4.5
   },
   "fullSpec": {
@@ -53129,13 +53130,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/copper-argireline-peptide-btox-eye-cream-15g",
+   "inciMatchedName": "Copper & Argireline® Peptide B'tox Eye Cream - 15g (name match 96%)",
+   "inciList": "B’TOX EYE CREAM Aqua, Niacinamide, Betaine, Ethoxydiglycol, Propanediol, Pullulan, Caffeine, Xylitol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Acetyl Hexapeptide-8, Palmitoyl Tetrapeptide-7, Dipeptide-2, Adenosine, Acetyl Tetrapeptide-5, Palmitoyl Tripeptide-5, Carnosine, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Glycerin, 1,2-Hexanediol, Phenoxyethanol, Ethylhexylglycerin, Glucosyl Hesperidin, Avena Sativa (Oat) Kernel Extract, Poria Cocos Sclerotium Extract, Portulaca Oleracea Extract, Palmitoyl Tripeptide-8, Dipotassium Glycyrrhizate, Caprylyl Glycol, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Butylene Glycol, Phytosterols, Hydrogenated Phosphatidylcholine, Pistacia Lentiscus (Mastic) Gum, Lecithin, Pentylene Glycol, Glyceryl Caprylate, Glyceryl Caprate, Caprylic/Capric Triglyceride, Polyvinylpyrrolidone, Sodium Silicate, Dimethyl Isosorbide, Copper Tripeptide-1, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, D-Panthenol, Ferulic Acid, Tocopheryl Acetate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); caffeine (#7 on list, moderate evidence); acetyl hexapeptide-8 (#11 on list, moderate evidence); palmitoyl tetrapeptide-7 (#12 on list, moderate evidence); adenosine (#14 on list, moderate evidence); glycerin (#19 on list, strong evidence); ceramide np (#30 on list, moderate evidence); ceramide ap (#31 on list, moderate evidence); ceramide eop (#32 on list, moderate evidence); copper tripeptide-1 (#46 on list, moderate evidence); panthenol (#48 on list, moderate evidence); tocopheryl acetate (#50 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — acetyl hexapeptide-8 #11 on INCI, palmitoyl tetrapeptide-7 #12 on INCI, adenosine #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/413Ik0bmPEL._AC_UL320_.jpg"
@@ -53154,7 +53158,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -53163,25 +53172,155 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/copper-argireline-peptide-btox-eye-cream-15g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Copper & Argireline® Peptide B'tox Eye Cream - 15g",
+   "inciMatchScore": 0.96,
+   "inciText": "B’TOX EYE CREAM Aqua, Niacinamide, Betaine, Ethoxydiglycol, Propanediol, Pullulan, Caffeine, Xylitol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Acetyl Hexapeptide-8, Palmitoyl Tetrapeptide-7, Dipeptide-2, Adenosine, Acetyl Tetrapeptide-5, Palmitoyl Tripeptide-5, Carnosine, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Glycerin, 1,2-Hexanediol, Phenoxyethanol, Ethylhexylglycerin, Glucosyl Hesperidin, Avena Sativa (Oat) Kernel Extract, Poria Cocos Sclerotium Extract, Portulaca Oleracea Extract, Palmitoyl Tripeptide-8, Dipotassium Glycyrrhizate, Caprylyl Glycol, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Butylene Glycol, Phytosterols, Hydrogenated Phosphatidylcholine, Pistacia Lentiscus (Mastic) Gum, Lecithin, Pentylene Glycol, Glyceryl Caprylate, Glyceryl Caprate, Caprylic/Capric Triglyceride, Polyvinylpyrrolidone, Sodium Silicate, Dimethyl Isosorbide, Copper Tripeptide-1, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, D-Panthenol, Ferulic Acid, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "oat"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 48,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 49,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 50,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

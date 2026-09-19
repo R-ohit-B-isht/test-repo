@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -7602,17 +7602,17 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Vitamin C + Centella / cica + Exosomes",
   "featureLine": "Serum · Paraben-free · ₹3130/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); centella asiatica extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 8 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.3,
+   "skin": 10,
+   "trust": 8,
    "experience": 4.2
   },
   "fullSpec": {
@@ -7631,14 +7631,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (8 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/cica-exosomes-vitamin-c-glow-serum-30ml",
+   "inciMatchedName": "Cica Exosomes & Vitamin C Glow Serum - 30ml (name match 95%)",
+   "inciList": "Ingredients Cica Exosomes Serum Purified water, Niacinamide, Pentylene Glycol, PEG-40 Hydrogenated Castor Oil, Trideceth-9, Glycerin, Phenylethyl Resorcinol, Propylene Glycol, Sclareolide, 3-O-Ethyl Ascorbic Acid, Propanediol, Diethylene glycol monoethyl ether, sh-Oligopeptide-1, Sodium Ascorbyl Phosphate, Phosphatidylcholine, Xanthan Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate, Tocopheryl Acetate, Alpha Arbutin, Tranexamic acid, Centella Asiatica Extract, Licorice extract, Phenoxyethanol, Ethylhexylglycerin, sh-Oligopeptide-2, Panthenol, Laminaria Digitata Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2,Ceramide 3, Ceramide 4, Ceramide 6 II, Cholesterol, Sodium Phytate, Hydroxyethyl cellulose, Allantoin, Tris(Tetramethylhydroxypiperidinol) Citrate, Sodium metabisulfite",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); centella asiatica extract (#23 on list, moderate evidence); panthenol (#28 on list, moderate evidence); ceramide np (#34 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 8 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #10 on INCI, sodium ascorbyl phosphate #14 on INCI; Aging — product type, 3-o-ethyl ascorbic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/x/i/30-cica-exosomes-vitamin-c-glow-serum-advanced-glow-serum-for-original-imahfbwbsu3gxxfq.jpeg?q=90",
@@ -7665,8 +7667,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -7674,25 +7680,164 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/cica-exosomes-vitamin-c-glow-serum-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cica Exosomes & Vitamin C Glow Serum - 30ml",
+   "inciMatchScore": 0.95,
+   "inciText": "Ingredients Cica Exosomes Serum Purified water, Niacinamide, Pentylene Glycol, PEG-40 Hydrogenated Castor Oil, Trideceth-9, Glycerin, Phenylethyl Resorcinol, Propylene Glycol, Sclareolide, 3-O-Ethyl Ascorbic Acid, Propanediol, Diethylene glycol monoethyl ether, sh-Oligopeptide-1, Sodium Ascorbyl Phosphate, Phosphatidylcholine, Xanthan Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate, Tocopheryl Acetate, Alpha Arbutin, Tranexamic acid, Centella Asiatica Extract, Licorice extract, Phenoxyethanol, Ethylhexylglycerin, sh-Oligopeptide-2, Panthenol, Laminaria Digitata Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2,Ceramide 3, Ceramide 4, Ceramide 6 II, Cholesterol, Sodium Phytate, Hydroxyethyl cellulose, Allantoin, Tris(Tetramethylhydroxypiperidinol) Citrate, Sodium metabisulfite",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 34,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "panthenol",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -15998,17 +16143,17 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Bakuchiol + PDRN / polynucleotide",
   "featureLine": "Ampoule · ₹2663/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.5★ from 34 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 10,
+   "skin": 10,
+   "trust": 8,
    "experience": 5.7
   },
   "fullSpec": {
@@ -16026,14 +16171,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (34 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/bakuchiol-pdrn-serum-30ml",
+   "inciMatchedName": "Bakuchiol & Pdrn Ampoule Serum - 30ml (name match 94%)",
+   "inciList": "Purified water, Niacinamide, Glycerin, Diethylene Glycol Monoethyl Ether, Propanediol, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Ascorbylpropyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Sodium Benzoate, Pentylene Glycol, Butylene Glycol, Ethyexyl Glycerine & Phenoxy Ethanol, Tranexamic Acid, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Carbomer & Polysorbate 20 & Palmitoyl Tripeptide-1 & Palmitoyl Tetrapeptide-7, Betaine, Sodium DNA, Hydroxyethylcellulose, Panthenol, Allantoin, Phosphatidylcholine, Mannitol, Glycerin, Polyglyceryl-10 Laurate, Retinal, Cetyl Alcohol, Tocopherol, Psoralea Corylifolia Fruit Extract, Squalane & Polyglyceryl-10 Stearate, Citric Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); sodium hyaluronate (#7 on list, moderate evidence); hydrolyzed hyaluronic acid (#10 on list, moderate evidence); hyaluronic acid (#11 on list, moderate evidence); sodium dna (#28 on list, moderate evidence); panthenol (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.5★ from 34 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/c/o/30-0-bakuchiol-pdrn-ampoule-serum-firms-plumps-skin-improves-original-imaherntbsyftdce.jpeg?q=90",
@@ -16061,8 +16208,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -16070,25 +16221,139 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/bakuchiol-pdrn-serum-30ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Bakuchiol & Pdrn Ampoule Serum - 30ml",
+   "inciMatchScore": 0.94,
+   "inciText": "Purified water, Niacinamide, Glycerin, Diethylene Glycol Monoethyl Ether, Propanediol, 1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Sodium Acetylated Hyaluronate, Ascorbylpropyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Sodium Benzoate, Pentylene Glycol, Butylene Glycol, Ethyexyl Glycerine & Phenoxy Ethanol, Tranexamic Acid, Laminaria Digitata Extract & Cetyl-Pg Hydroxyethyl Palmitamide & Ceramide 1 & Ceramide 2 & Ceramide 3 & Ceramide 4 & Ceramide 6 II, Carbomer & Polysorbate 20 & Palmitoyl Tripeptide-1 & Palmitoyl Tetrapeptide-7, Betaine, Sodium DNA, Hydroxyethylcellulose, Panthenol, Allantoin, Phosphatidylcholine, Mannitol, Glycerin, Polyglyceryl-10 Laurate, Retinal, Cetyl Alcohol, Tocopherol, Psoralea Corylifolia Fruit Extract, Squalane & Polyglyceryl-10 Stearate, Citric Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinal",
+     "grade": "A",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "butylene glycol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

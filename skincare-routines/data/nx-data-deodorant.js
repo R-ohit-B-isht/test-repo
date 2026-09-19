@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -135212,15 +135212,17 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Kojic acid + Saffron",
   "featureLine": "Roll-on · ₹606/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "triethyl citrate high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.4,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 6.6
   },
   "fullSpec": {
@@ -135238,13 +135240,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (1,363 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/kesar-kojic-acid-underarm-roll-on",
+   "inciMatchedName": "Kesar & Kojic Acid Underarm Roll On - 50ml (name match 95%)",
+   "inciList": "Purified Water, Xanthan Gum, EDTA, Allantoin, Propylene Glycol, Niacinamide, Lactic Acid, Glycyrrhiza Glabra (Licorice) Extract, Aloe Barbadensis (Aloe Vera) Extract, Kojic Acid, Crocus Sativus (Kesar) Extract, Phenoxyethanol, Polysorbate 80, Triethyl Citrate, Fragrance",
+   "evidenceActives": "triethyl citrate (#14 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 1,363 ratings"
+   "buyerEvidence": "4.1★ from 1,363 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, kojic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/x/v/n/50-0-kesar-kojic-acid-underarm-roll-on-prevents-controls-body-original-imaherrt7ketdwtz.jpeg?q=90",
@@ -135268,7 +135273,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -135276,27 +135284,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/kesar-kojic-acid-underarm-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kesar & Kojic Acid Underarm Roll On - 50ml",
+   "inciMatchScore": 0.95,
+   "inciText": "Purified Water, Xanthan Gum, EDTA, Allantoin, Propylene Glycol, Niacinamide, Lactic Acid, Glycyrrhiza Glabra (Licorice) Extract, Aloe Barbadensis (Aloe Vera) Extract, Kojic Acid, Crocus Sativus (Kesar) Extract, Phenoxyethanol, Polysorbate 80, Triethyl Citrate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "triethyl citrate",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "deodorants"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -297436,15 +297497,17 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Niacinamide + Lactic acid + AHA",
   "featureLine": "Roll-on · Alcohol-free · ₹638/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "triethyl citrate high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.4,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -297462,13 +297525,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/kesar-kojic-acid-underarm-roll-on",
+   "inciMatchedName": "Kesar & Kojic Acid Underarm Roll On - 50ml (name match 95%)",
+   "inciList": "Purified Water, Xanthan Gum, EDTA, Allantoin, Propylene Glycol, Niacinamide, Lactic Acid, Glycyrrhiza Glabra (Licorice) Extract, Aloe Barbadensis (Aloe Vera) Extract, Kojic Acid, Crocus Sativus (Kesar) Extract, Phenoxyethanol, Polysorbate 80, Triethyl Citrate, Fragrance",
+   "evidenceActives": "triethyl citrate (#14 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, kojic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ij2LFiFsL._SL1200_.jpg",
@@ -297499,7 +297565,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -297507,27 +297576,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/kesar-kojic-acid-underarm-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kesar & Kojic Acid Underarm Roll On - 50ml",
+   "inciMatchScore": 0.95,
+   "inciText": "Purified Water, Xanthan Gum, EDTA, Allantoin, Propylene Glycol, Niacinamide, Lactic Acid, Glycyrrhiza Glabra (Licorice) Extract, Aloe Barbadensis (Aloe Vera) Extract, Kojic Acid, Crocus Sativus (Kesar) Extract, Phenoxyethanol, Polysorbate 80, Triethyl Citrate, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "triethyl citrate",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "deodorants"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",

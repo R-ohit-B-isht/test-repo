@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-15.
+// Auto-generated from official brand web stores (product pages), 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -48,7 +48,7 @@ const BSPRODUCTS = [
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #10 on INCI, salicylic acid #14 on INCI; Dark spots — product type, tranexamic acid #5 on INCI, alpha-arbutin #7 on INCI, niacinamide #10 on INCI; Irritation — avena sativa kernel extract #2 on INCI (matching only — not proof it works)",
-   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Minimalist official web store (beminimalist.co) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Skin Care (brand site's own product type)"
   },
   "images": [
@@ -231,7 +231,7 @@ const BSPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, alpha-arbutin #6 on INCI (matching only — not proof it works)",
-   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-15; no marketplace ratings"
+   "soldBy": "WishCare official web store (mywishcare.com) — price and stock as shown there on 2026-09-19; no marketplace ratings"
   },
   "images": [
    "https://cdn.shopify.com/s/files/1/0231/6609/1311/files/1_9_dcb75f4c-d2e5-4432-9997-84b005880f46.jpg?v=1787073222"
@@ -395,7 +395,7 @@ const BSPRODUCTS = [
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, alpha-arbutin #25 on INCI (matching only — not proof it works)",
-   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "Plum official web store (plumgoodness.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "tryplum (brand site's own product type)"
   },
   "images": [
@@ -547,7 +547,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — azelaic acid #15 on INCI; Dark spots — product type, kojic dipalmitate #4 on INCI, azelaic acid #15 on INCI, tranexamic acid #16 on INCI, arbutin #18 on INCI, glycyrrhiza glabra root extract #22 on INCI; Irritation — azelaic acid #15 on INCI, ceramide eos #26 on INCI, ceramide ns #27 on INCI, ceramide np #28 on INCI, ceramide ap #30 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Face Gel (brand site's own product type)"
   },
   "images": [
@@ -763,7 +763,7 @@ const BSPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Dark spots — product type, arbutin #6 on INCI, glycyrrhiza glabra root extract #7 on INCI, tranexamic acid #8 on INCI; Irritation — centella asiatica extract #2 on INCI (matching only — not proof it works)",
-   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "The Derma Co official web store (thedermaco.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Moisturisers (brand site's own product type)"
   },
   "images": [
@@ -941,7 +941,7 @@ const BSPRODUCTS = [
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — product type, niacinamide #4 on INCI, tranexamic acid #5 on INCI, 4-butylresorcinol #9 on INCI (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -1055,16 +1055,18 @@ const BSPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Kojic acid + Tranexamic acid",
   "featureLine": "Serum · ₹2163/100ml",
-  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tranexamic acid high on the INCI list (moderate evidence); glycyrrhiza glabra root extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -1082,15 +1084,17 @@ const BSPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Brand site product page publishes no INCI list — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceUrl": "https://letshyphen.com/products/advanced-de-pigmentation-serum",
+   "inciMatchedName": "Advanced Glow Serum With 3% Tranexamic Acid & 2% Kojic Acid - 30 ml (name match 100%)",
+   "inciList": "Purified Water, Ananas Sativus (Pineapple) Fruit Extract, Tranexamic acid, Glycyrrhiza Glabra (Licorice) Root Extract, Kojic acid, Phenoxyethanol, Sodium Hyaluronate, Melatonin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Hydroxyethylcellulose, D-Panthenol, Sodium Metabisulphite, Ethylhexylglycerin, Sodium Gluconate, Citric Acid. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "tranexamic acid (#3 on list, moderate evidence); glycyrrhiza glabra root extract (#4 on list, moderate evidence); kojic acid (#5 on list, moderate evidence); sodium hyaluronate (#7 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
-   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-15; no marketplace ratings",
+   "concernBasis": "Dark spots — product type, tranexamic acid #3 on INCI, glycyrrhiza glabra root extract #4 on INCI, kojic acid #5 on INCI (matching only — not proof it works)",
+   "soldBy": "HYPHEN official web store (www.letshyphen.com) — price and stock as shown there on 2026-09-19; no marketplace ratings",
    "storeCategory": "Serum (brand site's own product type)"
   },
   "images": [
@@ -1110,7 +1114,9 @@ const BSPRODUCTS = [
    "rating:none",
    "store:brand-store",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1118,25 +1124,85 @@ const BSPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "HYPHEN official website (www.letshyphen.com) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://letshyphen.com/products/advanced-de-pigmentation-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Advanced Glow Serum With 3% Tranexamic Acid & 2% Kojic Acid - 30 ml",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Ananas Sativus (Pineapple) Fruit Extract, Tranexamic acid, Glycyrrhiza Glabra (Licorice) Root Extract, Kojic acid, Phenoxyethanol, Sodium Hyaluronate, Melatonin, Aloe Barbadensis (Aloe Vera) Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Hydroxyethylcellulose, D-Panthenol, Sodium Metabisulphite, Ethylhexylglycerin, Sodium Gluconate, Citric Acid. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

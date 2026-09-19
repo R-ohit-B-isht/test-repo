@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -154463,16 +154463,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "hyaluronic acid + ceramides",
   "featureLine": "Wash / cleanser · Fragrance-free · ₹283/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (/PHD/ official website (phdbeauty.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -154489,13 +154491,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceUrl": "https://phdbeauty.com/products/ceramide-hydrating-cleanser",
+   "inciMatchedName": "Ceramide Hydrating Cleanser (name match 100%)",
+   "inciList": "Aqua (Water), Decyl Glucoside, Glycerin, Coco-Glucoside, Propanediol, Cocamidopropyl Betaine, Hydroxyethyl Cellulose, Caprylyl/Capryl Glucoside, Betaine, Xanthan Gum, Sodium Lactate, Saccharide Isomerate, Xylitylglucoside, Anhydroxylitol, Xylitol, Laminaria Digitata Extract, Ceramide 1, 2, 3, 4, 6 II, Cholesterol, 1,2-Hexanediol, Cetyl-PG Hydroxyethyl Palmitamide, Hydrogenated Lecithin, Polyquaternium-39, Sodium Hyaluronate, Olive Oil PEG-7 Esters, Phenoxyethanol, Ethylhexylglycerin, Panthenol, PEG-40 Hydrogenated Castor Oil, Polysorbate-20, Sodium Gluconate, Citric Acid, Sodium Citrate",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); panthenol (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Irritation — ceramide eos #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41hsKgA8NmL._AC_UL320_.jpg"
@@ -154520,7 +154525,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -154529,25 +154537,84 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "/PHD/ official website (phdbeauty.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://phdbeauty.com/products/ceramide-hydrating-cleanser",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide Hydrating Cleanser",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Decyl Glucoside, Glycerin, Coco-Glucoside, Propanediol, Cocamidopropyl Betaine, Hydroxyethyl Cellulose, Caprylyl/Capryl Glucoside, Betaine, Xanthan Gum, Sodium Lactate, Saccharide Isomerate, Xylitylglucoside, Anhydroxylitol, Xylitol, Laminaria Digitata Extract, Ceramide 1, 2, 3, 4, 6 II, Cholesterol, 1,2-Hexanediol, Cetyl-PG Hydroxyethyl Palmitamide, Hydrogenated Lecithin, Polyquaternium-39, Sodium Hyaluronate, Olive Oil PEG-7 Esters, Phenoxyethanol, Ethylhexylglycerin, Panthenol, PEG-40 Hydrogenated Castor Oil, Polysorbate-20, Sodium Gluconate, Citric Acid, Sodium Citrate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "decyl glucoside",
+    "glycerin",
+    "coco-glucoside",
+    "propanediol",
+    "cocamidopropyl betaine",
+    "ceramide eos",
+    "cholesterol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
