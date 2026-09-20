@@ -40,6 +40,8 @@ function set(next: Owned) {
 
 /** Set of product ids marked "not with me". */
 export const useMissing = (): ReadonlySet<string> => useSyncExternalStore(subscribe, snapshot, snapshot).missing;
+export const missingNow = (): ReadonlySet<string> => state.missing;
+export const subscribeMissing = subscribe;
 
 export const isMissing = (missing: ReadonlySet<string>, productId: string | null | undefined) => productId != null && missing.has(productId);
 

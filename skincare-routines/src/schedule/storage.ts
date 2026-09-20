@@ -6,7 +6,7 @@ import {
 } from './model';
 import { MAX_ALTERNATIVES } from './rotation';
 
-const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove', 'reorder'];
+const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove', 'reorder', 'rotate', 'stop_rotation', 'owned'];
 const isPosition = (v: unknown): v is number => typeof v === 'number' && Number.isInteger(v) && v >= 1;
 export const isEditOp = (v: unknown): v is EditOp => typeof v === 'string' && (EDIT_OPS as readonly string[]).includes(v);
 
@@ -29,7 +29,7 @@ export function validProduct(v: unknown): StepProduct | null {
   };
 }
 
-function validVariant(v: unknown): StepVariant | null {
+export function validVariant(v: unknown): StepVariant | null {
   if (!isRecord(v) || typeof v.title !== 'string' || !v.title.trim()) return null;
   return { title: v.title, category: strOrNull(v.category), product: validProduct(v.product), note: str(v.note) };
 }
@@ -42,7 +42,7 @@ export function validRotation(v: unknown): Rotation | undefined {
 }
 
 /** Steps without a rotation carry no `rotation` key at all. */
-const withRotation = <T extends object>(base: T, rotation: Rotation | undefined): T & { rotation?: Rotation } => (rotation ? { ...base, rotation } : base);
+export const withRotation = <T extends object>(base: T, rotation: Rotation | undefined): T & { rotation?: Rotation } => (rotation ? { ...base, rotation } : base);
 
 function validStep(v: unknown): Step | null {
   if (!isRecord(v) || typeof v.id !== 'string' || !isSlot(v.slot) || !isPlanZone(v.zone) || typeof v.title !== 'string' || !Array.isArray(v.days)) return null;
@@ -62,10 +62,14 @@ export function validEdit(v: unknown): StepEdit | null {
   if (!days.length) return null;
   const pos = v.position;
   const position = isRecord(pos) && isPosition(pos.from) && isPosition(pos.to) ? { from: pos.from, to: pos.to } : null;
+  const own = v.owned;
+  const owned = isRecord(own) && typeof own.productId === 'string' && typeof own.have === 'boolean' ? { productId: own.productId, have: own.have } : null;
+  if (v.op === 'owned' && !owned) return null;
   return {
     op: v.op, targetStepId: v.targetStepId,
-    before: { title: b.title, slot: b.slot, zone: b.zone, days, category: typeof b.category === 'string' ? b.category : null, product: validProduct(b.product), note: str(b.note) },
+    before: withRotation({ title: b.title, slot: b.slot, zone: b.zone, days, category: typeof b.category === 'string' ? b.category : null, product: validProduct(b.product), note: str(b.note) }, validRotation(b.rotation)),
     ...(position ? { position } : {}),
+    ...(owned ? { owned } : {}),
   };
 }
 

@@ -2,7 +2,7 @@
 import type { Manifest } from '../../../lib/types';
 import { DataError, type CategoryView, type TagGroupQuery } from '../store';
 import { groupOf } from '../../../domain/index';
-import { categoryParam, categoryUrl, clamp, productUrl, str, strList, ToolError, type Json, type Tool, type ToolContext } from './base';
+import { categoryIdParam, categoryParam, categoryUrl, clamp, productUrl, str, strList, ToolError, type Json, type Tool, type ToolContext } from './base';
 import { detailSummary, hitSummary, rowSummary } from './present';
 import { matchFacets } from './facetHints';
 import { expandIngredient, findIngredient, titleHasWords, titleTokens, type IngredientQuery } from './inciMatch';
@@ -48,11 +48,11 @@ export const searchProducts: Tool = {
     'Find listings by brand and/or product name across every category (accent/apostrophe-insensitive). '
     + 'Returns rank, score, price, store and INCI state for each match. Returns an empty list when the product is not '
     + 'sold on Flipkart/Amazon.in or a collected brand store in this dataset — say so rather than guessing.',
-  parameters: (manifest: Manifest) => ({
+  parameters: () => ({
     type: 'object',
     properties: {
       query: { type: 'string', description: "Brand + product words, e.g. 'cetaphil gentle skin cleanser'" },
-      category: categoryParam(manifest, 'Optional: restrict to one category id'),
+      category: categoryIdParam('Optional: restrict to one category'),
       limit: { type: 'integer', description: 'Max results (default 8, max 25)' },
     },
     required: ['query'],
@@ -225,11 +225,11 @@ export const getProduct: Tool = {
     'Everything the site shows for one listing: rank, score breakdown, full INCI text and where it came from '
     + '(marketplace listing / official brand site / third party, with URL, region, matched official title), evidence-graded actives, '
     + 'safety flags, maker accountability, buyer evidence, pros/cons, and the seller claims that are shown but NOT scored.',
-  parameters: (manifest: Manifest) => ({
+  parameters: () => ({
     type: 'object',
     properties: {
       product_id: { type: 'string', description: 'Listing id from search_products / get_top_products' },
-      category: { ...categoryParam(manifest, "Which category's placement to read when the listing is ranked in several (defaults to the page's category)"), nullable: true },
+      category: { ...categoryIdParam("Which category's placement to read when the listing is ranked in several (defaults to the page's category)"), nullable: true },
     },
     required: ['product_id'],
   }),
@@ -239,11 +239,11 @@ export const getProduct: Tool = {
 export const compareProducts: Tool = {
   name: 'compare_products',
   description: 'Side-by-side evidence for 2–5 listings (any categories): rank, score breakdown, INCI status + source, actives, flags, maker, price.',
-  parameters: (manifest: Manifest) => ({
+  parameters: () => ({
     type: 'object',
     properties: {
       product_ids: { type: 'array', items: { type: 'string' }, minItems: 2, maxItems: 5 },
-      category: { ...categoryParam(manifest, "Category whose ranks to compare when listings sit in several (defaults to the page's category)"), nullable: true },
+      category: { ...categoryIdParam("Category whose ranks to compare when listings sit in several (defaults to the page's category)"), nullable: true },
     },
     required: ['product_ids'],
   }),

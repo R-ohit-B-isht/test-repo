@@ -43,7 +43,11 @@ export interface ToolDeclaration { name: string; description: string; parameters
 
 export const declarationOf = (tool: Tool, manifest: Manifest): ToolDeclaration => ({ name: tool.name, description: tool.description, parameters: tool.parameters(manifest) });
 
+/** Category id with the live enum. Gemini's forced-tool-call grammar has a total state budget across every declared tool,
+ * and a 60+ value enum repeated on each tool blows it ("schema produces a constraint that has too many states") — so only
+ * the ranking/filters tools carry the enum; the rest take `categoryIdParam`. */
 export const categoryParam = (manifest: Manifest, description: string): JsonSchema => ({ type: 'string', description, enum: manifest.categories.map((c) => c.id) });
+export const categoryIdParam = (description: string): JsonSchema => ({ type: 'string', description: `${description} — a category id exactly as returned by list_categories / get_top_products` });
 
 export function clamp(value: unknown, fallback: number, lo: number, hi: number): number {
   const n = typeof value === 'number' ? value : typeof value === 'string' ? Number(value) : NaN;

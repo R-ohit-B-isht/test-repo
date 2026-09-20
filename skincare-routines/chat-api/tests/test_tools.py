@@ -1,6 +1,7 @@
 """Tools over the store: manifest-derived declarations, evidence preservation, explicit no-match / error states."""
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 import pytest
@@ -289,3 +290,132 @@ async def test_edit_routine_steps_reorders_within_a_slot(ctx: ToolContext):
     assert "position 6 is past the end — the AM slot will have 5 steps" in reasons
     alone, _ = await reg.execute("edit_routine_steps", {"edits": [{"step_id": "s", "op": "reorder", "position": 3, "why": "x"}]}, ctx2)
     assert alone["edited"] == 0 and "already #3 in the AM slot" in alone["problems"][0]["reasons"][0]
+
+
+async def test_edit_routine_steps_shelf_and_weekly_rotation(ctx: ToolContext):
+    reg = ToolRegistry()
+    top, _ = await reg.execute("get_top_products", {"category": "kp", "limit": 3}, ctx)
+    a, b, c = top["results"][0], top["results"][1], top["results"][2]
+    daily = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+    pin = {"id": a["id"], "category": "kp", "brand": a["brand"], "title": a["title"], "rank": a["rank"]}
+    page = {"routineSteps": [
+        {"id": "s1", "title": "KP lotion", "slot": "pm", "position": 1, "days": daily, "zone": "body", "category": "kp", "note": "thin layer", "product": pin, "withMe": True, "rotation": None},
+        {"id": "s2", "title": "Cleanse", "slot": "am", "position": 1, "days": daily, "zone": "body", "category": "bodyscrub", "note": "", "product": None, "withMe": None, "rotation": None},
+    ]}
+    ctx2 = ToolContext(store=ctx.store, site_url=ctx.site_url, page=page)
+
+    # owned: valid, same state, no product, missing have, same product twice
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "s1", "op": "owned", "have": False, "why": "ran out"},
+        {"step_id": "s1", "op": "owned", "have": True, "why": "same as now"},
+        {"step_id": "s2", "op": "owned", "have": False, "why": "no product"},
+        {"step_id": "s1", "op": "owned", "why": "no have"},
+        {"step_id": "s1", "op": "owned", "have": False, "why": "dup"},
+    ]}, ctx2)
+    assert result["edited"] == 1 and result["rejected"] == 4
+    assert result["edits"][0]["op"] == "owned" and result["edits"][0]["after"] == {"owned": False} and result["edits"][0]["before"]["withMe"] is True
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "already marked with me" in reasons and "no product pinned" in reasons and "needs have" in reasons and "already covered by another edit" in reasons
+
+    # rotate: 3-option cycle with 'current' as option 1, active 2
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [{"step_id": "s1", "op": "rotate", "active": 2, "why": "alternate", "options": [
+        "Lotion A = " + "current", "Lotion B = " + b["id"], "Lotion C = " + c["id"],
+    ]}]}, ctx2)
+    assert result["edited"] == 1, result["problems"]
+    rot = result["edits"][0]["after"]["rotation"]
+    assert rot["active"] == 2 and [o["product"]["id"] for o in rot["options"]] == [a["id"], b["id"], c["id"]]
+    assert rot["options"][0]["note"] == "thin layer" and rot["options"][1]["note"] == "" and rot["options"][1]["category"] == "kp"
+    assert set(rot["options"][1]["product"]) == {"id", "category", "brand", "title", "rank", "of", "score", "priceInr", "store", "inciStatus", "inciSourceKind", "url"}
+
+    # invalid cycles: one option, invented id, duplicate listing, 7 options, active-only without a cycle, stop on a plain step
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "s1", "op": "rotate", "options": ["Only = " + b["id"]], "why": "x"},
+        {"step_id": "s1", "op": "rotate", "options": ["A = " + b["id"], "B = " + "p-nope"], "why": "x"},
+        {"step_id": "s1", "op": "rotate", "options": ["A = " + b["id"], "B = " + b["id"]], "why": "x"},
+        {"step_id": "s1", "op": "rotate", "options": [f"O{i} = none" for i in range(7)], "why": "x"},
+        {"step_id": "s1", "op": "rotate", "active": 2, "why": "x"},
+        {"step_id": "s1", "op": "stop_rotation", "why": "x"},
+        {"step_id": "s2", "op": "rotate", "options": ["A = " + "current", "B = " + "none"], "why": "x"},
+        {"step_id": "s1", "op": "rotate", "active": 4, "options": ["A = " + "current", "B = " + "none"], "why": "x"},
+    ]}, ctx2)
+    assert result["edited"] == 0 and result["rejected"] == 8
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "at least 2 options" in reasons and "no listing with id 'p-nope'" in reasons and "already another option" in reasons
+    assert "at most 6 options" in reasons and "'rotate' needs options" in reasons and "does not rotate" in reasons
+    assert "no product this week to keep as 'current'" in reasons and "from 1 to 2" in reasons
+
+    # existing cycle: active-only switch, same active refused, stop keeping option 3
+    rotating = dict(page["routineSteps"][0], title="Lotion B", product={"id": b["id"], "category": "kp", "brand": b["brand"], "title": b["title"], "rank": b["rank"]},
+                    rotation={"active": 2, "options": [{"title": "Lotion A", "product": pin}, {"title": "Lotion B", "product": None}, {"title": "Lotion C", "product": None}]})
+    ctx3 = ToolContext(store=ctx.store, site_url=ctx.site_url, page={"routineSteps": [rotating]})
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "s1", "op": "rotate", "active": 3, "why": "C this week"},
+        {"step_id": "s1", "op": "rotate", "active": 2, "why": "same"},
+        {"step_id": "s1", "op": "rotate", "why": "nothing"},
+        {"step_id": "s1", "op": "stop_rotation", "active": 3, "why": "stop"},
+        {"step_id": "s1", "op": "stop_rotation", "active": 9, "why": "bad"},
+    ]}, ctx3)
+    assert result["edited"] == 2 and result["rejected"] == 3
+    assert result["edits"][0]["after"] == {"rotation": {"active": 3}} and result["edits"][1]["op"] == "stop_rotation" and result["edits"][1]["after"] == {"rotation": {"active": 3}}
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "already the one on this week" in reasons and "send options for a new cycle" in reasons and "from 1 to 3" in reasons
+
+
+async def test_set_reminders_reads_page_state_and_validates(ctx: ToolContext):
+    reg = ToolRegistry()
+    assert reg.surfaces("set_reminders")
+    err, _ = await reg.execute("set_reminders", {"changes": [{"slot": "pm", "time": "22:00", "why": "x"}]}, ctx)
+    assert "not available on this page" in err["error"]
+    page = {"routineReminders": {"am": {"enabled": False, "time": "07:30"}, "pm": {"enabled": True, "time": "21:30"}}}
+    ctx2 = ToolContext(store=ctx.store, site_url=ctx.site_url, page=page)
+    result, _ = await reg.execute("set_reminders", {"changes": [
+        {"slot": "pm", "time": "10 pm", "why": "later"},
+        {"slot": "am", "enabled": True, "time": "7am", "why": "morning too"},
+    ]}, ctx2)
+    assert result["problems"] == [] and len(result["changes"]) == 2
+    assert result["changes"][0] == {"slot": "pm", "before": {"enabled": True, "time": "21:30"}, "after": {"enabled": True, "time": "22:00"}, "enabled": True, "time": "22:00", "why": "later"}
+    assert result["changes"][1]["after"] == {"enabled": True, "time": "07:00"}
+    result, _ = await reg.execute("set_reminders", {"changes": [
+        {"slot": "pm", "enabled": False, "why": "off"},
+        {"slot": "pm", "time": "23:00", "why": "dup slot"},
+        {"slot": "noon", "time": "12:00", "why": "bad slot"},
+    ]}, ctx2)
+    assert len(result["changes"]) == 1 and len(result["problems"]) == 1  # only the first two are read
+    assert result["changes"][0]["after"] == {"enabled": False, "time": "21:30"} and "already changed in this call" in result["problems"][0]
+    result, _ = await reg.execute("set_reminders", {"changes": [{"slot": "pm", "time": "21:30", "why": "same"}, {"slot": "noon", "time": "12:00", "why": "bad slot"}]}, ctx2)
+    assert result["changes"] == [] and "already on at 21:30" in result["problems"][0] and "slot must be am or pm" in result["problems"][1]
+    result, _ = await reg.execute("set_reminders", {"changes": [{"slot": "am", "time": "25:99", "why": "x"}, {"slot": "am", "why": "x"}]}, ctx2)
+    assert result["changes"] == [] and "not HH:MM" in result["problems"][0] and "needs a time and/or enabled" in result["problems"][1]
+    from chat_api.tools.reminders import parse_time
+    assert [parse_time(t) for t in ["22:00", "22.00", "2200", "10 pm", "10:30pm", "7am", "12am", "12pm", "0:05", "13pm", "24:00", "x"]] == [
+        "22:00", "22:00", "22:00", "22:00", "22:30", "07:00", "00:00", "12:00", "00:05", None, None, None]
+
+
+@pytest.mark.asyncio
+async def test_read_routine_is_exact_and_read_only(ctx: ToolContext):
+    reg = ToolRegistry()
+    assert "read_routine" in reg.names()
+    steps = [
+        {"id": "s1", "title": "Cleanser", "slot": "am", "position": 1, "days": ["mon"], "zone": "face", "category": "facewash", "note": "",
+         "product": {"id": "p1", "category": "facewash", "brand": "A", "title": "Wash", "rank": 3}, "withMe": False, "rotation": None},
+        {"id": "s2", "title": "Retinol", "slot": "pm", "position": 1, "days": ["mon", "thu"], "zone": "face", "category": "retinol", "note": "thin layer",
+         "product": {"id": "p2", "category": "retinol", "brand": "B", "title": "Ret", "rank": 1}, "withMe": True,
+         "rotation": {"active": 3, "options": [{"title": "Azelaic", "product": None}, {"title": "Lactic", "product": None}, {"title": "Retinol", "product": {"id": "p2", "brand": "B", "title": "Ret"}}]}},
+        {"id": "s3", "title": "Toner", "slot": "am", "position": 2, "days": ["mon"], "zone": "face", "category": None, "note": "", "product": None, "withMe": None, "rotation": None},
+    ]
+    page = {"routineSteps": steps, "routineReminders": {"am": {"enabled": False, "time": "07:30"}, "pm": {"enabled": True, "time": "21:30"}}}
+    before = json.dumps(page, sort_keys=True)
+    ctx2 = ToolContext(store=ctx.store, site_url=ctx.site_url, page=page)
+    out, _ = await reg.execute("read_routine", {}, ctx2)
+    assert out["steps"] == 3 and out["not_with_me"] == [{"step_id": "s1", "title": "Cleanser", "product": steps[0]["product"]}]
+    rot = next(s for s in out["list"] if s["id"] == "s2")["rotation"]
+    assert rot["active"] == 3 and rot["next_week"] == 1 and [o["option"] for o in rot["options"]] == [1, 2, 3]
+    assert out["rotating"] == ["s2"] and out["reminders"]["pm"] == {"enabled": True, "time": "21:30"}
+    assert next(s for s in out["list"] if s["id"] == "s3")["with_me"] is None
+    am, _ = await reg.execute("read_routine", {"slot": "AM"}, ctx2)
+    assert am["steps"] == 2 and all(s["slot"] == "am" for s in am["list"])
+    bad, _ = await reg.execute("read_routine", {"slot": "noon"}, ctx2)
+    assert "slot must be am or pm" in bad["error"]
+    none, _ = await reg.execute("read_routine", {}, ToolContext(store=ctx.store, site_url=ctx.site_url, page={}))
+    assert "not available" in none["error"]
+    assert json.dumps(page, sort_keys=True) == before

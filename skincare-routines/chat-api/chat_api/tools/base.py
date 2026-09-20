@@ -46,7 +46,14 @@ def category_ids(manifest: dict) -> list[str]:
 
 
 def category_param(manifest: dict, description: str) -> dict:
+    """Category id with the live enum. Gemini's forced-tool-call grammar has a total state budget across every declared
+    tool, and a 60+ value enum repeated on each tool blows it ("schema produces a constraint that has too many states") —
+    so only the ranking/filters tools carry the enum; the rest take `category_id_param`."""
     return {"type": "string", "description": description, "enum": category_ids(manifest)}
+
+
+def category_id_param(description: str) -> dict:
+    return {"type": "string", "description": f"{description} — a category id exactly as returned by list_categories / get_top_products"}
 
 
 def clamp(value: object, default: int, lo: int, hi: int) -> int:

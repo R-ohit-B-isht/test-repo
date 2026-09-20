@@ -9,13 +9,15 @@ from .catalog import GetReferenceCeiling, GetRoutines, GetScoringMethod, GetSite
 from .knowledge import GetIngredientKnowledge
 from .products import CompareProducts, GetCategoryFilters, GetProduct, GetTopProducts, SearchProducts
 from .plan_review import ReviewRoutinePlan
+from .reminders import SetReminders
 from .routine import ProposeRoutineSteps
 from .routine_edit import EditRoutineSteps
+from .routine_read import ReadRoutine
 
 ALL_TOOLS: list[Tool] = [
     GetSiteOverview(), ListCategories(), GetScoringMethod(), GetReferenceCeiling(), GetRoutines(),
     SearchProducts(), GetTopProducts(), GetCategoryFilters(), GetProduct(), CompareProducts(), GetIngredientKnowledge(),
-    ProposeRoutineSteps(), EditRoutineSteps(), ReviewRoutinePlan(),
+    ProposeRoutineSteps(), ReadRoutine(), EditRoutineSteps(), SetReminders(), ReviewRoutinePlan(),
 ]
 
 

@@ -7,6 +7,9 @@ import { Kicker, StatusBlock } from '../components/ui/primitives';
 import { SetupPanel } from '../components/routine/SetupPanel';
 import { ScheduleView, type View as ScheduleTab } from '../components/routine/schedule/ScheduleView';
 import { useReminderSync } from '../schedule/reminders/useReminderSync';
+import {
+  acceptReminderProposal, clearDecidedReminderProposals, rejectAllReminderProposals, rejectReminderProposal, useReminderProposals,
+} from '../schedule/reminders/proposals';
 import { ProposalsPanel } from '../components/routine/ProposalsPanel';
 import { StepEditor } from '../components/routine/StepEditor';
 import { PlanStepper, type PlanView } from '../components/routine/plan/PlanStepper';
@@ -51,8 +54,9 @@ export default function RoutinePage() {
   const initialSlot: Slot | null = slotParam === 'am' || slotParam === 'pm' ? slotParam : null;
   const initialTab: ScheduleTab | null = params.get('view') === 'remind' ? 'remind' : null;
   useReminderSync(plan.steps);
+  const reminderProposals = useReminderProposals();
   const [editor, setEditor] = useState<Editor>(null);
-  const [view, setView] = useState<PlanView>(() => startView(plan.steps.length, plan.proposals.length, planner.week !== null, plan.setup.zones.length > 0));
+  const [view, setView] = useState<PlanView>(() => startView(plan.steps.length, plan.proposals.length + reminderProposals.length, planner.week !== null, plan.setup.zones.length > 0));
 
   const labels = useMemo(() => (manifest.status === 'ready' ? new Map(manifest.data.categories.map((c) => [c.id, c.label])) : new Map<string, string>()), [manifest]);
   const categoryLabel = useCallback((id: string) => labels.get(id) ?? id, [labels]);
@@ -61,7 +65,7 @@ export default function RoutinePage() {
     if (manifest.status === 'ready') registerPlannerContext({ labelFor: categoryLabel, categoryIds: manifest.data.categories.map((c) => c.id) });
   }, [manifest, categoryLabel]);
 
-  const pending = plan.proposals.filter((p) => p.status === 'pending').length;
+  const pending = plan.proposals.filter((p) => p.status === 'pending').length + reminderProposals.filter((p) => p.status === 'pending').length;
   usePagePublish({
     routine: { zones: plan.setup.zones, concerns: plan.setup.concerns, skinType: plan.setup.skinType, maxPriceInr: plan.setup.maxPriceInr, steps: plan.steps.length, pending },
     resultCount: null, category: null, filters: [],
@@ -95,10 +99,25 @@ export default function RoutinePage() {
     else if (p.edit) toast(p.edit.op === 'remove' ? `“${p.edit.before.title}” removed` : `${EDIT_VERB[p.edit.op]} applied to “${p.edit.before.title}”`);
     else toast(`“${p.step.title}” added to ${SLOT_LABEL[p.step.slot].toLowerCase()} routine`);
   };
+  const acceptReminder = (id: string) => {
+    const p = reminderProposals.find((x) => x.id === id);
+    const r = acceptReminderProposal(id);
+    if (!r.applied) toast(r.reason ?? 'That reminder change is no longer pending');
+    else if (p) toast(`${p.slot === 'am' ? 'Morning' : 'Night'} reminder ${p.after.enabled ? `on at ${p.after.time}` : 'turned off'}`);
+  };
   const acceptAll = () => {
     const r = acceptAllPending();
-    toast(r.dropped ? `${r.applied} applied · ${r.dropped} dropped (their steps were gone)` : `${r.applied} proposal${r.applied === 1 ? '' : 's'} applied to your routine`);
+    let applied = r.applied;
+    let dropped = r.dropped;
+    for (const p of reminderProposals) {
+      if (p.status !== 'pending') continue;
+      if (acceptReminderProposal(p.id).applied) applied += 1;
+      else dropped += 1;
+    }
+    toast(dropped ? `${applied} applied · ${dropped} dropped (their steps or settings had changed)` : `${applied} proposal${applied === 1 ? '' : 's'} applied to your routine`);
   };
+  const rejectAll = () => { rejectAllPending(); rejectAllReminderProposals(); };
+  const clearAllDecided = () => { clearDecided(); clearDecidedReminderProposals(); };
   const copyPlan = async () => {
     try { await navigator.clipboard.writeText(planAsText(plan, categoryLabel)); toast('Routine copied as text'); }
     catch { toast('Could not copy — clipboard access was refused'); }
@@ -167,9 +186,10 @@ export default function RoutinePage() {
 
       {view === 'routine' && (
         <div className="min-w-0 space-y-6">
-          <ProposalsPanel proposals={plan.proposals} fill={fill} categoryLabel={categoryLabel} positionNow={(id) => positionOf(plan.steps, id)}
+          <ProposalsPanel proposals={plan.proposals} reminders={reminderProposals} fill={fill} categoryLabel={categoryLabel} positionNow={(id) => positionOf(plan.steps, id)}
             onAccept={accept} onEdit={(p) => setEditor({ kind: 'proposal', proposal: p })} onReject={rejectProposal}
-            onAcceptAll={acceptAll} onRejectAll={rejectAllPending} onClearDecided={clearDecided}
+            onAcceptAll={acceptAll} onRejectAll={rejectAll} onClearDecided={clearAllDecided}
+            onAcceptReminder={acceptReminder} onRejectReminder={rejectReminderProposal}
             onRetry={() => setView('inventory')} onDismiss={dismissFill} />
           <ScheduleView key={`${initialSlot ?? ''}/${initialTab ?? ''}`} steps={plan.steps} categoryLabel={categoryLabel} initialSlot={initialSlot} initialView={initialTab}
             onAdd={(slot) => setEditor({ kind: 'add', slot })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}

@@ -1,6 +1,6 @@
 /** Site-level tools: overview, categories, scoring method, reference ceilings, routines — twin of chat_api/tools/catalog.py. */
-import type { Manifest, Routine } from '../../../lib/types';
-import { categoryParam, str, ToolError, type Json, type Tool } from './base';
+import type { Routine } from '../../../lib/types';
+import { categoryIdParam, str, ToolError, type Json, type Tool } from './base';
 import { benchmarkSummary, categorySummary } from './present';
 
 export const METHOD_RULES = [
@@ -68,7 +68,7 @@ export const getScoringMethod: Tool = {
 export const getReferenceCeiling: Tool = {
   name: 'get_reference_ceiling',
   description: 'The fixed-100 reference ceiling (best-in-class product) for a category, its cited evidence, and whether/where the exact product is found in the Indian marketplace ranking.',
-  parameters: (manifest: Manifest) => ({ type: 'object', properties: { category: categoryParam(manifest, 'Category id') }, required: ['category'] }),
+  parameters: () => ({ type: 'object', properties: { category: categoryIdParam('Category') }, required: ['category'] }),
   async run(args, ctx) {
     await ctx.store.manifest();
     const bench = ctx.store.benchmarkFor(str(args.category));

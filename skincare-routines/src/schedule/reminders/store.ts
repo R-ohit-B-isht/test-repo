@@ -2,6 +2,7 @@
  * (`ledger.routine.v1`) so turning a reminder on or off never rewrites a step, and an existing routine gets reminders
  * the moment it is opened here. */
 import { useSyncExternalStore } from 'react';
+import { publishPage } from '../../chat/pageContext';
 import type { Slot } from '../model';
 
 const KEY = 'ledger.routine.reminders.v1';
@@ -72,11 +73,14 @@ function save(s: ReminderSettings) {
 
 let state: ReminderSettings = load();
 const listeners = new Set<() => void>();
+const publish = () => publishPage({ routineReminders: { am: { ...state.slots.am }, pm: { ...state.slots.pm } } });
+publish();
 // Another tab (or the installed app beside a browser tab) saved: adopt its copy instead of overwriting it later.
 if (typeof window !== 'undefined') {
   window.addEventListener('storage', (e) => {
     if (e.key !== KEY && e.key !== null) return;
     state = load();
+    publish();
     listeners.forEach((l) => l());
   });
 }
@@ -86,6 +90,7 @@ const snapshot = () => state;
 function set(next: ReminderSettings) {
   state = next;
   save(next);
+  publish();
   listeners.forEach((l) => l());
 }
 

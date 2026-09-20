@@ -1,13 +1,17 @@
 import { useState } from 'react';
-import { AlertTriangle, Check, ChevronDown, Pencil, Sparkles, X } from 'lucide-react';
+import { AlertTriangle, ArrowRight, Bell, Check, ChevronDown, Pencil, Sparkles, X } from 'lucide-react';
 import { clsx } from 'clsx';
 import { EditDiff } from './EditDiff';
 import { ProductSnippet } from './ProductSnippet';
 import type { FillState } from '../../schedule/scheduleStore';
-import { daysSummary, EDIT_VERB, SLOT_LABEL, ZONE_LABEL, type Proposal } from '../../schedule/model';
+import { daysSummary, editVerb, SLOT_LABEL, ZONE_LABEL, type Proposal } from '../../schedule/model';
+import type { ReminderProposal } from '../../schedule/reminders/proposals';
+import type { SlotReminder } from '../../schedule/reminders/store';
 
 interface Props {
   proposals: Proposal[];
+  /** Assistant-proposed reminder changes (their own store — a pending card never touches the live settings). */
+  reminders: ReminderProposal[];
   fill: FillState;
   categoryLabel: (id: string) => string;
   /** Live 1-based slot position of a saved step (null once it is gone) — keeps a pending reorder's “from” honest after manual moves. */
@@ -18,6 +22,8 @@ interface Props {
   onAcceptAll: () => void;
   onRejectAll: () => void;
   onClearDecided: () => void;
+  onAcceptReminder: (id: string) => void;
+  onRejectReminder: (id: string) => void;
   onRetry: () => void;
   onDismiss: () => void;
 }
@@ -29,10 +35,12 @@ const plain = (text: string) => text.replace(/\[\[[^\]]*\]\]?/g, '').replace(/\*
  * Pending proposals (Todoist inbox-style list): each card is Accept / Edit / Reject; nothing here is on the routine yet.
  * Collapsed to a one-line summary by default; a running or failed assistant run is always expanded so its status is visible.
  */
-export function ProposalsPanel({ proposals, fill, categoryLabel, positionNow, onAccept, onEdit, onReject, onAcceptAll, onRejectAll, onClearDecided, onRetry, onDismiss }: Props) {
+export function ProposalsPanel({ proposals, reminders, fill, categoryLabel, positionNow, onAccept, onEdit, onReject, onAcceptAll, onRejectAll, onClearDecided, onAcceptReminder, onRejectReminder, onRetry, onDismiss }: Props) {
   const [expanded, setExpanded] = useState(false);
-  const pending = proposals.filter((p) => p.status === 'pending');
-  const decided = proposals.length - pending.length;
+  const pendingSteps = proposals.filter((p) => p.status === 'pending');
+  const pendingReminders = reminders.filter((p) => p.status === 'pending');
+  const pending = [...pendingSteps, ...pendingReminders];
+  const decided = proposals.length - pendingSteps.length + reminders.length - pendingReminders.length;
   const running = fill.phase === 'running';
   const show = running || fill.phase === 'error' || pending.length > 0 || (fill.phase === 'done' && (fill.note || fill.problems.length));
   if (!show) return null;
@@ -92,8 +100,11 @@ export function ProposalsPanel({ proposals, fill, categoryLabel, positionNow, on
 
         {pending.length > 0 && (
           <ul className="space-y-2.5">
-            {pending.map((p) => (
+            {pendingSteps.map((p) => (
               <ProposalCard key={p.id} p={p} categoryLabel={categoryLabel} positionNow={positionNow} onAccept={() => onAccept(p.id)} onEdit={() => onEdit(p)} onReject={() => onReject(p.id)} />
+            ))}
+            {pendingReminders.map((p) => (
+              <ReminderCard key={p.id} p={p} onAccept={() => onAcceptReminder(p.id)} onReject={() => onRejectReminder(p.id)} />
             ))}
           </ul>
         )}
@@ -114,7 +125,7 @@ function ProposalCard({ p, categoryLabel, positionNow, onAccept, onEdit, onRejec
   return (
     <li className="fade-in rounded-[14px] border border-accent/40 bg-accent-soft/40 p-4">
       <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
-        <p className="text-[15px] font-extrabold text-display">{isEdit ? `${EDIT_VERB[p.edit!.op]}: ${p.edit!.before.title}` : s.title}</p>
+        <p className="text-[15px] font-extrabold text-display">{p.edit ? `${editVerb(p.edit)}: ${p.edit.before.title}` : s.title}</p>
         {!isEdit && <span className="label">{SLOT_LABEL[s.slot]} · {ZONE_LABEL[s.zone]} · {daysSummary(s.days)}{s.category ? ` · ${categoryLabel(s.category)}` : ''}</span>}
       </div>
       {p.why && <p className="mt-1.5 text-[13px] leading-relaxed text-primary">{plain(p.why)}</p>}
@@ -127,7 +138,30 @@ function ProposalCard({ p, categoryLabel, positionNow, onAccept, onEdit, onRejec
       )}
       <div className="mt-3 flex flex-wrap gap-1.5">
         <button type="button" className="btn btn-primary h-9" onClick={onAccept}><Check size={14} aria-hidden />{isEdit ? 'Apply' : 'Accept'}</button>
-        {p.edit?.op !== 'remove' && <button type="button" className="btn h-9" onClick={onEdit}><Pencil size={13} aria-hidden />Edit</button>}
+        {p.edit?.op !== 'remove' && p.edit?.op !== 'owned' && <button type="button" className="btn h-9" onClick={onEdit}><Pencil size={13} aria-hidden />Edit</button>}
+        <button type="button" className="btn h-9" onClick={onReject}><X size={14} aria-hidden />Reject</button>
+      </div>
+    </li>
+  );
+}
+
+const reminderText = (r: SlotReminder) => (r.enabled ? `on · ${r.time}` : `off · ${r.time}`);
+
+/** A reminder before → after card: the live setting is untouched until Apply (see acceptReminderProposal). */
+function ReminderCard({ p, onAccept, onReject }: { p: ReminderProposal; onAccept: () => void; onReject: () => void }) {
+  const name = p.slot === 'am' ? 'Morning reminder' : 'Night reminder';
+  return (
+    <li className="fade-in rounded-[14px] border border-accent/40 bg-accent-soft/40 p-4">
+      <p className="flex items-center gap-2 text-[15px] font-extrabold text-display"><Bell size={14} className="shrink-0 text-accent" aria-hidden />Reminder: {name}</p>
+      {p.why && <p className="mt-1.5 text-[13px] leading-relaxed text-primary">{plain(p.why)}</p>}
+      <p className="mt-3 flex flex-wrap items-center gap-2 text-[13px]">
+        <span className="rounded-full border border-line bg-raised px-2.5 py-0.5 font-semibold text-secondary line-through decoration-muted">{reminderText(p.before)}</span>
+        <ArrowRight size={13} className="text-muted" aria-hidden />
+        <span className="rounded-full border border-accent/50 bg-accent-soft px-2.5 py-0.5 font-bold text-display">{reminderText(p.after)}</span>
+        <span className="text-[12px] text-muted">Only on this device; needs notifications turned on in Remind to fire.</span>
+      </p>
+      <div className="mt-3 flex flex-wrap gap-1.5">
+        <button type="button" className="btn btn-primary h-9" onClick={onAccept}><Check size={14} aria-hidden />Apply</button>
         <button type="button" className="btn h-9" onClick={onReject}><X size={14} aria-hidden />Reject</button>
       </div>
     </li>

@@ -17,6 +17,7 @@ writeFileSync(entry, [
   `export * as model from '${join(root, 'src/schedule/model.ts')}';`,
   `export { stepsForContext, editsFrom } from '${join(root, 'src/schedule/proposer.ts')}';`,
   `export { editRoutineSteps } from '${join(root, 'src/chat/local/tools/routineEdit.ts')}';`,
+  `export { readRoutine } from '${join(root, 'src/chat/local/tools/routineRead.ts')}';`,
   `export * as rotation from '${join(root, 'src/schedule/rotation.ts')}';`,
   `export * as storage from '${join(root, 'src/schedule/storage.ts')}';`,
   `export { shelfFrom } from '${join(root, 'src/schedule/shelf.ts')}';`,
@@ -30,7 +31,7 @@ await build({ entryPoints: [entry], bundle: true, format: 'esm', platform: 'node
 
 const mem = new Map();
 globalThis.localStorage = { getItem: (k) => mem.get(k) ?? null, setItem: (k, v) => { mem.set(k, v); }, removeItem: (k) => { mem.delete(k); } };
-const { store, order, model, stepsForContext, editRoutineSteps, rotation, storage, shelfFrom, owned, remind, payload, ics } = await import(pathToFileURL(out).href);
+const { store, order, model, stepsForContext, editRoutineSteps, readRoutine, rotation, storage, shelfFrom, owned, remind, payload, ics } = await import(pathToFileURL(out).href);
 
 let fails = 0;
 const check = (ok, msg) => { if (!ok) { fails++; console.log('FAIL', msg); } };
@@ -172,8 +173,9 @@ check(w({ ...three, rotation: { ...three.rotation, anchor: rotation.anchorFor('2
 check(storage.validRotation(undefined) === undefined && storage.validRotation({ anchor: 'nope', alternatives: [] }) === undefined && storage.validRotation({ anchor: '2026-07-13', alternatives: [{ title: 5 }] }) === undefined, 'malformed rotation reads as none');
 check(storage.validRotation({ anchor: '2026-07-13', alternatives: three.rotation.alternatives }).alternatives.length === 2, 'well-formed rotation kept');
 const ctxRows = stepsForContext([three], '2026-07-20');
-check(ctxRows[0].title === 'Retinol' && ctxRows[0].product.id === 'p-ret' && /Rotates weekly \(3 options/.test(ctxRows[0].note), `chat context shows this week's option with the cycle: ${ctxRows[0].note.slice(0, 60)}`);
-check(stepsForContext([plain], '2026-07-20')[0].note === '', 'non-rotating step: context note untouched');
+check(ctxRows[0].title === 'Retinol' && ctxRows[0].product.id === 'p-ret' && ctxRows[0].rotation.active === 2 && ctxRows[0].rotation.options.map((o) => o.title).join() === 'Azelaic,Retinol,Glycolic', `chat context shows this week's option with the whole cycle: ${JSON.stringify(ctxRows[0].rotation)}`);
+check(stepsForContext([plain], '2026-07-20')[0].rotation === null && stepsForContext([plain], '2026-07-20')[0].withMe === true, 'non-rotating step: no cycle, product with me by default');
+check(stepsForContext([plain], '2026-07-20', new Set(['p-az']))[0].withMe === false && stepsForContext([{ ...plain, product: null }], '2026-07-20')[0].withMe === null, 'context withMe: false when on the missing set, null without a product');
 
 // 10. Shelf lists every product in a cycle and says which is in use; ownership lives in its own key and never touches the plan.
 const shelf = shelfFrom([three], '2026-07-20');
@@ -214,6 +216,149 @@ const cal2 = ics.buildIcs([weekdays, spfDaily], remind.reminderSettings(), new D
 check((cal2.match(/BEGIN:VEVENT/g) ?? []).length === 2 && /BYDAY=MO,TU,WE,TH,FR,SA,SU/.test(cal2) && /SUMMARY:Morning skincare routine/.test(cal2) && cal2.split('\r\n').every((l) => l.length <= 75), 'ics: two events, every day when the day filter is off, lines folded ≤ 75');
 check(ics.icsText('a, b; c\\d\nline') === 'a\\, b\\; c\\\\d line', 'ics escaping');
 check(mem.get('ledger.routine.v1') === planBeforeRemind, 'building the record / calendar never rewrites the plan');
+
+// 12. Assistant shelf + rotation ops end to end: tool → pending diff → accept / reject, on a saved routine, with a real-id index.
+const HITS = {
+  'p-az': { id: 'p-az', category: 'azelaic', brand: 'Minimalist', title: 'Azelaic 10%', score: 80, rank: 1, price: 600, store: 'Flipkart', inci: 'full', inciSource: 'brand-site' },
+  'p-ret': { id: 'p-ret', category: 'retinol', brand: 'Minimalist', title: 'Retinol 0.3%', score: 78, rank: 2, price: 700, store: 'Amazon', inci: 'full', inciSource: null },
+  'p-gly': { id: 'p-gly', category: 'glycolic', brand: 'Deconstruct', title: 'Glycolic 7%', score: 70, rank: 4, price: 500, store: 'Brand store', inci: 'full', inciSource: 'brand-site' },
+  'p-spf': { id: 'p-spf', category: 'sunscreen', brand: 'Re\u2019equil', title: 'SPF 50', score: 90, rank: 1, price: 800, store: 'Flipkart', inci: 'full', inciSource: null },
+};
+const idx = { search: async () => ({ get: (id) => HITS[id] ?? null }), categoryMeta: (id) => ({ id, label: id[0].toUpperCase() + id.slice(1), count: 100 }) };
+const MONDAY = rotation.weekMonday(new Date());
+const ctxI = () => ({ store: idx, siteUrl: 'http://x', page: { routineSteps: stepsForContext(store.snapshot().plan.steps, MONDAY, owned.missingNow()) } });
+const stepProd = (id) => ({ ...HITS[id], of: 100, priceInr: HITS[id].price, inciStatus: 'full', inciSourceKind: null, url: 'http://x' });
+store.clearPlan();
+const serum = store.addStep({ slot: 'pm', days: DAILY, zone: 'face', title: 'Azelaic', category: 'azelaic', product: stepProd('p-az'), note: 'thin layer' });
+const sun = store.addStep({ slot: 'am', days: DAILY, zone: 'face', title: 'Sunscreen', category: 'sunscreen', product: stepProd('p-spf'), note: '' });
+const bare = store.addStep({ slot: 'am', days: DAILY, zone: 'face', title: 'Cleanser', category: 'facewash', product: null, note: '' });
+const saved = () => store.snapshot().plan.steps.find((s) => s.id === serum);
+const missingNow = () => JSON.parse(mem.get('ledger.routine.owned.v1') ?? '{"missing":[]}').missing;
+
+// owned: "I ran out of the sunscreen" → pending → nothing changes → reject / accept
+res = await editRoutineSteps.run({ edits: [{ step_id: sun, op: 'owned', have: false, why: 'ran out' }] }, ctxI());
+check(res.edits.length === 1 && res.edits[0].after.owned === false && res.edits[0].before.withMe === true, `owned tool ok: ${JSON.stringify(res.problems)}`);
+check(store.receiveEdits(res, 'o1') === 1 && pending()[0].edit.op === 'owned' && pending()[0].edit.owned.productId === 'p-spf' && pending()[0].edit.owned.have === false, 'owned lands as a pending shelf proposal naming the product');
+check(model.editVerb(pending()[0].edit) === 'Mark not with me', 'owned verb reads the direction');
+let planSnap = mem.get('ledger.routine.v1');
+check(missingNow().length === 0, 'owned: nothing on the shelf changes before accept');
+store.rejectProposal(pending()[0].id);
+check(missingNow().length === 0, 'owned: reject leaves the shelf alone');
+store.receiveEdits(res, 'o2');
+r = store.acceptProposal(pending()[0].id);
+check(r.applied && missingNow().join() === 'p-spf', 'owned: accept marks the product not with me (ledger.routine.owned.v1)');
+check(JSON.parse(mem.get('ledger.routine.v1')).steps.length === 3 && JSON.stringify(JSON.parse(mem.get('ledger.routine.v1')).steps) === JSON.stringify(JSON.parse(planSnap).steps), 'owned: accept never rewrites the saved steps');
+check(ctxI().page.routineSteps.find((s) => s.id === sun).withMe === false, 'context now reads the sunscreen as not with me');
+res = await editRoutineSteps.run({ edits: [{ step_id: sun, op: 'owned', have: false, why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /already marked not with me/.test(reason(res)), `owned: same state refused: ${reason(res)}`);
+res = await editRoutineSteps.run({ edits: [{ step_id: bare, op: 'owned', have: true, why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /no product pinned/.test(reason(res)), 'owned: productless step refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: sun, op: 'owned', why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /needs have/.test(reason(res)), 'owned: missing have refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: sun, op: 'owned', have: true, why: 'bought it' }] }, ctxI());
+store.receiveEdits(res, 'o3');
+store.updateStep(sun, { product: stepProd('p-gly') });
+r = store.acceptProposal(pending()[0].id);
+check(!r.applied && /no longer uses/.test(r.reason) && missingNow().join() === 'p-spf', 'owned: stale (product swapped meanwhile) refused on accept, shelf untouched');
+owned.setHave('p-spf', true);
+store.updateStep(sun, { product: stepProd('p-spf') });
+
+// rotate: 3-option cycle, option 1 = current product, active = 2 this week
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', active: 2, why: 'alternate actives', options: [
+  'Azelaic = current', 'Retinol = p-ret', 'Glycolic = p-gly',
+] }] }, ctxI());
+check(res.edits.length === 1 && res.edits[0].after.rotation.options.length === 3 && res.edits[0].after.rotation.options[0].product.id === 'p-az' && res.edits[0].after.rotation.active === 2, `rotate tool ok: ${JSON.stringify(res.problems)}`);
+check(res.edits[0].after.rotation.options[1].product.brand === 'Minimalist' && res.edits[0].after.rotation.options[2].category === 'glycolic', 'rotate: options carry real listing snapshots');
+check(store.receiveEdits(res, 'r1') === 1 && pending()[0].edit.op === 'rotate' && pending()[0].edit.before.rotation === undefined && pending()[0].step.rotation.alternatives.length === 2, 'rotate lands as pending with before (no cycle) → after (2 alternatives)');
+check(pending()[0].step.title === 'Azelaic' && pending()[0].step.product.id === 'p-az' && pending()[0].step.note === 'thin layer' && rotation.viewForWeek(pending()[0].step, MONDAY).now.title === 'Retinol', 'rotate: option 1 is the step itself (note kept), option 2 on this week');
+check(saved().rotation === undefined, 'rotate: nothing changes before accept');
+r = store.acceptProposal(pending()[0].id);
+check(r.applied && saved().rotation.alternatives.length === 2 && saved().days.length === 7 && saved().slot === 'pm' && saved().zone === 'face', 'rotate: accept installs the cycle, unrelated fields intact');
+let view = rotation.viewForWeek(saved(), MONDAY);
+check(view.now.title === 'Retinol' && view.rotation.next.title === 'Glycolic' && rotation.viewForWeek(saved(), rotation.shiftWeek(MONDAY, 2)).now.title === 'Azelaic', 'rotate: this week retinol, next glycolic, then back to azelaic');
+let c = ctxI().page.routineSteps.find((s) => s.id === serum);
+check(c.title === 'Retinol' && c.product.id === 'p-ret' && c.rotation.active === 2 && c.rotation.options.length === 3, 'context after accept: this week retinol, cycle of 3');
+
+// rotate with just active: "make glycolic this week"
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', active: 3, why: 'glycolic now' }] }, ctxI());
+check(res.edits.length === 1 && res.edits[0].after.rotation.active === 3 && res.edits[0].after.rotation.options === undefined, 'rotate active-only accepted');
+store.receiveEdits(res, 'r2');
+check(pending()[0].step.rotation.alternatives.length === 2 && rotation.viewForWeek(pending()[0].step, MONDAY).now.title === 'Glycolic', 'active-only keeps the cycle, moves the anchor');
+store.acceptProposal(pending()[0].id);
+check(rotation.viewForWeek(saved(), MONDAY).now.title === 'Glycolic' && saved().rotation.alternatives.length === 2, 'active-only accept: glycolic this week, cycle intact');
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', active: 3, why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /already the one on this week/.test(reason(res)), 'rotate: same active refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', active: 4, why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /from 1 to 3/.test(reason(res)), 'rotate: active out of range refused');
+
+// plain edits on a rotating step leave the cycle alone
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'move', days: 'mon,thu', why: 'x' }] }, ctxI());
+store.receiveEdits(res, 'r3');
+store.acceptProposal(pending()[0].id);
+check(saved().days.join() === 'mon,thu' && saved().rotation.alternatives.length === 2 && rotation.viewForWeek(saved(), MONDAY).now.title === 'Glycolic', 'move on a rotating step keeps the cycle and this week\u2019s option');
+
+// invalid cycles
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', options: ['Only = p-ret'], why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /at least 2 options/.test(reason(res)), 'rotate: one option refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', options: ['A = p-ret', 'B = p-nope'], why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /no listing with id 'p-nope'/.test(reason(res)), 'rotate: invented product id refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', options: ['A = p-ret', 'B = p-ret'], why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /already another option/.test(reason(res)), 'rotate: same listing twice refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', options: Array.from({ length: 7 }, (_, i) => `O${i} = none`), why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /at most 6 options/.test(reason(res)), 'rotate: 7 options refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: bare, op: 'rotate', active: 2, why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /needs options/.test(reason(res)), 'rotate: active-only on a non-rotating step refused');
+res = await editRoutineSteps.run({ edits: [{ step_id: bare, op: 'stop_rotation', why: 'x' }] }, ctxI());
+check(res.edits.length === 0 && /does not rotate/.test(reason(res)), 'stop_rotation on a plain step refused');
+check(store.receiveEdits({ edits: [{ step_id: serum, op: 'rotate', after: { rotation: { options: [{ title: 'x' }], active: 1 } }, why: 'x' }] }, 'r4') === 0, 'editsFrom drops a one-option cycle');
+check(store.receiveEdits({ edits: [{ step_id: 'gone', op: 'rotate', after: { rotation: { active: 2 } }, why: 'x' }] }, 'r5') === 0, 'editsFrom drops a rotate for a vanished step');
+
+// productless option + a 2-cycle re-sent with an option removed (reorder / remove = resend the cycle)
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'rotate', options: ['Retinol = p-ret', 'Rest week = none'], why: 'x' }] }, ctxI());
+check(res.edits.length === 1 && res.edits[0].after.rotation.options[1].product === null, 'rotate: 2-cycle with a productless week accepted');
+store.receiveEdits(res, 'r6');
+store.acceptProposal(pending()[0].id);
+check(saved().title === 'Retinol' && saved().product.id === 'p-ret' && saved().rotation.alternatives.length === 1 && saved().rotation.alternatives[0].product === null && rotation.viewForWeek(saved(), MONDAY).now.title === 'Retinol', 'rotate: resent cycle replaces the old one, option 1 this week');
+
+// stop_rotation keeping option 2, then stale on accept
+res = await editRoutineSteps.run({ edits: [{ step_id: serum, op: 'stop_rotation', active: 2, why: 'x' }] }, ctxI());
+check(res.edits.length === 1 && res.edits[0].after.rotation.active === 2, 'stop_rotation tool ok');
+store.receiveEdits(res, 's1');
+check(pending()[0].edit.op === 'stop_rotation' && pending()[0].edit.before.rotation.alternatives.length === 1 && pending()[0].step.rotation === undefined && pending()[0].step.title === 'Rest week', 'stop lands as before (cycle) → after (option 2 only)');
+check(saved().rotation.alternatives.length === 1, 'stop: nothing changes before accept');
+store.acceptProposal(pending()[0].id);
+check(saved().rotation === undefined && saved().title === 'Rest week' && saved().product === null && saved().days.join() === 'mon,thu', 'stop: accept keeps option 2 as the step, days intact');
+res = await editRoutineSteps.run({ edits: [{ step_id: sun, op: 'rotate', options: ['SPF = current', 'Glycolic = p-gly'], why: 'x' }] }, ctxI());
+store.receiveEdits(res, 's2');
+store.removeStep(sun);
+r = store.acceptProposal(pending()[0].id);
+check(!r.applied && /no longer/.test(r.reason), 'rotate: stale step refused on accept');
+// read_routine: exact shelf / rotation / reminder reads, read-only
+{
+  const planBefore = JSON.stringify(store.snapshot().plan);
+  const missingId = 'p-spf';
+  const rows = stepsForContext([
+    { ...spfDaily, id: 'r-spf' },
+    { ...plain, id: 'r-rot', title: 'Azelaic', slot: 'pm', days: ['mon', 'thu'], product: prod('p-az', 'Azelaic 10%'), rotation: { anchor: MONDAY, alternatives: [{ title: 'Retinol', category: 'retinol', product: prod('p-ret', 'Retinol 0.3%'), note: '' }, { title: 'Glycolic', category: 'glycolic', product: prod('p-gly', 'Glycolic 8%'), note: '' }] } },
+  ], MONDAY, new Set([missingId]));
+  const rotRow = rows.find((x) => x.rotation);
+  const ctxR = { store: idx, siteUrl: 'http://x', page: { routineSteps: rows, routineReminders: { am: { enabled: false, time: '07:30' }, pm: { enabled: true, time: '21:30' } } } };
+  const out = await readRoutine.run({}, ctxR);
+  check(out.steps === rows.length && out.not_with_me.length === 1 && out.not_with_me[0].product.id === missingId && out.reminders.pm.time === '21:30', 'read_routine: not_with_me + reminders exact');
+  const rot = out.list.find((x) => x.rotation);
+  check(rotRow && rot && rot.rotation.active === 1 && rot.rotation.next_week === 2 && rot.rotation.options.map((o) => o.option).join() === '1,2,3' && rot.rotation.options[2].product.id === 'p-gly', 'read_routine: rotation options numbered, next_week follows active');
+  const am = await readRoutine.run({ slot: 'AM' }, ctxR);
+  check(am.list.every((x) => x.slot === 'am') && am.steps === rows.filter((x) => x.slot === 'am').length, 'read_routine: slot filter');
+  let threw = false;
+  try { await readRoutine.run({ slot: 'noon' }, ctxR); } catch { threw = true; }
+  check(threw, 'read_routine: bad slot refused');
+  threw = false;
+  try { await readRoutine.run({}, { store: idx, siteUrl: 'http://x', page: null }); } catch { threw = true; }
+  check(threw, 'read_routine: no routine on page refused');
+  check(JSON.stringify(store.snapshot().plan) === planBefore, 'read_routine: changes nothing');
+}
+const persistedEdits = JSON.parse(mem.get('ledger.routine.v1')).proposals.filter((x) => x.edit && ['owned', 'rotate', 'stop_rotation'].includes(x.edit.op));
+check(persistedEdits.length >= 6 && persistedEdits.some((x) => x.edit.op === 'owned' && x.edit.owned.productId === 'p-spf') && persistedEdits.some((x) => x.edit.op === 'stop_rotation' && x.edit.before.rotation), 'owned / rotate / stop proposals survive storage with their before state');
 
 console.log(fails ? `${fails} check(s) failed` : 'routine-check: all checks passed');
 process.exit(fails ? 1 : 0);

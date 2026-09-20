@@ -1,7 +1,7 @@
 """Site-level tools: overview, categories, scoring method, reference ceilings, routines."""
 from __future__ import annotations
 
-from .base import Tool, ToolContext, ToolError, category_param
+from .base import Tool, ToolContext, ToolError, category_id_param
 from .present import benchmark_summary, category_summary
 
 METHOD_RULES = [
@@ -89,7 +89,7 @@ class GetReferenceCeiling(Tool):
     description = "The fixed-100 reference ceiling (best-in-class product) for a category, its cited evidence, and whether/where the exact product is found in the Indian marketplace ranking."
 
     def parameters(self, manifest: dict) -> dict:
-        return {"type": "object", "properties": {"category": category_param(manifest, "Category id")}, "required": ["category"]}
+        return {"type": "object", "properties": {"category": category_id_param("Category")}, "required": ["category"]}
 
     async def run(self, args: dict, ctx: ToolContext) -> dict:
         await ctx.store.ensure_fresh()

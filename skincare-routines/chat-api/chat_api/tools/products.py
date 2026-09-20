@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from ..data.source import DataError
 from ..data.store import CategoryView, TagGroupQuery
-from .base import Tool, ToolContext, ToolError, category_param, clamp
+from .base import Tool, ToolContext, ToolError, category_id_param, category_param, clamp
 from .facet_hints import match_facets
 from .inci_match import IngredientQuery, expand_ingredient, find_ingredient, title_has_words, title_tokens
 from .present import detail_summary, hit_summary, row_summary
@@ -59,7 +59,7 @@ class SearchProducts(Tool):
             "type": "object",
             "properties": {
                 "query": {"type": "string", "description": "Brand + product words, e.g. 'cetaphil gentle skin cleanser'"},
-                "category": category_param(manifest, "Optional: restrict to one category id"),
+                "category": category_id_param("Optional: restrict to one category"),
                 "limit": {"type": "integer", "description": "Max results (default 8, max 25)"},
             },
             "required": ["query"],
@@ -224,7 +224,7 @@ class GetProduct(Tool):
             "type": "object",
             "properties": {
                 "product_id": {"type": "string", "description": "Listing id from search_products / get_top_products"},
-                "category": {**category_param(manifest, "Which category's placement to read when the listing is ranked in several (defaults to the page's category)"), "nullable": True},
+                "category": {**category_id_param("Which category's placement to read when the listing is ranked in several (defaults to the page's category)"), "nullable": True},
             },
             "required": ["product_id"],
         }
@@ -242,7 +242,7 @@ class CompareProducts(Tool):
             "type": "object",
             "properties": {
                 "product_ids": {"type": "array", "items": {"type": "string"}, "minItems": 2, "maxItems": 5},
-                "category": {**category_param(manifest, "Category whose ranks to compare when listings sit in several (defaults to the page's category)"), "nullable": True},
+                "category": {**category_id_param("Category whose ranks to compare when listings sit in several (defaults to the page's category)"), "nullable": True},
             },
             "required": ["product_ids"],
         }

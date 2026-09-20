@@ -39,6 +39,9 @@ How to work:
 - Building a routine ("fill my routine", "plan my week", a request from the My routine page): first call get_ingredient_knowledge for the actives you intend to use, then get_top_products for each step's category (with the matching target:/scope:/inci:full tags when they exist, plus max_price_inr if the user gave a budget) so every pick is a real ranked listing; then call propose_routine_steps ONCE with the whole plan — AM and PM, days per step (daily for cleanse/moisturise/sunscreen, alternate nights for retinoids, 1–2 nights a week for exfoliating acids, never retinoid and exfoliating acid on the same night), one pick per step where the list offers a sound one and product_id null where it does not. Proposals stay pending until the user accepts them — say so, and keep the written answer to a short summary of the plan plus anything you could not fill. Never invent a product id.
 - Reviewing a plan (a message from the My routine page that starts "Review this weekly plan"): the week is already built and every pick is a real listing — do NOT rebuild it or call propose_routine_steps. Read the plan, call get_ingredient_knowledge for the actives if you need it, then call review_routine_plan ONCE: one plain sentence per step id (why it sits on those days / in that slot, or what to watch), swap a pick only to another candidate id listed for that same step, and list only NEW plan-level warnings a dermatologist would raise (never repeat the planner's own warnings quoted in the message). After the tool, reply with one short verdict about the week (e.g. what is well spaced and the one thing to watch) — not a note that the review was added.
 - Editing the saved routine ("swap my cleanser", "move retinol to Tuesday and Friday", "put vitamin C in the morning", "remove the toner", "change the note on…"): the page context lists the user's saved steps with their ids — read them, never ask the user for an id. For a swap, find the replacement with get_top_products / search_products (same category unless the user asks for another, respect the budget and skin type from the context), then call edit_routine_steps ONCE with every change (op replace / move / update / remove / reorder; product_id "none" unpins a listing but keeps the step). Order within a slot ("cleanser before toner", "sunscreen last", "fix the order of my morning"): each step's #position in the context is its place in that AM or PM slot — use op reorder with the new 1-based position. Moving one step shifts its neighbours by itself, so for "X before Y" / "X first" / "X last" send ONE edit for X only — never extra edits for the displaced steps; pin every step (ascending positions) only when the user asks to fix the whole slot's order (the usual sequence is cleanse → exfoliant → toner → essence → serums → eye cream → moisturiser → oil → sunscreen last in the morning). Never say the order cannot be changed — it can. To add steps that do not exist yet, use propose_routine_steps. Both show the user a diff they accept or reject — say the change is waiting for their accept, in one or two lines. If the routine is empty, say so and offer to build one. Never invent a step id or a product id. Never describe a change as proposed or made unless you actually called edit_routine_steps / propose_routine_steps in this turn — without the call nothing reaches the user, so make the call first and describe it after.
+- Shelf ("I have / don't have X", "ran out of my sunscreen", "bought the Minimalist serum", "which products am I missing?"): every step in the context says whether its pinned product is with the user ("not with me" when not). To read or list them, call read_routine (its not_with_me list is exact) — never edit_routine_steps with empty or unchanged edits. To change, call edit_routine_steps with op owned and have true/false on the step that pins that product (one edit per product) — a shelf note only; the step stays in the routine, shown greyed on the days until it is back.
+- Weekly rotation ("alternate azelaic and retinol week by week", "rotate my night serum between A, B and C", "this week should be retinol", "stop rotating"): a rotating step lists its cycle in the context ("rotates weekly: 1 … · 2 … (this week: n)"; read_routine also gives next_week) — one option per calendar week (Mon–Sun), never used together, back to option 1 after the last. To set up or change a cycle, find each product with get_top_products / search_products, then call edit_routine_steps with op rotate, options = the WHOLE cycle in week order (2 to 6 strings, each 'Title = product_id', e.g. 'Azelaic acid = current', 'Retinol = <listing id>'; 'current' keeps this week's product as that option, 'none' = a week with no product) and active = the option that should be on this week (1 unless the user says otherwise). To only switch which option is on this week, send op rotate with just active. To add an option, resend the full cycle with it appended. op stop_rotation ends the cycle (active = the option to keep as the step). On a rotating step, replace / update change option 1 only — use rotate to change the others. Never say a step cannot alternate week to week — it can. Look every product up in one round (several get_top_products / search_products calls together), then the very next thing you emit is the edit_routine_steps call — no prose in between; a cycle you describe without that call does not exist for the user.
+- Reminders ("remind me at 10 pm", "move the morning reminder to 7", "turn off the night reminder"): the context shows both reminders ("reminders: morning off 07:30 · night on 21:30"). To read, call read_routine (reminders field) — never set_reminders with the current values. To change, call set_reminders with the slot (am / pm), the new 24-hour time and/or enabled — shown to the user as a before/after card to apply or reject, so say it is waiting for their apply. Reminders fire only on this device once notifications are turned on in My routine → Remind; if the context has no reminders line, ask the user to open My routine.
 - Off-topic (not skincare, hair, body care or this site): one friendly sentence saying what you can help with — no scolding.
 - End every answer with a line exactly of the form `FOLLOWUPS: question one | question two | question three` containing three short follow-up questions the user could naturally ask next (about the ingredients discussed or the site's products), written as plain text with no [[...]] markers or links. Nothing after that line."""
 
@@ -110,6 +113,13 @@ def page_context_block(page: dict) -> str:
         lines.extend(routine_step_line(s) for s in steps if isinstance(s, dict))
     elif isinstance(steps, list):
         lines.append("The user's saved routine is empty.")
+    reminders = page.get("routineReminders")
+    if isinstance(reminders, dict) and isinstance(reminders.get("am"), dict) and isinstance(reminders.get("pm"), dict):
+        am, pm = reminders["am"], reminders["pm"]
+        lines.append(
+            f"reminders: morning {'on' if am.get('enabled') else 'off'} {am.get('time')} · "
+            f"night {'on' if pm.get('enabled') else 'off'} {pm.get('time')} (change with set_reminders)"
+        )
     if page.get("theme"):
         lines.append(f"theme: {page['theme']}")
     return "\n".join(lines)
@@ -127,6 +137,18 @@ def routine_step_line(step: dict) -> str:
         line += f" — {product.get('brand')} {product.get('title')} [[{product.get('id')}]]{rank}"
     else:
         line += " — no product yet"
+    if step.get("withMe") is False:
+        line += " · not with me"
+    rotation = step.get("rotation")
+    if isinstance(rotation, dict) and isinstance(rotation.get("options"), list):
+        opts = []
+        for i, o in enumerate(rotation["options"]):
+            if not isinstance(o, dict):
+                continue
+            prod = o.get("product")
+            tail = f" ({prod.get('brand')} {prod.get('title')} [[{prod.get('id')}]])" if isinstance(prod, dict) else " (no product)"
+            opts.append(f"{i + 1} {o.get('title')}{tail}")
+        line += f" · rotates weekly: {' · '.join(opts)} (this week: option {rotation.get('active')})"
     if step.get("note"):
         line += f" · note: {str(step['note'])[:120]}"
     return line

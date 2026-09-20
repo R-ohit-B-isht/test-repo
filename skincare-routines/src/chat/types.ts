@@ -61,6 +61,8 @@ export interface PageContext {
   routine?: { zones: string[]; concerns: string[]; skinType: string | null; maxPriceInr: number | null; steps: number; pending: number } | null;
   /** The saved routine's accepted steps (published from any page), so the assistant can read and propose edits to them. */
   routineSteps?: RoutineStepContext[];
+  /** Morning / night reminder switches and times on this device (published from any page). */
+  routineReminders?: Record<'am' | 'pm', { enabled: boolean; time: string }> | null;
 }
 
 export interface RoutineStepContext {
@@ -74,4 +76,13 @@ export interface RoutineStepContext {
   category: string | null;
   note: string;
   product: { id: string; category: string; brand: string; title: string; rank: number | null } | null;
+  /** Shelf note for the pinned listing: false = marked "not with me"; null when the step has no product. */
+  withMe: boolean | null;
+  /** The weekly cycle when the step rotates: every option in week order, and which one (1-based) is on this week. */
+  rotation: { active: number; options: RoutineOptionContext[] } | null;
+}
+
+export interface RoutineOptionContext {
+  title: string;
+  product: { id: string; brand: string; title: string } | null;
 }

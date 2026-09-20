@@ -7,7 +7,9 @@ import { transportFor } from '../chat/transport';
 import type { ChatEvent, ChatError } from '../chat/types';
 import { applicationPosition, byApplicationOrder } from './applicationOrder';
 import { EMPTY_PLAN, newId, stepsFor, type Plan, type Proposal, type Setup, type Slot, type Step } from './model';
+import { missingNow, setHave, subscribeMissing } from './ownedStore';
 import { EDIT_TOOL, editsFrom, fillMessage, NUDGE_MESSAGE, PROPOSE_TOOL, problemsFrom, proposalsFrom, stepsForContext, toolStatus, type FillScope } from './proposer';
+import { cycleOf, weekMonday } from './rotation';
 import * as storage from './storage';
 
 export type FillPhase = 'idle' | 'running' | 'done' | 'error';
@@ -37,8 +39,11 @@ let state: ScheduleState = { plan: loaded.plan, fill: IDLE, storageOk: loaded.ok
 let controller: AbortController | null = null;
 let labelFor: (id: string) => string = (id) => id;
 const listeners = new Set<() => void>();
-// The assistant reads the saved steps through the page context from any route, so it can answer "swap my cleanser" anywhere.
-publishPage({ routineSteps: stepsForContext(state.plan.steps) });
+// The assistant reads the saved steps (with this week's rotation option and the shelf's with-me notes) through the page
+// context from any route, so it can answer "swap my cleanser" or "I ran out of my sunscreen" anywhere.
+const publishSteps = () => publishPage({ routineSteps: stepsForContext(state.plan.steps, weekMonday(new Date()), missingNow()) });
+publishSteps();
+subscribeMissing(publishSteps);
 
 function set(patch: Partial<ScheduleState>) {
   state = { ...state, ...patch };
@@ -49,7 +54,7 @@ function commit(fn: (plan: Plan) => Plan) {
   const plan = { ...fn(state.plan), updatedAt: Date.now() };
   const ok = storage.save(plan);
   set({ plan, storageOk: ok });
-  publishPage({ routineSteps: stepsForContext(plan.steps) });
+  publishSteps();
 }
 
 const patchFill = (patch: Partial<FillState> | ((f: FillState) => Partial<FillState>)) =>
@@ -112,13 +117,31 @@ export function acceptProposal(id: string, edits?: Partial<Proposal['step']>): {
       return { applied: false, reason: `“${edit.before.title}” is no longer in the routine, so this change was dropped.` };
     }
     const op = edit.op;
+    if (op === 'owned') {
+      // A shelf note, not a step change: the plan only records that the proposal was decided.
+      const owned = edit.owned;
+      if (!owned || !cycleOf(target).some((v) => v.product?.id === owned.productId)) {
+        commit((p) => ({ ...p, proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'rejected' as const } : x)) }));
+        return { applied: false, reason: `“${edit.before.title}” no longer uses that product, so this shelf note was dropped.` };
+      }
+      setHave(owned.productId, owned.have);
+      commit((p) => ({ ...p, proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)) }));
+      return { applied: true };
+    }
     commit((p) => {
       const decided = { ...p, proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)) };
       if (op === 'remove') return { ...decided, steps: p.steps.filter((s) => s.id !== target.id) };
-      const changed = {
-        ...decided,
-        steps: p.steps.map((s) => (s.id === target.id ? { ...s, ...step, note: step.note || s.note, order: s.slot === step.slot ? s.order : nextOrder(p.steps, step.slot) } : s)),
+      // Only `rotate` / `stop_rotation` touch the cycle (replaced, or gone); every other edit leaves the step's live rotation as is.
+      const { rotation, ...fields } = step;
+      const touchesCycle = op === 'rotate' || op === 'stop_rotation';
+      const merged = (s: Step): Step => {
+        const next: Step = { ...s, ...fields, note: fields.note || s.note, order: s.slot === step.slot ? s.order : nextOrder(p.steps, step.slot) };
+        if (!touchesCycle) return next;
+        if (rotation) next.rotation = rotation;
+        else delete next.rotation;
+        return next;
       };
+      const changed = { ...decided, steps: p.steps.map((s) => (s.id === target.id ? merged(s) : s)) };
       return edit.position ? placeAt(changed, target.id, step.slot, edit.position.to) : changed;
     });
     return { applied: true };

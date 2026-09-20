@@ -55,8 +55,9 @@ export interface Step {
 }
 
 export type ProposalStatus = 'pending' | 'accepted' | 'rejected';
-export type EditOp = 'replace' | 'move' | 'update' | 'remove' | 'reorder';
-/** A proposal that changes an existing step instead of adding one: `step` holds the step as it would look after the change. */
+export type EditOp = 'replace' | 'move' | 'update' | 'remove' | 'reorder' | 'rotate' | 'stop_rotation' | 'owned';
+/** A proposal that changes an existing step instead of adding one: `step` holds the step as it would look after the change
+ * (its `rotation` is the cycle after the change — absent once a rotation is stopped). */
 export interface StepEdit {
   op: EditOp;
   targetStepId: string;
@@ -64,6 +65,8 @@ export interface StepEdit {
   before: Omit<Step, 'id' | 'origin' | 'order'>;
   /** 1-based place among the steps of the slot the step ends up in — `from` as proposed, `to` as requested. */
   position?: { from: number; to: number };
+  /** `owned` edits: the pinned listing to mark as with the user (`have`) or not — applied to the shelf note, never to the step. */
+  owned?: { productId: string; have: boolean };
 }
 export interface Proposal {
   id: string;
@@ -76,7 +79,13 @@ export interface Proposal {
   edit?: StepEdit;
 }
 
-export const EDIT_VERB: Record<EditOp, string> = { replace: 'Swap product', move: 'Move', update: 'Change', remove: 'Remove', reorder: 'Reorder' };
+export const EDIT_VERB: Record<EditOp, string> = {
+  replace: 'Swap product', move: 'Move', update: 'Change', remove: 'Remove', reorder: 'Reorder', rotate: 'Rotate weekly', stop_rotation: 'Stop rotating', owned: 'Shelf',
+};
+
+/** The card heading verb — `owned` edits say which way the shelf note goes. */
+export const editVerb = (edit: StepEdit): string =>
+  edit.op === 'owned' && edit.owned ? (edit.owned.have ? 'Mark with me' : 'Mark not with me') : EDIT_VERB[edit.op];
 
 /** 1-based place of a step among the steps sharing its slot (the order the timeline shows them in). */
 export const positionOf = (steps: Step[], id: string): number | null => {

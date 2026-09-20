@@ -4,6 +4,7 @@ import { newId, settleInterrupted, summarise, titleFor, type Conversation, type 
 import * as storage from './history/storage';
 import { getPage } from './pageContext';
 import { EDIT_TOOL, PROPOSE_TOOL } from '../schedule/proposer';
+import { receiveReminderChanges, REMIND_TOOL } from '../schedule/reminders/proposals';
 import { receiveEdits, receiveProposals } from '../schedule/scheduleStore';
 import { transportFor } from './transport';
 import type { AssistantMessage, ChatEvent, Message, PageContext } from './types';
@@ -172,9 +173,11 @@ function apply(convId: string, id: number, ev: ChatEvent) {
       });
     case 'tool_payload': {
       // Routine proposals land on the My routine page as pending cards; the transcript only records how many.
-      if (ev.data.name !== PROPOSE_TOOL && ev.data.name !== EDIT_TOOL) return;
+      if (ev.data.name !== PROPOSE_TOOL && ev.data.name !== EDIT_TOOL && ev.data.name !== REMIND_TOOL) return;
       const batch = `chat-${convId}-${id}`;
-      const n = ev.data.name === EDIT_TOOL ? receiveEdits(ev.data.result, batch) : receiveProposals(ev.data.result, batch);
+      const n = ev.data.name === EDIT_TOOL ? receiveEdits(ev.data.result, batch)
+        : ev.data.name === REMIND_TOOL ? receiveReminderChanges(ev.data.result, batch)
+        : receiveProposals(ev.data.result, batch);
       return patchAssistant(convId, id, (m) => ({ proposed: (m.proposed ?? 0) + n }));
     }
     case 'text':

@@ -6,11 +6,13 @@ import { getIngredientKnowledge } from './knowledge';
 import { compareProducts, getCategoryFilters, getProduct, getTopProducts, searchProducts } from './products';
 import { reviewRoutinePlan } from './planReview';
 import { proposeRoutineSteps } from './routine';
+import { setReminders } from './reminders';
 import { editRoutineSteps } from './routineEdit';
+import { readRoutine } from './routineRead';
 
 export const ALL_TOOLS: Tool[] = [
   getSiteOverview, listCategories, getScoringMethod, getReferenceCeiling, getRoutines,
-  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge, proposeRoutineSteps, editRoutineSteps, reviewRoutinePlan,
+  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge, proposeRoutineSteps, readRoutine, editRoutineSteps, setReminders, reviewRoutinePlan,
 ];
 
 export class ToolRegistry {
