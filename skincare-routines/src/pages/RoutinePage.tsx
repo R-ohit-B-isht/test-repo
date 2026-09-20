@@ -5,7 +5,8 @@ import { useManifest } from '../data/hooks';
 import { Hero } from '../components/layout/Hero';
 import { Kicker, StatusBlock } from '../components/ui/primitives';
 import { SetupPanel } from '../components/routine/SetupPanel';
-import { ScheduleView } from '../components/routine/schedule/ScheduleView';
+import { ScheduleView, type View as ScheduleTab } from '../components/routine/schedule/ScheduleView';
+import { useReminderSync } from '../schedule/reminders/useReminderSync';
 import { ProposalsPanel } from '../components/routine/ProposalsPanel';
 import { StepEditor } from '../components/routine/StepEditor';
 import { PlanStepper, type PlanView } from '../components/routine/plan/PlanStepper';
@@ -45,6 +46,11 @@ export default function RoutinePage() {
   const planner = usePlanner();
   const [params] = useSearchParams();
   const dev = params.get('dev') === '1';
+  // `/#/routine?slot=pm` is what a tapped reminder opens; `?view=remind` deep-links the Reminders tab.
+  const slotParam = params.get('slot');
+  const initialSlot: Slot | null = slotParam === 'am' || slotParam === 'pm' ? slotParam : null;
+  const initialTab: ScheduleTab | null = params.get('view') === 'remind' ? 'remind' : null;
+  useReminderSync(plan.steps);
   const [editor, setEditor] = useState<Editor>(null);
   const [view, setView] = useState<PlanView>(() => startView(plan.steps.length, plan.proposals.length, planner.week !== null, plan.setup.zones.length > 0));
 
@@ -165,7 +171,7 @@ export default function RoutinePage() {
             onAccept={accept} onEdit={(p) => setEditor({ kind: 'proposal', proposal: p })} onReject={rejectProposal}
             onAcceptAll={acceptAll} onRejectAll={rejectAllPending} onClearDecided={clearDecided}
             onRetry={() => setView('inventory')} onDismiss={dismissFill} />
-          <ScheduleView steps={plan.steps} categoryLabel={categoryLabel}
+          <ScheduleView key={`${initialSlot ?? ''}/${initialTab ?? ''}`} steps={plan.steps} categoryLabel={categoryLabel} initialSlot={initialSlot} initialView={initialTab}
             onAdd={(slot) => setEditor({ kind: 'add', slot })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}
             onEdit={(step) => setEditor({ kind: 'edit', step })} onRemove={(id) => { removeStep(id); toast('Step removed'); }} onMove={moveStep}
             onSort={(slot) => { sortSlot(slot); toast(`${SLOT_LABEL[slot]} steps sorted by application order`); }} />

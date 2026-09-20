@@ -41,7 +41,9 @@ export default defineConfig({
       workbox: {
         // App shell only: the 372 MB of generated data under /data is cached as it is visited (below), never precached.
         globPatterns: ['**/*.{js,css,html,svg,png,ico,webmanifest}'],
-        globIgnores: ['data/**', 'og.*', 'icons/icon.html'],
+        globIgnores: ['data/**', 'og.*', 'icons/icon.html', 'sw-push.js'],
+        // Push + notification-click handlers live in public/sw-push.js; a byte change there updates the worker too.
+        importScripts: ['sw-push.js'],
         navigateFallback: 'index.html',
         navigateFallbackDenylist: [/^\/api\//, /^\/data\//],
         cleanupOutdatedCaches: true,

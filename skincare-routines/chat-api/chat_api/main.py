@@ -4,6 +4,7 @@ from __future__ import annotations
 import asyncio
 import logging
 from contextlib import asynccontextmanager
+from pathlib import Path
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -13,6 +14,10 @@ from .config import Settings
 from .data.source import DataError, make_source
 from .data.store import LedgerStore
 from .gemini.service import GeminiService
+from .reminders.push import Pusher
+from .reminders.routes import router as reminders_router
+from .reminders.service import ReminderService
+from .reminders.store import ReminderStore
 from .tools.registry import ToolRegistry
 
 log = logging.getLogger("chat_api")
@@ -44,30 +49,36 @@ def wire_app(app: FastAPI, settings: Settings) -> FastAPI:
     )
     registry = ToolRegistry()
     gemini = GeminiService(settings, store, registry)
+    reminders = _reminders(settings)
 
     @asynccontextmanager
     async def lifespan(app: FastAPI):
         store.on_version(lambda version: log.info("dataset version %s — caches cleared, index rebuilt", version))
         if not settings.has_key:
             log.error("GEMINI_API_KEY is not set — /api/chat will answer with a configuration error")
-        task = asyncio.create_task(_refresh_loop(store, settings.refresh_seconds))
+        tasks = [asyncio.create_task(_refresh_loop(store, settings.refresh_seconds))]
+        if reminders is not None:
+            tasks.append(asyncio.create_task(reminders.run_forever()))
         try:
             yield
         finally:
-            task.cancel()
+            for task in tasks:
+                task.cancel()
 
     app.router.lifespan_context = lifespan
     app.add_middleware(
         CORSMiddleware,
         allow_origins=settings.allowed_origins,
-        allow_methods=["GET", "POST"],
+        allow_methods=["GET", "POST", "PUT"],
         allow_headers=["content-type"],
     )
     app.state.settings = settings
     app.state.store = store
     app.state.registry = registry
     app.state.gemini = gemini
+    app.state.reminders = reminders
     app.include_router(router)
+    app.include_router(reminders_router)
 
     @app.get("/healthz", include_in_schema=False)
     async def healthz() -> dict:
@@ -76,6 +87,19 @@ def wire_app(app: FastAPI, settings: Settings) -> FastAPI:
         return {"status": "ok"}
 
     return app
+
+
+def _reminders(settings: Settings) -> ReminderService | None:
+    if not settings.reminders_enabled:
+        return None
+    directory = Path(settings.reminders_dir)
+    try:
+        pusher = Pusher.from_settings(settings.vapid_private_key, directory, settings.vapid_subject)
+        store = ReminderStore(directory / "records.json")
+    except Exception as exc:  # noqa: BLE001 — a broken key or unwritable dir must not stop the chat API
+        log.error("reminders disabled: %s", exc)
+        return None
+    return ReminderService(store, pusher, tick_seconds=settings.reminders_tick_seconds)
 
 
 async def _refresh_loop(store: LedgerStore, seconds: int) -> None:

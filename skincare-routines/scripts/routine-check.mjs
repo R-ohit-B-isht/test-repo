@@ -21,13 +21,16 @@ writeFileSync(entry, [
   `export * as storage from '${join(root, 'src/schedule/storage.ts')}';`,
   `export { shelfFrom } from '${join(root, 'src/schedule/shelf.ts')}';`,
   `export * as owned from '${join(root, 'src/schedule/ownedStore.ts')}';`,
+  `export * as remind from '${join(root, 'src/schedule/reminders/store.ts')}';`,
+  `export * as payload from '${join(root, 'src/schedule/reminders/payload.ts')}';`,
+  `export * as ics from '${join(root, 'src/schedule/reminders/ics.ts')}';`,
 ].join('\n'));
 const out = join(cache, 'routine-check.mjs');
 await build({ entryPoints: [entry], bundle: true, format: 'esm', platform: 'node', outfile: out, logLevel: 'silent', define: { 'import.meta.env.BASE_URL': '"/"', 'import.meta.env.DEV': 'false' } });
 
 const mem = new Map();
 globalThis.localStorage = { getItem: (k) => mem.get(k) ?? null, setItem: (k, v) => { mem.set(k, v); }, removeItem: (k) => { mem.delete(k); } };
-const { store, order, model, stepsForContext, editRoutineSteps, rotation, storage, shelfFrom, owned } = await import(pathToFileURL(out).href);
+const { store, order, model, stepsForContext, editRoutineSteps, rotation, storage, shelfFrom, owned, remind, payload, ics } = await import(pathToFileURL(out).href);
 
 let fails = 0;
 const check = (ok, msg) => { if (!ok) { fails++; console.log('FAIL', msg); } };
@@ -182,6 +185,35 @@ check(mem.get('ledger.routine.v1') === planBefore, 'marking a product never rewr
 check(owned.isMissing(new Set(['p-az']), 'p-az') && !owned.isMissing(new Set(['p-az']), 'p-ret') && !owned.isMissing(new Set(['p-az']), null), 'isMissing: only listed ids, never null');
 owned.setHave('p-az', true);
 check(JSON.parse(mem.get('ledger.routine.owned.v1')).missing.length === 0, 'with me again → id removed');
+
+// 11. Reminders: settings live in their own key, the push record names this week's rotation option per day, the .ics
+// carries one alarmed weekly event per enabled slot on the routine's days — and none of it rewrites the plan.
+const planBeforeRemind = mem.get('ledger.routine.v1');
+check(remind.reminderSettings().slots.am.time === '07:30' && remind.reminderSettings().slots.pm.time === '21:30' && !remind.anyEnabled(remind.reminderSettings()), 'reminder defaults: 07:30 / 21:30, both off');
+remind.setSlotEnabled('pm', true);
+remind.setSlotTime('pm', '22:15');
+remind.setSlotTime('pm', '25:99');
+check(JSON.parse(mem.get('ledger.routine.reminders.v1')).slots.pm.time === '22:15', 'reminder time saved under ledger.routine.reminders.v1; invalid time ignored');
+check(mem.get('ledger.routine.v1') === planBeforeRemind, 'reminder settings never rewrite the plan');
+const weekdays = { ...three, days: ['mon', 'wed', 'fri'], slot: 'pm' };
+const spfDaily = { ...plain, id: 'spf', title: 'Sunscreen', category: 'sunscreen', slot: 'am', days: DAILY, product: prod('p-spf', 'SPF 50'), rotation: undefined };
+const sub = { endpoint: 'https://push.example/abc', keys: { p256dh: 'k'.repeat(20), auth: 'a'.repeat(12) }, expirationTime: null };
+const rec = payload.reminderRecord([weekdays, spfDaily], remind.reminderSettings(), sub, new Date('2026-07-22T10:00:00'), 'Asia/Kolkata');
+check(rec.weeks.length === 2 && rec.weeks[0].monday === '2026-07-20' && rec.weeks[1].monday === '2026-07-27', `record covers this week + next (${rec.weeks.map((w) => w.monday).join(', ')})`);
+check(rec.weeks[0].days.mon.pm.join() === 'Retinol' && rec.weeks[1].days.mon.pm.join() === 'Glycolic', 'record names the rotation option live in each week');
+check(rec.weeks[0].days.tue.pm.length === 0 && rec.weeks[0].days.tue.am.join() === 'Sunscreen', 'off-days carry no PM title; daily AM step present');
+check(rec.tz === 'Asia/Kolkata' && rec.slots.pm.enabled && rec.slots.pm.time === '22:15' && !rec.slots.am.enabled && rec.url === '/#/routine', 'record carries tz, slot settings and the routine URL');
+check(payload.recordHash(rec) === payload.recordHash(payload.reminderRecord([weekdays, spfDaily], remind.reminderSettings(), sub, new Date('2026-07-22T10:00:00'), 'Asia/Kolkata')), 'record hash is stable for an unchanged routine');
+remind.setSlotTime('pm', '22:30');
+check(payload.recordHash(rec) !== payload.recordHash(payload.reminderRecord([weekdays, spfDaily], remind.reminderSettings(), sub, new Date('2026-07-22T10:00:00'), 'Asia/Kolkata')), 'record hash moves when a time changes');
+const cal = ics.buildIcs([weekdays, spfDaily], remind.reminderSettings(), new Date('2026-07-22T10:00:00'), 'Asia/Kolkata');
+check((cal.match(/BEGIN:VEVENT/g) ?? []).length === 1 && /RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR/.test(cal) && /DTSTART:20260722T223000/.test(cal) && /BEGIN:VALARM[\s\S]*TRIGGER:PT0S/.test(cal), 'ics: one alarmed weekly event on Mon/Wed/Fri at 22:30 for the enabled slot');
+remind.setSlotEnabled('am', true);
+remind.setOnlyRoutineDays(false);
+const cal2 = ics.buildIcs([weekdays, spfDaily], remind.reminderSettings(), new Date('2026-07-22T10:00:00'));
+check((cal2.match(/BEGIN:VEVENT/g) ?? []).length === 2 && /BYDAY=MO,TU,WE,TH,FR,SA,SU/.test(cal2) && /SUMMARY:Morning skincare routine/.test(cal2) && cal2.split('\r\n').every((l) => l.length <= 75), 'ics: two events, every day when the day filter is off, lines folded ≤ 75');
+check(ics.icsText('a, b; c\\d\nline') === 'a\\, b\\; c\\\\d line', 'ics escaping');
+check(mem.get('ledger.routine.v1') === planBeforeRemind, 'building the record / calendar never rewrites the plan');
 
 console.log(fails ? `${fails} check(s) failed` : 'routine-check: all checks passed');
 process.exit(fails ? 1 : 0);

@@ -6,7 +6,7 @@ const DEFAULT_MODEL = 'gemini-2.5-flash';
 
 /** Same-origin `/api` server mode unless the deploy's chat-config.json says otherwise. The repo file never holds a key:
  * in browser mode the deploy step writes the (HTTP-referrer-restricted) key into dist/chat-config.json. */
-const FALLBACK: ChatConfig = { mode: 'server', apiBase: '', siteUrl: '', gemini: { apiKey: '', model: DEFAULT_MODEL, maxToolRounds: 8, maxAnswerTokens: 1800 } };
+const FALLBACK: ChatConfig = { mode: 'server', apiBase: '', remindersApiBase: '', siteUrl: '', gemini: { apiKey: '', model: DEFAULT_MODEL, maxToolRounds: 8, maxAnswerTokens: 1800 } };
 
 const str = (v: unknown, fallback = '') => (typeof v === 'string' ? v : fallback);
 const int = (v: unknown, fallback: number) => (typeof v === 'number' && Number.isFinite(v) && v > 0 ? Math.floor(v) : fallback);
@@ -16,9 +16,11 @@ function normalise(raw: unknown): ChatConfig {
   const c = isObj(raw) ? raw : {};
   const g = isObj(c.gemini) ? c.gemini : {};
   const mode: ChatMode = c.mode === 'browser' ? 'browser' : 'server';
+  const apiBase = str(c.apiBase).replace(/\/$/, '');
   return {
     mode,
-    apiBase: str(c.apiBase).replace(/\/$/, ''),
+    apiBase,
+    remindersApiBase: str(c.remindersApiBase, apiBase).replace(/\/$/, ''),
     siteUrl: str(c.siteUrl).replace(/\/$/, ''),
     gemini: {
       apiKey: str(g.apiKey),

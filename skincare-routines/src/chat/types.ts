@@ -4,7 +4,9 @@ import type { InciSourceKind, InciStatus } from '../lib/types';
 /** `server`: stream from chat-api at `apiBase`. `browser`: run the same tools + Gemini in the page (key is public, referrer-locked). */
 export type ChatMode = 'server' | 'browser';
 export interface GeminiBrowserConfig { apiKey: string; model: string; maxToolRounds: number; maxAnswerTokens: number }
-export interface ChatConfig { mode: ChatMode; apiBase: string; siteUrl: string; gemini: GeminiBrowserConfig }
+/** `remindersApiBase`: where `/api/reminders/*` lives — defaults to `apiBase`, so a browser-mode deploy with no chat backend
+ * can still point reminders at a small push service. Empty means same origin. */
+export interface ChatConfig { mode: ChatMode; apiBase: string; remindersApiBase: string; siteUrl: string; gemini: GeminiBrowserConfig }
 
 export interface CitedProduct {
   id: string; category: string; brand: string; title: string;
