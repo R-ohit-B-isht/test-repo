@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {

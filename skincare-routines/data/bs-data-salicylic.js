@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -12601,6 +12601,623 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-e9y8xf",
+  "brand": "SkinInspired",
+  "model": "Desqua Mate - AHA BHA PHA Serum Refill (30ml)",
+  "price": 999,
+  "capacityLine": "30 ml",
+  "materialLine": "Salicylic acid (BHA) + AHA + PHA",
+  "featureLine": "Serum · ₹3330/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); melaleuca alternifolia leaf oil high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.2,
+   "skin": 4.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3330/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), AHA, PHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-serum-refill",
+   "inciMatchedName": "Desqua Mate - AHA BHA PHA Serum Refill (30ml) (name match 100%)",
+   "inciList": "Desqua Mate - AHA BHA PHA Serum: Purified Water, Gluconolactone, Lactic Acid & Potassium Lactate, Propanediol, Salicylic acid, Centella Asiatica Extract, Polysorbate- 20, Water (and) Butylene Glycol (and) Sophora Flavescens Root Extract (and) Glycyrrhiza Inflata Root Extract (and) Scutellaria Baicalensis Root Extract, Octyldodecanol, Leptospermum Scoparium Branch/Leaf oil, Piper Nigrum Fruit Extract, Magnolia Officinalis Bark Extract, Aloe vera Extract, Betaine, Tea Tree Oil, Allantoin, Hydroxyethylcellulose, Sodium hyaluronate, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Di Sodium EDTA, Sodium Hydroxide, Triethanolamine, Vitamin E Acetate, Perfume",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); melaleuca alternifolia leaf oil (#19 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI, melaleuca alternifolia leaf oil #19 on INCI; Irritation — centella asiatica extract #6 on INCI, aloe barbadensis leaf extract #17 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/desqua-Mate-100copy.webp?v=1784194927"
+  ],
+  "buyUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-serum-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Desqua Mate - AHA BHA PHA Serum Refill (30ml)",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:pha",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-serum-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Desqua Mate - AHA BHA PHA Serum Refill (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "Desqua Mate - AHA BHA PHA Serum: Purified Water, Gluconolactone, Lactic Acid & Potassium Lactate, Propanediol, Salicylic acid, Centella Asiatica Extract, Polysorbate- 20, Water (and) Butylene Glycol (and) Sophora Flavescens Root Extract (and) Glycyrrhiza Inflata Root Extract (and) Scutellaria Baicalensis Root Extract, Octyldodecanol, Leptospermum Scoparium Branch/Leaf oil, Piper Nigrum Fruit Extract, Magnolia Officinalis Bark Extract, Aloe vera Extract, Betaine, Tea Tree Oil, Allantoin, Hydroxyethylcellulose, Sodium hyaluronate, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Di Sodium EDTA, Sodium Hydroxide, Triethanolamine, Vitamin E Acetate, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1rqc86v",
+  "brand": "SkinInspired",
+  "model": "Desqua Mate - AHA BHA PHA Serum Refill (50ml)",
+  "price": 799,
+  "capacityLine": "50 ml",
+  "materialLine": "Salicylic acid (BHA) + AHA + PHA",
+  "featureLine": "Serum · ₹1598/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); melaleuca alternifolia leaf oil high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.2,
+   "skin": 4.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1598/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), AHA, PHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-serum-refill-50-ml",
+   "inciMatchedName": "Desqua Mate - AHA BHA PHA Serum Refill (50ml) (name match 100%)",
+   "inciList": "Desqua Mate - AHA BHA PHA Serum: Purified Water, Gluconolactone, Lactic Acid & Potassium Lactate, Propanediol, Salicylic acid, Centella Asiatica Extract, Polysorbate- 20, Water (and) Butylene Glycol (and) Sophora Flavescens Root Extract (and) Glycyrrhiza Inflata Root Extract (and) Scutellaria Baicalensis Root Extract, Octyldodecanol, Leptospermum Scoparium Branch/Leaf oil, Piper Nigrum Fruit Extract, Magnolia Officinalis Bark Extract, Aloe vera Extract, Betaine, Tea Tree Oil, Allantoin, Hydroxyethylcellulose, Sodium hyaluronate, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Di Sodium EDTA, Sodium Hydroxide, Triethanolamine, Vitamin E Acetate, Perfume",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); melaleuca alternifolia leaf oil (#19 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI, melaleuca alternifolia leaf oil #19 on INCI; Irritation — centella asiatica extract #6 on INCI, aloe barbadensis leaf extract #17 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/skin_inspired_3_of_5_copy_1_2712acd2-f406-4d54-895a-81d80646b7d0.jpg?v=1763203517"
+  ],
+  "buyUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-serum-refill-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Desqua Mate - AHA BHA PHA Serum Refill (50ml)",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:pha",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-serum-refill-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Desqua Mate - AHA BHA PHA Serum Refill (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Desqua Mate - AHA BHA PHA Serum: Purified Water, Gluconolactone, Lactic Acid & Potassium Lactate, Propanediol, Salicylic acid, Centella Asiatica Extract, Polysorbate- 20, Water (and) Butylene Glycol (and) Sophora Flavescens Root Extract (and) Glycyrrhiza Inflata Root Extract (and) Scutellaria Baicalensis Root Extract, Octyldodecanol, Leptospermum Scoparium Branch/Leaf oil, Piper Nigrum Fruit Extract, Magnolia Officinalis Bark Extract, Aloe vera Extract, Betaine, Tea Tree Oil, Allantoin, Hydroxyethylcellulose, Sodium hyaluronate, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Di Sodium EDTA, Sodium Hydroxide, Triethanolamine, Vitamin E Acetate, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1rg9vh0",
+  "brand": "SkinInspired",
+  "model": "Desqua Mate - AHA BHA PHA Serum | 2% Salicylic Acid Face Serum",
+  "price": 999,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + AHA + PHA",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); melaleuca alternifolia leaf oil high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.2,
+   "skin": 4.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), AHA, PHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-face-serum-50-ml",
+   "inciMatchedName": "Desqua Mate - AHA BHA PHA Serum | 2% Salicylic Acid Face Serum (name match 100%)",
+   "inciList": "Desqua Mate - AHA BHA PHA Serum: Purified Water, Gluconolactone, Lactic Acid & Potassium Lactate, Propanediol, Salicylic acid, Centella Asiatica Extract, Polysorbate- 20, Water (and) Butylene Glycol (and) Sophora Flavescens Root Extract (and) Glycyrrhiza Inflata Root Extract (and) Scutellaria Baicalensis Root Extract, Octyldodecanol, Leptospermum Scoparium Branch/Leaf oil, Piper Nigrum Fruit Extract, Magnolia Officinalis Bark Extract, Aloe vera Extract, Betaine, Tea Tree Oil, Allantoin, Hydroxyethylcellulose, Sodium hyaluronate, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Di Sodium EDTA, Sodium Hydroxide, Triethanolamine, Vitamin E Acetate, Perfume",
+   "evidenceActives": "salicylic acid (#5 on list, strong evidence); melaleuca alternifolia leaf oil (#19 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, salicylic acid #5 on INCI, melaleuca alternifolia leaf oil #19 on INCI; Irritation — centella asiatica extract #6 on INCI, aloe barbadensis leaf extract #17 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Desqua-Mate_copy.webp?v=1784549494"
+  ],
+  "buyUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-face-serum-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Desqua Mate - AHA BHA PHA Serum | 2% Salicylic Acid Face Serum",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:pha",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/desqua-mate-aha-bha-pha-face-serum-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Desqua Mate - AHA BHA PHA Serum | 2% Salicylic Acid Face Serum",
+   "inciMatchScore": 1,
+   "inciText": "Desqua Mate - AHA BHA PHA Serum: Purified Water, Gluconolactone, Lactic Acid & Potassium Lactate, Propanediol, Salicylic acid, Centella Asiatica Extract, Polysorbate- 20, Water (and) Butylene Glycol (and) Sophora Flavescens Root Extract (and) Glycyrrhiza Inflata Root Extract (and) Scutellaria Baicalensis Root Extract, Octyldodecanol, Leptospermum Scoparium Branch/Leaf oil, Piper Nigrum Fruit Extract, Magnolia Officinalis Bark Extract, Aloe vera Extract, Betaine, Tea Tree Oil, Allantoin, Hydroxyethylcellulose, Sodium hyaluronate, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Di Sodium EDTA, Sodium Hydroxide, Triethanolamine, Vitamin E Acetate, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "teaTree"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

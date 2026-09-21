@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -18302,6 +18302,350 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-ajkwkz",
+  "brand": "SkinInspired",
+  "model": "All Rounder Refill 10% Niacinamide Face Serum (30ml)",
+  "price": 999,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide",
+  "featureLine": "Serum · ₹3330/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 4.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3330/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/all-rounder-10-niacinamide-serum-refill",
+   "inciMatchedName": "All Rounder Refill 10% Niacinamide Face Serum (30ml) (name match 100%)",
+   "inciList": "All Rounder 10% Niacinamide Face Serum Refill: Purified Water, Niacinamide, Ethoxydiglycol, Propanediol, Glycerin, Alpha Arbutin Ammonium, Zinc PCA, Allantoin, Acryloyldimethyltaurate/VP, Copolymer, Centella Asiatica Extract, Vitis Vinifera (Grape) Fruit Extract, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Sodium gluconate, Perfume",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #7 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/ALL_ROUNDER_Mono-carton_REFILL.1.jpg?v=1772266951"
+  ],
+  "buyUrl": "https://skininspired.in/products/all-rounder-10-niacinamide-serum-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired All Rounder Refill 10% Niacinamide Face Serum (30ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/all-rounder-10-niacinamide-serum-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "All Rounder Refill 10% Niacinamide Face Serum (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "All Rounder 10% Niacinamide Face Serum Refill: Purified Water, Niacinamide, Ethoxydiglycol, Propanediol, Glycerin, Alpha Arbutin Ammonium, Zinc PCA, Allantoin, Acryloyldimethyltaurate/VP, Copolymer, Centella Asiatica Extract, Vitis Vinifera (Grape) Fruit Extract, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Sodium gluconate, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-tdiuw6",
+  "brand": "SkinInspired",
+  "model": "All Rounder - 10% Niacinamide Face Serum (30ml)",
+  "price": 999,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide",
+  "featureLine": "Serum · ₹3330/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 4.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3330/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/aqua-pump-10-niacinamide-serum",
+   "inciMatchedName": "All Rounder - 10% Niacinamide Face Serum (30ml) (name match 100%)",
+   "inciList": "All Rounder - 10% Niacinamide Face Serum: Purified Water, Niacinamide, Ethoxydiglycol, Propanediol, Glycerin, Alpha Arbutin Ammonium, Zinc PCA, Allantoin, Acryloyldimethyltaurate/VP, Copolymer, Centella Asiatica Extract, Vitis Vinifera (Grape) Fruit Extract, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Sodium gluconate, Perfume",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #7 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/All_Rounder_10_Niacinamide_Face_Serum.webp?v=1780138639"
+  ],
+  "buyUrl": "https://skininspired.in/products/aqua-pump-10-niacinamide-serum",
+  "buyStore": "Brand store",
+  "title": "SkinInspired All Rounder - 10% Niacinamide Face Serum (30ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/aqua-pump-10-niacinamide-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "All Rounder - 10% Niacinamide Face Serum (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "All Rounder - 10% Niacinamide Face Serum: Purified Water, Niacinamide, Ethoxydiglycol, Propanediol, Glycerin, Alpha Arbutin Ammonium, Zinc PCA, Allantoin, Acryloyldimethyltaurate/VP, Copolymer, Centella Asiatica Extract, Vitis Vinifera (Grape) Fruit Extract, DMDM Hydantoin (and) Iodopropynyl Butylcarbamate, Sodium gluconate, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

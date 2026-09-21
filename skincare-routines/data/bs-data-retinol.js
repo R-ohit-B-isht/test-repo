@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -5777,6 +5777,1077 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1clu7c9",
+  "brand": "SkinInspired",
+  "model": "0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines",
+  "price": 899,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹1798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.2,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1798/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-50g",
+   "inciMatchedName": "0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines (name match 100%)",
+   "inciList": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "retinol (#22 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/RNC_copy_eb5a9e9a-a51f-4fa4-a3c1-a77efb8e9670.webp?v=1769597231"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-night-cream-50g",
+  "buyStore": "Brand store",
+  "title": "SkinInspired 0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-7lld9l",
+  "brand": "SkinInspired",
+  "model": "Anti-Aging Retinol Cream (50g) | Reduces Wrinkles & Fine Lines",
+  "price": 1199,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹2398/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.2,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹2398/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-anti-aging-cream",
+   "inciMatchedName": "Anti-Aging Retinol Cream (50g) | Reduces Wrinkles & Fine Lines (name match 100%)",
+   "inciList": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "retinol (#22 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Retinol_main_PDP.webp?v=1779350231"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-anti-aging-cream",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Anti-Aging Retinol Cream (50g) | Reduces Wrinkles & Fine Lines",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-anti-aging-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Anti-Aging Retinol Cream (50g) | Reduces Wrinkles & Fine Lines",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-y0bcm1",
+  "brand": "SkinInspired",
+  "model": "Retinol Night Cream Refill (50g)",
+  "price": 899,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹1798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.2,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1798/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-refill",
+   "inciMatchedName": "Retinol Night Cream Refill (50g) (name match 100%)",
+   "inciList": "Retinol Night Cream: Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "retinol (#22 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Retinol_Night_Cream_Refill_wbep.webp?v=1771498407"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-night-cream-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Retinol Night Cream Refill (50g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol Night Cream Refill (50g)",
+   "inciMatchScore": 1,
+   "inciText": "Retinol Night Cream: Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-q0qyrd",
+  "brand": "SkinInspired",
+  "model": "Night Knight - 2% VitAlease Retinol Serum Refill (30ml)",
+  "price": 1099,
+  "capacityLine": "30 ml",
+  "materialLine": "Retinol",
+  "featureLine": "Serum · ₹3663/100ml",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3663/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/NIGHT_NIGHT_30_ml_OUTER-CARTON_REFILL_2.webp?v=1778671801"
+  ],
+  "buyUrl": "https://skininspired.in/products/night-knight-2-vitalease-retinol-serum-refill-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Night Knight - 2% VitAlease Retinol Serum Refill (30ml)",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:retinol",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:aging",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1mth642",
+  "brand": "SkinInspired",
+  "model": "Night Knight - 2% VitAlease Retinol Serum for Face",
+  "price": 1099,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Retinol",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Night-Knight-50_copy_9f765cd5-ebf9-42c3-9d9d-959c5d4cd62b.webp?v=1784549494"
+  ],
+  "buyUrl": "https://skininspired.in/products/night-knight-retinol-serum-2-vitalease-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Night Knight - 2% VitAlease Retinol Serum for Face",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:retinol",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:aging",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1ox3gsq",
+  "brand": "SkinInspired",
+  "model": "0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection",
+  "price": 899,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹1798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.2,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1798/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream",
+   "inciMatchedName": "0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection (name match 100%)",
+   "inciList": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "retinol (#22 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/RNC_Listing_with_2_tags.jpg_copy.webp?v=1788266746"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-night-cream",
+  "buyStore": "Brand store",
+  "title": "SkinInspired 0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

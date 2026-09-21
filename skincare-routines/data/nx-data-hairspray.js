@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -110514,16 +110514,17 @@ const NXPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Vitamin B5 / panthenol + Castor oil + Panthenol",
   "featureLine": "Hair spray · ₹145/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): fragrance",
+   "Drying alcohol high in the list: sd alcohol 40-b, alcohol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 2.4,
+   "skin": 5.3,
+   "trust": 5.5,
    "experience": 5.5
   },
   "fullSpec": {
@@ -110541,11 +110542,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (135 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Sd Alcohol 40-B, Butane, Alcohol, Propane, Amp-Acrylates Copolymer, Dipropylene Glycol, Panthenol, Fragrance (Parfum), Peg-50 Hydrogenated Castor Oil.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Sd Alcohol 40-B, Butane, Alcohol, Propane, Amp-Acrylates Copolymer, Dipropylene Glycol, Panthenol, Fragrance (Parfum), Peg-50 Hydrogenated Castor Oil.",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Drying alcohol high in the list: sd alcohol 40-b, alcohol (−1)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 135 ratings"
   },
@@ -110575,7 +110576,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full"
   ],
   "filters": {
    "freefrom": false,
@@ -110583,27 +110584,58 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Sd Alcohol 40-B, Butane, Alcohol, Propane, Amp-Acrylates Copolymer, Dipropylene Glycol, Panthenol, Fragrance (Parfum), Peg-50 Hydrogenated Castor Oil.",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Sd Alcohol 40-B, Butane, Alcohol, Propane, Amp-Acrylates Copolymer, Dipropylene Glycol, Panthenol, Fragrance (Parfum), Peg-50 Hydrogenated Castor Oil.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 0.78,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "sd alcohol 40-b",
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

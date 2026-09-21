@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -4302,6 +4302,326 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-176d3l6",
+  "brand": "SkinInspired",
+  "model": "Ceramide Cream Moisturizer Refill (50g)",
+  "price": 799,
+  "capacityLine": "50 g",
+  "materialLine": "Ceramides",
+  "featureLine": "Cream · ₹1598/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1598/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-face-moisturizer-refill",
+   "inciMatchedName": "Ceramide Cream Moisturizer Refill (50g) (name match 100%)",
+   "inciList": "Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — zinc pca #18 on INCI; Irritation — product type (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/CCM_Listing_.4.webp?v=1763195626"
+  ],
+  "buyUrl": "https://skininspired.in/products/ceramide-face-moisturizer-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Ceramide Cream Moisturizer Refill (50g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:ceramides",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-face-moisturizer-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide Cream Moisturizer Refill (50g)",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-yshnoy",
+  "brand": "SkinInspired",
+  "model": "Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin",
+  "price": 799,
+  "capacityLine": "50 g",
+  "materialLine": "Ceramides",
+  "featureLine": "Cream · ₹1598/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1598/100g",
+   "format": "Cream",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Normal skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-cream-moisturizer",
+   "inciMatchedName": "Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin (name match 100%)",
+   "inciList": "Purified Water, Propanediol, Caprylic Capric Triglycerides, Coco Caprylate Caprate, Cocoa Butter, Glycerin, Propanediol, Cetearyl Alcohol, Ceramide III B, Glycerol esters, Ethylhexyl Palmitate, Glycine Soja (Soyabean) Oil (and) Calendula Officinalis Flower Extract (and) Tocopherol, Dimethicone, Squalane, Octyldodecanol, Glyceryl Stearate Citrate, Glyceryl Monostearate, Carbomer, Sodium Hyaluronate, Polyacrylate 13/Polyisobutene/Eysorbate 20, Sodium Gluconate, Phenoxyethanol and Ethylhexylglycerin, Triethanolamine, Perfume",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); dimethicone (#15 on list, moderate evidence); squalane (#16 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Ceramidecopy.webp?v=1784196103"
+  ],
+  "buyUrl": "https://skininspired.in/products/ceramide-cream-moisturizer",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:ceramides",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:normal",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-cream-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Propanediol, Caprylic Capric Triglycerides, Coco Caprylate Caprate, Cocoa Butter, Glycerin, Propanediol, Cetearyl Alcohol, Ceramide III B, Glycerol esters, Ethylhexyl Palmitate, Glycine Soja (Soyabean) Oil (and) Calendula Officinalis Flower Extract (and) Tocopherol, Dimethicone, Squalane, Octyldodecanol, Glyceryl Stearate Citrate, Glyceryl Monostearate, Carbomer, Sodium Hyaluronate, Polyacrylate 13/Polyisobutene/Eysorbate 20, Sodium Gluconate, Phenoxyethanol and Ethylhexylglycerin, Triethanolamine, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "dimethicone",
+    "squalane",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

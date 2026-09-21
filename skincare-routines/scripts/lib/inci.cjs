@@ -134,16 +134,20 @@ const TRADE_NAME = /^(?:vitamin\s*[a-e]\d?(?:\s*oil)?|[a-z]+\s+(?:seed\s+|fruit\
 // The declared water phase: "Aqua", "Water (Aqua)", "Purified / DM / Demineralised Water" — not "Rice Water" or "Rose Water" (botanical infusions a headline line names).
 const ANHYDROUS_LIKE = /\boil\b|squalane|squalene|tocopher|butter\b|\bwax\b|cera\b|triglyceride|isododecane|isohexadecane|alkane|paraffin|petrolatum|methicon|siloxane|silicone|dodecanol|hexyldecanol|macadamiate|caprylate|caprate|triheptanoin|isopropyl|palmitate|myristate|stearate|laurate|oleate|linoleate|ricinoleate|adipate|sebacate|malate|benzoate|neopentanoate|isononanoate|ethylhexanoate|polyisobutene|polydecene|lanolin|lecithin|\bci \d|\bmica\b|talc|silica|oxide|kaolin|starch|bisabolol|bakuchiol|retinol|retinyl|menthol|camphor|parfum|fragrance|limonene|linalool|citral|geraniol|eugenol|citronellol|\bbht\b|\bbha\b|shea|argan|jojoba|almond|coconut|castor|olive|sunflower|rosehip|marula|moringa|avocado|grapeseed|sesame/;
 const WATER_TOKEN = /^(?:(?:purified|distilled|de-?mineralised|de-?mineralized|dm|de-?ionized|di|demi|ro|treated)\s+)?(?:aqua|water|eau)\b/;
+// A formula whose first ingredient is ethanol / isopropanol (drying lotions, toners, sprays) is self-preserving and needs no separate preservative.
+const ALCOHOL_FIRST = /^(?:alcohol(?:\s*denat)?|ethanol|ethyl alcohol|isopropyl alcohol|isopropanol|sd alcohol(?:\s*\d+[a-z-]*)?)$/;
 const MARKETING_LINE = /ingredients?\s*on\s*(?:tag|pack|label)|see\s*(?:pack|label|image)|refer\s*(?:pack|image)|natural ingredients?|100%|herbal|ayurvedic|chemical[\s-]*free|no\s*(?:harmful|toxic)|premium|extracts? of/i;
 
 // Combo / multipack listings paste several products' lists together. Signals: a product-name header before a
 // second list ("Night Cream - 936204 Water", "BODY WASH : ..."), water declared twice in separate places, or
 // three names repeated. Pre-blend notation "X (and) Y (and) Z" legitimately repeats names inside one list, so
-// blend components are dropped before counting; "Water, Aqua" side by side is one declaration in two languages.
+// blend components are dropped before counting, as is a trade-name blend's bracketed composition
+// ("Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate)"); "Water, Aqua" side by side is one
+// declaration in two languages.
 const PRODUCT_HEADER = /(?:^|[.;,]\s*)[a-z][a-z\s&+'/]{2,40}(?:\s?:\s?|\s?-\s|\s-\s?)(?:\d{4,}\s*)?[a-z]/gi;
 function isMultiProduct(text) {
   const headers = (text.match(PRODUCT_HEADER) || []).length;
-  const single = splitRaw(text.replace(/[^,;]*\(and\)[^,;]*/gi, ',')).filter((t) => !CODE_LIKE.test(t)).map(canonical);
+  const single = splitRaw(text.replace(/\([^()]*\)/g, ' ').replace(/[^,;]*\(and\)[^,;]*/gi, ',')).filter((t) => !CODE_LIKE.test(t)).map(canonical);
   const counts = single.reduce((m, k) => (k ? m.set(k, (m.get(k) || 0) + 1) : m), new Map());
   const dupes = [...counts.values()].filter((c) => c >= 2).length;
   const aquaAt = single.map((k, i) => (k === 'aqua' ? i : -1)).filter((i) => i >= 0);
@@ -212,7 +216,7 @@ function classify(text, opts = {}) {
   // Oils, balms and powders carry no water phase by design: mostly oils / esters / silicones / waxes / pigments.
   const anhydrous = anhydrousOil || tokens.filter((t) => ANHYDROUS_LIKE.test(t)).length / n >= 0.6;
   const excipients = new Set(tokens.filter((t) => EXCIPIENT_LIKE.test(t)).map((t) => canonical(t) || t)).size;
-  const preserved = tokens.some((t) => PRESERVATIVE_LIKE.test(t));
+  const preserved = tokens.some((t) => PRESERVATIVE_LIKE.test(t)) || ALCOHOL_FIRST.test(tokens[0] || '');
   const hasWater = known.some((k) => k === 'aqua' || k === 'water') || tokens.some((t) => WATER_TOKEN.test(t.trim()));
   const tradeNames = tokens.filter((t) => TRADE_NAME.test(t.trim().replace(/\s*\([^)]*\)\s*/g, ' ').trim())).length;
   if (status === 'full' && !tokens.some((t) => BASE_LIKE.test(t))) { status = 'partial'; reason = 'Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored'; }

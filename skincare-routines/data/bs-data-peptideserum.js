@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -1552,6 +1552,171 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://juicychemistry.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-19powen",
+  "brand": "SkinInspired",
+  "model": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml)",
+  "price": 2399,
+  "capacityLine": "30 ml",
+  "materialLine": "Peptides + PDRN / polynucleotide",
+  "featureLine": "Serum · ₹7997/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹7997/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Peptides, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciMatchedName": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml) (name match 100%)",
+   "inciList": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
+   "evidenceActives": "niacinamide (#27 on list, strong evidence); sodium hyaluronate (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/PEP-Booster_copy.webp?v=1784192693"
+  ],
+  "buyUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:peptides",
+   "ing:pdrn-polynucleotide",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/pep-booster-pdrn-multi-peptide-face-serum-30-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "PEP Booster - 2% PDRN, Multi-Peptide Face Serum (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "2% Ginseng PDRN (Water, Butylene Glycol, 1, 2-Hexanediol, Ethylhexylglycerin, Panax Ginseng Tissue Culture, Sodium DNA) Wkpep Octa 2% (Acetyl Octapeptide-3, Pentylene Glycol, 1,2-Hexanediol, Water 0.5% Centella reversa exosome (Centella Asiatica Leaf Vesicles, Water Glycerin, Pentylene Glycol), 0.5% Exosome LB (Lactobacillus Extracellular Vesicles, Butylene Glycol), 3 Ceramide complex (Aqua, Polyglyceryl-3 Methylglucose Distearate, Isononyllsononanoate, Neopentyl Glycol Diheptanoate, Glycerin, Butylene Glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP) Polyglutamic Acid, Butylene glycol, Propanediol, Niacinamide, Allantoin, Sodium Hyaluronate, Ethylhexy glycerin, Octenidine HCl, Phytic acid, C12-15 Alkyl Benzoate, Propylene glycol, Sodium benzoate, DisodiumEDTA, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "ceramide eop",
+    "ceramide np",
+    "propanediol",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

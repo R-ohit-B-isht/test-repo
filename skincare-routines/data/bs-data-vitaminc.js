@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -20464,6 +20464,159 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1gefro6",
+  "brand": "SkinInspired",
+  "model": "DIVE-IN C - 20% Vitamin C Serum For Face (30ml)",
+  "price": 1299,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C",
+  "featureLine": "Serum · ₹4330/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ferulic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4330/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/dive-in-c-20-vitamin-c-serum",
+   "inciMatchedName": "DIVE-IN C - 20% Vitamin C Serum For Face (30ml) (name match 100%)",
+   "inciList": "DIVE-IN C - 20% Vitamin C Serum: 3-0 Ethyl ascorbic acid, Nonapeptide Solution, Ethoxydiglycol, Butylene glycol, Glutathione, Vitamin E D-Panthenol, Dipotassium Glycyrrhizate, Ferulic acid, Hydroxy ethyl cellulose, Propanediol, Sodium Hyaluronate, Fragrance, Sodium gluconate, Purified Water",
+   "evidenceActives": "ferulic acid (#8 on list, moderate evidence); sodium hyaluronate (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type, dipotassium glycyrrhizate #7 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Dive-Ccopy.webp?v=1784194753"
+  ],
+  "buyUrl": "https://skininspired.in/products/dive-in-c-20-vitamin-c-serum",
+  "buyStore": "Brand store",
+  "title": "SkinInspired DIVE-IN C - 20% Vitamin C Serum For Face (30ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/dive-in-c-20-vitamin-c-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "DIVE-IN C - 20% Vitamin C Serum For Face (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "DIVE-IN C - 20% Vitamin C Serum: 3-0 Ethyl ascorbic acid, Nonapeptide Solution, Ethoxydiglycol, Butylene glycol, Glutathione, Vitamin E D-Panthenol, Dipotassium Glycyrrhizate, Ferulic acid, Hydroxy ethyl cellulose, Propanediol, Sodium Hyaluronate, Fragrance, Sodium gluconate, Purified Water",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

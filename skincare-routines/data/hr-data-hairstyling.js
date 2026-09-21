@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-19.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -2649,17 +2649,16 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cream",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Combo listing — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.6,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 6.3
   },
   "fullSpec": {
@@ -2677,11 +2676,11 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (4,205 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
    "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Aqua (Water) • Glyceryl Stearate (Natural Emollient) • Butyrospermum Parkii (Shea Butter) • Xylitylglucoside & Anhydroxylitol & Maltitol & Xylitol & Pelvetia Canaliculata Extract (Natural Moisturizing & Repairing Agent) • Hydrolyzed Soy Protein • Crambe Abyssinica (Abyssinian) Seed Oil • Argania Spinosa Kernel (Argan) Oil • Cetearyl Alcohol (Natural Emulsifier) • Hydrolyzed Corn Protein • Hydrolyzed Wheat Protein • Hydrolyzed Soy Protein • Crambe Abyssinica (Abyssinian) Seed Oil • Argania Spinosa Kernel (Argan) Oil • Cetearyl Alcohol (Natural Emulsifier) • Cetearyl Olivate (and) Sorbitan Olivate (Natural Emulsifier) • Hydrolyzed Corn Starch (Maize Care) • Sodium Benzoate (Natural Preservative) • Potassium Sorbate (Natural Preservative) • Aqua • Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol (Vegetable-Derived Protein) • Sodium Gluconate (Natural Chelating Agent) • Essential Oils and Safe Fragrances.",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Aqua (Water) • Glyceryl Stearate (Natural Emollient) • Butyrospermum Parkii (Shea Butter) • Xylitylglucoside & Anhydroxylitol & Maltitol & Xylitol & Pelvetia Canaliculata Extract (Natural Moisturizing & Repairing Agent) • Hydrolyzed Soy Protein • Crambe Abyssinica (Abyssinian) Seed Oil • Argania Spinosa Kernel (Argan) Oil • Cetearyl Alcohol (Natural Emulsifier) • Hydrolyzed Corn Protein • Hydrolyz",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Bo International,A-91 Wazirpur Industrial Area Wazirpur New Delhi Delhi - 110052 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "3.8★ from 4,205 ratings"
@@ -2704,8 +2703,7 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "freefrom": false,
@@ -2713,60 +2711,25 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Specifications › Composition",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Aqua (Water) • Glyceryl Stearate (Natural Emollient) • Butyrospermum Parkii (Shea Butter) • Xylitylglucoside & Anhydroxylitol & Maltitol & Xylitol & Pelvetia Canaliculata Extract (Natural Moisturizing & Repairing Agent) • Hydrolyzed Soy Protein • Crambe Abyssinica (Abyssinian) Seed Oil • Argania Spinosa Kernel (Argan) Oil • Cetearyl Alcohol (Natural Emulsifier) • Hydrolyzed Corn Protein • Hydrolyzed Wheat Protein • Hydrolyzed Soy Protein • Crambe Abyssinica (Abyssinian) Seed Oil • Argania Spinosa Kernel (Argan) Oil • Cetearyl Alcohol (Natural Emulsifier) • Cetearyl Olivate (and) Sorbitan Olivate (Natural Emulsifier) • Hydrolyzed Corn Starch (Maize Care) • Sodium Benzoate (Natural Preservative) • Potassium Sorbate (Natural Preservative) • Aqua • Hydrolyzed Vegetable Protein Pg-Propyl Silanetriol (Vegetable-Derived Protein) • Sodium Gluconate (Natural Chelating Agent) • Essential Oils and Safe Fragrances.",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Aqua (Water) • Glyceryl Stearate (Natural Emollient) • Butyrospermum Parkii (Shea Butter) • Xylitylglucoside & Anhydroxylitol & Maltitol & Xylitol & Pelvetia Canaliculata Extract (Natural Moisturizing & Repairing Agent) • Hydrolyzed Soy Protein • Crambe Abyssinica (Abyssinian) Seed Oil • Argania Spinosa Kernel (Argan) Oil • Cetearyl Alcohol (Natural Emulsifier) • Hydrolyzed Corn Protein • Hydrolyz",
+   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
+   "declarationConfidence": null,
    "recognised": 1,
-   "actives": [
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "C",
-     "position": 3,
-     "core": false,
-     "trace": false,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "hydrolyzed soy protein",
-     "grade": "C",
-     "position": 5,
-     "core": false,
-     "trace": false,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "argania spinosa kernel oil",
-     "grade": "C",
-     "position": 7,
-     "core": false,
-     "trace": false,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "hydrolyzed wheat protein",
-     "grade": "C",
-     "position": 10,
-     "core": false,
-     "trace": false,
-     "src": "thermalProtect"
-    }
-   ],
-   "support": [
-    "butyrospermum parkii butter"
-   ],
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {

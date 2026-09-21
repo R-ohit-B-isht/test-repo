@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -3171,6 +3171,673 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-18329rt",
+  "brand": "SkinInspired",
+  "model": "Invi Shield 365 Body Sunscreen Spray (50ml)",
+  "price": 349,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · ₹698/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹698/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml-copy",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray (50ml) (name match 100%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Upsell (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/INSS_50ml.jpg?v=1787318985"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml-copy",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield 365 Body Sunscreen Spray (50ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "water:unstated",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1uyge6h",
+  "brand": "SkinInspired",
+  "model": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+  "price": 399,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 80 · ₹798/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹798/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 80 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml) (name match 100%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Minis (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/INSS_50ml.jpg?v=1787318985"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+   "inciMatchScore": 1,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-l1xgag",
+  "brand": "SkinInspired",
+  "model": "Invi Shield Body Sunscreen Spray Pack of 2",
+  "price": 1299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-body-sunscreen-spray-pack-of-2",
+   "inciMatchedName": "Invi Shield Body Sunscreen Spray Pack of 2 (name match 100%)",
+   "inciList": "Invi Shield Sunscreen Spray: Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Combo Pack of 2 (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Pack_Image_of_INSS_120ML.webp?v=1787131887"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-body-sunscreen-spray-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield Body Sunscreen Spray Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "water:unstated",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-body-sunscreen-spray-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield Body Sunscreen Spray Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Invi Shield Sunscreen Spray: Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-dvoqbn",
+  "brand": "SkinInspired",
+  "model": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+  "price": 699,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 80 · ₹583/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹583/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 80 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml) (name match 100%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/INSS_120_ml.webp?v=1787319593"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+   "inciMatchScore": 1,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

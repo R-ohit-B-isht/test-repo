@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -2009,6 +2009,509 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-7era67",
+  "brand": "SkinInspired",
+  "model": "Hydration Shots - 2% Hyaluronic Acid Serum Refill (30ml)",
+  "price": 999,
+  "capacityLine": "30 ml",
+  "materialLine": "Hyaluronic acid",
+  "featureLine": "Serum · ₹3330/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3330/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/hydration-shots-2-hyaluronic-acid-serum-refill",
+   "inciMatchedName": "Hydration Shots - 2% Hyaluronic Acid Serum Refill (30ml) (name match 100%)",
+   "inciList": "Hydration Shots - 2% Hyaluronic Acid Serum: Demineralised Water, Propanediol, Glycerin, Sodium Hyaluronate Crosspolymer (and) Sodium Hyaluronate (and) Sodium Acetylated Hyaluronate (and) Hydrolyzed Sodium Hyaluronate (and) Pentylene Glycol (and) Ethylhexylglycerin (and) Aqua, Hydrolyzed Soy Protein, Rice Amino Acids, L-Proline, Hydrolyzed Adansonia Digitata Seed Extract, Acetylglucosamine, Sodium Levulinate, Sodium Anisate, Ceramide III B, Glycerol esters, Sodium Hyaluronate, Beta-Glucan, Allantoin, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate (and) Sodium polyacrylate, Perfume, Citric Acid",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); sodium hyaluronate (#5 on list, moderate evidence); sodium acetylated hyaluronate (#6 on list, moderate evidence); beta-glucan (#21 on list, moderate evidence); allantoin (#22 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/HYDRATIONSHOTCARTRIDGE_REFILL30ml_1.webp?v=1780054596"
+  ],
+  "buyUrl": "https://skininspired.in/products/hydration-shots-2-hyaluronic-acid-serum-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Hydration Shots - 2% Hyaluronic Acid Serum Refill (30ml)",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/hydration-shots-2-hyaluronic-acid-serum-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydration Shots - 2% Hyaluronic Acid Serum Refill (30ml)",
+   "inciMatchScore": 1,
+   "inciText": "Hydration Shots - 2% Hyaluronic Acid Serum: Demineralised Water, Propanediol, Glycerin, Sodium Hyaluronate Crosspolymer (and) Sodium Hyaluronate (and) Sodium Acetylated Hyaluronate (and) Hydrolyzed Sodium Hyaluronate (and) Pentylene Glycol (and) Ethylhexylglycerin (and) Aqua, Hydrolyzed Soy Protein, Rice Amino Acids, L-Proline, Hydrolyzed Adansonia Digitata Seed Extract, Acetylglucosamine, Sodium Levulinate, Sodium Anisate, Ceramide III B, Glycerol esters, Sodium Hyaluronate, Beta-Glucan, Allantoin, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate (and) Sodium polyacrylate, Perfume, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-ji13b7",
+  "brand": "SkinInspired",
+  "model": "Hydration Shots - 2% Hyaluronic Acid Serum Refill (50ml)",
+  "price": 799,
+  "capacityLine": "50 ml",
+  "materialLine": "Hyaluronic acid",
+  "featureLine": "Serum · ₹1598/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1598/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/hydration-shots-2-hyaluronic-acid-serum-refill-50-ml",
+   "inciMatchedName": "Hydration Shots - 2% Hyaluronic Acid Serum Refill (50ml) (name match 100%)",
+   "inciList": "Hydration Shots - 2% Hyaluronic Acid Serum: Demineralised Water, Propanediol, Glycerin, Sodium Hyaluronate Crosspolymer (and) Sodium Hyaluronate (and) Sodium Acetylated Hyaluronate (and) Hydrolyzed Sodium Hyaluronate (and) Pentylene Glycol (and) Ethylhexylglycerin (and) Aqua, Hydrolyzed Soy Protein, Rice Amino Acids, L-Proline, Hydrolyzed Adansonia Digitata Seed Extract, Acetylglucosamine, Sodium Levulinate, Sodium Anisate, Ceramide III B, Glycerol esters, Sodium Hyaluronate, Beta-Glucan, Allantoin, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate (and) Sodium polyacrylate, Perfume, Citric Acid",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); sodium hyaluronate (#5 on list, moderate evidence); sodium acetylated hyaluronate (#6 on list, moderate evidence); beta-glucan (#21 on list, moderate evidence); allantoin (#22 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Hydration_Shots_-_2_Hyaluronic_Acid_Serum_for_Face_1.jpg?v=1763203581"
+  ],
+  "buyUrl": "https://skininspired.in/products/hydration-shots-2-hyaluronic-acid-serum-refill-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Hydration Shots - 2% Hyaluronic Acid Serum Refill (50ml)",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/hydration-shots-2-hyaluronic-acid-serum-refill-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydration Shots - 2% Hyaluronic Acid Serum Refill (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Hydration Shots - 2% Hyaluronic Acid Serum: Demineralised Water, Propanediol, Glycerin, Sodium Hyaluronate Crosspolymer (and) Sodium Hyaluronate (and) Sodium Acetylated Hyaluronate (and) Hydrolyzed Sodium Hyaluronate (and) Pentylene Glycol (and) Ethylhexylglycerin (and) Aqua, Hydrolyzed Soy Protein, Rice Amino Acids, L-Proline, Hydrolyzed Adansonia Digitata Seed Extract, Acetylglucosamine, Sodium Levulinate, Sodium Anisate, Ceramide III B, Glycerol esters, Sodium Hyaluronate, Beta-Glucan, Allantoin, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate (and) Sodium polyacrylate, Perfume, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-g8mlmr",
+  "brand": "SkinInspired",
+  "model": "Hydration Shots - 2% Hyaluronic Acid Serum for Face",
+  "price": 999,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Hyaluronic acid",
+  "featureLine": "Serum",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/hydration-shots-hyaluronic-acid-serum-50-ml",
+   "inciMatchedName": "Hydration Shots - 2% Hyaluronic Acid Serum for Face (name match 100%)",
+   "inciList": "Hydration Shots - 2% Hyaluronic Acid Serum: Demineralised Water, Propanediol, Glycerin, Sodium Hyaluronate Crosspolymer (and) Sodium Hyaluronate (and) Sodium Acetylated Hyaluronate (and) Hydrolyzed Sodium Hyaluronate (and) Pentylene Glycol (and) Ethylhexylglycerin (and) Aqua, Hydrolyzed Soy Protein, Rice Amino Acids, L-Proline, Hydrolyzed Adansonia Digitata Seed Extract, Acetylglucosamine, Sodium Levulinate, Sodium Anisate, Ceramide III B, Glycerol esters, Sodium Hyaluronate, Beta-Glucan, Allantoin, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate (and) Sodium polyacrylate, Perfume, Citric Acid",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); sodium hyaluronate (#5 on list, moderate evidence); sodium acetylated hyaluronate (#6 on list, moderate evidence); beta-glucan (#21 on list, moderate evidence); allantoin (#22 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Hydration-Shotscopy.webp?v=1784194018"
+  ],
+  "buyUrl": "https://skininspired.in/products/hydration-shots-hyaluronic-acid-serum-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Hydration Shots - 2% Hyaluronic Acid Serum for Face",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/hydration-shots-hyaluronic-acid-serum-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydration Shots - 2% Hyaluronic Acid Serum for Face",
+   "inciMatchScore": 1,
+   "inciText": "Hydration Shots - 2% Hyaluronic Acid Serum: Demineralised Water, Propanediol, Glycerin, Sodium Hyaluronate Crosspolymer (and) Sodium Hyaluronate (and) Sodium Acetylated Hyaluronate (and) Hydrolyzed Sodium Hyaluronate (and) Pentylene Glycol (and) Ethylhexylglycerin (and) Aqua, Hydrolyzed Soy Protein, Rice Amino Acids, L-Proline, Hydrolyzed Adansonia Digitata Seed Extract, Acetylglucosamine, Sodium Levulinate, Sodium Anisate, Ceramide III B, Glycerol esters, Sodium Hyaluronate, Beta-Glucan, Allantoin, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate (and) Sodium polyacrylate, Perfume, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

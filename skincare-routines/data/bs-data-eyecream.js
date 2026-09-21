@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -2653,6 +2653,187 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-13mkx33",
+  "brand": "SkinInspired",
+  "model": "iREVIVE Under Eye Serum (24ml) | For Dark Circles, Fine Lines & Puffiness",
+  "price": 2099,
+  "capacityLine": "24 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Serum · ₹8746/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); caffeine high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "24 ml",
+   "pricePer100": "₹8746/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Dark circles / puffiness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/irevive-under-eye-serum",
+   "inciMatchedName": "iREVIVE Under Eye Serum (24ml) | For Dark Circles, Fine Lines & Puffiness (name match 100%)",
+   "inciList": "Chamber 2 - Aqua, Glycerin, Butylene glycol, Hydrolyzed collagen, Vaccinium Myrtillus (Bilberry) Extract, Vitamin K1 (Phytonadione), Vitamin K- 0.1% (Menadione sodium bisulfite), Caffeine- 0.5%, Matrixyl 3000 - 3% (Glycerin, Aqua, Butylene glycol, Carbomer, Polysorbate 20, Palmitoyl tripeptide-1, Palmitoyl tetrapeptide-7), Eyeliss - 1%(Aqua, Glycerin, Hesperidin methyl chalcone, Steareth-20, Dipeptide-2, Palmitoyl tetrapeptide-7), Niacinamide, Panthenol (Pro-vitamin B5), Allantoin, Caprylic/Capric triglyceride, Ecom 1000 (Cetearyl olivate, Sorbitan olivate), Carbomer, Carbomer, Phenoxyethanol + EHG (Phenoxyethanol, Ethylhexylglycerin), Triethanolamine, Alpha arbutin",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); caffeine (#8 on list, moderate evidence); palmitoyl tripeptide-1 (#14 on list, moderate evidence); palmitoyl tetrapeptide-7 (#15 on list, moderate evidence); niacinamide (#22 on list, strong evidence); panthenol (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — niacinamide #22 on INCI; Aging — palmitoyl tripeptide-1 #14 on INCI, palmitoyl tetrapeptide-7 #15 on INCI; Irritation — panthenol #23 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face serum (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Irevivecopy.webp?v=1784193581"
+  ],
+  "buyUrl": "https://skininspired.in/products/irevive-under-eye-serum",
+  "buyStore": "Brand store",
+  "title": "SkinInspired iREVIVE Under Eye Serum (24ml) | For Dark Circles, Fine Lines & Puffiness",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "claim:anti-aging",
+   "claim:dark-circles",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/irevive-under-eye-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "iREVIVE Under Eye Serum (24ml) | For Dark Circles, Fine Lines & Puffiness",
+   "inciMatchScore": 1,
+   "inciText": "Chamber 2 - Aqua, Glycerin, Butylene glycol, Hydrolyzed collagen, Vaccinium Myrtillus (Bilberry) Extract, Vitamin K1 (Phytonadione), Vitamin K- 0.1% (Menadione sodium bisulfite), Caffeine- 0.5%, Matrixyl 3000 - 3% (Glycerin, Aqua, Butylene glycol, Carbomer, Polysorbate 20, Palmitoyl tripeptide-1, Palmitoyl tetrapeptide-7), Eyeliss - 1%(Aqua, Glycerin, Hesperidin methyl chalcone, Steareth-20, Dipeptide-2, Palmitoyl tetrapeptide-7), Niacinamide, Panthenol (Pro-vitamin B5), Allantoin, Caprylic/Capric triglyceride, Ecom 1000 (Cetearyl olivate, Sorbitan olivate), Carbomer, Carbomer, Phenoxyethanol + EHG (Phenoxyethanol, Ethylhexylglycerin), Triethanolamine, Alpha arbutin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "niacinamide",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

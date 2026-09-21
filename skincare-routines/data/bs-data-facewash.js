@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -28169,6 +28169,695 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1d8hnjm",
+  "brand": "SkinInspired",
+  "model": "Crème Cleanser Face Wash (20ml)",
+  "price": 150,
+  "capacityLine": "20 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹750/100ml",
+  "highlight": "Live Brand store listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹750/100ml",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Brand site prints only a key-ingredients line, not a full INCI list — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sample (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/1M9A3701_7dd2cf43-7735-4959-93d6-bb4047c6928b.jpg?v=1713864240"
+  ],
+  "buyUrl": "https://skininspired.in/products/creme-cleanser-face-wash-20-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Crème Cleanser Face Wash (20ml)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:wash",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1sinqcc",
+  "brand": "SkinInspired",
+  "model": "Foaming Face Wash (100ml) - Pack of 2",
+  "price": 899,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foam / mousse · ₹450/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 6.4,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹450/100ml",
+   "format": "Foam / mousse",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/foaming-face-wash-100ml-pack-of-2",
+   "inciMatchedName": "Foaming Face Wash (100ml) - Pack of 2 (name match 100%)",
+   "inciList": "Sodium C14-16 olefin sulfonate, Coco Amido Propyl Betaine, Mandelic Acid, Azelaic acid, Aloe Barbadensis Leaf Extract, Glycerin, Decyl glucoside, Niacinamide, PEG-7 Glyceryl cocoate, Propanediol, Polysorbate-20, Salicylic acid, Polyquaternium -7, Phenoxyethanol, Allantoin, Sodium hydroxide, Saccharide Isomerate, Hyaluronic Acid, Disodium EDTA, Butylated Hydroxy Toulene, Fragrance, Purified Water",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); niacinamide (#8 on list, strong evidence); salicylic acid (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — azelaic acid #4 on INCI, niacinamide #8 on INCI, salicylic acid #12 on INCI; Dark spots — azelaic acid #4 on INCI, niacinamide #8 on INCI; Irritation — azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Combo Pack of 2 (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Two_Foaming_Face_Wash_Bottles_Straight..webp?v=1770816981"
+  ],
+  "buyUrl": "https://skininspired.in/products/foaming-face-wash-100ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Foaming Face Wash (100ml) - Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:wash",
+   "format:kit",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/foaming-face-wash-100ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Foaming Face Wash (100ml) - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Sodium C14-16 olefin sulfonate, Coco Amido Propyl Betaine, Mandelic Acid, Azelaic acid, Aloe Barbadensis Leaf Extract, Glycerin, Decyl glucoside, Niacinamide, PEG-7 Glyceryl cocoate, Propanediol, Polysorbate-20, Salicylic acid, Polyquaternium -7, Phenoxyethanol, Allantoin, Sodium hydroxide, Saccharide Isomerate, Hyaluronic Acid, Disodium EDTA, Butylated Hydroxy Toulene, Fragrance, Purified Water",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "sodium c14-16 olefin sulfonate",
+    "glycerin",
+    "decyl glucoside",
+    "niacinamide",
+    "propanediol",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-42psty",
+  "brand": "SkinInspired",
+  "model": "Foaming Face Wash (100ml) | For Normal, Dry or Sensitive skin",
+  "price": 469,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foam / mousse · ₹469/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 6.4,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹469/100ml",
+   "format": "Foam / mousse",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/foaming-face-wash",
+   "inciMatchedName": "Foaming Face Wash (100ml) | For Normal, Dry or Sensitive skin (name match 100%)",
+   "inciList": "Sodium C14-16 olefin sulfonate, Coco Amido Propyl Betaine, Mandelic Acid, Azelaic acid, Aloe Barbadensis Leaf Extract, Glycerin, Decyl glucoside, Niacinamide, PEG-7 Glyceryl cocoate, Propanediol, Polysorbate-20, Salicylic acid, Polyquaternium -7, Phenoxyethanol, Allantoin, Sodium hydroxide, Saccharide Isomerate, Hyaluronic Acid, Disodium EDTA, Butylated Hydroxy Toulene, Fragrance, Purified Water",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); niacinamide (#8 on list, strong evidence); salicylic acid (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — azelaic acid #4 on INCI, niacinamide #8 on INCI, salicylic acid #12 on INCI; Dark spots — azelaic acid #4 on INCI, niacinamide #8 on INCI; Irritation — azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Foam-Cleansercopy.webp?v=1784194508"
+  ],
+  "buyUrl": "https://skininspired.in/products/foaming-face-wash",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Foaming Face Wash (100ml) | For Normal, Dry or Sensitive skin",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:wash",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/foaming-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Foaming Face Wash (100ml) | For Normal, Dry or Sensitive skin",
+   "inciMatchScore": 1,
+   "inciText": "Sodium C14-16 olefin sulfonate, Coco Amido Propyl Betaine, Mandelic Acid, Azelaic acid, Aloe Barbadensis Leaf Extract, Glycerin, Decyl glucoside, Niacinamide, PEG-7 Glyceryl cocoate, Propanediol, Polysorbate-20, Salicylic acid, Polyquaternium -7, Phenoxyethanol, Allantoin, Sodium hydroxide, Saccharide Isomerate, Hyaluronic Acid, Disodium EDTA, Butylated Hydroxy Toulene, Fragrance, Purified Water",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "sodium c14-16 olefin sulfonate",
+    "glycerin",
+    "decyl glucoside",
+    "niacinamide",
+    "propanediol",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1txw7g1",
+  "brand": "SkinInspired",
+  "model": "Crème Cleanser Face Wash (70ml) | For Normal, Oily or Combination Skin",
+  "price": 419,
+  "capacityLine": "70 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹599/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.6,
+   "skin": 4.8,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "70 ml",
+   "pricePer100": "₹599/100ml",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Oily skin, Combination skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/creme-cleanser-face-wash",
+   "inciMatchedName": "Crème Cleanser Face Wash (70ml) | For Normal, Oily or Combination Skin (name match 100%)",
+   "inciList": "Aqua, Stearic Acid, Coco Fatty Acid, Lauric Acid, Sorbitol, Glycerine, Myristic Acid, Coco Glucoside, Kojic Acid Globules, Liquorice Extract, Propylene Glycol, Niacinamide, Salicylic Acid, Glycolic Acid, Lactic Acid, Vitamin E, D -Panthenol, Allantoin, Vitamin C, Triclosan, Sodium Peg-7 Olive Oil Carboxylate, Phenoxyethanol, DMDM Hydantoin, Di Sodium EDTA, Sodium Hydroxide, Potassium Hydroxide, Perfume",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); niacinamide (#12 on list, strong evidence); salicylic acid (#13 on list, strong evidence); glycolic acid (#14 on list, strong evidence); lactic acid (#15 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8); Triclosan / triclocarban: triclosan (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI, ascorbic acid #19 on INCI; Aging — ascorbic acid #19 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "face wash (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/WhatsAppImage2026-07-16at4.14.37PM_7b583a04-776f-48ec-8d22-ee4ecc3119b3.jpg?v=1784200754"
+  ],
+  "buyUrl": "https://skininspired.in/products/creme-cleanser-face-wash",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Crème Cleanser Face Wash (70ml) | For Normal, Oily or Combination Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:wash",
+   "skin:oily",
+   "skin:combination",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/creme-cleanser-face-wash",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Crème Cleanser Face Wash (70ml) | For Normal, Oily or Combination Skin",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Stearic Acid, Coco Fatty Acid, Lauric Acid, Sorbitol, Glycerine, Myristic Acid, Coco Glucoside, Kojic Acid Globules, Liquorice Extract, Propylene Glycol, Niacinamide, Salicylic Acid, Glycolic Acid, Lactic Acid, Vitamin E, D -Panthenol, Allantoin, Vitamin C, Triclosan, Sodium Peg-7 Olive Oil Carboxylate, Phenoxyethanol, DMDM Hydantoin, Di Sodium EDTA, Sodium Hydroxide, Potassium Hydroxide, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "coco-glucoside",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    },
+    {
+     "id": "triclosan",
+     "label": "Triclosan / triclocarban",
+     "names": [
+      "triclosan"
+     ],
+     "penalty": 1.5,
+     "src": "fdaTriclosan"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -29463,6 +29463,1269 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1clu7c9",
+  "brand": "SkinInspired",
+  "model": "0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines",
+  "price": 899,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹1798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.4,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1798/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-50g",
+   "inciMatchedName": "0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines (name match 100%)",
+   "inciList": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); dimethicone (#11 on list, moderate evidence); butyrospermum parkii butter (#15 on list, moderate evidence); retinol (#22 on list, strong evidence); glycerin (#23 on list, strong evidence); tocopheryl acetate (#28 on list, moderate evidence); ubiquinone (#29 on list, moderate evidence); allantoin (#32 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/RNC_copy_eb5a9e9a-a51f-4fa4-a3c1-a77efb8e9670.webp?v=1769597231"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-night-cream-50g",
+  "buyStore": "Brand store",
+  "title": "SkinInspired 0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-50g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "0.1% Retinol Night Cream (50g) | Reduces Wrinkles & Fine Lines",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-176d3l6",
+  "brand": "SkinInspired",
+  "model": "Ceramide Cream Moisturizer Refill (50g)",
+  "price": 799,
+  "capacityLine": "50 g",
+  "materialLine": "Ceramides",
+  "featureLine": "Cream · ₹1598/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1598/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-face-moisturizer-refill",
+   "inciMatchedName": "Ceramide Cream Moisturizer Refill (50g) (name match 100%)",
+   "inciList": "Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — zinc pca #18 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/CCM_Listing_.4.webp?v=1763195626"
+  ],
+  "buyUrl": "https://skininspired.in/products/ceramide-face-moisturizer-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Ceramide Cream Moisturizer Refill (50g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:ceramides",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-face-moisturizer-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide Cream Moisturizer Refill (50g)",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1lvxyt3",
+  "brand": "SkinInspired",
+  "model": "Mattifying Gel Moisturizer Refill (50g)",
+  "price": 799,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel · ₹1598/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1598/100g",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/mattifying-gel-face-moisturizer-refill",
+   "inciMatchedName": "Mattifying Gel Moisturizer Refill (50g) (name match 100%)",
+   "inciList": "Mattifying Gel Face Moisturizer: Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — zinc pca #18 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Mattifying_Gel_Moisturizer_Refill_Webp..webp?v=1771331213"
+  ],
+  "buyUrl": "https://skininspired.in/products/mattifying-gel-face-moisturizer-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Mattifying Gel Moisturizer Refill (50g)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "claim:oil-control",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/mattifying-gel-face-moisturizer-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mattifying Gel Moisturizer Refill (50g)",
+   "inciMatchScore": 1,
+   "inciText": "Mattifying Gel Face Moisturizer: Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-y0bcm1",
+  "brand": "SkinInspired",
+  "model": "Retinol Night Cream Refill (50g)",
+  "price": 899,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹1798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.4,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1798/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-refill",
+   "inciMatchedName": "Retinol Night Cream Refill (50g) (name match 100%)",
+   "inciList": "Retinol Night Cream: Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); dimethicone (#11 on list, moderate evidence); butyrospermum parkii butter (#15 on list, moderate evidence); retinol (#22 on list, strong evidence); glycerin (#23 on list, strong evidence); tocopheryl acetate (#28 on list, moderate evidence); ubiquinone (#29 on list, moderate evidence); allantoin (#32 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "refill (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Retinol_Night_Cream_Refill_wbep.webp?v=1771498407"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-night-cream-refill",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Retinol Night Cream Refill (50g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream-refill",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol Night Cream Refill (50g)",
+   "inciMatchScore": 1,
+   "inciText": "Retinol Night Cream: Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-yshnoy",
+  "brand": "SkinInspired",
+  "model": "Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin",
+  "price": 799,
+  "capacityLine": "50 g",
+  "materialLine": "Ceramides",
+  "featureLine": "Cream · ₹1598/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.6,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1598/100g",
+   "format": "Cream",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Normal skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-cream-moisturizer",
+   "inciMatchedName": "Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin (name match 100%)",
+   "inciList": "Purified Water, Propanediol, Caprylic Capric Triglycerides, Coco Caprylate Caprate, Cocoa Butter, Glycerin, Propanediol, Cetearyl Alcohol, Ceramide III B, Glycerol esters, Ethylhexyl Palmitate, Glycine Soja (Soyabean) Oil (and) Calendula Officinalis Flower Extract (and) Tocopherol, Dimethicone, Squalane, Octyldodecanol, Glyceryl Stearate Citrate, Glyceryl Monostearate, Carbomer, Sodium Hyaluronate, Polyacrylate 13/Polyisobutene/Eysorbate 20, Sodium Gluconate, Phenoxyethanol and Ethylhexylglycerin, Triethanolamine, Perfume",
+   "evidenceActives": "glycerin (#6 on list, strong evidence); tocopherol (#14 on list, moderate evidence); dimethicone (#15 on list, moderate evidence); squalane (#16 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Ceramidecopy.webp?v=1784196103"
+  ],
+  "buyUrl": "https://skininspired.in/products/ceramide-cream-moisturizer",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:ceramides",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:normal",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/ceramide-cream-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide Face Moisturizer Cream (50g) | For Dry & Normal Skin",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Propanediol, Caprylic Capric Triglycerides, Coco Caprylate Caprate, Cocoa Butter, Glycerin, Propanediol, Cetearyl Alcohol, Ceramide III B, Glycerol esters, Ethylhexyl Palmitate, Glycine Soja (Soyabean) Oil (and) Calendula Officinalis Flower Extract (and) Tocopherol, Dimethicone, Squalane, Octyldodecanol, Glyceryl Stearate Citrate, Glyceryl Monostearate, Carbomer, Sodium Hyaluronate, Polyacrylate 13/Polyisobutene/Eysorbate 20, Sodium Gluconate, Phenoxyethanol and Ethylhexylglycerin, Triethanolamine, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "dimethicone",
+    "squalane",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-179gcui",
+  "brand": "SkinInspired",
+  "model": "Mattifying Gel Face Moisturizer (50g) | For Oily, Combination, & Sensitive Skin",
+  "price": 799,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel · ₹1598/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1598/100g",
+   "format": "Gel",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/mattifying-gel-moisturizer",
+   "inciMatchedName": "Mattifying Gel Face Moisturizer (50g) | For Oily, Combination, & Sensitive Skin (name match 100%)",
+   "inciList": "Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — zinc pca #18 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/MGMcopy.webp?v=1784193373"
+  ],
+  "buyUrl": "https://skininspired.in/products/mattifying-gel-moisturizer",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Mattifying Gel Face Moisturizer (50g) | For Oily, Combination, & Sensitive Skin",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/mattifying-gel-moisturizer",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Mattifying Gel Face Moisturizer (50g) | For Oily, Combination, & Sensitive Skin",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Dimethicone Crosspolymer (and) Dimethicone (and) Laureth-23 (and) Laureth-4, Caprylyl Methicone and PEG-1 Dimethicone/PPG-20 Crosspolymer, Propanediol, Biosaccharide Gum 1, Cyclopentasiloxane, Rosa Canina fruit extract, Sodium Polyacrylate, Hydrogenated Polydecene, PPG-1 Trideceth 6, Betaine, Silica, Xanthan Gum, Zinc PCA, Phenoxyethanol and Ethylhexylglycerin, Citric Acid, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1ox3gsq",
+  "brand": "SkinInspired",
+  "model": "0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection",
+  "price": 899,
+  "capacityLine": "50 g",
+  "materialLine": "Retinol",
+  "featureLine": "Cream · ₹1798/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.4,
+   "skin": 3.5,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1798/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream",
+   "inciMatchedName": "0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection (name match 100%)",
+   "inciList": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "evidenceActives": "niacinamide (#7 on list, strong evidence); dimethicone (#11 on list, moderate evidence); butyrospermum parkii butter (#15 on list, moderate evidence); retinol (#22 on list, strong evidence); glycerin (#23 on list, strong evidence); tocopheryl acetate (#28 on list, moderate evidence); ubiquinone (#29 on list, moderate evidence); allantoin (#32 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — retinol #22 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "moisturizer (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/RNC_Listing_with_2_tags.jpg_copy.webp?v=1788266746"
+  ],
+  "buyUrl": "https://skininspired.in/products/retinol-night-cream",
+  "buyStore": "Brand store",
+  "title": "SkinInspired 0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:retinol",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/retinol-night-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "0.1% Retinol Night Cream (50g) | For Anti-Aging & Wrinkle Protection",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Isoamyl Laurate, Ceto Cetyl Alcohol, Cyclopentasiloxane, Propanediol, Cocoa Butter, Niacinamide, Tapioca Starch (and) Polymethylsilsesquioxane, Sodium Polyacrylate (and) Dimethicone (and) Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG-18/18 Dimethicone, Butyrospermum Parkii (Shea) Butter, Emulsifying Wax, Olive Squalane, Olive Oil PEG-7 Esters, Behenyl Alcohol, Water (and) Copernicia Cerifera Cera (and) Retinol (and) Glycerine (and) Propanediol (and) BHT (and) Xanthan Gum (and) Sodium Cocoamphoacetate (and) Tocopheryl Acetate, Ubiquinone (and) Tocopheryl Acetate (and) C12-15 Alkyl Benzoate, Vitamin E Acetate, Allantoin, DMDM Hydantoin (and) Methylchloroisothiazolinone (and) Methylisothiazolinone, Perfume",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 32,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "niacinamide",
+    "dimethicone",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 2,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

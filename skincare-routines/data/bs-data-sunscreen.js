@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -38491,6 +38491,2311 @@ const BSPRODUCTS = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://plumgoodness.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-18329rt",
+  "brand": "SkinInspired",
+  "model": "Invi Shield 365 Body Sunscreen Spray (50ml)",
+  "price": 349,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · ₹698/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹698/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml-copy",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray (50ml) (name match 100%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Upsell (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/INSS_50ml.jpg?v=1787318985"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml-copy",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield 365 Body Sunscreen Spray (50ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "water:unstated",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml-copy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1uyge6h",
+  "brand": "SkinInspired",
+  "model": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+  "price": 399,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 80 · ₹798/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹798/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 80 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml) (name match 100%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Minis (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/INSS_50ml.jpg?v=1787318985"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
+   "inciMatchScore": 1,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-64vkm0",
+  "brand": "SkinInspired",
+  "model": "Care Addict Sunscreen SPF 50 PA++++ (20g)",
+  "price": 199,
+  "capacityLine": "20 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹995/100g",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "titanium dioxide high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "20 g",
+   "pricePer100": "₹995/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/care-addict-sunscreen-spf-50-pa-20gm",
+   "inciMatchedName": "Care Addict Sunscreen SPF 50 PA++++ (20g) (name match 100%)",
+   "inciList": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, Niacinamide,Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Aloe Barbadensis Leaf Juice, Dimethicone, Hectorite clay, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "evidenceActives": "titanium dioxide (#2 on list, strong evidence); ethylhexyl methoxycinnamate (#3 on list, strong evidence); butyl methoxydibenzoylmethane (#4 on list, strong evidence); octocrylene (#5 on list, strong evidence); zinc oxide (#11 on list, strong evidence); niacinamide (#17 on list, strong evidence); aloe barbadensis leaf juice (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sample (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Care_Addict_Sunscreen_20g.png?v=1737724296"
+  ],
+  "buyUrl": "https://skininspired.in/products/care-addict-sunscreen-spf-50-pa-20gm",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Care Addict Sunscreen SPF 50 PA++++ (20g)",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/care-addict-sunscreen-spf-50-pa-20gm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Care Addict Sunscreen SPF 50 PA++++ (20g)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, Niacinamide,Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Aloe Barbadensis Leaf Juice, Dimethicone, Hectorite clay, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "hyaluronic acid",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-wwj2hd",
+  "brand": "SkinInspired",
+  "model": "The Green Mineral Sunscreen SPF 50+ | Safe for Sensitive Skin & Pregnancy",
+  "price": 549,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/pregnancy-safe-sunscreen",
+   "inciMatchedName": "The Green Mineral Sunscreen SPF 50+ | Safe for Sensitive Skin & Pregnancy (name match 100%)",
+   "inciList": "Aqua, Zinc Oxide, Titanium Dioxide, Aloe Barbadensis Leaf Extract, C12-15 Alkyl Benzoate, Caprylyl Methicone, Dimethicone Crosspolymer, Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate), Camellia Sinensis Leaf Extract, Cyclopentasiloxane, PEG12 Dimethicone, Caprylic/Capric Triglyceride, Chlorophyll, Bisabolol, Centella Asiatica Extract, Glycyrrhiza Glabra Root Extract, Tocopherol, Phenoxyethanol",
+   "evidenceActives": "zinc oxide (#2 on list, strong evidence); titanium dioxide (#3 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence); camellia sinensis leaf extract (#11 on list, moderate evidence); bisabolol (#16 on list, moderate evidence); centella asiatica extract (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI, bisabolol #16 on INCI, centella asiatica extract #17 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Listing1.webp?v=1783146981"
+  ],
+  "buyUrl": "https://skininspired.in/products/pregnancy-safe-sunscreen",
+  "buyStore": "Brand store",
+  "title": "SkinInspired The Green Mineral Sunscreen SPF 50+ | Safe for Sensitive Skin & Pregnancy",
+  "tags": [
+   "scope:unstated",
+   "spf:50+",
+   "sun:mineral",
+   "water:unstated",
+   "claim:spf-claim",
+   "claim:stretch-marks",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/pregnancy-safe-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "The Green Mineral Sunscreen SPF 50+ | Safe for Sensitive Skin & Pregnancy",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Zinc Oxide, Titanium Dioxide, Aloe Barbadensis Leaf Extract, C12-15 Alkyl Benzoate, Caprylyl Methicone, Dimethicone Crosspolymer, Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate), Camellia Sinensis Leaf Extract, Cyclopentasiloxane, PEG12 Dimethicone, Caprylic/Capric Triglyceride, Chlorophyll, Bisabolol, Centella Asiatica Extract, Glycyrrhiza Glabra Root Extract, Tocopherol, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-10n5uv8",
+  "brand": "SkinInspired",
+  "model": "Kidscreen 100% Mineral Sunscreen (50ml) - Pack of 2",
+  "price": 1599,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · ₹1599/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹1599/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/kidscreen-mineral-sunscreen-pack-of-2",
+   "inciMatchedName": "Kidscreen 100% Mineral Sunscreen (50ml) - Pack of 2 (name match 100%)",
+   "inciList": "Dimethicone, Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Isododecane, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Methyl Methacrylate Crosspolymer, D-Panthenol, Tocopheryl Acetate",
+   "evidenceActives": "zinc oxide (#4 on list, strong evidence); panthenol (#10 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Combo Pack of 2 (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/6.jpg?v=1770816498"
+  ],
+  "buyUrl": "https://skininspired.in/products/kidscreen-mineral-sunscreen-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Kidscreen 100% Mineral Sunscreen (50ml) - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "sun:mineral",
+   "water:unstated",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/kidscreen-mineral-sunscreen-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kidscreen 100% Mineral Sunscreen (50ml) - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Dimethicone, Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Isododecane, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Methyl Methacrylate Crosspolymer, D-Panthenol, Tocopheryl Acetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1ka831t",
+  "brand": "SkinInspired",
+  "model": "The Green Sunscreen (50ml) - Pack of 2",
+  "price": 999,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · ₹999/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹999/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/the-green-sunscreen-50ml-pack-of-2",
+   "inciMatchedName": "The Green Sunscreen (50ml) - Pack of 2 (name match 100%)",
+   "inciList": "Aqua, Zinc Oxide, Titanium Dioxide, Aloe Barbadensis Leaf Extract, C12-15 Alkyl Benzoate, Caprylyl Methicone, Dimethicone Crosspolymer, Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate), Camellia Sinensis Leaf Extract, Cyclopentasiloxane, PEG12 Dimethicone, Caprylic/Capric Triglyceride, Chlorophyll, Bisabolol, Centella Asiatica Extract, Glycyrrhiza Glabra Root Extract, Tocopherol, Phenoxyethanol",
+   "evidenceActives": "zinc oxide (#2 on list, strong evidence); titanium dioxide (#3 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence); camellia sinensis leaf extract (#11 on list, moderate evidence); bisabolol (#16 on list, moderate evidence); centella asiatica extract (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI, bisabolol #16 on INCI, centella asiatica extract #17 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Combo Pack of 2 (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/TGS_listing_Pack_of_2_copy_1.webp?v=1774616722"
+  ],
+  "buyUrl": "https://skininspired.in/products/the-green-sunscreen-50ml-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "SkinInspired The Green Sunscreen (50ml) - Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "water:unstated",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/the-green-sunscreen-50ml-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "The Green Sunscreen (50ml) - Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Zinc Oxide, Titanium Dioxide, Aloe Barbadensis Leaf Extract, C12-15 Alkyl Benzoate, Caprylyl Methicone, Dimethicone Crosspolymer, Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate), Camellia Sinensis Leaf Extract, Cyclopentasiloxane, PEG12 Dimethicone, Caprylic/Capric Triglyceride, Chlorophyll, Bisabolol, Centella Asiatica Extract, Glycyrrhiza Glabra Root Extract, Tocopherol, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1s7jt2g",
+  "brand": "SkinInspired",
+  "model": "Total Care Gel Based Sunscreen Pack of 2",
+  "price": 1249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aloe barbadensis leaf extract high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 2,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/total-care-gel-based-sunscreen-pack-of-2",
+   "inciMatchedName": "Total Care Gel Based Sunscreen Pack of 2 (name match 100%)",
+   "inciList": "Water & Ethylhexyl Methoxy-cinnamate Benzophenone-3 Octocrylene & 1, 3 Butylene glycol & Lecithin & Phenoxyethanol, Ethylnexy! Olivate &Sodium acrylates copolymer & Polyglyceryl-4 Olivate, Aloe vera Extract, Glycerin, Biosaccharide Gum-4, Aloe Vera Extract, Polysorbate-20, Phenoxyethanol & Ethylhexy|glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, CaesalpiniaSpinosa Fruit Pod Extract & PropyleneGlycol & Hellanthus Annuus(Sunflower)Sprout Extract SodiumBenzoate&Phenoxyethanol&Water(Aqua),Triethanolmine,Tocpherylacetate,Fragrance (IFRA approved),Sodium gluconate, Purified Water",
+   "evidenceActives": "aloe barbadensis leaf extract (#4 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Combo Pack of 2 (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/214.webp?v=1779283475"
+  ],
+  "buyUrl": "https://skininspired.in/products/total-care-gel-based-sunscreen-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Total Care Gel Based Sunscreen Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "water:unstated",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/total-care-gel-based-sunscreen-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Total Care Gel Based Sunscreen Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Water & Ethylhexyl Methoxy-cinnamate Benzophenone-3 Octocrylene & 1, 3 Butylene glycol & Lecithin & Phenoxyethanol, Ethylnexy! Olivate &Sodium acrylates copolymer & Polyglyceryl-4 Olivate, Aloe vera Extract, Glycerin, Biosaccharide Gum-4, Aloe Vera Extract, Polysorbate-20, Phenoxyethanol & Ethylhexy|glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, CaesalpiniaSpinosa Fruit Pod Extract & PropyleneGlycol & Hellanthus Annuus(Sunflower)Sprout Extract SodiumBenzoate&Phenoxyethanol&Water(Aqua),Triethanolmine,Tocpherylacetate,Fragrance (IFRA approved),Sodium gluconate, Purified Water",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-l1xgag",
+  "brand": "SkinInspired",
+  "model": "Invi Shield Body Sunscreen Spray Pack of 2",
+  "price": 1299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-body-sunscreen-spray-pack-of-2",
+   "inciMatchedName": "Invi Shield Body Sunscreen Spray Pack of 2 (name match 100%)",
+   "inciList": "Invi Shield Sunscreen Spray: Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Combo Pack of 2 (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Pack_Image_of_INSS_120ML.webp?v=1787131887"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-body-sunscreen-spray-pack-of-2",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield Body Sunscreen Spray Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "water:unstated",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-body-sunscreen-spray-pack-of-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield Body Sunscreen Spray Pack of 2",
+   "inciMatchScore": 1,
+   "inciText": "Invi Shield Sunscreen Spray: Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-gy7xru",
+  "brand": "SkinInspired",
+  "model": "The Green Sunscreen - 100% Mineral Sunscreen SPF 50+ PA++++ (50ml)",
+  "price": 549,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1098/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); titanium dioxide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1098/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/the-green-mineral-sunscreen-spf50-50ml",
+   "inciMatchedName": "The Green Sunscreen - 100% Mineral Sunscreen SPF 50+ PA++++ (50ml) (name match 100%)",
+   "inciList": "Aqua, Zinc Oxide, Titanium Dioxide, Aloe Barbadensis Leaf Extract, C12-15 Alkyl Benzoate, Caprylyl Methicone, Dimethicone Crosspolymer, Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate), Camellia Sinensis Leaf Extract, Cyclopentasiloxane, PEG12 Dimethicone, Caprylic/Capric Triglyceride, Chlorophyll, Bisabolol, Centella Asiatica Extract, Glycyrrhiza Glabra Root Extract, Tocopherol, Phenoxyethanol",
+   "evidenceActives": "zinc oxide (#2 on list, strong evidence); titanium dioxide (#3 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence); camellia sinensis leaf extract (#11 on list, moderate evidence); bisabolol (#16 on list, moderate evidence); centella asiatica extract (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI, bisabolol #16 on INCI, centella asiatica extract #17 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Green-Sunscreencopy.webp?v=1784194118"
+  ],
+  "buyUrl": "https://skininspired.in/products/the-green-mineral-sunscreen-spf50-50ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired The Green Sunscreen - 100% Mineral Sunscreen SPF 50+ PA++++ (50ml)",
+  "tags": [
+   "scope:unstated",
+   "spf:50+",
+   "pa:++++",
+   "sun:mineral",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/the-green-mineral-sunscreen-spf50-50ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "The Green Sunscreen - 100% Mineral Sunscreen SPF 50+ PA++++ (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Zinc Oxide, Titanium Dioxide, Aloe Barbadensis Leaf Extract, C12-15 Alkyl Benzoate, Caprylyl Methicone, Dimethicone Crosspolymer, Pentavitin (Saccharide Isomerate, Aqua, Citric Acid, Sodium Citrate), Camellia Sinensis Leaf Extract, Cyclopentasiloxane, PEG12 Dimethicone, Caprylic/Capric Triglyceride, Chlorophyll, Bisabolol, Centella Asiatica Extract, Glycyrrhiza Glabra Root Extract, Tocopherol, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-60n4a5",
+  "brand": "SkinInspired",
+  "model": "Kidscreen 100% Mineral Sunscreen for Kids SPF 50+ PA++++ (50ml)",
+  "price": 849,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1698/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "zinc oxide high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1698/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/sunscreen-for-kids-spf-50",
+   "inciMatchedName": "Kidscreen 100% Mineral Sunscreen for Kids SPF 50+ PA++++ (50ml) (name match 100%)",
+   "inciList": "Dimethicone, Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Isododecane, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Methyl Methacrylate Crosspolymer, D-Panthenol, Tocopheryl Acetate",
+   "evidenceActives": "zinc oxide (#4 on list, strong evidence); panthenol (#10 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Kidscreen_copy.webp?v=1784193489"
+  ],
+  "buyUrl": "https://skininspired.in/products/sunscreen-for-kids-spf-50",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Kidscreen 100% Mineral Sunscreen for Kids SPF 50+ PA++++ (50ml)",
+  "tags": [
+   "scope:unstated",
+   "spf:50+",
+   "pa:++++",
+   "sun:mineral",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:kids",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/sunscreen-for-kids-spf-50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kidscreen 100% Mineral Sunscreen for Kids SPF 50+ PA++++ (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Dimethicone, Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Zinc Oxide, C12-15 Alkyl Benzoate, Isostearic Acid, Polyhydroxystearic Acid, Isododecane, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Methyl Methacrylate Crosspolymer, D-Panthenol, Tocopheryl Acetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-dvoqbn",
+  "brand": "SkinInspired",
+  "model": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+  "price": 699,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 80 · ₹583/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "homosalate high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Drying alcohol high in the list: ethyl alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹583/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 80 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml) (name match 100%)",
+   "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/INSS_120_ml.webp?v=1787319593"
+  ],
+  "buyUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+   "inciMatchScore": 1,
+   "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "diethylhexyl butamido triazone",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-shg63r",
+  "brand": "SkinInspired",
+  "model": "Care Addict Encapsulated Sunscreen SPF 50 PA++++",
+  "price": 425,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "titanium dioxide high on the INCI list (strong evidence); ethylhexyl methoxycinnamate high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/care-addict-sunscreen",
+   "inciMatchedName": "Care Addict Encapsulated Sunscreen SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, Niacinamide,Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Aloe Barbadensis Leaf Juice, Dimethicone, Hectorite clay, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "evidenceActives": "titanium dioxide (#2 on list, strong evidence); ethylhexyl methoxycinnamate (#3 on list, strong evidence); butyl methoxydibenzoylmethane (#4 on list, strong evidence); octocrylene (#5 on list, strong evidence); zinc oxide (#11 on list, strong evidence); niacinamide (#17 on list, strong evidence); aloe barbadensis leaf juice (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Care-Addict_copy_a840dd2f-fd78-416e-b5ba-c4c03f2fb089.webp?v=1784549494"
+  ],
+  "buyUrl": "https://skininspired.in/products/care-addict-sunscreen",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Care Addict Encapsulated Sunscreen SPF 50 PA++++",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:none",
+   "store:brand-store",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/care-addict-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Care Addict Encapsulated Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Octocrylene, 1,3 Butylene glycol, Lecithin, Phenoxyethanol, Sodium Polyacrylate, Glycerin, Zinc Oxide, Xylitol, Terminalia Ferdinandiana Fruit Extract, Phospholipids, Caprylic Acid, Glyceryl Stearate, Niacinamide,Dicaprylyl carbonate, Hyaluronic Acid, Helianthus Annuus(Sunflower) Seed Oil, D-AlphaTocopheryl Acetate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Aloe Barbadensis Leaf Juice, Dimethicone, Hectorite clay, Sodium Benzoate, Sodium Levulinate, Phenoxyethanol, Allantoin, Melanin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "hyaluronic acid",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1urcw31",
+  "brand": "SkinInspired",
+  "model": "Total Care Gel Based Sunscreen SPF 50 PA+++ (50ml)",
+  "price": 649,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1298/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aloe barbadensis leaf extract high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 2,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1298/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/total-care-sunscreen-gel-spf-50",
+   "inciMatchedName": "Total Care Gel Based Sunscreen SPF 50 PA+++ (50ml) (name match 100%)",
+   "inciList": "Water & Ethylhexyl Methoxy-cinnamate Benzophenone-3 Octocrylene & 1, 3 Butylene glycol & Lecithin & Phenoxyethanol, Ethylnexy! Olivate &Sodium acrylates copolymer & Polyglyceryl-4 Olivate, Aloe vera Extract, Glycerin, Biosaccharide Gum-4, Aloe Vera Extract, Polysorbate-20, Phenoxyethanol & Ethylhexy|glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, CaesalpiniaSpinosa Fruit Pod Extract & PropyleneGlycol & Hellanthus Annuus(Sunflower)Sprout Extract SodiumBenzoate&Phenoxyethanol&Water(Aqua),Triethanolmine,Tocpherylacetate,Fragrance (IFRA approved),Sodium gluconate, Purified Water",
+   "evidenceActives": "aloe barbadensis leaf extract (#4 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "sunscreen (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Gel-Sunscreencopy.webp?v=1784194266"
+  ],
+  "buyUrl": "https://skininspired.in/products/total-care-sunscreen-gel-spf-50",
+  "buyStore": "Brand store",
+  "title": "SkinInspired Total Care Gel Based Sunscreen SPF 50 PA+++ (50ml)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/total-care-sunscreen-gel-spf-50",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Total Care Gel Based Sunscreen SPF 50 PA+++ (50ml)",
+   "inciMatchScore": 1,
+   "inciText": "Water & Ethylhexyl Methoxy-cinnamate Benzophenone-3 Octocrylene & 1, 3 Butylene glycol & Lecithin & Phenoxyethanol, Ethylnexy! Olivate &Sodium acrylates copolymer & Polyglyceryl-4 Olivate, Aloe vera Extract, Glycerin, Biosaccharide Gum-4, Aloe Vera Extract, Polysorbate-20, Phenoxyethanol & Ethylhexy|glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, CaesalpiniaSpinosa Fruit Pod Extract & PropyleneGlycol & Hellanthus Annuus(Sunflower)Sprout Extract SodiumBenzoate&Phenoxyethanol&Water(Aqua),Triethanolmine,Tocpherylacetate,Fragrance (IFRA approved),Sodium gluconate, Purified Water",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [
+    "No recognised UVA filter on the list"
+   ],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }

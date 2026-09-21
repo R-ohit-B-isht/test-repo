@@ -1,4 +1,4 @@
-// Auto-generated from official brand web stores (product pages), 2026-09-19.
+// Auto-generated from official brand web stores (product pages), 2026-09-21.
 // Unknown fields are honestly marked, never invented.
 const BSPRODUCTS = [
  {
@@ -2040,6 +2040,168 @@ const BSPRODUCTS = [
     "label": "Established / listed Indian FMCG house",
     "pts": 6,
     "url": "https://marico.com/india/brands"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skininspired-bs-1dloq12",
+  "brand": "SkinInspired",
+  "model": "AcNil3 Acne Spot Corrector (12ml)",
+  "price": 649,
+  "capacityLine": "12 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other · ₹5408/100ml",
+  "highlight": "Live Brand store listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — this product's page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); azelaic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: camphor",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.7,
+   "skin": 6.7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "12 ml",
+   "pricePer100": "₹5408/100ml",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/acnil3-acne-spot-corrector",
+   "inciMatchedName": "AcNil3 Acne Spot Corrector (12ml) (name match 100%)",
+   "inciList": "Isopropyl Alcohol, Camphor, Zinc Oxide & Ferric Oxide, Niacinamide, Glycerin, Colloidal Sulfur, Azelaic Acid, Zingiber Officinale (Ginger) Root Extract, Salicylic Acid, Titanium Dioxide, Talc",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); azelaic acid (#7 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: camphor (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, azelaic acid #7 on INCI, salicylic acid #9 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI (matching only — not proof it works)",
+   "soldBy": "SkinInspired official web store (skininspired.in) — price and stock as shown there on 2026-09-21; no marketplace ratings",
+   "storeCategory": "Acne (brand site's own product type)"
+  },
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0749/0820/5333/files/Acnilcopy_b9ece290-02d7-4e13-8f1b-84b150fe77d7.webp?v=1784198012"
+  ],
+  "buyUrl": "https://skininspired.in/products/acnil3-acne-spot-corrector",
+  "buyStore": "Brand store",
+  "title": "SkinInspired AcNil3 Acne Spot Corrector (12ml)",
+  "tags": [
+   "scope:unstated",
+   "claim:dark-spots",
+   "claim:acne",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:brand-store",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — this product's page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/acnil3-acne-spot-corrector",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AcNil3 Acne Spot Corrector (12ml)",
+   "inciMatchScore": 1,
+   "inciText": "Isopropyl Alcohol, Camphor, Zinc Oxide & Ferric Oxide, Niacinamide, Glycerin, Colloidal Sulfur, Azelaic Acid, Zingiber Officinale (Ginger) Root Extract, Salicylic Acid, Titanium Dioxide, Talc",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "camphor"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
    "buyers": "No buyer ratings yet"
   }
