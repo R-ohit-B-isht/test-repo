@@ -25,13 +25,14 @@ export function WeekOverview({ steps, dates, categoryLabel, onOpen, onEdit }: Pr
     <section aria-label="Whole week">
       <p className="label">The complete schedule</p>
       <h3 className="mt-1 text-[22px] leading-tight text-display sm:text-[26px]">Your week, step by step.</h3>
+      {steps.length === 0 && <p className="mt-3 text-[14px] text-secondary">Nothing scheduled in this part of the routine yet — add a step from Today.</p>}
       <div className="mt-4 space-y-3">
         {daily.map(({ slot, list }) => list.length > 0 && (
           <Block key={slot} title={`Every ${slot === 'am' ? 'morning' : 'night'}`} count={list.length} open>
             <Rows steps={list} {...rows} onOpen={(s) => onOpen(today, s.slot)} showSlot={false} />
           </Block>
         ))}
-        {DAYS.map((day) => {
+        {steps.length > 0 && DAYS.map((day) => {
           const extras = SLOTS.flatMap((slot) => stepsFor(steps, slot, day).filter((s) => !isDaily(s)));
           const total = SLOTS.reduce((n, slot) => n + stepsFor(steps, slot, day).length, 0);
           const date = dates.find((d) => d.day === day);

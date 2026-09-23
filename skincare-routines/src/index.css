@@ -312,6 +312,8 @@
   .sched-areas { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; padding-bottom: 2px; }
   .sched-areas::-webkit-scrollbar { display: none; }
   .sched-areas .chip { flex: 0 0 auto; }
+  /* A part with no steps yet: quieter but still a real tab, so a step can be added into it. */
+  .sched-areas .sched-area-empty:not([aria-pressed="true"]) { color: var(--secondary); border-style: dashed; }
   .sched-progress { height: 6px; border-radius: 999px; background: var(--raised); overflow: hidden; }
   .sched-progress > span { display: block; height: 100%; border-radius: 999px; background: var(--accent); transition: width 240ms var(--ease-out-expo); }
   .sched-check { display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 999px; border: 1.5px solid var(--line-strong); background: var(--surface); color: transparent; transition: background 160ms var(--ease-out-expo), border-color 160ms var(--ease-out-expo), color 160ms var(--ease-out-expo); }
