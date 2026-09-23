@@ -25,13 +25,15 @@ writeFileSync(entry, [
   `export * as remind from '${join(root, 'src/schedule/reminders/store.ts')}';`,
   `export * as payload from '${join(root, 'src/schedule/reminders/payload.ts')}';`,
   `export * as ics from '${join(root, 'src/schedule/reminders/ics.ts')}';`,
+  `export * as area from '${join(root, 'src/schedule/area.ts')}';`,
+  `export { proposeRoutineSteps } from '${join(root, 'src/chat/local/tools/routine.ts')}';`,
 ].join('\n'));
 const out = join(cache, 'routine-check.mjs');
 await build({ entryPoints: [entry], bundle: true, format: 'esm', platform: 'node', outfile: out, logLevel: 'silent', define: { 'import.meta.env.BASE_URL': '"/"', 'import.meta.env.DEV': 'false' } });
 
 const mem = new Map();
 globalThis.localStorage = { getItem: (k) => mem.get(k) ?? null, setItem: (k, v) => { mem.set(k, v); }, removeItem: (k) => { mem.delete(k); } };
-const { store, order, model, stepsForContext, editRoutineSteps, readRoutine, rotation, storage, shelfFrom, owned, remind, payload, ics } = await import(pathToFileURL(out).href);
+const { store, order, model, stepsForContext, editRoutineSteps, readRoutine, rotation, storage, shelfFrom, owned, remind, payload, ics, area, proposeRoutineSteps } = await import(pathToFileURL(out).href);
 
 let fails = 0;
 const check = (ok, msg) => { if (!ok) { fails++; console.log('FAIL', msg); } };
@@ -356,6 +358,68 @@ check(!r.applied && /no longer/.test(r.reason), 'rotate: stale step refused on a
   try { await readRoutine.run({}, { store: idx, siteUrl: 'http://x', page: null }); } catch { threw = true; }
   check(threw, 'read_routine: no routine on page refused');
   check(JSON.stringify(store.snapshot().plan) === planBefore, 'read_routine: changes nothing');
+}
+// Schedule parts (Face / Body / Hair / Teeth / Other): derived at render time from category → title → zone, old steps untouched.
+{
+  const old = (id, zone, title, category) => ({ id, slot: 'am', days: DAILY, zone, title, category, product: null, note: '', origin: 'user', order: 0 });
+  const steps = [
+    old('a1', 'face', 'Cleanser', 'facewash'), old('a2', 'body', 'Body lotion', 'bodylotion'), old('a3', 'scalp', 'Shampoo', 'shampoo'),
+    old('a4', 'lengths', 'Conditioner', 'conditioner'), old('a5', 'beard', 'Beard oil', null), old('a6', 'oral', 'Brush teeth', null),
+    old('a7', 'other', 'Nail oil', null), old('a8', 'face', 'Floss', null), old('a9', 'body', 'Sunscreen', 'sunscreen'),
+  ];
+  const parts = steps.map((s) => area.areaOf(s));
+  check(parts.join() === 'face,body,hair,hair,hair,oral,other,oral,body', `areaOf per step: ${parts.join(' ')}`);
+  check(area.areaOf({ zone: 'face', title: 'Serum', category: null }) === 'face' && area.areaOf({ zone: 'body', title: 'Serum', category: null }) === 'body', 'areaOf: bare steps fall back to their zone');
+  const counts = area.areaCounts(steps);
+  check(counts.face === 1 && counts.body === 2 && counts.hair === 3 && counts.oral === 2 && counts.other === 1, `areaCounts: ${JSON.stringify(counts)}`);
+  check(area.areasPresent(steps).join() === 'face,body,hair,oral,other' && area.areasPresent(steps.slice(0, 1)).join() === 'face', 'areasPresent in tab order, only non-empty');
+  check(area.stepsInArea(steps, null).length === 9 && area.stepsInArea(steps, 'hair').map((s) => s.id).join() === 'a3,a4,a5' && area.stepsInArea(steps, 'oral').map((s) => s.id).join() === 'a6,a8', 'stepsInArea: All keeps every step, hair merges scalp/lengths/beard, title-derived teeth step joins oral');
+  check(model.isPlanZone('oral') && model.isPlanZone('other') && !model.PLANNER_ZONES.includes('oral') && model.PLANNER_ZONES.includes('face'), 'oral/other are valid zones but not planner zones');
+  const saved = JSON.stringify(steps);
+  const ctxParts = stepsForContext(steps, MONDAY);
+  check(ctxParts.find((s) => s.id === 'a8').part === 'oral' && ctxParts.find((s) => s.id === 'a5').part === 'hair' && JSON.stringify(steps) === saved, 'context carries the tab (part) per step without touching the steps');
+  const rd = await readRoutine.run({ part: 'hair' }, { store: idx, siteUrl: 'http://x', page: { routineSteps: ctxParts } });
+  check(rd.steps === 3 && rd.list.every((x) => x.part === 'hair') && rd.parts.oral === 2 && rd.parts.other === 1, `read_routine part filter + counts: ${JSON.stringify(rd.parts)}`);
+  let threw = false;
+  try { await readRoutine.run({ part: 'nails' }, { store: idx, siteUrl: 'http://x', page: { routineSteps: ctxParts } }); } catch { threw = true; }
+  check(threw, 'read_routine: unknown part refused');
+  // propose: oral / other steps allowed bare, refused with a category or product
+  const storeP = { ...idx, manifest: async () => ({ categories: [{ id: 'facewash' }, { id: 'sunscreen' }] }) };
+  let pr = await proposeRoutineSteps.run({ steps: [
+    { title: 'Brush teeth', slot: 'pm', days: DAILY, zone: 'oral', category: '', why: 'x' },
+    { title: 'Floss', slot: 'pm', days: DAILY, zone: 'oral', category: 'facewash', why: 'x' },
+    { title: 'Nail oil', slot: 'pm', days: DAILY, zone: 'other', product_id: 'p-spf', why: 'x' },
+    { title: 'Cleanse', slot: 'pm', days: DAILY, zone: 'face', category: 'facewash', why: 'x' },
+  ] }, { store: storeP, siteUrl: 'http://x', page: null });
+  check(pr.proposed === 2 && pr.steps.map((s) => s.zone).join() === 'oral,face' && pr.rejected === 2 && pr.problems.every((r) => /no ranked pages/.test(JSON.stringify(r))), `propose: oral bare ok, oral+category / other+product refused: ${JSON.stringify(pr.problems)}`);
+  // edit: move a step between zones; pinned product must be unpinned to enter oral / other
+  const s1 = store.addStep({ slot: 'pm', days: DAILY, zone: 'face', title: 'Brush teeth', category: null, product: null, note: '' });
+  const s2 = store.addStep({ slot: 'pm', days: DAILY, zone: 'face', title: 'Body SPF', category: 'sunscreen', product: stepProd('p-spf'), note: '' });
+  let er = await editRoutineSteps.run({ edits: [{ step_id: s1, op: 'move', zone: 'oral', why: 'x' }] }, ctxI());
+  check(er.edits.length === 1 && er.edits[0].after.zone === 'oral', `move to oral: ${reason(er)}`);
+  store.receiveEdits(er, 'z1');
+  let ar = store.acceptProposal(pending()[0].id);
+  const moved = store.snapshot().plan.steps.find((x) => x.id === s1);
+  check(ar.applied && moved.zone === 'oral' && moved.category === null && area.areaOf(moved) === 'oral', 'move to oral applied: zone oral, no category');
+  er = await editRoutineSteps.run({ edits: [{ step_id: s1, op: 'move', zone: 'oral', why: 'x' }] }, ctxI());
+  check(!er.edits.length && /already in the oral/.test(reason(er)), 'move to the same zone refused');
+  er = await editRoutineSteps.run({ edits: [{ step_id: s2, op: 'move', zone: 'other', why: 'x' }] }, ctxI());
+  check(!er.edits.length && /product_id 'none'/.test(reason(er)), 'pinned product blocks a move to other unless unpinned');
+  er = await editRoutineSteps.run({ edits: [{ step_id: s2, op: 'update', zone: 'other', product_id: 'none', why: 'x' }] }, ctxI());
+  check(er.edits.length === 1 && er.edits[0].after.zone === 'other' && er.edits[0].after.product === null && er.edits[0].after.category === null, `unpin + move to other in one edit: ${reason(er)}`);
+  store.receiveEdits(er, 'z2');
+  ar = store.acceptProposal(pending()[0].id);
+  const other = store.snapshot().plan.steps.find((x) => x.id === s2);
+  check(ar.applied && other.zone === 'other' && other.product === null && other.category === null && other.days.length === 7, 'unpin + move applied; days intact');
+  er = await editRoutineSteps.run({ edits: [{ step_id: s2, op: 'move', zone: 'body', why: 'x' }] }, ctxI());
+  store.receiveEdits(er, 'z3');
+  ar = store.acceptProposal(pending()[0].id);
+  check(ar.applied && store.snapshot().plan.steps.find((x) => x.id === s2).zone === 'body', 'move back to a ranked zone');
+  er = await editRoutineSteps.run({ edits: [{ step_id: s2, op: 'update', note: 'thin', why: 'x' }] }, ctxI());
+  check(er.edits.length === 1 && !('zone' in er.edits[0].after) && !('category' in er.edits[0].after), 'update without zone leaves zone and category alone');
+  er = await editRoutineSteps.run({ edits: [{ step_id: s2, op: 'move', zone: 'nails', why: 'x' }] }, ctxI());
+  check(!er.edits.length && /zone must be one of/.test(reason(er)), 'unknown zone refused');
+  store.removeStep(s1); store.removeStep(s2);
 }
 const persistedEdits = JSON.parse(mem.get('ledger.routine.v1')).proposals.filter((x) => x.edit && ['owned', 'rotate', 'stop_rotation'].includes(x.edit.op));
 check(persistedEdits.length >= 6 && persistedEdits.some((x) => x.edit.op === 'owned' && x.edit.owned.productId === 'p-spf') && persistedEdits.some((x) => x.edit.op === 'stop_rotation' && x.edit.before.rotation), 'owned / rotate / stop proposals survive storage with their before state');

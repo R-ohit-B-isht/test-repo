@@ -5,7 +5,7 @@ before/after diffs; nothing is changed by this call."""
 from __future__ import annotations
 
 from .base import Tool, ToolContext, ToolError
-from .routine import SLOTS, parse_days
+from .routine import NO_PAGE_ZONES, SLOTS, ZONES, parse_days
 
 OPS = ("replace", "move", "update", "remove", "reorder", "rotate", "stop_rotation", "owned")
 MAX_EDITS = 16
@@ -148,13 +148,13 @@ class EditRoutineSteps(Tool):
     surface = True
     description = (
         "Change steps that are ALREADY in the user's saved routine (listed in the page context with their step ids). Use it when "
-        "the user asks to swap a product, move a step to other days or the other slot, change the order steps are applied in, rename it, change its note, remove it, "
+        "the user asks to swap a product, move a step to other days, the other slot or another zone (face / body / scalp / lengths / beard / oral / other — the routine page groups these as Face · Body · Hair · Teeth · Other tabs), change the order steps are applied in, rename it, change its note, remove it, "
         "rotate products on it week by week, or note that they have / do not have a product. "
         "op 'replace' needs product_id (a listing id from get_top_products / search_products in this conversation — never "
-        "invented) or the word 'none' to unpin the listing and keep the step; 'move' needs days and/or slot; 'reorder' needs "
+        "invented) or the word 'none' to unpin the listing and keep the step; 'move' needs days and/or slot and/or zone (moving to oral / other, which have no ranked pages, needs product_id 'none' alongside when a listing is pinned); 'reorder' needs "
         "position — the 1-based place within the step's AM or PM slot (the context shows each step's current #position; usual "
         "order is cleanse → exfoliant → toner → essence → serums → eye → moisturiser → oil → sunscreen last in the morning); 'update' takes any "
-        "of title, note, days, slot, position, product_id; 'remove' deletes the step and needs nothing else. To re-sequence a whole "
+        "of title, note, days, slot, zone, position, product_id; 'remove' deletes the step and needs nothing else. To re-sequence a whole "
         "slot, send one reorder per step in ascending position order (1, 2, 3…). "
         f"'rotate' sets a WEEKLY cycle on one step (one option per calendar week, Mon–Sun, then back to option 1): options = the whole cycle in week order, 2 to {MAX_OPTIONS} strings, each 'Title = product_id' ('current' = the product the step has this week, 'none' = no product, e.g. 'Azelaic acid = current', 'Retinol = minimalist-itm…'); active = which option (1-based) is on THIS week (default 1). "
         "To only change which option is on this week of an existing rotation, send 'rotate' with just active. 'stop_rotation' ends the cycle and keeps one option as the step (active = which, default 1). "
@@ -177,6 +177,7 @@ class EditRoutineSteps(Tool):
                             "product_id": {"type": "string", "nullable": True, "description": "Listing id from a tool result in this conversation, or 'none' to unpin the product (for 'replace' / 'update')"},
                             "days": {"type": "string", "nullable": True, "description": "Comma-separated weekdays from mon,tue,wed,thu,fri,sat,sun or 'daily' (for 'move' / 'update')"},
                             "slot": {"type": "string", "nullable": True, "enum": list(SLOTS), "description": "am or pm (for 'move' / 'update')"},
+                            "zone": {"type": "string", "nullable": True, "enum": list(ZONES), "description": "Where the step goes: face, body, scalp, lengths, beard, oral (teeth & mouth), other (for 'move' / 'update')"},
                             "position": {"type": "integer", "nullable": True, "description": "1-based place within the slot the step ends up in — 1 goes on first, the slot's step count goes on last (for 'reorder' / 'move' / 'update')"},
                             "title": {"type": "string", "nullable": True, "description": "New short step name (for 'update')"},
                             "note": {"type": "string", "nullable": True, "description": "New note shown under the step (for 'update')"},
@@ -260,12 +261,13 @@ class EditRoutineSteps(Tool):
                         after["rotation"] = {"active": active}
             elif target is not None and op in OPS and op != "remove":
                 product_id, days_raw, slot, title = _s(e.get("product_id")), _s(e.get("days")), _s(e.get("slot")), _s(e.get("title"))
+                zone = _s(e.get("zone"))
                 note = e.get("note").strip() if isinstance(e.get("note"), str) else None
                 if op == "replace" and not product_id:
                     problems.append("'replace' needs product_id")
                 has_position = e.get("position") not in (None, "")
-                if op == "move" and not days_raw and not slot:
-                    problems.append("'move' needs days and/or slot")
+                if op == "move" and not days_raw and not slot and not zone:
+                    problems.append("'move' needs days and/or slot and/or zone")
                 if op == "reorder" and not has_position:
                     problems.append("'reorder' needs position")
                 if product_id and product_id.lower() == "none":
@@ -299,6 +301,21 @@ class EditRoutineSteps(Tool):
                         problems.append(f"slot must be am or pm (got '{slot}')")
                     else:
                         after["slot"] = slot
+                if zone:
+                    product = after["product"] if "product" in after else target.get("product")
+                    current = target.get("product") if isinstance(target.get("product"), dict) else {}
+                    if zone not in ZONES:
+                        problems.append(f"zone must be one of {'/'.join(ZONES)} (got '{zone}')")
+                    elif zone == target.get("zone"):
+                        problems.append(f"this step is already in the {zone} zone")
+                    elif zone in NO_PAGE_ZONES and product:
+                        problems.append(f"zone '{zone}' has no ranked pages on this site — send product_id 'none' in the same edit to unpin {current.get('brand', '')} {current.get('title', 'the listing')}, or keep the step where it is")
+                    elif zone in NO_PAGE_ZONES and target.get("rotation"):
+                        problems.append(f"zone '{zone}' has no ranked pages on this site — stop the rotation on this step first")
+                    else:
+                        after["zone"] = zone
+                        if zone in NO_PAGE_ZONES:
+                            after["category"] = None
                 if title:
                     after["title"] = title
                 if note:

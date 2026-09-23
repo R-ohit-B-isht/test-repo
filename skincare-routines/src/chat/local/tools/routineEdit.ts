@@ -8,7 +8,7 @@ import type { RoutineStepContext } from '../../types';
 import { MAX_ALTERNATIVES } from '../../../schedule/rotation';
 import type { Hit, SearchIndex } from '../search';
 import { productUrl, str, ToolError, type Json, type Tool, type ToolContext } from './base';
-import { parseDays } from './routine';
+import { parseDays, ZONES, NO_PAGE_ZONES } from './routine';
 
 const SLOTS = ['am', 'pm'];
 const OPS = ['replace', 'move', 'update', 'remove', 'reorder', 'rotate', 'stop_rotation', 'owned'];
@@ -100,13 +100,13 @@ export const editRoutineSteps: Tool = {
   surface: true,
   description:
     "Change steps that are ALREADY in the user's saved routine (listed in the page context with their step ids). Use it when "
-    + 'the user asks to swap a product, move a step to other days or the other slot, change the order steps are applied in, rename it, change its note, remove it, '
+    + 'the user asks to swap a product, move a step to other days, the other slot or another zone (face / body / scalp / lengths / beard / oral / other — the routine page groups these as Face · Body · Hair · Teeth · Other tabs), change the order steps are applied in, rename it, change its note, remove it, '
     + 'rotate products on it week by week, or note that they have / do not have a product. '
     + "op 'replace' needs product_id (a listing id from get_top_products / search_products in this conversation — never "
-    + "invented) or the word 'none' to unpin the listing and keep the step; 'move' needs days and/or slot; 'reorder' needs "
+    + "invented) or the word 'none' to unpin the listing and keep the step; 'move' needs days and/or slot and/or zone (moving to oral / other, which have no ranked pages, needs product_id 'none' alongside when a listing is pinned); 'reorder' needs "
     + "position — the 1-based place within the step's AM or PM slot (the context shows each step's current #position; usual "
     + "order is cleanse → exfoliant → toner → essence → serums → eye → moisturiser → oil → sunscreen last in the morning); 'update' takes any "
-    + "of title, note, days, slot, position, product_id; 'remove' deletes the step and needs nothing else. To re-sequence a whole "
+    + "of title, note, days, slot, zone, position, product_id; 'remove' deletes the step and needs nothing else. To re-sequence a whole "
     + 'slot, send one reorder per step in ascending position order (1, 2, 3…). '
     + `'rotate' sets a WEEKLY cycle on one step (one option per calendar week, Mon–Sun, then back to option 1): options = the whole cycle in week order, 2 to ${MAX_OPTIONS} strings, each 'Title = product_id' ('current' = the product the step has this week, 'none' = no product, e.g. 'Azelaic acid = current', 'Retinol = minimalist-itm…'); active = which option (1-based) is on THIS week (default 1). `
     + "To only change which option is on this week of an existing rotation, send 'rotate' with just active. 'stop_rotation' ends the cycle and keeps one option as the step (active = which, default 1). "
@@ -126,6 +126,7 @@ export const editRoutineSteps: Tool = {
             product_id: { type: 'string', nullable: true, description: "Listing id from a tool result in this conversation, or 'none' to unpin the product (for 'replace' / 'update')" },
             days: { type: 'string', nullable: true, description: "Comma-separated weekdays from mon,tue,wed,thu,fri,sat,sun or 'daily' (for 'move' / 'update')" },
             slot: { type: 'string', nullable: true, enum: SLOTS, description: "am or pm (for 'move' / 'update')" },
+            zone: { type: 'string', nullable: true, enum: ZONES, description: "Where the step goes: face, body, scalp, lengths, beard, oral (teeth & mouth), other (for 'move' / 'update')" },
             position: { type: 'integer', nullable: true, description: "1-based place within the slot the step ends up in — 1 goes on first, the slot's step count goes on last (for 'reorder' / 'move' / 'update')" },
             title: { type: 'string', nullable: true, description: "New short step name (for 'update')" },
             note: { type: 'string', nullable: true, description: "New note shown under the step (for 'update')" },
@@ -189,11 +190,12 @@ export const editRoutineSteps: Tool = {
         const productId = str(e.product_id);
         const daysRaw = str(e.days);
         const slot = str(e.slot);
+        const zone = str(e.zone);
         const title = str(e.title);
         const note = typeof e.note === 'string' ? e.note.trim() : null;
         const hasPosition = e.position !== undefined && e.position !== null && e.position !== '';
         if (op === 'replace' && !productId) problems.push("'replace' needs product_id");
-        if (op === 'move' && !daysRaw && !slot) problems.push("'move' needs days and/or slot");
+        if (op === 'move' && !daysRaw && !slot && !zone) problems.push("'move' needs days and/or slot and/or zone");
         if (op === 'reorder' && !hasPosition) problems.push("'reorder' needs position");
         if (productId && productId.toLowerCase() === 'none') {
           if (!target.product) problems.push('this step has no product to unpin');
@@ -218,6 +220,14 @@ export const editRoutineSteps: Tool = {
         if (slot) {
           if (!SLOTS.includes(slot)) problems.push(`slot must be am or pm (got '${slot}')`);
           else after.slot = slot;
+        }
+        if (zone) {
+          const product = 'product' in after ? after.product : target.product;
+          if (!ZONES.includes(zone)) problems.push(`zone must be one of ${ZONES.join('/')} (got '${zone}')`);
+          else if (zone === target.zone) problems.push(`this step is already in the ${zone} zone`);
+          else if (NO_PAGE_ZONES.includes(zone) && product) problems.push(`zone '${zone}' has no ranked pages on this site — send product_id 'none' in the same edit to unpin ${target.product?.brand ?? ''} ${target.product?.title ?? 'the listing'}, or keep the step where it is`);
+          else if (NO_PAGE_ZONES.includes(zone) && target.rotation) problems.push(`zone '${zone}' has no ranked pages on this site — stop the rotation on this step first`);
+          else { after.zone = zone; if (NO_PAGE_ZONES.includes(zone)) after.category = null; }
         }
         if (title) after.title = title;
         if (note !== null && note !== '') after.note = note;

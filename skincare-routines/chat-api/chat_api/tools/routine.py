@@ -9,7 +9,9 @@ from .base import Tool, ToolContext, ToolError, category_ids
 
 SLOTS = ("am", "pm")
 DAYS = ("mon", "tue", "wed", "thu", "fri", "sat", "sun")
-ZONES = ("face", "body", "scalp", "lengths", "beard")
+ZONES = ("face", "body", "scalp", "lengths", "beard", "oral", "other")
+# Zones the site ranks nothing for: steps there carry no category or listing, only a name, days and note.
+NO_PAGE_ZONES = ("oral", "other")
 MAX_STEPS = 16
 
 
@@ -37,7 +39,9 @@ class ProposeRoutineSteps(Tool):
         "listing id taken from get_top_products / search_products results in this conversation. Every product id is checked "
         "against the dataset: unknown ids are rejected and reported back. Proposals are shown to the user as pending "
         "suggestions they accept, edit or reject — nothing is added to their routine by this call. Call it once with the full "
-        "set of steps rather than once per step."
+        "set of steps rather than once per step. Zones: face, body, scalp / lengths / beard (hair), oral (teeth & mouth) and other — "
+        "the page groups them as Face · Body · Hair · Teeth · Other tabs. The site ranks no oral-care or 'other' products, so steps "
+        "in those zones (e.g. 'Brush teeth', 'Floss') take category '' and no product_id."
     )
 
     def parameters(self, manifest: dict) -> dict:
@@ -52,8 +56,8 @@ class ProposeRoutineSteps(Tool):
                             "title": {"type": "string", "description": "Short step name, e.g. 'Cleanse', 'Retinol', 'Moisturise', 'Scalp serum'"},
                             "slot": {"type": "string", "enum": list(SLOTS), "description": "am = morning, pm = night"},
                             "days": {"type": "string", "description": "Comma-separated weekdays this step applies to, from mon,tue,wed,thu,fri,sat,sun — or 'daily' for every day; e.g. 'mon,wed,fri' for alternate-night actives"},
-                            "zone": {"type": "string", "enum": list(ZONES)},
-                            "category": {"type": "string", "description": "Site category id exactly as returned by list_categories / get_top_products (one of: " + ", ".join(category_ids(manifest)) + ")"},
+                            "zone": {"type": "string", "enum": list(ZONES), "description": "face, body, scalp, lengths, beard, oral (teeth & mouth) or other"},
+                            "category": {"type": "string", "description": "Site category id exactly as returned by list_categories / get_top_products (one of: " + ", ".join(category_ids(manifest)) + "); '' for oral / other steps, which have no ranked page"},
                             "product_id": {"type": "string", "nullable": True, "description": "Listing id from a tool result in this conversation, or null when the user should pick a product later"},
                             "why": {"type": "string", "description": "One sentence: why this step / this pick, plain words, no marketing"},
                         },
@@ -89,6 +93,8 @@ class ProposeRoutineSteps(Tool):
             if category and category not in known:
                 problems.append(f"unknown category '{category}'")
             product_id = _s(s.get("product_id")) or None
+            if zone in NO_PAGE_ZONES and (category or product_id):
+                problems.append(f"zone '{zone}' has no ranked pages on this site — leave category and product_id empty for it")
             product: dict | None = None
             if product_id and not problems:
                 hit = ctx.store.index.get(product_id, category)

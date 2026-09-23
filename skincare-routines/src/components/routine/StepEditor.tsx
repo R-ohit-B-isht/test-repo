@@ -4,7 +4,7 @@ import { Sheet } from '../ui/Sheet';
 import { ListingPicker } from './ListingPicker';
 import { RotationEditor } from './RotationEditor';
 import type { CategoryMeta } from '../../lib/types';
-import { zoneMatches, type StepDraft } from '../../schedule/draft';
+import { hasRankedPages, zoneMatches, type StepDraft } from '../../schedule/draft';
 import { baseVariant } from '../../schedule/rotation';
 import { DAYS, DAY_LABEL, PLAN_ZONES, SLOTS, SLOT_LABEL, ZONE_LABEL, type Day } from '../../schedule/model';
 
@@ -62,6 +62,7 @@ function StepForm({ initial, categories, categoryLabel, onSubmit }: Pick<Props, 
     onSubmit({ ...draft, title: draft.title.trim(), note: draft.note.trim(), rotation });
   };
   const options = categories.filter((c) => zoneMatches(c, draft.zone) || c.id === draft.category);
+  const ranked = hasRankedPages(draft.zone);
   return (
     <form id={FORM_ID} className="space-y-6" onSubmit={(e) => { e.preventDefault(); submit(); }} noValidate>
         <Field label="Step" error={titleError}>
@@ -98,22 +99,27 @@ function StepForm({ initial, categories, categoryLabel, onSubmit }: Pick<Props, 
           <div className="flex flex-wrap gap-1.5" role="radiogroup" aria-label="Zone">
             {PLAN_ZONES.map((z) => (
               <button key={z} type="button" role="radio" aria-checked={draft.zone === z} aria-pressed={draft.zone === z} className="chip h-9"
-                onClick={() => patch({ zone: z, category: draft.category && categories.some((c) => c.id === draft.category && zoneMatches(c, z)) ? draft.category : null })}>
+                onClick={() => {
+                  const keep = draft.category && categories.some((c) => c.id === draft.category && zoneMatches(c, z));
+                  patch({ zone: z, category: keep ? draft.category : null, product: hasRankedPages(z) ? draft.product : null });
+                }}>
                 {ZONE_LABEL[z]}
               </button>
             ))}
           </div>
         </Field>
-        <Field label="Product category" hint="Optional — links the step to a ranked page on this site.">
-          <select id="step-category" className="field w-full" value={draft.category ?? ''} onChange={(e) => patch({ category: e.target.value || null, product: draft.product && draft.product.category === e.target.value ? draft.product : null })}>
+        <Field label="Product category" hint={options.length ? 'Optional — links the step to a ranked page on this site.' : `No ranked page on this site covers ${ZONE_LABEL[draft.zone].toLowerCase()} — the step keeps its name, days and note only.`}>
+          <select id="step-category" className="field w-full" value={draft.category ?? ''} disabled={!options.length} onChange={(e) => patch({ category: e.target.value || null, product: draft.product && draft.product.category === e.target.value ? draft.product : null })}>
             <option value="">None</option>
             {options.map((c) => <option key={c.id} value={c.id}>{c.label}</option>)}
           </select>
         </Field>
-        <Field label="Product" hint={draft.product ? 'Rank, score and evidence exactly as the site shows them.' : undefined}>
-          <ListingPicker product={draft.product} category={draft.category} categoryLabel={categoryLabel}
-            onChange={(product) => patch({ product, category: product ? product.category : draft.category })} />
-        </Field>
+        {ranked && (
+          <Field label="Product" hint={draft.product ? 'Rank, score and evidence exactly as the site shows them.' : undefined}>
+            <ListingPicker product={draft.product} category={draft.category} categoryLabel={categoryLabel}
+              onChange={(product) => patch({ product, category: product ? product.category : draft.category })} />
+          </Field>
+        )}
         <Field label="Weekly rotation" hint={draft.rotation ? undefined : 'Alternate this step with other products week by week — e.g. azelaic this week, retinol next — instead of using them together.'}>
           <RotationEditor base={baseVariant(draft)} rotation={draft.rotation} categoryLabel={categoryLabel} invalid={touched ? unnamed : undefined}
             onChange={(rotation) => patch({ rotation })} />

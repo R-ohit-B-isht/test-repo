@@ -19,7 +19,7 @@ import { blankStep, type StepDraft } from '../schedule/draft';
 import { toast } from '../state/toastStore';
 import { usePagePublish } from '../chat/pageContext';
 import { useDevPublish } from '../components/dev/devStore';
-import { EDIT_VERB, planAsText, positionOf, SLOT_LABEL, type Proposal, type Slot, type Step } from '../schedule/model';
+import { EDIT_VERB, planAsText, positionOf, SLOT_LABEL, type PlanZone, type Proposal, type Slot, type Step } from '../schedule/model';
 import {
   acceptAllPending, acceptProposal, addStep, clearDecided, clearPlan, dismissFill, moveStep, registerCategoryLabels,
   rejectAllPending, rejectProposal, removeStep, sortSlot, updateSetup, updateStep, useSchedule,
@@ -31,7 +31,7 @@ import {
 import { DEV_EXAMPLE_INVENTORY } from '../schedule/planner/devExample';
 
 type Editor =
-  | { kind: 'add'; slot: Slot }
+  | { kind: 'add'; slot: Slot; zone: PlanZone | null }
   | { kind: 'edit'; step: Step }
   | { kind: 'proposal'; proposal: Proposal }
   | null;
@@ -134,7 +134,7 @@ export default function RoutinePage() {
     const n = proposeSteps(ids);
     if (n) toast(`${n} step${n === 1 ? '' : 's'} sent to your routine as pending`);
   };
-  const initial: StepDraft = editor?.kind === 'add' ? blankStep(editor.slot, plan.setup.zones[0] ?? 'face')
+  const initial: StepDraft = editor?.kind === 'add' ? blankStep(editor.slot, editor.zone ?? plan.setup.zones[0] ?? 'face')
     : editor?.kind === 'edit' ? { slot: editor.step.slot, days: editor.step.days, zone: editor.step.zone, title: editor.step.title, category: editor.step.category, product: editor.step.product, note: editor.step.note, rotation: editor.step.rotation }
     : editor?.kind === 'proposal' ? { ...editor.proposal.step, note: editor.proposal.step.note || editor.proposal.why }
     : blankStep('am', 'face');
@@ -192,7 +192,7 @@ export default function RoutinePage() {
             onAcceptReminder={acceptReminder} onRejectReminder={rejectReminderProposal}
             onRetry={() => setView('inventory')} onDismiss={dismissFill} />
           <ScheduleView key={`${initialSlot ?? ''}/${initialTab ?? ''}`} steps={plan.steps} categoryLabel={categoryLabel} initialSlot={initialSlot} initialView={initialTab}
-            onAdd={(slot) => setEditor({ kind: 'add', slot })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}
+            onAdd={(slot, zone) => setEditor({ kind: 'add', slot, zone })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}
             onEdit={(step) => setEditor({ kind: 'edit', step })} onRemove={(id) => { removeStep(id); toast('Step removed'); }} onMove={moveStep}
             onSort={(slot) => { sortSlot(slot); toast(`${SLOT_LABEL[slot]} steps sorted by application order`); }} />
           {(plan.steps.length > 0 || plan.proposals.length > 0) && (

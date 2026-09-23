@@ -7,6 +7,8 @@ from .base import Tool, ToolContext, ToolError
 
 READ_TOOL = "read_routine"
 SLOTS = ("am", "pm")
+# The My routine tabs a step can sit under (twin of the Area type in src/schedule/model.ts).
+PARTS = ("face", "body", "hair", "oral", "other")
 
 
 def _step(s: dict) -> dict:
@@ -24,7 +26,7 @@ def _step(s: dict) -> dict:
             ],
         }
     return {
-        "id": s.get("id"), "slot": s.get("slot"), "position": s.get("position"), "days": s.get("days"), "zone": s.get("zone"),
+        "id": s.get("id"), "slot": s.get("slot"), "position": s.get("position"), "days": s.get("days"), "zone": s.get("zone"), "part": s.get("part"),
         "title": s.get("title"), "category": s.get("category"), "product": s.get("product"), "with_me": s.get("withMe"),
         "note": s.get("note") or None, "rotation": rot,
     }
@@ -33,7 +35,7 @@ def _step(s: dict) -> dict:
 class ReadRoutine(Tool):
     name = READ_TOOL
     description = (
-        "Read the user's saved routine on this device: every step (id, AM/PM, days, zone, product), which products are "
+        "Read the user's saved routine on this device: every step (id, AM/PM, days, zone, part = the Face / Body / Hair / Teeth (oral) / Other tab it shows under, product), which products are "
         'marked "not with me" on the shelf, each weekly rotation with all its options and this week\'s / next week\'s one, and the '
         "morning / night reminder settings. Read-only. Use it to answer questions about the routine, shelf, rotations or reminders "
         "and before proposing changes to them; it changes nothing."
@@ -42,7 +44,10 @@ class ReadRoutine(Tool):
     def parameters(self, manifest: dict) -> dict:
         return {
             "type": "object",
-            "properties": {"slot": {"type": "string", "nullable": True, "description": "am or pm to read one slot; omit for the whole routine"}},
+            "properties": {
+                "slot": {"type": "string", "nullable": True, "description": "am or pm to read one slot; omit for the whole routine"},
+                "part": {"type": "string", "nullable": True, "enum": list(PARTS), "description": "face, body, hair, oral (teeth & mouth) or other to read one tab of the routine; omit for all"},
+            },
         }
 
     async def run(self, args: dict, ctx: ToolContext) -> dict:
@@ -53,7 +58,11 @@ class ReadRoutine(Tool):
         slot = raw_slot.strip().lower() if isinstance(raw_slot, str) and raw_slot.strip() else None
         if slot and slot not in SLOTS:
             raise ToolError(f"slot must be am or pm, not '{slot}'")
-        shown = [s for s in steps if isinstance(s, dict) and (not slot or s.get("slot") == slot)]
+        raw_part = args.get("part")
+        part = raw_part.strip().lower() if isinstance(raw_part, str) and raw_part.strip() else None
+        if part and part not in PARTS:
+            raise ToolError(f"part must be one of {'/'.join(PARTS)}, not '{part}'")
+        shown = [s for s in steps if isinstance(s, dict) and (not slot or s.get("slot") == slot) and (not part or s.get("part") == part)]
         not_with_me = [
             {"step_id": s.get("id"), "title": s.get("title"), "product": s.get("product")}
             for s in shown if s.get("withMe") is False and s.get("product")
@@ -67,8 +76,9 @@ class ReadRoutine(Tool):
             "not_with_me": not_with_me,
             "rotating": [s.get("id") for s in shown if isinstance(s.get("rotation"), dict)],
             "reminders": {"am": dict(reminders["am"]), "pm": dict(reminders["pm"])} if have_rem else None,
+            "parts": {p: c for p in PARTS if (c := sum(1 for s in steps if isinstance(s, dict) and s.get("part") == p))},
             "note": (
-                f"{n} step{'' if n == 1 else 's'}{f' in {slot.upper()}' if slot else ''}; {len(not_with_me)} not with the user; "
+                f"{n} step{'' if n == 1 else 's'}{f' in {slot.upper()}' if slot else ''}{f' on the {part} tab' if part else ''}; {len(not_with_me)} not with the user; "
                 "a rotating step uses exactly one option per Mon–Sun week (rotation.active), never several together. "
                 "Change steps/shelf/rotations with edit_routine_steps and reminders with set_reminders — both only propose."
             ),

@@ -419,3 +419,52 @@ async def test_read_routine_is_exact_and_read_only(ctx: ToolContext):
     none, _ = await reg.execute("read_routine", {}, ToolContext(store=ctx.store, site_url=ctx.site_url, page={}))
     assert "not available" in none["error"]
     assert json.dumps(page, sort_keys=True) == before
+
+
+async def test_routine_parts_teeth_and_other_steps(ctx: ToolContext):
+    """Oral / other zones: proposable bare, never with a ranked category or listing; steps can move between zones (TS twin
+    in scripts/routine-check.mjs)."""
+    reg = ToolRegistry()
+    daily = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+    top, _ = await reg.execute("get_top_products", {"category": "kp", "limit": 1}, ctx)
+    real = top["results"][0]
+    result, _ = await reg.execute("propose_routine_steps", {"steps": [
+        {"title": "Brush teeth", "slot": "pm", "days": daily, "zone": "oral", "category": "", "why": "x"},
+        {"title": "Floss", "slot": "pm", "days": daily, "zone": "oral", "category": "kp", "why": "x"},
+        {"title": "Nail oil", "slot": "pm", "days": daily, "zone": "other", "product_id": real["id"], "why": "x"},
+        {"title": "KP lotion", "slot": "pm", "days": daily, "zone": "body", "category": "kp", "product_id": real["id"], "why": "x"},
+    ]}, ctx)
+    assert result["proposed"] == 2 and result["rejected"] == 2
+    assert [s["zone"] for s in result["steps"]] == ["oral", "body"] and result["steps"][0]["category"] is None and result["steps"][0]["product"] is None
+    assert all("no ranked pages" in " ".join(p["reasons"]) for p in result["problems"])
+
+    pin = {"id": real["id"], "category": "kp", "brand": real["brand"], "title": real["title"], "rank": real["rank"]}
+    page = {"routineSteps": [
+        {"id": "t1", "title": "Brush teeth", "slot": "pm", "position": 1, "days": daily, "zone": "face", "part": "oral", "category": None, "note": "", "product": None, "withMe": None, "rotation": None},
+        {"id": "t2", "title": "KP lotion", "slot": "pm", "position": 2, "days": daily, "zone": "body", "part": "body", "category": "kp", "note": "", "product": pin, "withMe": True, "rotation": None},
+        {"id": "t3", "title": "Shampoo", "slot": "am", "position": 1, "days": daily, "zone": "scalp", "part": "hair", "category": None, "note": "", "product": None, "withMe": None, "rotation": None},
+    ]}
+    ctx2 = ToolContext(store=ctx.store, site_url=ctx.site_url, page=page)
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "t1", "op": "move", "zone": "oral", "why": "teeth tab"},
+        {"step_id": "t2", "op": "move", "zone": "other", "why": "pinned listing blocks"},
+        {"step_id": "t3", "op": "move", "zone": "scalp", "why": "same zone"},
+        {"step_id": "t3", "op": "move", "zone": "nails", "why": "unknown"},
+        {"step_id": "t3", "op": "move", "why": "nothing to move"},
+    ]}, ctx2)
+    assert result["edited"] == 1 and result["rejected"] == 4
+    assert result["edits"][0]["after"] == {"zone": "oral", "category": None}
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "product_id 'none'" in reasons and "already in the scalp zone" in reasons and "zone must be one of" in reasons and "needs days and/or slot and/or zone" in reasons
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "t2", "op": "update", "zone": "other", "product_id": "none", "why": "unpin and move"},
+        {"step_id": "t3", "op": "move", "zone": "lengths", "why": "still hair"},
+    ]}, ctx2)
+    assert result["edited"] == 2
+    assert result["edits"][0]["after"]["zone"] == "other" and result["edits"][0]["after"]["product"] is None and result["edits"][0]["after"]["category"] is None
+    assert result["edits"][1]["after"] == {"zone": "lengths"}
+
+    out, _ = await reg.execute("read_routine", {"part": "oral"}, ctx2)
+    assert out["steps"] == 1 and out["list"][0]["id"] == "t1" and out["list"][0]["part"] == "oral" and out["parts"] == {"body": 1, "hair": 1, "oral": 1}
+    bad, _ = await reg.execute("read_routine", {"part": "nails"}, ctx2)
+    assert "part must be one of" in bad["error"]

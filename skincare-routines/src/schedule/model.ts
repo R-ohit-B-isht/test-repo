@@ -9,9 +9,20 @@ export const SLOTS = ['am', 'pm'] as const;
 export type Slot = (typeof SLOTS)[number];
 export const SLOT_LABEL: Record<Slot, string> = { am: 'Morning', pm: 'Night' };
 
-export const PLAN_ZONES = ['face', 'body', 'scalp', 'lengths', 'beard'] as const;
+/** Where a step goes. The first five are what the planner can fill from ranked pages; `oral` and `other` exist for steps the
+ * site has no pages for (brushing, flossing, nails…) so they still get their own place in the schedule. */
+export const PLAN_ZONES = ['face', 'body', 'scalp', 'lengths', 'beard', 'oral', 'other'] as const;
 export type PlanZone = (typeof PLAN_ZONES)[number];
-export const ZONE_LABEL: Record<PlanZone, string> = { face: 'Face', body: 'Body', scalp: 'Scalp', lengths: 'Hair lengths', beard: 'Beard' };
+export const ZONE_LABEL: Record<PlanZone, string> = { face: 'Face', body: 'Body', scalp: 'Scalp', lengths: 'Hair lengths', beard: 'Beard', oral: 'Teeth & mouth', other: 'Other' };
+/** Zones the planner and Setup offer — the ones with ranked pages behind them. */
+export const PLANNER_ZONES: readonly PlanZone[] = ['face', 'body', 'scalp', 'lengths', 'beard'];
+
+/** The tabs the schedule is split by: zones grouped into body areas (scalp / lengths / beard → hair). */
+export const AREAS = ['face', 'body', 'hair', 'oral', 'other'] as const;
+export type Area = (typeof AREAS)[number];
+export const AREA_LABEL: Record<Area, string> = { face: 'Face', body: 'Body', hair: 'Hair', oral: 'Teeth', other: 'Other' };
+export const AREA_OF_ZONE: Record<PlanZone, Area> = { face: 'face', body: 'body', scalp: 'hair', lengths: 'hair', beard: 'hair', oral: 'oral', other: 'other' };
+export const isArea = (v: unknown): v is Area => typeof v === 'string' && (AREAS as readonly string[]).includes(v);
 
 export const SKIN_TYPES = ['oily', 'combination', 'normal', 'dry', 'sensitive'] as const;
 export type SkinType = (typeof SKIN_TYPES)[number];

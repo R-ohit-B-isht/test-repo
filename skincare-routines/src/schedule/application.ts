@@ -6,7 +6,8 @@ import type { PlanZone, Step } from './model';
 export type ApplicationArea =
   | 'face' | 'face-neck' | 'face-neck-ears' | 'spots' | 'eye-contour' | 'lips'
   | 'body' | 'underarms' | 'feet'
-  | 'scalp' | 'lengths' | 'beard';
+  | 'scalp' | 'lengths' | 'beard'
+  | 'mouth' | 'other';
 
 export interface ApplicationGuide {
   area: ApplicationArea;
@@ -57,6 +58,8 @@ const SCALP: Rule = { area: 'scalp', label: 'Scalp', apply: 'The scalp and roots
 const LENGTHS: Rule = { area: 'lengths', label: 'Mid-lengths to ends', apply: 'Mid-lengths and ends, kept away from the roots.', avoid: 'Not on the scalp unless the label says so — it weighs roots down.', method: 'Work through damp or dry hair as the label directs; less near the roots.', basis: GENERAL, source: null, excludeNoseCorners: false };
 const HEAT: Rule = { ...LENGTHS, label: 'Lengths · before heat', apply: 'Mist or comb evenly through damp lengths and ends before drying or styling.', method: 'Section the hair so every strand gets a light, even coat; let it distribute before heat.' };
 const BEARD: Rule = { area: 'beard', label: 'Beard & the skin beneath', apply: 'Beard hair and the skin under it, jaw to neck.', avoid: 'Keep off the lips and out of the eyes.', method: 'Work through with fingers or a comb; oils and balms go on after washing, on towel-dry hair.', basis: GENERAL, source: null, excludeNoseCorners: false };
+const MOUTH: Rule = { area: 'mouth', label: 'Teeth & mouth', apply: 'Teeth, gums and tongue as the product directs.', avoid: 'Not for skin. Do not swallow unless the label says it is safe to.', method: 'Follow the label for amount, contact time and rinsing.', basis: 'This site ranks no oral-care products, so nothing about this step is verified here — it only keeps its place in the schedule.', source: null, excludeNoseCorners: false };
+const OTHER: Rule = { area: 'other', label: 'As the label directs', apply: 'Wherever the label names.', avoid: 'Anywhere the label excludes.', method: 'Follow the label.', basis: 'No ranked page covers this kind of step, so no placement guidance is offered.', source: null, excludeNoseCorners: false };
 const SHAVE: Rule = { ...BEARD, label: 'Beard area · jaw & neck', apply: 'The area being shaved — cheeks, jaw and neck.', avoid: 'Keep off the lips and eyes; aftershave stays off broken skin.', method: 'Prep on damp skin; aftershave on clean, dry skin.' };
 
 const BY_CATEGORY: Record<string, Rule> = {
@@ -78,6 +81,7 @@ const BY_CATEGORY: Record<string, Rule> = {
 };
 
 const BY_TITLE: [RegExp, Rule][] = [
+  [/\b(teeth|tooth|toothpaste|toothbrush|floss|mouth ?wash|tongue|gums?)\b/i, MOUTH],
   [/\b(balm|makeup remover|micellar|double cleanse)\b/i, BALM],
   [/\b(cleanse|cleanser|face ?wash)\b/i, CLEANSE],
   [/\b(retin|tretinoin|adapalene|bakuchiol)\w*/i, RETINOID],
@@ -103,11 +107,14 @@ const BY_ZONE: Record<PlanZone, Rule> = {
   scalp: SCALP,
   lengths: LENGTHS,
   beard: BEARD,
+  oral: MOUTH,
+  other: OTHER,
 };
 
 /** Body-zone steps in face categories (e.g. a body-scope moisturiser) follow the zone, not the face map. */
 const forZone = (rule: Rule, zone: PlanZone): Rule => {
-  if (zone === 'face' || rule.area === 'body' || rule.area === 'underarms' || rule.area === 'feet') return rule;
+  if (zone === 'oral' || zone === 'other') return BY_ZONE[zone];
+  if (zone === 'face' || rule.area === 'body' || rule.area === 'underarms' || rule.area === 'feet' || rule.area === 'mouth') return rule;
   if (zone === 'body') return rule.area === 'face-neck-ears' ? BODY_SUN : rule.area === 'spots' ? { ...SPOTS, avoid: 'Keep off surrounding skin and any broken skin.' } : BODY;
   return BY_ZONE[zone];
 };

@@ -16,9 +16,11 @@ const DESC: Record<ApplicationArea, string> = {
   scalp: 'Head outline with the scalp and roots highlighted; the face is not.',
   lengths: 'Head with hair falling to the shoulders; the mid-lengths and ends are highlighted, the roots are not.',
   beard: 'Face outline with the beard area along the jaw and neck highlighted.',
+  mouth: 'Face outline with only the mouth highlighted; the skin around it is not.',
+  other: 'Plain body outline with nothing highlighted — placement follows the label.',
 };
 
-const FACE_AREAS = new Set<ApplicationArea>(['face', 'face-neck', 'face-neck-ears', 'spots', 'eye-contour', 'lips', 'beard']);
+const FACE_AREAS = new Set<ApplicationArea>(['face', 'face-neck', 'face-neck-ears', 'spots', 'eye-contour', 'lips', 'beard', 'mouth']);
 const HAIR_AREAS = new Set<ApplicationArea>(['scalp', 'lengths']);
 
 /** Accessible schematic of where a step goes on: teal = apply, hatched = keep clear. Not a map of anyone's skin. */
@@ -37,7 +39,7 @@ export function ApplicationMap({ area, label, excludeNoseCorners, compact = fals
       </defs>
       {FACE_AREAS.has(area) && <FaceMap area={area} hatch={hatch} excludeNoseCorners={excludeNoseCorners} />}
       {HAIR_AREAS.has(area) && <HairMap area={area} />}
-      {(area === 'body' || area === 'underarms') && <BodyMap area={area} />}
+      {(area === 'body' || area === 'underarms' || area === 'other') && <BodyMap area={area} />}
       {area === 'feet' && <FootMap />}
     </svg>
   );
@@ -61,7 +63,10 @@ function FaceMap({ area, hatch, excludeNoseCorners }: { area: ApplicationArea; h
           <path d="M122 108 Q146 130 170 108" className="app-map-stroke" />
         </>
       )}
-      {area === 'lips' ? <ellipse cx="120" cy="168" rx="18" ry="8" className="app-map-on" /> : <ellipse cx="120" cy="168" rx="18" ry="8" fill={`url(#${hatch})`} className="app-map-off" />}
+      {area === 'lips' || area === 'mouth'
+        ? <ellipse cx="120" cy="168" rx={area === 'mouth' ? 24 : 18} ry={area === 'mouth' ? 11 : 8} className="app-map-on" />
+        : <ellipse cx="120" cy="168" rx="18" ry="8" fill={`url(#${hatch})`} className="app-map-off" />}
+      {area === 'mouth' && <path d="M100 168 L140 168" className="app-map-line" />}
       <ellipse cx="94" cy="104" rx="22" ry="13" fill={`url(#${hatch})`} className="app-map-off" />
       <ellipse cx="146" cy="104" rx="22" ry="13" fill={`url(#${hatch})`} className="app-map-off" />
       <path d="M120 112 L112 146 Q120 152 128 146 Z" className="app-map-line" />

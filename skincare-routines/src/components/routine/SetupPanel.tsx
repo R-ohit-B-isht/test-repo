@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import { ArrowRight } from 'lucide-react';
-import { PLAN_ZONES, SKIN_TYPES, ZONE_LABEL, type PlanZone, type Setup, type SkinType } from '../../schedule/model';
+import { PLANNER_ZONES, SKIN_TYPES, ZONE_LABEL, type PlanZone, type Setup, type SkinType } from '../../schedule/model';
 
 interface Props {
   setup: Setup;
@@ -22,8 +22,8 @@ export function SetupPanel({ setup, concerns, onChange, onNext }: Props) {
       <p className="mt-1 text-[13px] leading-relaxed text-secondary">Who the plan is for. Skin type caps how often actives run; zones decide which items count; budget caps the price of every pick.</p>
 
       <Group label="Zones" hint={setup.zones.length === 0 ? 'Pick at least one.' : undefined}>
-        {PLAN_ZONES.map((z) => (
-          <button key={z} type="button" className="chip h-9" aria-pressed={setup.zones.includes(z)} onClick={() => onChange({ zones: PLAN_ZONES.filter((x) => toggle<PlanZone>(setup.zones, z).includes(x)) })}>{ZONE_LABEL[z]}</button>
+        {PLANNER_ZONES.map((z) => (
+          <button key={z} type="button" className="chip h-9" aria-pressed={setup.zones.includes(z)} onClick={() => onChange({ zones: PLANNER_ZONES.filter((x) => toggle<PlanZone>(setup.zones, z).includes(x)) })}>{ZONE_LABEL[z]}</button>
         ))}
       </Group>
 

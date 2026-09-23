@@ -4,6 +4,7 @@
 import { PROPOSE_TOOL } from '../chat/local/tools/routine';
 import { EDIT_TOOL } from '../chat/local/tools/routineEdit';
 import type { RoutineOptionContext, RoutineStepContext } from '../chat/types';
+import { areaOf } from './area';
 import { isEditOp, validProduct, validVariant, withRotation } from './storage';
 import { anchorFor, cycleOf, MAX_ALTERNATIVES, viewForWeek, weekMonday } from './rotation';
 import {
@@ -22,7 +23,8 @@ export const stepsForContext = (steps: Step[], monday = weekMonday(new Date()), 
   [...steps].sort((a, b) => (a.slot === b.slot ? a.order - b.order : a.slot === 'am' ? -1 : 1)).slice(0, 60).map((s) => {
     const { now, rotation } = viewForWeek(s, monday);
     return {
-      id: s.id, title: now.title, slot: s.slot, position: positionOf(steps, s.id) ?? 1, days: s.days, zone: s.zone, category: now.category,
+      id: s.id, title: now.title, slot: s.slot, position: positionOf(steps, s.id) ?? 1, days: s.days, zone: s.zone,
+      part: areaOf({ title: now.title, category: now.category, zone: s.zone }), category: now.category,
       note: now.note,
       product: now.product ? { id: now.product.id, category: now.product.category, brand: now.product.brand, title: now.product.title, rank: now.product.rank } : null,
       withMe: now.product ? !missing.has(now.product.id) : null,
@@ -117,9 +119,9 @@ export function editsFrom(result: Record<string, unknown>, batch: string, steps:
         ...(owned ? { owned } : {}),
       },
       step: withRotation({
-        slot: isSlot(after.slot) ? after.slot : target.slot, zone: target.zone, days,
+        slot: isSlot(after.slot) ? after.slot : target.slot, zone: isPlanZone(after.zone) ? after.zone : target.zone, days,
         title: rotation.base?.title ?? (typeof after.title === 'string' && after.title.trim() ? after.title.trim() : target.title),
-        category: rotation.base ? rotation.base.category : typeof after.category === 'string' ? after.category : target.category,
+        category: rotation.base ? rotation.base.category : typeof after.category === 'string' ? after.category : after.category === null ? null : target.category,
         product: rotation.base ? rotation.base.product : product,
         note: rotation.base ? rotation.base.note : typeof after.note === 'string' ? after.note : target.note,
       }, rotation.rotation),

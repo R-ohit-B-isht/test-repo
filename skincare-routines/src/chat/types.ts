@@ -73,6 +73,8 @@ export interface RoutineStepContext {
   position: number;
   days: string[];
   zone: string;
+  /** The My routine tab the step is shown under (face / body / hair / oral / other), read from its category, title and zone. */
+  part: string;
   category: string | null;
   note: string;
   product: { id: string; category: string; brand: string; title: string; rank: number | null } | null;

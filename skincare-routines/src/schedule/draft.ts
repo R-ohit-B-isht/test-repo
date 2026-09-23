@@ -8,7 +8,11 @@ export const blankStep = (slot: Slot, zone: PlanZone): StepDraft => ({ slot, zon
 
 /** Which ranked pages fit a plan zone, read from the manifest: face / body pages by zone (face+body pages fit either), hair pages by
  *  the placements their listings actually carry (scalp / lengths / beard). */
+/** Whether the site has ranked pages for a zone; oral / other steps are name + days + note only. */
+export const hasRankedPages = (zone: PlanZone): boolean => zone !== 'oral' && zone !== 'other';
+
 export function zoneMatches(c: CategoryMeta, zone: PlanZone): boolean {
+  if (!hasRankedPages(zone)) return false;
   if (zone === 'face' || zone === 'body') return c.zone === zone || c.zone === 'both';
   return c.zone === 'hair' && (c.byScope[zone] ?? 0) > 0;
 }

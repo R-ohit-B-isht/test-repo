@@ -6,7 +6,9 @@ import { productUrl, str, strList, ToolError, type Json, type Tool } from './bas
 
 const SLOTS = ['am', 'pm'];
 const DAYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'];
-const ZONES = ['face', 'body', 'scalp', 'lengths', 'beard'];
+export const ZONES = ['face', 'body', 'scalp', 'lengths', 'beard', 'oral', 'other'];
+/** Zones the site ranks nothing for: steps there carry no category or listing, only a name, days and note. */
+export const NO_PAGE_ZONES = ['oral', 'other'];
 const MAX_STEPS = 16;
 
 /** Days arrive as 'mon,wed,fri', 'daily' or a list (a plain string keeps the tool schema small enough for Gemini); unknown tokens are dropped. */
@@ -27,7 +29,7 @@ export const proposeRoutineSteps: Tool = {
     + 'listing id taken from get_top_products / search_products results in this conversation. Every product id is checked '
     + 'against the dataset: unknown ids are rejected and reported back. Proposals are shown to the user as pending '
     + 'suggestions they accept, edit or reject — nothing is added to their routine by this call. Call it once with the full '
-    + 'set of steps rather than once per step.',
+    + "set of steps rather than once per step. Zones: face, body, scalp / lengths / beard (hair), oral (teeth & mouth) and other — the page groups them as Face · Body · Hair · Teeth · Other tabs. The site ranks no oral-care or 'other' products, so steps in those zones (e.g. 'Brush teeth', 'Floss') take category '' and no product_id.",
   parameters: (manifest: Manifest) => ({
     type: 'object',
     properties: {
@@ -39,8 +41,8 @@ export const proposeRoutineSteps: Tool = {
             title: { type: 'string', description: "Short step name, e.g. 'Cleanse', 'Retinol', 'Moisturise', 'Scalp serum'" },
             slot: { type: 'string', enum: SLOTS, description: 'am = morning, pm = night' },
             days: { type: 'string', description: "Comma-separated weekdays this step applies to, from mon,tue,wed,thu,fri,sat,sun — or 'daily' for every day; e.g. 'mon,wed,fri' for alternate-night actives" },
-            zone: { type: 'string', enum: ZONES },
-            category: { type: 'string', description: `Site category id exactly as returned by list_categories / get_top_products (one of: ${manifest.categories.map((c) => c.id).join(', ')})` },
+            zone: { type: 'string', enum: ZONES, description: 'face, body, scalp, lengths, beard, oral (teeth & mouth) or other' },
+            category: { type: 'string', description: `Site category id exactly as returned by list_categories / get_top_products (one of: ${manifest.categories.map((c) => c.id).join(', ')}); '' for oral / other steps, which have no ranked page` },
             product_id: { type: 'string', nullable: true, description: 'Listing id from a tool result in this conversation, or null when the user should pick a product later' },
             why: { type: 'string', description: 'One sentence: why this step / this pick, plain words, no marketing' },
           },
@@ -71,6 +73,7 @@ export const proposeRoutineSteps: Tool = {
       if (!days.length) problems.push('days is empty');
       if (category && !manifest.categories.some((c) => c.id === category)) problems.push(`unknown category '${category}'`);
       const productId = str(s.product_id) || null;
+      if (NO_PAGE_ZONES.includes(zone) && (category || productId)) problems.push(`zone '${zone}' has no ranked pages on this site — leave category and product_id empty for it`);
       let product: Json | null = null;
       if (productId && !problems.length) {
         const hit = index.get(productId, category);
