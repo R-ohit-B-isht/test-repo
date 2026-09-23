@@ -1,0 +1,214 @@
+import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
+import { AlertTriangle, ClipboardCopy, RefreshCw, Trash2 } from 'lucide-react';
+import { useManifest } from '../data/hooks';
+import { Hero } from '../components/layout/Hero';
+import { Kicker, StatusBlock } from '../components/ui/primitives';
+import { SetupPanel } from '../components/routine/SetupPanel';
+import { ScheduleView, type View as ScheduleTab } from '../components/routine/schedule/ScheduleView';
+import { useReminderSync } from '../schedule/reminders/useReminderSync';
+import {
+  acceptReminderProposal, clearDecidedReminderProposals, rejectAllReminderProposals, rejectReminderProposal, useReminderProposals,
+} from '../schedule/reminders/proposals';
+import { ProposalsPanel } from '../components/routine/ProposalsPanel';
+import { StepEditor } from '../components/routine/StepEditor';
+import { PlanStepper, type PlanView } from '../components/routine/plan/PlanStepper';
+import { InventoryPanel } from '../components/routine/plan/InventoryPanel';
+import { PlanPanel } from '../components/routine/plan/PlanPanel';
+import { blankStep, type StepDraft } from '../schedule/draft';
+import { toast } from '../state/toastStore';
+import { usePagePublish } from '../chat/pageContext';
+import { useDevPublish } from '../components/dev/devStore';
+import { EDIT_VERB, planAsText, positionOf, SLOT_LABEL, type PlanZone, type Proposal, type Slot, type Step } from '../schedule/model';
+import {
+  acceptAllPending, acceptProposal, addStep, clearDecided, clearPlan, dismissFill, moveStep, registerCategoryLabels,
+  rejectAllPending, rejectProposal, removeStep, sortSlot, updateSetup, updateStep, useSchedule,
+} from '../schedule/scheduleStore';
+import {
+  buildPlan, choosePick, effectivePick, proposeSteps, registerPlannerContext, resetPlanner, reviewWithAssistant,
+  setPlannerInput, setRestNights, stopPlanner, usePlanner,
+} from '../schedule/plannerStore';
+import { DEV_EXAMPLE_INVENTORY } from '../schedule/planner/devExample';
+
+type Editor =
+  | { kind: 'add'; slot: Slot; zone: PlanZone | null }
+  | { kind: 'edit'; step: Step }
+  | { kind: 'proposal'; proposal: Proposal }
+  | null;
+
+/** Where to open: an existing routine or pending proposals → the routine; a built week → the plan; otherwise the start. */
+function startView(steps: number, proposals: number, hasWeek: boolean, hasZones: boolean): PlanView {
+  if (hasWeek) return 'plan';
+  if (steps > 0 || proposals > 0) return 'routine';
+  return hasZones ? 'inventory' : 'setup';
+}
+
+export default function RoutinePage() {
+  const manifest = useManifest();
+  const { plan, fill, storageOk } = useSchedule();
+  const planner = usePlanner();
+  const [params] = useSearchParams();
+  const dev = params.get('dev') === '1';
+  // `/#/routine?slot=pm` is what a tapped reminder opens; `?view=remind` deep-links the Reminders tab.
+  const slotParam = params.get('slot');
+  const initialSlot: Slot | null = slotParam === 'am' || slotParam === 'pm' ? slotParam : null;
+  const initialTab: ScheduleTab | null = params.get('view') === 'remind' ? 'remind' : null;
+  useReminderSync(plan.steps);
+  const reminderProposals = useReminderProposals();
+  const [editor, setEditor] = useState<Editor>(null);
+  const [view, setView] = useState<PlanView>(() => startView(plan.steps.length, plan.proposals.length + reminderProposals.length, planner.week !== null, plan.setup.zones.length > 0));
+
+  const labels = useMemo(() => (manifest.status === 'ready' ? new Map(manifest.data.categories.map((c) => [c.id, c.label])) : new Map<string, string>()), [manifest]);
+  const categoryLabel = useCallback((id: string) => labels.get(id) ?? id, [labels]);
+  useEffect(() => { registerCategoryLabels(categoryLabel); }, [categoryLabel]);
+  useEffect(() => {
+    if (manifest.status === 'ready') registerPlannerContext({ labelFor: categoryLabel, categoryIds: manifest.data.categories.map((c) => c.id) });
+  }, [manifest, categoryLabel]);
+
+  const pending = plan.proposals.filter((p) => p.status === 'pending').length + reminderProposals.filter((p) => p.status === 'pending').length;
+  usePagePublish({
+    routine: { zones: plan.setup.zones, concerns: plan.setup.concerns, skinType: plan.setup.skinType, maxPriceInr: plan.setup.maxPriceInr, steps: plan.steps.length, pending },
+    resultCount: null, category: null, filters: [],
+  });
+  useDevPublish(dev, { page: 'routine', view, steps: plan.steps.length, pending, proposals: plan.proposals.length, planner: planner.phase, planSteps: planner.week?.steps.length ?? 0, picked: planner.picked, proposed: planner.proposed.size, storage: storageOk });
+
+  if (manifest.status === 'error') return <StatusBlock title="Could not load the site index" body={manifest.error} />;
+  if (manifest.status === 'loading') return <StatusBlock title="Loading your routine…" />;
+  const m = manifest.data;
+
+  const reachable = new Set<PlanView>(['setup']);
+  if (plan.setup.zones.length) reachable.add('inventory');
+  if (planner.week || planner.phase === 'running' || planner.phase === 'error') reachable.add('plan');
+  reachable.add('routine');
+
+  const submitEditor = (draft: StepDraft) => {
+    if (!editor) return;
+    if (editor.kind === 'add') { addStep(draft); toast(`Added to ${SLOT_LABEL[draft.slot].toLowerCase()} routine`); }
+    else if (editor.kind === 'edit') updateStep(editor.step.id, draft);
+    else {
+      const r = acceptProposal(editor.proposal.id, draft);
+      toast(r.applied ? (editor.proposal.edit ? `Applied “${draft.title}” with your edits` : `Accepted “${draft.title}” with your edits`) : r.reason ?? 'That proposal is no longer pending');
+    }
+    setEditor(null);
+  };
+  const accept = (id: string) => {
+    const p = plan.proposals.find((x) => x.id === id);
+    const r = acceptProposal(id);
+    if (!p) return;
+    if (!r.applied) toast(r.reason ?? 'That proposal is no longer pending');
+    else if (p.edit) toast(p.edit.op === 'remove' ? `“${p.edit.before.title}” removed` : `${EDIT_VERB[p.edit.op]} applied to “${p.edit.before.title}”`);
+    else toast(`“${p.step.title}” added to ${SLOT_LABEL[p.step.slot].toLowerCase()} routine`);
+  };
+  const acceptReminder = (id: string) => {
+    const p = reminderProposals.find((x) => x.id === id);
+    const r = acceptReminderProposal(id);
+    if (!r.applied) toast(r.reason ?? 'That reminder change is no longer pending');
+    else if (p) toast(`${p.slot === 'am' ? 'Morning' : 'Night'} reminder ${p.after.enabled ? `on at ${p.after.time}` : 'turned off'}`);
+  };
+  const acceptAll = () => {
+    const r = acceptAllPending();
+    let applied = r.applied;
+    let dropped = r.dropped;
+    for (const p of reminderProposals) {
+      if (p.status !== 'pending') continue;
+      if (acceptReminderProposal(p.id).applied) applied += 1;
+      else dropped += 1;
+    }
+    toast(dropped ? `${applied} applied · ${dropped} dropped (their steps or settings had changed)` : `${applied} proposal${applied === 1 ? '' : 's'} applied to your routine`);
+  };
+  const rejectAll = () => { rejectAllPending(); rejectAllReminderProposals(); };
+  const clearAllDecided = () => { clearDecided(); clearDecidedReminderProposals(); };
+  const copyPlan = async () => {
+    try { await navigator.clipboard.writeText(planAsText(plan, categoryLabel)); toast('Routine copied as text'); }
+    catch { toast('Could not copy — clipboard access was refused'); }
+  };
+  const build = () => { setView('plan'); void buildPlan(plan.setup); };
+  const regenerate = () => {
+    if (planner.phase === 'running') stopPlanner();
+    const stale = plan.proposals.filter((p) => p.status === 'pending' && !p.edit).length;
+    setView('plan');
+    void buildPlan(plan.setup);
+    toast(stale ? `Fresh run started · ${stale} older pending proposal${stale === 1 ? '' : 's'} still waiting on My routine` : 'Fresh run started — accepted steps stay as they are');
+  };
+  const propose = (ids: string[]) => {
+    const n = proposeSteps(ids);
+    if (n) toast(`${n} step${n === 1 ? '' : 's'} sent to your routine as pending`);
+  };
+  const initial: StepDraft = editor?.kind === 'add' ? blankStep(editor.slot, editor.zone ?? plan.setup.zones[0] ?? 'face')
+    : editor?.kind === 'edit' ? { slot: editor.step.slot, days: editor.step.days, zone: editor.step.zone, title: editor.step.title, category: editor.step.category, product: editor.step.product, note: editor.step.note, rotation: editor.step.rotation }
+    : editor?.kind === 'proposal' ? { ...editor.proposal.step, note: editor.proposal.step.note || editor.proposal.why }
+    : blankStep('am', 'face');
+
+  return (
+    <div className="pb-16">
+      {plan.steps.length === 0 ? (
+        <Hero kicker="My routine · AM / PM · Mon – Sun"
+          title="Your week, step by step — actives spaced out, products from real rankings, nothing added without your say-so."
+          lede="Say who it's for and what you have. The planner spreads strong actives across the week using sourced pairing rules, pins ranked listings to each step, and the assistant adds a second opinion. Every step waits for you to accept it. Saved in this browser only."
+          proofs={[pending ? `${pending} pending proposal${pending === 1 ? '' : 's'}` : 'No pending proposals', `${m.categories.length} ranked categories to draw from`]} />
+      ) : (
+        <header className="pb-6 pt-8 sm:pb-8 sm:pt-12">
+          <Kicker>My routine · AM / PM · Mon – Sun</Kicker>
+          <h1 className="mt-3 text-[clamp(28px,4vw,44px)] leading-[1.05] text-display">Your routine.</h1>
+          <p className="mt-2 text-[14px] text-secondary sm:text-[15px]">
+            {plan.steps.length} step{plan.steps.length === 1 ? '' : 's'} · {pending ? `${pending} pending proposal${pending === 1 ? '' : 's'}` : 'no pending proposals'} · saved in this browser only. Add steps, swap listings, or plan more with the assistant — nothing changes until you accept it.
+          </p>
+        </header>
+      )}
+
+      {!storageOk && (
+        <p role="status" className="mb-6 flex items-start gap-2 rounded-[12px] border border-warning/50 bg-warning/10 px-4 py-3 text-[13px] text-primary">
+          <AlertTriangle size={15} className="mt-0.5 shrink-0 text-warning" aria-hidden />
+          This browser refused to save the routine (private mode or storage full) — it will be lost when the tab closes.
+        </p>
+      )}
+
+      <div className="mb-6"><PlanStepper view={view} reachable={reachable} onChange={setView} /></div>
+
+      {view === 'setup' && (
+        <div className="mx-auto max-w-[640px]">
+          <SetupPanel setup={plan.setup} concerns={m.concerns} onChange={updateSetup} onNext={() => setView('inventory')} />
+        </div>
+      )}
+
+      {view === 'inventory' && (
+        <div className="mx-auto max-w-[640px]">
+          <InventoryPanel input={planner.input} restNights={planner.restNights} running={planner.phase === 'running'} canBuild={plan.setup.zones.length > 0}
+            onInput={setPlannerInput} onRestNights={setRestNights} onBuild={build} onStop={stopPlanner} example={dev ? DEV_EXAMPLE_INVENTORY : null} />
+        </div>
+      )}
+
+      {view === 'plan' && (
+        <PlanPanel planner={planner} pendingInRoutine={pending} categoryLabel={categoryLabel} effectivePick={effectivePick} onChoose={choosePick}
+          onPropose={propose} onProposeAll={() => propose(planner.week?.steps.map((s) => s.id) ?? [])} onReview={() => void reviewWithAssistant(plan.setup)}
+          onStop={stopPlanner} onRebuild={() => { resetPlanner(); setView('inventory'); }} onRegenerate={regenerate} onGoRoutine={() => setView('routine')} />
+      )}
+
+      {view === 'routine' && (
+        <div className="min-w-0 space-y-6">
+          <ProposalsPanel proposals={plan.proposals} reminders={reminderProposals} fill={fill} categoryLabel={categoryLabel} positionNow={(id) => positionOf(plan.steps, id)}
+            onAccept={accept} onEdit={(p) => setEditor({ kind: 'proposal', proposal: p })} onReject={rejectProposal}
+            onAcceptAll={acceptAll} onRejectAll={rejectAll} onClearDecided={clearAllDecided}
+            onAcceptReminder={acceptReminder} onRejectReminder={rejectReminderProposal}
+            onRetry={() => setView('inventory')} onDismiss={dismissFill} />
+          <ScheduleView key={`${initialSlot ?? ''}/${initialTab ?? ''}`} steps={plan.steps} categoryLabel={categoryLabel} initialSlot={initialSlot} initialView={initialTab}
+            onAdd={(slot, zone) => setEditor({ kind: 'add', slot, zone })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}
+            onEdit={(step) => setEditor({ kind: 'edit', step })} onRemove={(id) => { removeStep(id); toast('Step removed'); }} onMove={moveStep}
+            onSort={(slot) => { sortSlot(slot); toast(`${SLOT_LABEL[slot]} steps sorted by application order`); }} />
+          {(plan.steps.length > 0 || plan.proposals.length > 0) && (
+            <div className="flex flex-wrap gap-2">
+              <button type="button" className="btn" onClick={() => void copyPlan()} disabled={plan.steps.length === 0}><ClipboardCopy size={14} aria-hidden />Copy as text</button>
+              {planner.week && <button type="button" className="btn" onClick={regenerate}><RefreshCw size={14} aria-hidden />Regenerate week</button>}
+              <button type="button" className="btn text-danger" onClick={() => { if (window.confirm('Remove every step and proposal from your routine?')) clearPlan(); }}><Trash2 size={14} aria-hidden />Clear routine</button>
+            </div>
+          )}
+        </div>
+      )}
+
+      <StepEditor open={editor !== null} onClose={() => setEditor(null)} onSubmit={submitEditor} initial={initial}
+        categories={m.categories} categoryLabel={categoryLabel}
+        title={editor?.kind === 'edit' ? 'Edit step' : editor?.kind === 'proposal' ? 'Edit proposal' : 'Add a step'}
+        submitLabel={editor?.kind === 'edit' ? 'Save' : editor?.kind === 'proposal' ? 'Accept with edits' : 'Add step'} />
+    </div>
+  );
+}

@@ -1,0 +1,121 @@
+// Maker accountability tiers — WHO stands behind the product, verified from the parent company's own site.
+// This is not "brand reputation" or seller copy: it records the regulated manufacturer / listed group that carries
+// product liability, GMP and recall obligations. Brands not in this table are scored as "maker not verified".
+const KIND = {
+  pharma: { pts: 8.0, label: 'Dermatology / pharmaceutical manufacturer' },
+  global: { pts: 6.5, label: 'Global FMCG or beauty group' },
+  india: { pts: 6.0, label: 'Established / listed Indian FMCG house' },
+  d2c: { pts: 5.0, label: 'Indian D2C brand with its own product company' },
+  unknown: { pts: 3.5, label: 'Maker not verified' },
+};
+
+// [brand keys (accent/apostrophe-free lowercase)], parent, kind, source
+const MAKERS = [
+  [['cetaphil', 'differin', 'tri-luma', 'benzac', 'galderma'], 'Galderma', 'pharma', 'https://www.galderma.com/our-brands'],
+  [['la roche-posay', 'la roche posay', 'cerave', 'vichy', 'skinceuticals'], "L'Oréal Dermatological Beauty", 'pharma', 'https://www.loreal.com/en/dermatological-beauty/'],
+  [['bioderma'], 'NAOS', 'pharma', 'https://www.naos.com/en/our-brands/'],
+  [['avene', 'ducray', 'klorane', 'a-derma'], 'Pierre Fabre', 'pharma', 'https://www.pierre-fabre.com/en/our-brands'],
+  [['eucerin', 'aquaphor'], 'Beiersdorf (Eucerin dermo-cosmetics)', 'pharma', 'https://www.beiersdorf.com/brands/eucerin'],
+  [['sebamed'], 'Sebapharma GmbH', 'pharma', 'https://www.sebamed.com/en/about-sebamed'],
+  [['uriage'], "Laboratoires Dermatologiques d'Uriage", 'pharma', 'https://www.uriage.com/en/'],
+  [['heliocare', 'cantabria labs'], 'Cantabria Labs', 'pharma', 'https://www.cantabrialabs.es/en/'],
+  [['noreva', 'kerapil'], 'Laboratoires Noreva', 'pharma', 'https://www.noreva-laboratoires.com/en/'],
+  [['isdin'], 'ISDIN', 'pharma', 'https://www.isdin.com/en/'],
+  [['neutrogena', 'aveeno', 'clean & clear', "johnson's", 'johnsons'], 'Kenvue', 'pharma', 'https://www.kenvue.com/our-brands'],
+  [['la shield', 'episoft', 'demelan'], 'Glenmark Pharmaceuticals', 'pharma', 'https://glenmarkpharma.com/'],
+  [['venusia', 'mintop'], "Dr. Reddy's Laboratories", 'pharma', 'https://www.drreddys.com/'],
+  [['rivela', 'saslic'], 'Cipla Health', 'pharma', 'https://www.ciplahealth.com/'],
+  [['suncros', 'photostable', 'moisturex'], 'Sun Pharma', 'pharma', 'https://sunpharma.com/'],
+  [['uv doux', 'uvdoux'], 'Brinton Pharmaceuticals', 'pharma', 'https://www.brintonpharma.com/'],
+  [['tedibar', 'atogla', 'curatio'], 'Curatio Healthcare (Torrent Pharma)', 'pharma', 'https://www.torrentpharma.com/'],
+  [['ahaglow'], 'Torrent Pharma', 'pharma', 'https://www.torrentpharma.com/'],
+  [['aquasoft'], 'Ajanta Pharma', 'pharma', 'https://www.ajantapharma.com/'],
+  [['glyco', 'glyco 6', 'kojivit'], 'Micro Labs', 'pharma', 'https://www.microlabsltd.com/'],
+  [['melalite', 'melaglow'], 'Abbott', 'pharma', 'https://www.abbott.in/'],
+  [['ethiglo', 'ethicare'], 'Ethicare Remedies', 'pharma', 'https://www.ethicareremedies.com/'],
+  [['dermadew'], 'Hegde & Hegde Pharmaceutica', 'pharma', 'https://www.hegdepharma.com/'],
+  [['fixderma'], 'Fixderma India (dermatology company)', 'pharma', 'https://www.fixderma.com/'],
+  [["paula's choice", 'paulas choice', 'dove', 'vaseline', "pond's", 'ponds', 'lakme', 'simple', 'pears', 'lifebuoy', 'glow & lovely', 'minimalist', 'hamam', 'liril', 'lux'],
+    'Unilever / Hindustan Unilever', 'global', 'https://www.hul.co.in/brands/'],
+  [["l'oreal", 'loreal', "l'oreal paris", 'garnier', 'maybelline', "kiehl's", 'kiehls', 'lancome'], "L'Oréal", 'global', 'https://www.loreal.com/en/our-global-brands-portfolio/'],
+  [['nivea', 'labello'], 'Beiersdorf', 'global', 'https://www.beiersdorf.com/brands/nivea'],
+  [['olay', 'gillette', 'old spice'], 'Procter & Gamble', 'global', 'https://us.pg.com/brands/'],
+  [['palmolive'], 'Colgate-Palmolive', 'global', 'https://www.colgatepalmolive.com/en-us/brands'],
+  [['dettol'], 'Reckitt', 'global', 'https://www.reckitt.com/brands/'],
+  [['the ordinary', 'deciem', 'clinique', 'estee lauder'], 'Estée Lauder Companies', 'global', 'https://www.elcompanies.com/en/our-brands'],
+  [['cosrx', 'innisfree', 'laneige', 'etude', 'sulwhasoo'], 'Amorepacific', 'global', 'https://www.apgroup.com/int/en/brands/brands.html'],
+  [['the face shop', 'belif'], 'LG Household & Health Care', 'global', 'https://www.lghnh.com/en/company/brand.jsp'],
+  [['kama ayurveda'], 'Puig (majority owner)', 'global', 'https://www.puig.com/en/brands/'],
+  [['oriflame'], 'Oriflame Cosmetics', 'global', 'https://corporate.oriflame.com/'],
+  [['fiama', 'vivel', 'dermafique', 'engage'], 'ITC Ltd', 'india', 'https://www.itcportal.com/businesses/fmcg/personal-care.aspx'],
+  [['himalaya', 'himalaya herbals'], 'Himalaya Wellness', 'india', 'https://himalayawellness.in/pages/about-us'],
+  [['dabur', 'gulabari', 'vatika'], 'Dabur India', 'india', 'https://www.dabur.com/'],
+  [['boroplus', 'fair and handsome', 'navratna', 'the man company', 'kesh king'], 'Emami', 'india', 'https://www.emamiltd.in/our-brands/'],
+  [['parachute', 'beardo', 'plix', 'just herbs'], 'Marico', 'india', 'https://marico.com/india/brands'],
+  [['cinthol', 'godrej'], 'Godrej Consumer Products', 'india', 'https://www.godrejcp.com/brands'],
+  [['patanjali'], 'Patanjali Ayurved', 'india', 'https://www.patanjaliayurved.net/'],
+  [['mamaearth', 'the derma co', 'aqualogica', "dr. sheth's", 'dr sheths', 'dr. sheths', 'bblunt', 'ayuga'], 'Honasa Consumer (listed)', 'india', 'https://honasa.in/brands'],
+  [['dot & key', 'dot and key', 'good vibes', 'nykaa', 'nykaa naturals', 'earth rhythm'], 'Nykaa (FSN E-Commerce, listed)', 'india', 'https://www.nykaa.com/'],
+  [['lotus', 'lotus herbals', 'lotus professional'], 'Lotus Herbals', 'india', 'https://www.lotusherbals.com/pages/about-us'],
+  [['vlcc', 'ustraa'], 'VLCC Health Care', 'india', 'https://www.vlccwellness.com/'],
+  [['biotique'], 'Bio Veda Action Research', 'india', 'https://www.biotique.com/'],
+  [['forest essentials'], 'Forest Essentials (Mountain Valley Springs)', 'india', 'https://www.forestessentialsindia.com/'],
+  [['joy'], 'RSH Global (Joy Personal Care)', 'india', 'https://www.joypersonalcare.com/'],
+  [['everyuth', 'nutralite'], 'Zydus Wellness', 'india', 'https://www.zyduswellness.com/'],
+  [['lakme salon', 'ayur', 'khadi natural', 'khadi'], 'Khadi Natural Healthcare', 'd2c', 'https://khadinatural.com/'],
+  [['plum'], 'Pureplay Skin Sciences', 'd2c', 'https://plumgoodness.com/'],
+  [['pilgrim'], 'Heavenly Secrets', 'd2c', 'https://discoverpilgrim.com/'],
+  [['mcaffeine'], 'Pep Technologies', 'd2c', 'https://www.mcaffeine.com/'],
+  [['wow', 'wow skin science'], 'Body Cupid', 'd2c', 'https://www.buywow.in/'],
+  [['bombay shaving company'], 'Visage Lines Personal Care', 'd2c', 'https://bombayshavingcompany.com/'],
+  [['foxtale'], 'Foxtale Consumer', 'd2c', 'https://foxtale.in/'],
+  [['deconstruct'], 'Deconstruct Skincare', 'd2c', 'https://deconstruct.in/'],
+  [["re'equil", 'reequil'], "Re'equil", 'd2c', 'https://www.reequil.com/'],
+  [['wishcare'], 'WishCare', 'd2c', 'https://www.wishcare.in/'],
+  [['chemist at play', 'be bodywise'], 'Chemist at Play / Bodywise', 'd2c', 'https://chemistatplay.com/'],
+  [['conscious chemist'], 'Conscious Chemist', 'd2c', 'https://consciouschemist.com/'],
+  [['juicy chemistry'], 'Juicy Chemistry', 'd2c', 'https://juicychemistry.com/'],
+  [['bella vita', 'bella vita organic'], 'Bella Vita Organic', 'd2c', 'https://bellavitaorganic.com/'],
+  [['suganda'], 'Suganda Skincare', 'd2c', 'https://suganda.co/'],
+  [['cos-iq', 'cosiq'], 'COSIQ', 'd2c', 'https://cosiq.in/'],
+  [['quench', 'quench botanics'], 'Quench Botanics', 'd2c', 'https://quenchbotanics.in/'],
+  [['beauty of joseon'], 'Govan (Beauty of Joseon)', 'd2c', 'https://beautyofjoseon.com/'],
+  [['the body shop'], 'The Body Shop International', 'd2c', 'https://www.thebodyshop.com/'],
+  [['jovees'], 'Jovees Herbal Care India', 'd2c', 'https://www.jovees.com/'],
+  [["nature's essence", 'natures essence'], "Nature's Essence", 'd2c', 'https://www.naturesessence.in/'],
+  [['aroma magic'], 'Blossom Kochhar Aroma Magic', 'd2c', 'https://www.aromamagic.com/'],
+  [['raaga', 'raaga professional', 'cosmo'], 'CavinKare', 'india', 'https://www.cavinkare.com/brands/'],
+  [['o3+', 'o3'], 'O3+ Professional', 'd2c', 'https://www.o3plus.com/'],
+  [['st.botanica', 'st botanica', 'stbotanica', 'oriental botanics'], 'StBotanica', 'd2c', 'https://www.stbotanica.com/'],
+  [['ipca'], 'Ipca Laboratories', 'pharma', 'https://www.ipca.com/'],
+  [["dr. reddy's", 'dr reddys', "dr reddy's"], "Dr. Reddy's Laboratories", 'pharma', 'https://www.drreddys.com/'],
+  [['cipla'], 'Cipla Health', 'pharma', 'https://www.ciplahealth.com/'],
+  [['sun pharma'], 'Sun Pharma', 'pharma', 'https://sunpharma.com/'],
+  [['brinton'], 'Brinton Pharmaceuticals', 'pharma', 'https://www.brintonpharma.com/'],
+  [['mankind', 'acnestar', 'acne star'], 'Mankind Pharma (listed)', 'pharma', 'https://www.mankindpharma.com/'],
+  [['lacto calamine'], 'Piramal Pharma (Consumer Products)', 'pharma', 'https://www.piramalpharma.com/'],
+  [['santoor', 'chandrika', 'yardley'], 'Wipro Consumer Care & Lighting', 'india', 'https://www.wiproconsumercare.com/'],
+  [['kaya', 'kaya clinic'], 'Kaya Ltd (listed)', 'india', 'https://www.kaya.in/'],
+  [['bellavita'], 'Bella Vita Organic', 'd2c', 'https://bellavitaorganic.com/'],
+  [['st. botanica'], 'StBotanica', 'd2c', 'https://www.stbotanica.com/'],
+  [['skinkraft'], 'Incnut Digital (SkinKraft)', 'd2c', 'https://skinkraft.com/'],
+  [['sirona'], 'Sirona Hygiene', 'd2c', 'https://thesirona.com/'],
+  [['nat habit'], 'Naturohabit Pvt Ltd (Nat Habit)', 'd2c', 'https://nathabit.in/'],
+  [['hyphen'], 'Kreative Beauty Pvt Ltd (Hyphen)', 'd2c', 'https://www.letshyphen.com/'],
+  [['the plant fix plix', 'plant fix plix'], 'Marico (Plix)', 'india', 'https://marico.com/india/brands'],
+  [['globus', 'globus naturals'], 'Globus Naturals Pvt Ltd', 'd2c', 'https://www.globusnaturals.com/'],
+];
+
+const brandKey = (b) => (b || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\u2018\u2019]/g, "'").toLowerCase().trim();
+
+function makerOf(brand) {
+  const k = brandKey(brand);
+  for (const [keys, parent, kind, url] of MAKERS) {
+    if (keys.includes(k) || keys.some((x) => x.length >= 5 && k.startsWith(x + ' '))) {
+      return { parent, kind, label: KIND[kind].label, pts: KIND[kind].pts, url };
+    }
+  }
+  return { parent: null, kind: 'unknown', label: KIND.unknown.label, pts: KIND.unknown.pts, url: null };
+}
+
+module.exports = { makerOf, MAKERS, KIND, brandKey };

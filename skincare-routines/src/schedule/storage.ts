@@ -1,0 +1,117 @@
+/** localStorage adapter for the routine plan (Memento: the store hands over a snapshot, this file persists/restores it).
+ * Corrupt or unavailable storage yields the empty plan plus a flag — never an invented routine. */
+import {
+  EMPTY_PLAN, EMPTY_SETUP, isDay, isPlanZone, isSlot, SKIN_TYPES, type EditOp, type Plan, type Proposal, type Rotation, type Setup, type Step, type StepEdit,
+  type StepProduct, type StepVariant,
+} from './model';
+import { MAX_ALTERNATIVES } from './rotation';
+
+const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove', 'reorder', 'rotate', 'stop_rotation', 'owned'];
+const isPosition = (v: unknown): v is number => typeof v === 'number' && Number.isInteger(v) && v >= 1;
+export const isEditOp = (v: unknown): v is EditOp => typeof v === 'string' && (EDIT_OPS as readonly string[]).includes(v);
+
+const KEY = 'ledger.routine.v1';
+const MAX_STEPS = 60;
+const MAX_PROPOSALS = 60;
+
+export interface Loaded { plan: Plan; ok: boolean }
+
+const isRecord = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null;
+const str = (v: unknown, fallback = '') => (typeof v === 'string' ? v : fallback);
+const numOrNull = (v: unknown) => (typeof v === 'number' && Number.isFinite(v) ? v : null);
+const strOrNull = (v: unknown) => (typeof v === 'string' ? v : null);
+
+export function validProduct(v: unknown): StepProduct | null {
+  if (!isRecord(v) || typeof v.id !== 'string' || typeof v.category !== 'string' || typeof v.title !== 'string' || typeof v.url !== 'string') return null;
+  return {
+    id: v.id, category: v.category, brand: str(v.brand), title: v.title, rank: numOrNull(v.rank), of: numOrNull(v.of), score: numOrNull(v.score),
+    priceInr: numOrNull(v.priceInr), store: strOrNull(v.store), inciStatus: strOrNull(v.inciStatus), inciSourceKind: strOrNull(v.inciSourceKind), url: v.url,
+  };
+}
+
+export function validVariant(v: unknown): StepVariant | null {
+  if (!isRecord(v) || typeof v.title !== 'string' || !v.title.trim()) return null;
+  return { title: v.title, category: strOrNull(v.category), product: validProduct(v.product), note: str(v.note) };
+}
+
+/** A rotation needs a real Monday anchor and at least one well-formed alternative; anything else reads as "no rotation". */
+export function validRotation(v: unknown): Rotation | undefined {
+  if (!isRecord(v) || typeof v.anchor !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(v.anchor) || !Array.isArray(v.alternatives)) return undefined;
+  const alternatives = v.alternatives.map(validVariant).filter((a): a is StepVariant => a !== null).slice(0, MAX_ALTERNATIVES);
+  return alternatives.length ? { anchor: v.anchor, alternatives } : undefined;
+}
+
+/** Steps without a rotation carry no `rotation` key at all. */
+export const withRotation = <T extends object>(base: T, rotation: Rotation | undefined): T & { rotation?: Rotation } => (rotation ? { ...base, rotation } : base);
+
+function validStep(v: unknown): Step | null {
+  if (!isRecord(v) || typeof v.id !== 'string' || !isSlot(v.slot) || !isPlanZone(v.zone) || typeof v.title !== 'string' || !Array.isArray(v.days)) return null;
+  const days = v.days.filter(isDay);
+  if (!days.length) return null;
+  return withRotation({
+    id: v.id, slot: v.slot, zone: v.zone, title: v.title, days: [...new Set(days)], category: strOrNull(v.category),
+    product: validProduct(v.product), note: str(v.note), origin: v.origin === 'ai' ? 'ai' : 'user', order: typeof v.order === 'number' ? v.order : 0,
+  }, validRotation(v.rotation));
+}
+
+export function validEdit(v: unknown): StepEdit | null {
+  if (!isRecord(v) || !isEditOp(v.op) || typeof v.targetStepId !== 'string' || !isRecord(v.before)) return null;
+  const b = v.before;
+  if (typeof b.title !== 'string' || !isSlot(b.slot) || !isPlanZone(b.zone) || !Array.isArray(b.days)) return null;
+  const days = [...new Set(b.days.filter(isDay))];
+  if (!days.length) return null;
+  const pos = v.position;
+  const position = isRecord(pos) && isPosition(pos.from) && isPosition(pos.to) ? { from: pos.from, to: pos.to } : null;
+  const own = v.owned;
+  const owned = isRecord(own) && typeof own.productId === 'string' && typeof own.have === 'boolean' ? { productId: own.productId, have: own.have } : null;
+  if (v.op === 'owned' && !owned) return null;
+  return {
+    op: v.op, targetStepId: v.targetStepId,
+    before: withRotation({ title: b.title, slot: b.slot, zone: b.zone, days, category: typeof b.category === 'string' ? b.category : null, product: validProduct(b.product), note: str(b.note) }, validRotation(b.rotation)),
+    ...(position ? { position } : {}),
+    ...(owned ? { owned } : {}),
+  };
+}
+
+function validProposal(v: unknown): Proposal | null {
+  if (!isRecord(v) || typeof v.id !== 'string' || typeof v.createdAt !== 'number') return null;
+  const step = validStep({ ...(isRecord(v.step) ? v.step : {}), id: v.id });
+  if (!step) return null;
+  const { id: _id, origin: _o, order: _n, ...rest } = step;
+  void _id; void _o; void _n;
+  const status = v.status === 'accepted' || v.status === 'rejected' ? v.status : 'pending';
+  const edit = validEdit(v.edit);
+  return { id: v.id, step: rest, why: str(v.why), status, createdAt: v.createdAt, batch: str(v.batch), ...(edit ? { edit } : {}) };
+}
+
+function validSetup(v: unknown): Setup {
+  if (!isRecord(v)) return EMPTY_SETUP;
+  const zones = Array.isArray(v.zones) ? v.zones.filter(isPlanZone) : [];
+  const skin = SKIN_TYPES.find((s) => s === v.skinType) ?? null;
+  return {
+    zones: zones.length ? [...new Set(zones)] : EMPTY_SETUP.zones,
+    concerns: Array.isArray(v.concerns) ? v.concerns.filter((c): c is string => typeof c === 'string').slice(0, 12) : [],
+    skinType: skin, maxPriceInr: numOrNull(v.maxPriceInr), notes: str(v.notes).slice(0, 600),
+  };
+}
+
+export function load(): Loaded {
+  let raw: string | null;
+  try { raw = localStorage.getItem(KEY); } catch { return { plan: EMPTY_PLAN, ok: false }; }
+  if (!raw) return { plan: EMPTY_PLAN, ok: true };
+  try {
+    const env = JSON.parse(raw) as Partial<Plan>;
+    if (env.version !== 1) return { plan: EMPTY_PLAN, ok: true };
+    const steps = (Array.isArray(env.steps) ? env.steps : []).map(validStep).filter((s): s is Step => s !== null).slice(0, MAX_STEPS);
+    const proposals = (Array.isArray(env.proposals) ? env.proposals : []).map(validProposal).filter((p): p is Proposal => p !== null).slice(-MAX_PROPOSALS);
+    return { plan: { version: 1, setup: validSetup(env.setup), steps, proposals, updatedAt: typeof env.updatedAt === 'number' ? env.updatedAt : 0 }, ok: true };
+  } catch {
+    return { plan: EMPTY_PLAN, ok: true };
+  }
+}
+
+/** Returns false when the browser refused the write (private mode, quota) so the UI can say the routine is not being kept. */
+export function save(plan: Plan): boolean {
+  const bounded: Plan = { ...plan, steps: plan.steps.slice(0, MAX_STEPS), proposals: plan.proposals.slice(-MAX_PROPOSALS) };
+  try { localStorage.setItem(KEY, JSON.stringify(bounded)); return true; } catch { return false; }
+}
