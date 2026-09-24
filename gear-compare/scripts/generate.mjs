@@ -205,7 +205,8 @@ function record(site, r) {
     lines: { q: site.lines.q(F) || 'Specification not stated', f: site.lines.f(F) || '' },
     tags: [...new Set(tags)], scores, evidence,
     listingSpec: r.kv,
-    ...(site.pack ? { pack: site.pack(F) } : {}),
+    ...(site.pack ? { pack: site.pack(F, { title: r.title }) } : {}),
+    ...(site.cover ? { cover: site.cover(F, { title: r.title, kv: r.kv, seller: r.seller, official: off }) } : {}),
   };
 }
 

@@ -44,6 +44,7 @@ export default {
     O.warrantyField(),
   ],
   pack: O.packOf,
+  cover: O.coverOf,
   match: { descriptive: O.DESCRIPTIVE, bundleNouns: ['bottles', 'brushes', 'razor', 'trimmer', 'suitcase', 'backpack'], numeric: [] },
   officialProse: O.PROSE,
   facets: [

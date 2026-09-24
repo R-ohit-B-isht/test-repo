@@ -14,6 +14,8 @@ import type { CategoryIndex } from '../../domain/index';
 interface Props {
   bag: PackBag; role: PackRole; meta: CategoryMeta | undefined; idx: CategoryIndex | undefined;
   picks: PlanPick[]; onOpen: (id: string) => void;
+  /** The all-in-one set whose stated contents already cover this role, if any. */
+  coveredBy?: ProductRow | null;
 }
 
 /**
@@ -21,7 +23,7 @@ interface Props {
  * ranked list to choose something else. The "best available" shortcut is the top-scored listing with a verified
  * (non-claim) size that is not already in the plan — the same rule the whole-plan fill uses.
  */
-export function RoleCard({ bag, role, meta, idx, picks, onOpen }: Props) {
+export function RoleCard({ bag, role, meta, idx, picks, onOpen, coveredBy = null }: Props) {
   const rowOf = useMemo(() => new Map(idx?.items.map((r) => [r.id, r]) ?? []), [idx]);
   const active = picks.find((p) => p.active) ?? null;
   const alts = picks.filter((p) => !p.active);
@@ -38,20 +40,24 @@ export function RoleCard({ bag, role, meta, idx, picks, onOpen }: Props) {
   };
 
   return (
-    <article className="card p-4 sm:p-5" aria-labelledby={`role-${role.id}`} data-role-card={role.id}>
+    <article className={clsx('card p-4 sm:p-5', coveredBy && !active && 'border-dashed')} aria-labelledby={`role-${role.id}`} data-role-card={role.id} data-covered={coveredBy && !active ? 'set' : undefined}>
       <header className="flex flex-wrap items-start justify-between gap-3">
         <div className="min-w-0">
-          <h3 id={`role-${role.id}`} className="text-[18px] font-extrabold text-display">{role.label}</h3>
+          <h3 id={`role-${role.id}`} className="flex flex-wrap items-center gap-2 text-[18px] font-extrabold text-display">{role.label}{coveredBy && !active && <span className="inline-flex items-center gap-1 rounded-full bg-success/10 px-2 py-0.5 text-[11px] font-bold text-success"><Check size={11} aria-hidden />Covered by your set</span>}</h3>
           <p className="mt-0.5 text-[13px] text-secondary">{role.what}</p>
         </div>
         <div className="flex flex-wrap gap-2">
-          {best && <button type="button" onClick={useBest} className="btn h-9 px-3"><Star size={14} aria-hidden />{active ? 'Add best as alternative' : 'Use best available'}</button>}
+          {best && <button type="button" onClick={useBest} className="btn h-9 px-3"><Star size={14} aria-hidden />{active ? 'Add best as alternative' : coveredBy ? 'Add a separate one anyway' : 'Use best available'}</button>}
           <AppLink to={browse} className="btn h-9 px-3 no-underline"><ListFilter size={14} aria-hidden />Pick from {meta?.count.toLocaleString('en-IN') ?? ''} {meta?.label.toLowerCase() ?? role.category}<ArrowRight size={14} aria-hidden /></AppLink>
         </div>
       </header>
 
       {active ? (
-        <PickRow bag={bag} role={role} pick={active} row={rowOf.get(active.id)} onOpen={onOpen} />
+        <PickRow bag={bag} roleId={role.id} roleLabel={role.label} pick={active} row={rowOf.get(active.id)} onOpen={onOpen} />
+      ) : coveredBy ? (
+        <p className="mt-4 rounded-lg border border-dashed border-line-strong p-4 text-[13px] text-secondary">
+          The stated contents of <span className="font-bold text-display">{coveredBy.b} {coveredBy.m}</span> include a piece for {role.label.toLowerCase()}, so this role is counted inside that set. Add a separate organiser only if you want one on top.
+        </p>
       ) : (
         <p className="mt-4 rounded-lg border border-dashed border-line-strong p-4 text-[13px] text-secondary">
           Nothing placed for {role.label.toLowerCase()} yet. {best ? <>Best available with a verified size: <button type="button" onClick={useBest} className="font-bold text-accent underline-offset-2 hover:underline">{best.b} {best.m}</button> ({litres(litresOf(best.pk!, role.qty))}, {rupees(best.p)}).</> : 'No listing in this category states a verified size, so nothing can be counted here automatically.'}
@@ -87,9 +93,10 @@ export function RoleCard({ bag, role, meta, idx, picks, onOpen }: Props) {
   );
 }
 
-function PickRow({ bag, role, pick, row, onOpen }: { bag: PackBag; role: PackRole; pick: PlanPick; row: ProductRow | undefined; onOpen: (id: string) => void }) {
+/** The counted listing of one role (or of the all-in-one set) with its size arithmetic, quantity and compartment controls. */
+export function PickRow({ bag, roleId, roleLabel, pick, row, onOpen, children }: { bag: PackBag; roleId: string; roleLabel: string; pick: PlanPick; row: ProductRow | undefined; onOpen: (id: string) => void; children?: React.ReactNode }) {
   if (!row) {
-    return <p className="mt-4 flex items-center justify-between gap-3 rounded-lg border border-line p-3 text-[13px] text-muted">The counted listing ({pick.id}) is no longer in the data.<button type="button" onClick={() => removePick(bag.id, role.id, pick.id)} className="btn h-8 px-3">Remove</button></p>;
+    return <p className="mt-4 flex items-center justify-between gap-3 rounded-lg border border-line p-3 text-[13px] text-muted">The counted listing ({pick.id}) is no longer in the data.<button type="button" onClick={() => removePick(bag.id, roleId, pick.id)} className="btn h-8 px-3">Remove</button></p>;
   }
   const size = row.pk ?? null;
   const total = size ? litresOf(size, pick.qty) : null;
@@ -120,24 +127,25 @@ function PickRow({ bag, role, pick, row, onOpen }: { bag: PackBag; role: PackRol
           <div>
             <dt className="label">Sets</dt>
             <dd className="mt-0.5 inline-flex items-center rounded-lg border border-line">
-              <button type="button" onClick={() => setQty(bag.id, role.id, pick.id, pick.qty - 1)} disabled={pick.qty <= 1} className="flex h-8 w-8 items-center justify-center disabled:opacity-30" aria-label="One set fewer"><Minus size={13} /></button>
+              <button type="button" onClick={() => setQty(bag.id, roleId, pick.id, pick.qty - 1)} disabled={pick.qty <= 1} className="flex h-8 w-8 items-center justify-center disabled:opacity-30" aria-label="One set fewer"><Minus size={13} /></button>
               <span className="mono w-6 text-center font-extrabold text-display" aria-live="polite">{pick.qty}</span>
-              <button type="button" onClick={() => setQty(bag.id, role.id, pick.id, pick.qty + 1)} disabled={pick.qty >= 9} className="flex h-8 w-8 items-center justify-center disabled:opacity-30" aria-label="One set more"><Plus size={13} /></button>
+              <button type="button" onClick={() => setQty(bag.id, roleId, pick.id, pick.qty + 1)} disabled={pick.qty >= 9} className="flex h-8 w-8 items-center justify-center disabled:opacity-30" aria-label="One set more"><Plus size={13} /></button>
             </dd>
           </div>
           <div>
             <dt className="label">Packed in</dt>
             <dd className="mt-0.5 inline-flex rounded-lg border border-line p-0.5" role="radiogroup" aria-label="Compartment">
               {bag.compartments.map((c) => (
-                <button key={c.id} type="button" role="radio" aria-checked={pick.into === c.id} onClick={() => setInto(bag.id, role.id, pick.id, c.id)}
+                <button key={c.id} type="button" role="radio" aria-checked={pick.into === c.id} onClick={() => setInto(bag.id, roleId, pick.id, c.id)}
                   className={clsx('h-7 rounded-md px-2.5 text-[12px] font-bold', pick.into === c.id ? 'bg-primary text-page' : 'text-secondary hover:text-primary')}>{c.id === 'main' ? 'Main body' : 'Day pack'}</button>
               ))}
             </dd>
           </div>
         </dl>
+        {children}
         <div className="mt-3 flex flex-wrap gap-2">
           <button type="button" onClick={() => onOpen(row.id)} className="btn h-8 px-3">Details & evidence</button>
-          <button type="button" onClick={() => { removePick(bag.id, role.id, pick.id); toast(`${row.b} removed from ${role.label.toLowerCase()}`, { label: 'Undo', run: () => addPick(bag.id, role.id, row.id, pick.into, pick.qty, true) }); }} className="btn h-8 px-3"><X size={13} aria-hidden />Remove</button>
+          <button type="button" onClick={() => { removePick(bag.id, roleId, pick.id); toast(`${row.b} removed from ${roleLabel.toLowerCase()}`, { label: 'Undo', run: () => addPick(bag.id, roleId, row.id, pick.into, pick.qty, true, pick.category) }); }} className="btn h-8 px-3"><X size={13} aria-hidden />Remove</button>
         </div>
       </div>
     </div>

@@ -6,10 +6,11 @@ import { Hero } from '../components/layout/Hero';
 import { ProductSheet } from '../components/category/ProductSheet';
 import { CompartmentGauge, FitBadge } from '../components/plan/planUi';
 import { RoleCard } from '../components/plan/RoleCard';
+import { SetPicker } from '../components/plan/SetPicker';
 import { segmentResolver } from '../domain/index';
 import { autoFill, litres, summarise } from '../domain/pack';
 import { TIER_META } from '../domain/scoreMeta';
-import { replacePicks, clearPlan, usePlan } from '../state/planStore';
+import { replacePicks, clearPlan, usePlan, SET_ROLE } from '../state/planStore';
 import { toast } from '../state/toastStore';
 import { rupees } from '../lib/format';
 import type { CategoryMeta, Manifest, PackBag, ProductRow } from '../lib/types';
@@ -55,13 +56,15 @@ function Planner({ manifest, bag }: { manifest: Manifest; bag: PackBag }) {
   const rankOf = (idx: CategoryIndex, row: ProductRow) => { const pos = idx.items.indexOf(row); return pos >= 0 ? idx.rank[pos] : 0; };
 
   const active = picks.filter((p) => p.active).length;
+  const placedRoles = bag.roles.filter((r) => summary.covered.has(r.id) || picks.some((p) => p.active && p.roleId === r.id)).length;
+  const setRow = summary.set?.row ?? null;
   return (
     <div className="pb-24">
       <Hero
         kicker={`Packing plan · ${bag.brand} ${bag.name}`}
-        title="One organiser per job, checked against the bag’s own numbers."
-        lede="Clothes, shoes, slippers, skincare, tech, laundry and documents each get a pick from the ranked lists. Every pick is charged to the main body or the day pack at its stated size — nothing is assumed, and unstated sizes are shown as uncounted rather than guessed."
-        proofs={[`${bag.roles.length} roles`, `${bag.compartments.map((c) => `${c.litres} L`).join(' + ')} budgets from tripole.in`, `${categoryIds.reduce((n, id) => n + (metaOf.get(id)?.sized ?? 0), 0).toLocaleString('en-IN')} listings with an accepted size`]}
+        title="One set for most of it, or one organiser per job — checked against the bag’s own numbers."
+        lede="Start with an all-in-one set whose stated contents cover the most roles (cubes, shoe bag, toiletry pouch, laundry bag…), then fill whatever it leaves out — clothes, shoes, slippers, skincare, tech, laundry, documents — from the ranked lists. Everything is charged to the main body or the day pack at its stated size; unstated sizes are shown as uncounted rather than guessed."
+        proofs={[`${bag.roles.length} roles`, `${bag.compartments.map((c) => `${c.litres} L`).join(' + ')} budgets from tripole.in`, `${categoryIds.reduce((n, id) => n + (metaOf.get(id)?.sets ?? 0), 0).toLocaleString('en-IN')} multi-role sets`, `${categoryIds.reduce((n, id) => n + (metaOf.get(id)?.sized ?? 0), 0).toLocaleString('en-IN')} listings with an accepted size`]}
         aside={<BagCard bag={bag} />}
       >
         <button type="button" onClick={fill} className="btn btn-accent h-11 px-5" disabled={cats.status !== 'ready'}><Sparkles size={16} aria-hidden />{active ? 'Fill the open roles' : 'Fill every role with the best fit'}</button>
@@ -74,7 +77,7 @@ function Planner({ manifest, bag }: { manifest: Manifest; bag: PackBag }) {
             <Kicker>Does it fit?</Kicker>
             <h2 id="fit" className="mt-1 flex flex-wrap items-center gap-x-3 text-[22px] sm:text-[26px]">
               <FitBadge status={summary.status} size="lg" />
-              <span className="text-secondary text-[15px] font-semibold">{litres(summary.total)} counted · {active} of {bag.roles.length} roles placed{summary.cost ? ` · ${rupees(summary.cost)}` : ''}</span>
+              <span className="text-secondary text-[15px] font-semibold">{litres(summary.total)} counted · {placedRoles} of {bag.roles.length} roles placed{setRow ? ` (${summary.covered.size} by your set)` : ''}{summary.cost ? ` · ${rupees(summary.cost)}` : ''}</span>
             </h2>
           </div>
           {summary.weakestTier && (
@@ -89,17 +92,21 @@ function Planner({ manifest, bag }: { manifest: Manifest; bag: PackBag }) {
         )}
       </section>
 
+      {cats.status === 'ready' && (
+        <SetPicker bag={bag} metaOf={metaOf} rowsOf={rowsOf} picks={picks.filter((p) => p.roleId === SET_ROLE)} summary={summary} onOpen={(category, id) => setOpen({ category, id })} />
+      )}
+
       <section aria-labelledby="roles" className="mb-10">
         <Kicker>Roles</Kicker>
-        <h2 id="roles" className="mt-1 text-[22px] sm:text-[26px]">What goes in, and in which organiser</h2>
-        <p className="mt-1 max-w-2xl text-[14px] text-secondary">Change quantity, move a pick between the main body and the day pack, keep alternatives and switch between them. Picks are saved on this device.</p>
+        <h2 id="roles" className="mt-1 text-[22px] sm:text-[26px]">{setRow ? 'What the set leaves out, and everything else role by role' : 'What goes in, and in which organiser'}</h2>
+        <p className="mt-1 max-w-2xl text-[14px] text-secondary">{setRow ? 'Roles the set covers are folded into its one count; open roles get their own pick. ' : ''}Change quantity, move a pick between the main body and the day pack, keep alternatives and switch between them. Picks are saved on this device.</p>
         {cats.status === 'error' && <StatusBlock title="Could not load the organiser lists" body={cats.error} />}
         {cats.status === 'loading' && <div className="mt-5"><SkeletonRows count={7} /></div>}
         {cats.status === 'ready' && (
           <div className="mt-5 space-y-4">
             {bag.roles.map((role) => (
               <RoleCard key={role.id} bag={bag} role={role} meta={metaOf.get(role.category)} idx={cats.data[role.category]}
-                picks={picks.filter((p) => p.roleId === role.id)} onOpen={(id) => setOpen({ category: role.category, id })} />
+                picks={picks.filter((p) => p.roleId === role.id)} coveredBy={summary.covered.has(role.id) ? setRow : null} onOpen={(id) => setOpen({ category: role.category, id })} />
             ))}
           </div>
         )}

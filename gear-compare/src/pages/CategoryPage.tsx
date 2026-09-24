@@ -2,7 +2,7 @@ import { useCallback, useMemo, useState } from 'react';
 import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { ChevronLeft, PackageCheck } from 'lucide-react';
 import { toast } from '../state/toastStore';
-import { addPick, removePick, usePlan } from '../state/planStore';
+import { addPick, removePick, usePlan, SET_ROLE } from '../state/planStore';
 import type { ViewState } from '../state/useFilterState';
 import { useCategory, useManifest } from '../data/hooks';
 import { applyFilter, liveCountsByGroup } from '../domain/filter';
@@ -25,6 +25,7 @@ import { EvidenceStrip } from '../components/category/EvidenceStrip';
 import type { CategoryMeta, PackRole } from '../lib/types';
 import { groupsFor } from '../lib/format';
 import { segmentResolver } from '../domain/index';
+import { COVER_META } from '../domain/pack';
 
 const COMPARE_MAX = 4;
 
@@ -56,7 +57,8 @@ function CategoryView({ id }: { id: string }) {
   const roleParam = params.get('role');
   const pinnedRole = roles.find((r) => r.id === roleParam) ?? (roles.length === 1 ? roles[0] : undefined);
   const planPicks = usePlan(pack?.id ?? '');
-  const planned = useMemo(() => new Set(planPicks.filter((p) => roles.some((r) => r.id === p.roleId)).map((p) => p.id)), [planPicks, roles]);
+  const mine = useCallback((p: { roleId: string; category?: string }) => roles.some((r) => r.id === p.roleId) || (p.roleId === SET_ROLE && p.category === id), [roles, id]);
+  const planned = useMemo(() => new Set(planPicks.filter(mine).map((p) => p.id)), [planPicks, mine]);
   const placeIn = useCallback((role: PackRole, pid: string) => {
     if (!pack) return;
     addPick(pack.id, role.id, pid, role.into, role.qty, true);
@@ -65,12 +67,19 @@ function CategoryView({ id }: { id: string }) {
   const onPlan = useCallback((pid: string) => {
     if (!pack) return;
     if (planned.has(pid)) {
-      for (const p of planPicks) if (p.id === pid && roles.some((r) => r.id === p.roleId)) removePick(pack.id, p.roleId, pid);
+      for (const p of planPicks) if (p.id === pid && mine(p)) removePick(pack.id, p.roleId, pid);
       toast('Removed from the packing plan');
       return;
     }
-    if (pinnedRole) placeIn(pinnedRole, pid); else setRoleChooser(pid);
-  }, [pack, planned, planPicks, roles, pinnedRole, placeIn]);
+    const row = idx?.items.find((r) => r.id === pid);
+    if (pinnedRole && !row?.cv) placeIn(pinnedRole, pid); else setRoleChooser(pid);
+  }, [pack, planned, planPicks, mine, pinnedRole, placeIn, idx]);
+  const chooserRow = roleChooser ? idx?.items.find((r) => r.id === roleChooser) : undefined;
+  const placeAsSet = useCallback((pid: string) => {
+    if (!pack) return;
+    addPick(pack.id, SET_ROLE, pid, pack.compartments[0].id, 1, true, id);
+    toast('Placed as your all-in-one set', { label: 'Open plan', run: () => navigate(`/plan${isDev ? '?dev=1' : ''}`) });
+  }, [pack, id, navigate, isDev]);
 
   const matched = useMemo(() => (idx ? applyFilter(idx, state) : new Uint32Array()), [idx, state]);
   const positions = useMemo(() => (idx ? sortPositions(idx.items, matched, state.sort) : matched), [idx, matched, state.sort]);
@@ -197,6 +206,14 @@ function CategoryView({ id }: { id: string }) {
 
       <Sheet open={roleChooser !== null} onClose={() => setRoleChooser(null)} title="Which job is this organiser for?">
         <ul className="space-y-2">
+          {chooserRow?.cv && pack && (
+            <li>
+              <button type="button" className="card card-hover w-full border-success/40 p-4 text-left" onClick={() => { if (roleChooser) placeAsSet(roleChooser); setRoleChooser(null); }}>
+                <p className="text-[15px] font-extrabold text-display">All-in-one set · covers {chooserRow.cv.r.length} of {pack.roles.length} roles</p>
+                <p className="mt-0.5 text-[13px] text-secondary">Counted once for {pack.roles.filter((r) => chooserRow.cv!.r.includes(r.id)).map((r) => r.label.toLowerCase()).join(', ')} · {COVER_META[chooserRow.cv.t].label.toLowerCase()}</p>
+              </button>
+            </li>
+          )}
           {roles.map((r) => (
             <li key={r.id}>
               <button type="button" className="card card-hover w-full p-4 text-left" onClick={() => { if (roleChooser) placeIn(r, roleChooser); setRoleChooser(null); }}>

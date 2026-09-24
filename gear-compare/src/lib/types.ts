@@ -38,6 +38,8 @@ export interface CategoryMeta {
   priceMax: number;
   /** Listings whose stated dimensions were accepted (so they can be placed in the organiser planner). */
   sized: number;
+  /** Listings whose stated contents cover two or more planner roles (all-in-one set candidates). */
+  sets: number;
 }
 
 /** One space inside the planner's bag. `litres` is the maker-derived budget; `usable` is the conservative share of it we let rigid organisers take. */
@@ -60,6 +62,9 @@ export interface PackBag {
 /** Planner geometry of one listing: stated outer size, how many pieces the set states, and where each number came from.
  *  `v` = litres of the largest stated piece, `n` = stated pieces, `s` = estimated litres of the whole set (largest + graded tail). */
 export interface PackSize { d: [number, number, number]; v: number; n: number; s: number; tier: 'official' | 'listing' | 'claimed'; nTier: FieldTier }
+/** Planner roles a set's *stated contents* cover ("3 cubes + shoe bag + toiletry pouch"), and where the contents
+ *  were read: maker page, marketplace spec row, or only the listing title. Never inferred from a bare piece count. */
+export interface SetCover { r: string[]; t: 'official' | 'listing' | 'claimed' }
 
 export interface Manifest {
   generatedAt: string;
@@ -126,6 +131,7 @@ export interface ProductRow {
   sf: number;     // fields read from the marketplace spec table
   mk: MakerKind;
   pk?: PackSize;  // accepted stated size, for the organiser planner
+  cv?: SetCover;  // multi-piece set: which planner roles its stated contents cover
 }
 
 export interface CategoryData {

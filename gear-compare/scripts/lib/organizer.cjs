@@ -135,6 +135,7 @@ function piecesField({ max = 24, weight = 1, points } = {}) {
     key: 'pieces', label: 'Pieces in the set', group: 'Set', dim: 'specs', weight, title: true,
     listing: ['Number of Contents in Sales Package', 'Pack of', 'Unit Count', 'Number of Items', 'Number of Pieces', 'Sales Package', 'Included Components', 'Set Contents', 'Size'], official: ['set of', 'pieces', 'pcs', 'contents', 'includes', 'pack of', 'number of'],
     parse: (s) => { const n = pieces(s); return n !== null && n <= max ? n : null; }, display: (v) => (v === 1 ? 'Single' : `Set of ${v}`),
+    weak: (v) => v === 1,
     points: points || ((v) => (v >= 6 ? 1 : v >= 3 ? 0.85 : 0.6)),
   };
 }
@@ -217,13 +218,64 @@ function gradedFactor(n) {
   for (let i = 0; i < n; i++) f += Math.max(GRADED_FLOOR, 0.6 ** i);
   return f;
 }
-function packOf(F) {
+// Sites that do not score a piece count still read one from the title (a claim) so a "6 pcs" set is not sized as
+// a single piece.
+function piecesOf(F, ctx) {
+  if (F.pieces && F.pieces.tier !== 'rejected' && F.pieces.value !== null) return { n: F.pieces.value, tier: F.pieces.tier };
+  if (F.pieces && F.pieces.tier === 'rejected') return { n: 1, tier: 'rejected' };
+  const n = ctx ? pieces(ctx.title) : null;
+  return n ? { n, tier: 'claimed' } : { n: 1, tier: 'none' };
+}
+
+function packOf(F, ctx) {
   const d = F.dims && F.dims.tier !== 'rejected' ? F.dims.value : null;
   if (!d) return null;
-  const n = F.pieces && F.pieces.tier !== 'rejected' ? F.pieces.value : 1;
+  const { n, tier: nTier } = piecesOf(F, ctx);
   const v = litresOf(d);
-  return { d, v, n, s: Math.round(v * gradedFactor(n) * 10) / 10, tier: F.dims.tier, nTier: F.pieces ? F.pieces.tier : 'none' };
+  return { d, v, n, s: Math.round(v * gradedFactor(n) * 10) / 10, tier: F.dims.tier, nTier };
+}
+
+// Which packing jobs a set's stated contents cover, read only from words that name a piece ("3 packing cubes,
+// 1 shoe bag, 1 toiletry pouch, 1 laundry bag"). A second shoe bag also covers slippers. Adjectives such as
+// "multipurpose" or "complete travel kit" cover nothing.
+const COVER = [
+  ['clothes', /packing\s*cubes?|\bcubes?\b|clothes?\s*(?:bag|pouch|organi[sz]er|cube)|\bgarment|\bshirt|t-?shirt|trouser|apparel|compression\s*(?:bag|cube|pouch)/i],
+  ['shoes', /shoe|footwear|sneaker/i],
+  ['slippers', /slipper|sandal|flip[-\s]?flop|(?:[2-9]|two|three)\s*(?:x\s*|pcs?\s*|pieces?\s*)?(?:shoe|footwear)/i],
+  ['skincare', /toiletr|cosmetic|makeup|make-up|dopp|skincare|skin\s*care|vanity/i],
+  ['accessories', /cable|charger|electronic|gadget|digital|tech\s*(?:pouch|bag|organi[sz]er|kit)|power\s*bank/i],
+  ['laundry', /laundry|dirty\s*(?:cloth|clothes|wash)|underwear|undergarment|lingerie|innerwear\s*(?:bag|pouch|organi[sz]er)|\bbra\b|socks?\s*(?:bag|pouch|organi[sz]er)/i],
+  ['documents', /passport|document|ticket|wallet|card\s*(?:holder|pouch|case)/i],
+];
+const COVER_KEYS = ['Sales Package', 'Included Components', 'Set Contents', 'Package Contents', 'What is in the box', "What's in the box", 'Items Included', 'Number of Contents in Sales Package', 'Contents', 'Includes', 'Set Includes', 'Pack Contains', 'Kit Contents'];
+function rolesIn(text) {
+  const t = String(text || '');
+  return t ? COVER.filter(([, re]) => re.test(t)).map(([id]) => id) : [];
+}
+// Maker pages run to thousands of characters of usage advice ("slip your passport in the front pocket"); only
+// lines that announce contents are read for what the box holds.
+function contentsLines(text) {
+  return String(text || '').split('\n').filter((l) => /\b(?:set\s*(?:of|includes|contains)|includes?|included|contents?|comes\s*with|in\s*the\s*box|pcs|pieces?|piece\s*set|in\s*1)\b/i.test(l) && l.length < 600).join('\n');
+}
+// Contents are read per tier (spec rows → maker page → title); the tier is the best one that names at least two
+// jobs on its own, the roles are the union. Seller bullets are ignored: they list what a pouch *could* hold, not
+// what the box contains. Only a stated set (2 + pieces, or set wording plus a title naming 3 + kinds of piece) is a
+// candidate, so a single dopp kit whose title mentions cables and a passport is not read as covering three jobs.
+function coverOf(F, ctx) {
+  const kvText = Object.entries(ctx.kv || {}).filter(([k]) => COVER_KEYS.some((c) => k.toLowerCase() === c.toLowerCase())).map(([, v]) => v).join('\n');
+  const byTier = {
+    official: rolesIn(ctx.official ? [ctx.official.title, ...Object.entries(ctx.official.kv || {}).filter(([k]) => COVER_KEYS.some((c) => k.toLowerCase() === c.toLowerCase())).map(([, v]) => v), contentsLines(ctx.official.text)].filter(Boolean).join('\n') : ''),
+    listing: rolesIn(kvText),
+    claimed: rolesIn(ctx.title),
+  };
+  const { n } = piecesOf(F, ctx);
+  const setWords = /\b(?:set|combo|kit\s*of|pcs?|pieces?)\b/i.test(ctx.title);
+  if (n < 2 && !(setWords && byTier.claimed.length >= 3)) return null;
+  const r = [...new Set([...byTier.official, ...byTier.listing, ...byTier.claimed])];
+  if (r.length < 2) return null;
+  const t = byTier.official.length >= 2 ? 'official' : byTier.listing.length >= 2 ? 'listing' : 'claimed';
+  return { r: COVER.map(([id]) => id).filter((id) => r.includes(id)), t };
 }
 
 module.exports = { dimsCm, joinAxes, litresOf, dimsDisplay, pieces, materialOf, materialDisplay, MATERIAL_LABEL, denier, waterStated, count,
-  dimsField, weightField, materialField, denierField, waterField, piecesField, compartmentsField, zipsField, warrantyField, featureField, PROSE, DESCRIPTIVE, packOf, allOf, includer, luggageItself };
+  dimsField, weightField, materialField, denierField, waterField, piecesField, compartmentsField, zipsField, warrantyField, featureField, PROSE, DESCRIPTIVE, packOf, coverOf, rolesIn, allOf, includer, luggageItself };

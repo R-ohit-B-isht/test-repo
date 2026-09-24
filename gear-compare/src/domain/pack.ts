@@ -1,5 +1,5 @@
-import type { PackBag, PackCompartment, PackRole, PackSize, ProductRow } from '../lib/types';
-import type { PlanPick } from '../state/planStore';
+import type { PackBag, PackCompartment, PackRole, PackSize, ProductRow, SetCover } from '../lib/types';
+import { SET_ROLE, type PlanPick } from '../state/planStore';
 
 export type FitStatus = 'fits' | 'tight' | 'over' | 'empty';
 
@@ -28,8 +28,12 @@ export interface CompartmentLoad {
 
 export interface PlanSummary {
   loads: CompartmentLoad[];
-  /** Roles that have no active pick yet. */
+  /** Roles that have no active pick and are not covered by the active all-in-one set. */
   unfilled: PackRole[];
+  /** The active all-in-one set, if one is placed (counted once, whatever it covers). */
+  set: PlacedPick | null;
+  /** Role ids the active set's stated contents cover. */
+  covered: Set<string>;
   status: FitStatus;
   /** Weakest evidence tier among counted sizes: a plan is only as verified as its least-verified size. */
   weakestTier: PackSize['tier'] | null;
@@ -63,15 +67,22 @@ export function summarise(bag: PackBag, picks: PlanPick[], rowOf: (category: str
   }));
   let weakest: PackSize['tier'] | null = null;
   let cost = 0; let sized = 0; let unsized = 0;
+  let set: PlacedPick | null = null;
+  const covered = new Set<string>();
   for (const p of picks) {
     if (!p.active) continue;
-    const role = bag.roles.find((r) => r.id === p.roleId);
-    if (!role) continue;
+    const category = categoryOf(bag, p);
+    if (!category) continue;
     const load = loads.find((l) => l.compartment.id === p.into) ?? loads[0];
-    const row = rowOf(role.category, p.id);
+    const row = rowOf(category, p.id);
     const size = row?.pk ?? null;
     const litres = size ? litresOf(size, p.qty) : null;
-    load.picks.push({ roleId: p.roleId, pick: p, row: row ?? null, litres, size });
+    const placed: PlacedPick = { roleId: p.roleId, pick: p, row: row ?? null, litres, size };
+    load.picks.push(placed);
+    if (p.roleId === SET_ROLE) {
+      set = placed;
+      for (const r of row?.cv?.r ?? []) covered.add(r);
+    }
     if (litres !== null && size) {
       load.used = Math.round((load.used + litres) * 10) / 10;
       sized++;
@@ -87,8 +98,15 @@ export function summarise(bag: PackBag, picks: PlanPick[], rowOf: (category: str
     status = worse(status, l.status);
   }
   const filled = new Set(picks.filter((p) => p.active).map((p) => p.roleId));
-  return { loads, unfilled: bag.roles.filter((r) => !filled.has(r.id)), status, weakestTier: weakest, total: loads.reduce((n, l) => n + l.used, 0), sizedPicks: sized, unsizedPicks: unsized, cost };
+  return {
+    loads, unfilled: bag.roles.filter((r) => !filled.has(r.id) && !covered.has(r.id)), set, covered, status, weakestTier: weakest,
+    total: loads.reduce((n, l) => n + l.used, 0), sizedPicks: sized, unsizedPicks: unsized, cost,
+  };
 }
+
+/** Category a pick's listing lives in: the role's list, or the set's own recorded category. */
+export const categoryOf = (bag: PackBag, p: PlanPick): string | undefined =>
+  p.roleId === SET_ROLE ? p.category : bag.roles.find((r) => r.id === p.roleId)?.category;
 
 const ORDER: FitStatus[] = ['empty', 'fits', 'tight', 'over'];
 const worse = (a: FitStatus, b: FitStatus) => (ORDER.indexOf(b) > ORDER.indexOf(a) ? b : a);
@@ -107,15 +125,17 @@ export const FIT_META: Record<FitStatus, { label: string; tone: 'good' | 'warn' 
 export function autoFill(bag: PackBag, current: PlanPick[], rowsOf: (category: string) => ProductRow[] | undefined): { picks: PlanPick[]; unfilled: PackRole[] } {
   const picks = current.filter((p) => p.active);
   const used = new Map<string, number>();
+  const covered = new Set<string>();
   for (const p of picks) {
-    const role = bag.roles.find((r) => r.id === p.roleId);
-    const row = role ? rowsOf(role.category)?.find((r) => r.id === p.id) : undefined;
+    const category = categoryOf(bag, p);
+    const row = category ? rowsOf(category)?.find((r) => r.id === p.id) : undefined;
     if (row?.pk) used.set(p.into, (used.get(p.into) ?? 0) + litresOf(row.pk, p.qty));
+    if (p.roleId === SET_ROLE) for (const r of row?.cv?.r ?? []) covered.add(r);
   }
   const unfilled: PackRole[] = [];
   const taken = new Set(picks.map((p) => p.id));
   for (const role of bag.roles) {
-    if (picks.some((p) => p.roleId === role.id)) continue;
+    if (covered.has(role.id) || picks.some((p) => p.roleId === role.id)) continue;
     const comp = bag.compartments.find((c) => c.id === role.into) ?? bag.compartments[0];
     const budget = comp.litres * comp.usable - (used.get(comp.id) ?? 0);
     const rows = rowsOf(role.category);
@@ -130,6 +150,68 @@ export function autoFill(bag: PackBag, current: PlanPick[], rowsOf: (category: s
   }
   return { picks: [...current.filter((p) => !p.active), ...picks], unfilled };
 }
+
+/** One all-in-one set candidate: the listing, its list, which roles its stated contents cover and which stay open. */
+export interface SetCandidate {
+  row: ProductRow;
+  category: string;
+  cover: SetCover;
+  covered: PackRole[];
+  missing: PackRole[];
+  /** Fit of the whole set — counted once — against the main compartment's budget; `null` when no accepted size. */
+  fit: FitStatus | null;
+}
+
+const COVER_RANK: Record<SetCover['t'], number> = { official: 0, listing: 1, claimed: 2 };
+
+/**
+ * Every listing across the planner's categories whose stated contents cover ≥ 2 roles, ranked so the user sees the
+ * most complete, best-evidenced sets first: roles covered ↓, contents read from a maker page / spec row before a bare
+ * title, an accepted size before none, then the category score ↓ and price ↑. Price never lifts a set; it only orders ties.
+ */
+export function setCandidate(bag: PackBag, row: ProductRow, category: string): SetCandidate | null {
+  if (!row.cv) return null;
+  const main = bag.compartments[0];
+  const ids = new Set(row.cv.r);
+  const covered = bag.roles.filter((r) => ids.has(r.id));
+  if (covered.length < 2) return null;
+  const fit = row.pk ? statusFor(litresOf(row.pk, 1), 0, main.litres * main.usable, main.litres) : null;
+  return { row, category, cover: row.cv, covered, missing: bag.roles.filter((r) => !ids.has(r.id)), fit };
+}
+
+export function rankSets(bag: PackBag, rowsOf: (category: string) => ProductRow[] | undefined): SetCandidate[] {
+  const seen = new Set<string>();
+  const out: SetCandidate[] = [];
+  for (const category of [...new Set(bag.roles.map((r) => r.category))]) {
+    for (const row of rowsOf(category) ?? []) {
+      if (seen.has(row.id)) continue;
+      seen.add(row.id);
+      const c = setCandidate(bag, row, category);
+      if (c) out.push(c);
+    }
+  }
+  out.sort((a, b) =>
+    b.covered.length - a.covered.length
+    || COVER_RANK[a.cover.t] - COVER_RANK[b.cover.t]
+    || Number(!!b.row.pk && b.row.pk.tier !== 'claimed') - Number(!!a.row.pk && a.row.pk.tier !== 'claimed')
+    || b.row.s - a.row.s
+    || a.row.p - b.row.p);
+  // Colour variants of one set share a title; keep the best-ranked (cheapest at equal score) so the list is not six
+  // copies of the same box.
+  const titles = new Set<string>();
+  return out.filter((c) => {
+    const k = `${c.row.b}|${c.row.m}`.toLowerCase();
+    if (titles.has(k)) return false;
+    titles.add(k);
+    return true;
+  });
+}
+
+export const COVER_META: Record<SetCover['t'], { label: string; tone: 'good' | 'ok' | 'warn' }> = {
+  official: { label: 'Contents read on the maker’s page', tone: 'good' },
+  listing: { label: 'Contents read from the marketplace spec table', tone: 'ok' },
+  claimed: { label: 'Contents named only in the listing title — unverified', tone: 'warn' },
+};
 
 export const litres = (v: number) => `${v % 1 === 0 ? v.toFixed(0) : v.toFixed(1)} L`;
 export const dims = (d: PackSize['d']) => `${d.map((x) => (x % 1 === 0 ? x.toFixed(0) : x.toFixed(1))).join(' × ')} cm`;

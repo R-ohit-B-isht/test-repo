@@ -49,6 +49,7 @@ export default {
     O.warrantyField(),
   ],
   pack: O.packOf,
+  cover: O.coverOf,
   match: { descriptive: O.DESCRIPTIVE, bundleNouns: ['charger', 'cable', 'power bank', 'earphones', 'laptop'], numeric: [] },
   officialProse: O.PROSE,
   facets: [

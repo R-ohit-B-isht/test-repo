@@ -1,7 +1,7 @@
 import { clsx } from 'clsx';
 import { CircleCheck, CircleDashed, TriangleAlert, CircleX } from 'lucide-react';
-import type { PackSize } from '../../lib/types';
-import { FIT_META, litres, type CompartmentLoad, type FitStatus } from '../../domain/pack';
+import type { PackRole, PackSize, SetCover } from '../../lib/types';
+import { COVER_META, FIT_META, litres, type CompartmentLoad, type FitStatus } from '../../domain/pack';
 import { TIER_META, TONE_TEXT } from '../../domain/scoreMeta';
 
 const FIT_ICON = { fits: CircleCheck, tight: TriangleAlert, over: CircleX, empty: CircleDashed } as const;
@@ -22,6 +22,29 @@ export function SizeTier({ size }: { size: PackSize | null }) {
   if (!size) return <span className={clsx('label', TONE_TEXT.muted)}>no accepted size · not counted</span>;
   const t = TIER_META[size.tier];
   return <span className={clsx('label', TONE_TEXT[t.tone])}>size from {t.short}{size.n > 1 ? ` · ${size.n} pcs (${TIER_META[size.nTier].short})` : ''}</span>;
+}
+
+/** Every planner role as a chip: filled when the set's stated contents name a piece for it, dashed when it stays open. */
+export function RoleCoverage({ roles, covered, className }: { roles: PackRole[]; covered: Set<string>; className?: string }) {
+  return (
+    <ul className={clsx('flex flex-wrap gap-1.5', className)} aria-label="Roles covered by this set">
+      {roles.map((r) => {
+        const on = covered.has(r.id);
+        return (
+          <li key={r.id} className={clsx('inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-bold', on ? 'bg-success/10 text-success' : 'border border-dashed border-line-strong text-muted')}>
+            {on ? <CircleCheck size={11} aria-hidden /> : <CircleDashed size={11} aria-hidden />}{r.label}
+            <span className="sr-only">{on ? ' covered' : ' not covered'}</span>
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
+
+/** Where the set's contents were read — the composition is only as trustworthy as its source. */
+export function CoverTier({ cover }: { cover: SetCover }) {
+  const m = COVER_META[cover.t];
+  return <span className={clsx('label', TONE_TEXT[m.tone])}>{m.label}</span>;
 }
 
 /**

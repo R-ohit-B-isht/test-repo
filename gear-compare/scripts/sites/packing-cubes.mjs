@@ -50,6 +50,7 @@ export default {
     O.warrantyField(),
   ],
   pack: O.packOf,
+  cover: O.coverOf,
   match: { descriptive: O.DESCRIPTIVE, bundleNouns: ['suitcase', 'trolley', 'backpack', 'duffel', 'shoes'],
     numeric: [{ label: 'pieces', show: (v) => `${v} pcs`, tol: 0, listing: (l) => O.pieces(l.title), catalog: (c) => O.pieces(c.title) }] },
   officialProse: O.PROSE,

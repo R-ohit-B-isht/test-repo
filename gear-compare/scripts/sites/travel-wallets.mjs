@@ -54,6 +54,7 @@ export default {
     O.warrantyField(),
   ],
   pack: O.packOf,
+  cover: O.coverOf,
   match: { descriptive: O.DESCRIPTIVE, bundleNouns: ['luggage tag', 'suitcase', 'backpack'],
     numeric: [{ label: 'passports', show: (v) => `${v} passports`, tol: 0, listing: (l) => { const m = /(\d{1,2})\s*passports?/i.exec(l.title); return m ? Number(m[1]) : null; }, catalog: (c) => { const m = /(\d{1,2})\s*passports?/i.exec(c.title); return m ? Number(m[1]) : null; } }] },
   officialProse: {

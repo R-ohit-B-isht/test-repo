@@ -1,7 +1,12 @@
 import { useSyncExternalStore } from 'react';
 
-/** One organiser placed in the plan. `active` picks are counted; inactive ones are kept as alternatives to swap in. */
-export interface PlanPick { roleId: string; id: string; qty: number; into: string; active: boolean }
+/**
+ * One organiser placed in the plan. `active` picks are counted; inactive ones are kept as alternatives to swap in.
+ * A pick with `roleId === SET_ROLE` is an all-in-one set: it is counted once, covers every role its stated contents
+ * name, and carries its own `category` because a set can come from any organiser list.
+ */
+export interface PlanPick { roleId: string; id: string; qty: number; into: string; active: boolean; category?: string }
+export const SET_ROLE = 'set';
 export interface Plan { bagId: string; picks: PlanPick[] }
 
 const KEY = 'ledger.pack.plan.v1';
@@ -15,7 +20,7 @@ function read(): Plan | null {
     const p: unknown = JSON.parse(raw);
     if (!p || typeof p !== 'object' || !('picks' in p) || !Array.isArray((p as Plan).picks) || typeof (p as Plan).bagId !== 'string') return null;
     const plan = p as Plan;
-    plan.picks = plan.picks.filter((k) => typeof k.roleId === 'string' && typeof k.id === 'string' && typeof k.into === 'string')
+    plan.picks = plan.picks.filter((k) => typeof k.roleId === 'string' && typeof k.id === 'string' && typeof k.into === 'string' && (k.roleId !== SET_ROLE || typeof k.category === 'string'))
       .map((k) => ({ ...k, qty: Math.max(1, Math.min(9, Math.round(Number(k.qty) || 1))), active: k.active !== false }));
     return plan;
   } catch { return null; }
@@ -38,12 +43,12 @@ const EMPTY: PlanPick[] = [];
 const picksOf = (bagId: string) => (current && current.bagId === bagId ? current.picks : []);
 
 /** Add a listing to a role. The first pick of a role is active; later ones arrive as alternatives unless `activate`. */
-export function addPick(bagId: string, roleId: string, id: string, into: string, qty = 1, activate = false) {
+export function addPick(bagId: string, roleId: string, id: string, into: string, qty = 1, activate = false, category?: string) {
   const picks = picksOf(bagId).filter((p) => !(p.roleId === roleId && p.id === id));
   const hasActive = picks.some((p) => p.roleId === roleId && p.active);
   const active = activate || !hasActive;
   const next = active ? picks.map((p) => (p.roleId === roleId ? { ...p, active: false } : p)) : picks;
-  write({ bagId, picks: [...next, { roleId, id, qty, into, active }] });
+  write({ bagId, picks: [...next, { roleId, id, qty, into, active, ...(category ? { category } : {}) }] });
 }
 
 export function removePick(bagId: string, roleId: string, id: string) {

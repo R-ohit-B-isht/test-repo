@@ -49,6 +49,12 @@ function assertReal(rec, file, site) {
     if (!Array.isArray(k.d) || k.d.length !== 3 || !(k.v > 0) || !(k.n >= 1) || !['official', 'listing', 'claimed'].includes(k.tier)) problems.push('pack');
     if (!rec.evidence.fields.some((f) => f.key === 'dims' && f.tier === k.tier && f.value)) problems.push('pack.dims provenance');
   }
+  if (rec.cover) {
+    const c = rec.cover;
+    const roles = new Set((PACK?.roles || []).map((r) => r.id));
+    if (!Array.isArray(c.r) || c.r.length < 2 || c.r.some((r) => !roles.has(r)) || !['official', 'listing', 'claimed'].includes(c.t)) problems.push('cover');
+    if (c.t === 'official' && !HTTP.test(rec.evidence.official?.url || '')) problems.push('cover official without source');
+  }
   if (problems.length) throw new Error(`${file}: record ${rec.id} missing real fields: ${problems.join(', ')}`);
 }
 
@@ -70,6 +76,9 @@ const manifest = {
 const BENCHMARKS = (await import(pathToFileURL(path.join(DATA, 'benchmarks.js')).href)).default;
 if (!Array.isArray(BENCHMARKS)) throw new Error('benchmarks.js: default export must be an array');
 assertBenchmarkSet(BENCHMARKS, new Set(ALL_SITES.map((s) => s.id)), new Set(SITES.map((s) => s.id)));
+
+const packFile = path.join(DATA, 'pack.mjs');
+const PACK = fs.existsSync(packFile) ? (await import(pathToFileURL(packFile).href)).default : null;
 
 let grandTotal = 0;
 for (const site of SITES) {
@@ -101,6 +110,7 @@ for (const site of SITES) {
       img: rec.images[0], q: rec.lines.q, f: rec.lines.f, r: rec.rating, rc: rec.ratingCount, t,
       ev: rec.evidence.status, vf: rec.evidence.counts.official, sf: rec.evidence.counts.listing, mk: rec.evidence.maker.kind,
       ...(rec.pack ? { pk: rec.pack } : {}),
+      ...(rec.cover ? { cv: rec.cover } : {}),
     });
     details[shardOf(rec.id)][rec.id] = {
       title: rec.title, images: rec.images, buyUrl: rec.buyUrl, buyStore: rec.buyStore, tags: rec.tags, evidence: rec.evidence, listingSpec: rec.listingSpec,
@@ -125,6 +135,7 @@ for (const site of SITES) {
     fields: site.fields.map((f) => ({ key: f.key, label: f.label, group: f.group, dim: f.dim })),
     priceMax: Math.max(...items.map((x) => x.p)),
     sized: items.filter((x) => x.pk).length,
+    sets: items.filter((x) => x.cv).length,
   });
   grandTotal += items.length;
   const bench = BENCHMARKS.find((b) => b.category === site.id);
@@ -139,9 +150,8 @@ manifest.total = grandTotal;
 manifest.groupOrder = GLOBAL_GROUPS;
 
 // The organiser planner ships only when every role's category is in this build (data/pack.mjs → manifest.pack).
-const packFile = path.join(DATA, 'pack.mjs');
-if (fs.existsSync(packFile)) {
-  const pack = (await import(pathToFileURL(packFile).href)).default;
+if (PACK) {
+  const pack = PACK;
   const ids = new Set(SITES.map((s) => s.id));
   const problems = [];
   if (!HTTP.test(pack.maker?.url || '') || !pack.maker?.label) problems.push('maker');
@@ -158,7 +168,7 @@ if (fs.existsSync(packFile)) {
   const missing = pack.roles.filter((r) => !ids.has(r.category)).map((r) => r.category);
   if (!missing.length) {
     manifest.pack = pack;
-    const sized = manifest.categories.filter((c) => pack.roles.some((r) => r.category === c.id)).map((c) => `${c.id} ${c.sized}/${c.count} sized`).join(' · ');
+    const sized = manifest.categories.filter((c) => pack.roles.some((r) => r.category === c.id)).map((c) => `${c.id} ${c.sized}/${c.count} sized, ${c.sets} multi-role sets`).join(' · ');
     console.log(`pack planner: ${pack.brand} ${pack.name} → ${pack.roles.length} roles; ${sized}`);
   } else console.log(`pack planner skipped: categories not in this build → ${[...new Set(missing)].join(', ')}`);
 }
