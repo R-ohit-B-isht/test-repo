@@ -12,6 +12,12 @@ import electricLighters from './benchmarks/electric-lighters.js';
 import trekkingShoes from './benchmarks/trekking-shoes.js';
 import trekkingBackpacks from './benchmarks/trekking-backpacks.js';
 import pinkTumblers from './benchmarks/pink-tumblers.js';
+import packingCubes from './benchmarks/packing-cubes.js';
+import shoeBags from './benchmarks/shoe-bags.js';
+import toiletryBags from './benchmarks/toiletry-bags.js';
+import techPouches from './benchmarks/tech-pouches.js';
+import laundryBags from './benchmarks/laundry-bags.js';
+import travelWallets from './benchmarks/travel-wallets.js';
 
 export default [
   powerBanks,
@@ -23,4 +29,10 @@ export default [
   trekkingShoes,
   trekkingBackpacks,
   pinkTumblers,
+  packingCubes,
+  shoeBags,
+  toiletryBags,
+  techPouches,
+  laundryBags,
+  travelWallets,
 ];

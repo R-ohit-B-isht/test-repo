@@ -11,6 +11,7 @@ const FAMILIES: { key: FamilyKey; sub: string }[] = [
   { key: 'kitchen', sub: 'Cooktops, blenders, lighters — rated power, materials and safety marks read from where they are published.' },
   { key: 'drinkware', sub: 'Tumblers and bottles — capacity, insulation construction and food-grade materials as the maker declares them.' },
   { key: 'outdoor', sub: 'Trekking shoes and packs — sole, upper, closure, volume and weight from the maker\u2019s own spec sheet.' },
+  { key: 'travel', sub: 'Packing cubes, shoe and toiletry bags, tech pouches, laundry bags, travel wallets — stated size, material, water resistance and set contents, only where a maker page or spec table publishes them.' },
 ];
 
 /** Manifest family labels are upper-case badge text; headings read better in sentence case. */

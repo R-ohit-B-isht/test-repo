@@ -30,7 +30,7 @@ const listings = fs.existsSync(listingsFile) ? JSON.parse(fs.readFileSync(listin
 
 const labels = labelPatterns(site);
 const prose = site.officialProse || {};
-const brandName = (m) => listings.find((l) => m.brand.test(l.brand))?.brand ?? m.brand.source.replace(/[\^$()?:|\\]/g, '');
+const brandName = (m) => m.name ?? listings.find((l) => m.brand.test(l.brand))?.brand ?? m.brand.source.replace(/[\^$()?:|\\]/g, '');
 const listingCount = (m) => listings.filter((l) => m.brand.test(l.brand)).length;
 
 function catalogueFor(m) {
@@ -42,7 +42,9 @@ function catalogueFor(m) {
 
 const catalog = [];
 for (const m of makers) {
-  if (!listingCount(m)) {
+  // `always` makers are crawled even with no marketplace listing of the brand: their catalogue is listed directly
+  // as brand-store rows (sites with `brandStore: true`).
+  if (!m.always && !listingCount(m)) {
     console.log(`${m.base.padEnd(40)} ${m.kind.padEnd(8)} → skipped, no ${site.unit} listings carry this brand`);
     continue;
   }
@@ -61,6 +63,7 @@ for (const m of makers) {
       text = `${b.text}\n${text}`;
     }
     if (!text) text = page.text;
+    if (p.grams) kv['Weight (store variant)'] ??= `${p.grams} g`;
     // The maker's own product name is part of its published statement ("… (2000 W, Rose Gold)").
     text = `${p.title}\n${text}`;
     for (const [k, fn] of Object.entries(prose)) {
@@ -77,6 +80,7 @@ for (const m of makers) {
       maker: m.base, region: m.region, brand: brandName(m),
       title: p.title, url: p.url, handle: p.handle, variants: p.variants, kv, specKeys: known.length, fetchedAt: today(),
       ctn: p.ctn, ambiguousBase: p.ambiguousBase, image: p.image,
+      ...(p.price !== undefined ? { price: p.price, available: p.available, grams: p.grams } : {}),
       text: text.slice(0, 8000),
     });
   }

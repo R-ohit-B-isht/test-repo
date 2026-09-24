@@ -53,7 +53,11 @@ export default function HomePage() {
             <p className="mt-4 text-[12px] text-muted">{totals.flipkart.toLocaleString('en-IN')} Flipkart · {totals.amazon.toLocaleString('en-IN')} Amazon.in · captured {m.generatedAt.slice(0, 10)}</p>
           </div>
         )}>
-        <a href="#categories-h" className="btn btn-accent h-12 px-6 no-underline">Browse categories</a>
+        {m.pack ? (
+          <AppLink to="/plan" className="btn btn-accent h-12 px-6 no-underline">Plan the {m.pack.brand} bag <ArrowRight size={14} /></AppLink>
+        ) : (
+          <a href="#categories-h" className="btn btn-accent h-12 px-6 no-underline">Browse categories</a>
+        )}
         {first && <AppLink to={`/c/${first.id}`} className="btn h-12 px-6">{first.label} <ArrowRight size={14} /></AppLink>}
       </Hero>
 

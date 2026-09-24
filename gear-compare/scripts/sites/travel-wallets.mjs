@@ -1,0 +1,74 @@
+// Passport / document organisers — the small item that lives in the detachable day pack, not the main bag.
+import { createRequire } from 'node:module';
+const require = createRequire(import.meta.url);
+const O = require('../lib/organizer.cjs');
+
+export default {
+  id: 'travel-wallets',
+  label: 'Passport & document organisers',
+  kicker: 'DOCUMENTS',
+  family: 'travel',
+  brandStore: true,
+  collapseVariants: true,
+  unit: 'travel wallet',
+  blurb: 'Passport holders, family document organisers, travel wallets and neck pouches on Flipkart and Amazon.in — scored on stated size, material, passport and card capacity, RFID-blocking, closure, pen / SIM slots, water resistance and weight read from the spec table or maker page; "premium genuine" in the title alone earns nothing.',
+  sources: { flipkart: ['org_fk_pages.0.json', 'org_fk_pages.1.json', 'org_fk_pages.2.json', 'org_fk_pages.3.json', 'org_fk_pages.4.json'], amazon: ['org_amz_pages.json', 'org_amz_pages.rev.json', 'org_amz_pages.mid.json'] },
+  include: O.includer({
+    hard: /packing\s*cubes?|compression\s*cubes?|file\s*folder|a4\s*(?:file|folder|bag)\b(?!.*(?:travel|passport))|certificate\s*(?:folder|holder|bag)|office\s*(?:file|folder|bag)|ring\s*binder|expanding\s*file|clipboard|display\s*book|zipper\s*file\s*bag\b(?!.*(?:travel|passport))|conference|laptop|handbag|key\s*(?:chain|ring|holder)\b(?!.*passport)|cheque\s*book|photo\s*album|stamp|ticket\s*(?:folder|book)\b(?!.*passport)|luggage\s*tag\s*(?:set|only)?\b(?!.*(?:passport|holder))/i,
+    strong: /passport\s*(?:holders?|covers?|wallets?|organi[sz]ers?|cases?|pouch(?:es)?|sleeves?)|travel\s*(?:wallets?|document\s*(?:holders?|organi[sz]ers?|bags?|pouch(?:es)?|folders?|cases?)|neck\s*(?:pouch|wallet))|(?:travel|passport).*documents?\s*(?:organi[sz]ers?|holders?|bags?|pouch(?:es)?)|neck\s*(?:pouch|wallet)|money\s*belt|rfid\s*(?:travel\s*)?(?:wallet|pouch|organi)/i,
+    weak: /documents?\s*(?:organi[sz]ers?|holders?|bags?|pouch(?:es)?|wallets?)\b.*(?:travel|passport)/i,
+    soft: /phone\s*(?:case|cover|pouch)|mobile\s*(?:case|cover|pouch)|sling\s*bag|crossbody\s*bag|clutch|men'?s?\s*wallet|women'?s?\s*wallet|card\s*holder|lanyard|id\s*card\s*holder|shoe|toiletr|cosmetic|makeup|packing\s*cube|laundry|cable/i,
+  }),
+  deriveKv: (kv) => { const j = O.joinAxes(kv); return j ? { Dimensions: kv.Dimensions || j } : {}; },
+  segment: {
+    key: 'seg', label: 'Type',
+    options: [
+      { id: 'family', label: 'Family organiser · 2 + passports' },
+      { id: 'cover', label: 'Single passport cover / wallet' },
+      { id: 'neck', label: 'Neck pouch / money belt' },
+    ],
+    of: (F) => (F.kind && F.kind.value === 'neck' ? 'neck' : F.passports && F.passports.value >= 2 ? 'family' : 'cover'),
+  },
+  fields: [
+    { key: 'kind', label: 'Style', group: 'Type', dim: 'specs', weight: 0, title: true,
+      listing: ['Type', 'Style', 'Product Type', 'Item Type Name'], official: ['type', 'style'],
+      parse: (s) => (/neck\s*(?:pouch|wallet)|money\s*belt|waist\s*(?:pouch|belt)|hidden/i.test(s) ? 'neck' : /family|multi\s*passport|\d\s*passports?/i.test(s) ? 'family' : /passport|wallet|holder|cover/i.test(s) ? 'cover' : null), display: (v) => ({ neck: 'Neck pouch / money belt', family: 'Family organiser', cover: 'Passport cover / wallet' })[v] },
+    O.dimsField({ weight: 2.5, minL: 0.05, maxL: 3, side: [1, 30], note: 'travel wallet' }),
+    O.materialField({ weight: 2, best: ['leather', 'nylon'], good: ['pu', 'polyester', 'canvas'] }),
+    { key: 'passports', label: 'Passport slots', group: 'Capacity', dim: 'specs', weight: 2, title: true,
+      listing: ['Passport Slots', 'Number of Passports', 'Passport Capacity', 'Number of Compartments', 'Capacity', 'Additional Features', 'Special Feature'], official: ['passport', 'passports', 'holds'],
+      parse: (s) => { const m = /(\d{1,2})\s*(?:x\s*)?passports?/i.exec(s) || /(?:holds?|fits?|for)\s*(?:up\s*to\s*)?(\d{1,2})\s*(?:passports?|people|family)/i.exec(s); if (m) { const n = Number(m[1]); return n >= 1 && n <= 12 ? n : null; } return /passport/i.test(s) && /^\s*\d{1,2}\s*$/.test(s) ? null : null; },
+      display: (v) => `${v} passport${v > 1 ? 's' : ''}`, points: (v) => (v >= 4 ? 1 : v >= 2 ? 0.85 : 0.6) },
+    { key: 'cards', label: 'Card slots', group: 'Capacity', dim: 'specs', weight: 1, title: true,
+      listing: ['Card Slots', 'Number of Card Slots', 'Card Slot', 'Number of Cards', 'Additional Features'], official: ['card slots', 'cards'],
+      parse: (s) => { const m = /(\d{1,2})\s*(?:credit\s*|debit\s*)?cards?\s*(?:slots?|pockets?|holders?)?/i.exec(s) || /cards?\s*slots?\s*[:-]?\s*(\d{1,2})/i.exec(s); if (m) { const n = Number(m[1]); return n >= 1 && n <= 30 ? n : null; } return O.count(s, 30); },
+      display: (v) => `${v}`, points: (v) => (v >= 6 ? 1 : v >= 3 ? 0.8 : 0.6) },
+    O.featureField('pen', 'Pen / SIM / boarding-pass slot', 'Organisation', /pen\s*(?:holder|loop|slot)|sim\s*(?:card\s*)?(?:slot|holder)|boarding\s*pass|ticket\s*(?:slot|pocket)/i, { weight: 1, listing: ['Pen Holder', 'SIM Card Slot', 'Additional Features', 'Other Features', 'Special Feature', 'Other Special Features of the Product'], official: ['pen', 'sim', 'boarding pass'], noPts: 0.4 }),
+    { key: 'closure', label: 'Closure', group: 'Organisation', dim: 'specs', weight: 1, title: true,
+      listing: ['Closure', 'Closure Type', 'Fastening'], official: ['closure', 'zip', 'button', 'magnetic'],
+      parse: (s) => (/zip/i.test(s) ? 'zip' : /snap|button|press|magnet/i.test(s) ? 'snap' : /elastic|band|strap/i.test(s) ? 'elastic' : /fold|open|no\s*closure/i.test(s) ? 'open' : null), display: (v) => ({ zip: 'Zip-around', snap: 'Snap / magnetic', elastic: 'Elastic band', open: 'Bi-fold, no closure' })[v], points: (v) => (v === 'zip' ? 1 : v === 'snap' ? 0.8 : v === 'elastic' ? 0.7 : 0.5) },
+    O.featureField('strap', 'Neck / wrist strap', 'Organisation', /neck\s*strap|lanyard|wrist\s*strap|adjustable\s*strap|shoulder\s*strap/i, { weight: 0.5, listing: ['Strap', 'Additional Features', 'Other Features'], official: ['strap', 'lanyard'], noPts: 0.6 }),
+    O.weightField({ min: 15, max: 800, light: 120, mid: 250 }),
+    O.featureField('rfid', 'RFID-blocking stated', 'Protection', /rfid|nfc\s*block|anti[-\s]?theft\s*scan|skimming/i, { dim: 'safety', weight: 3, listing: ['RFID', 'RFID Blocking', 'RFID Protection', 'Security Features', 'Additional Features', 'Other Features', 'Special Feature', 'Other Special Features of the Product'], official: ['rfid', 'skimming'], noPts: 0.2 }),
+    O.waterField({ dim: 'safety', weight: 2 }),
+    O.warrantyField(),
+  ],
+  pack: O.packOf,
+  match: { descriptive: O.DESCRIPTIVE, bundleNouns: ['luggage tag', 'suitcase', 'backpack'],
+    numeric: [{ label: 'passports', show: (v) => `${v} passports`, tol: 0, listing: (l) => { const m = /(\d{1,2})\s*passports?/i.exec(l.title); return m ? Number(m[1]) : null; }, catalog: (c) => { const m = /(\d{1,2})\s*passports?/i.exec(c.title); return m ? Number(m[1]) : null; } }] },
+  officialProse: {
+    ...O.PROSE,
+    'passports (page text)': (t) => { const m = /(\d{1,2})\s*passports?/i.exec(t) || /(?:holds?|fits?)\s*(?:up\s*to\s*)?(\d{1,2})\s*passports?/i.exec(t); return m ? `${m[1]} passports` : null; },
+    'rfid (page text)': (t) => (/rfid/i.test(t) ? 'RFID blocking' : null),
+  },
+  facets: [
+    { group: 'mat', label: 'Material', hint: '', of: (F) => (F.material ? F.material.value : null), labels: O.MATERIAL_LABEL },
+    { group: 'fx', label: 'Features', hint: 'Stated', multi: true, of: (F) => [F.rfid && F.rfid.value ? 'rfid' : null, F.closure && F.closure.value === 'zip' ? 'zip' : null, F.pen && F.pen.value ? 'pen' : null, F.water && F.water.value ? 'water' : null, F.dims && F.dims.tier !== 'rejected' ? 'dims' : null].filter(Boolean),
+      labels: { rfid: 'RFID-blocking', zip: 'Zip-around', pen: 'Pen / SIM slot', water: 'Water-resistant stated', dims: 'Dimensions stated' } },
+  ],
+  featured: ['seg:family', 'seg:cover', 'seg:neck', 'fx:rfid', 'fx:zip', 'fx:dims', 'mat:leather', 'mat:nylon', 'mat:pu', 'ev:official', 'maker:india'],
+  lines: {
+    q: (F) => [F.passports ? F.passports.display : null, F.cards ? `${F.cards.display} card slots` : null, F.material ? F.material.display.split(' /')[0] : null].filter(Boolean).join(' · '),
+    f: (F) => [F.rfid && F.rfid.value ? 'RFID-blocking' : null, F.closure ? F.closure.display.toLowerCase() : null, F.dims && F.dims.tier !== 'rejected' ? `${F.dims.value.join(' × ')} cm` : null, F.weight && F.weight.tier !== 'rejected' ? F.weight.display : null].filter(Boolean).join(' · '),
+  },
+};

@@ -154,6 +154,24 @@ const MAKERS = [
   [['osprey'], 'Osprey Packs (Helen of Troy)', 'global', 'https://www.osprey.com/about-osprey', 'https://www.osprey.com'],
   [['deuter'], 'Deuter Sport GmbH', 'global', 'https://www.deuter.com/int-en/about-deuter', 'https://www.deuter.com'],
   [['fjallraven', 'fjällräven'], 'Fjällräven (Fenix Outdoor)', 'global', 'https://www.fjallraven.com/about-fjallraven', 'https://www.fjallraven.com'],
+  // Travel organisers — legal entity read from the store's own about / terms / privacy page (2026-09-24)
+  [['mokobara'], 'Mokobara Lifestyle Pvt Ltd', 'd2c', 'https://mokobara.com/pages/about-us', 'https://mokobara.com'],
+  [['nasher miles', 'nashermiles'], 'Nasher Miles Pvt Ltd', 'india', 'https://nashermiles.com/pages/about-us', 'https://nashermiles.com'],
+  [['zouk'], 'Sea Turtle Pvt Ltd (Zouk)', 'd2c', 'https://zouk.co.in/pages/about-us', 'https://zouk.co.in'],
+  [['wildhorn', 'wild horn'], 'WildHorn (own storefront, wildhorn.in)', 'd2c', 'https://www.wildhorn.in/pages/about-us', 'https://www.wildhorn.in'],
+  [['house of quirk', 'houseofquirk', 'the house of quirk'], 'Innovent Ecom LLP (House of Quirk)', 'd2c', 'https://www.houseofquirk.com/pages/about-us', 'https://www.houseofquirk.com'],
+  [['storite'], 'Saitech IT Pvt Ltd (Storite)', 'd2c', 'https://storite.in/pages/contact-us', 'https://storite.in'],
+  [['hammonds flycatcher'], 'Hammonds Flycatcher (own storefront)', 'd2c', 'https://www.hammondsflycatcher.com/pages/about-us', 'https://www.hammondsflycatcher.com'],
+  [['arctic fox', 'arcticfox'], 'Outshiny India Pvt Ltd (Arctic Fox)', 'd2c', 'https://arcticfox.com/pages/about-us', 'https://arcticfox.com'],
+  [['assembly'], 'Dismantle Digital Pvt Ltd (Assembly)', 'd2c', 'https://assemblytravel.com/pages/about-us', 'https://assemblytravel.com'],
+  [['nappa dori', 'nappadori'], 'Nappa Dori Pvt Ltd', 'd2c', 'https://www.nappadori.com/pages/about-us', 'https://www.nappadori.com'],
+  [['chumbak'], 'Chumbak Design Pvt Ltd', 'india', 'https://www.chumbak.com/pages/our-story', 'https://www.chumbak.com'],
+  [['teakwood', 'teakwood leathers'], 'Teakwood Leathers (own storefront)', 'd2c', 'https://teakwoodleathers.com/pages/about-us', 'https://teakwoodleathers.com'],
+  [['hokipo'], 'Hokipo (own storefront, hokipo.in)', 'd2c', 'https://hokipo.in/pages/about-us', 'https://hokipo.in'],
+  [['lavie', 'lavie sport'], 'Bagzone Lifestyles Pvt Ltd (Lavie)', 'india', 'https://www.lavieworld.com/pages/about-us', 'https://www.lavieworld.com'],
+  [['eagle creek'], 'Eagle Creek (eaglecreek.com, US storefront)', 'global', 'https://eaglecreek.com/pages/about-us', 'https://eaglecreek.com'],
+  [['bagsmart'], 'BAGSMART (global storefront)', 'global', 'https://www.bagsmart.com/pages/about-us', 'https://www.bagsmart.com'],
+  [['dailyobjects', 'daily objects'], 'Firki Wholesale Pvt Ltd (DailyObjects)', 'd2c', 'https://www.dailyobjects.com/about-us', 'https://www.dailyobjects.com'],
 ];
 
 const norm = (s) => String(s || '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();

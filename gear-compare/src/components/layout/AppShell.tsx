@@ -54,7 +54,9 @@ export function AppShell() {
     return () => { cancelled = true; };
   }, [pathname, manifest.status]);
   /** One nav link per category, straight from the manifest — the nav grows as categories are added. */
-  const links = manifest.status === 'ready' ? [...NAV, ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))] : NAV;
+  const links = manifest.status === 'ready'
+    ? [...NAV, ...(manifest.data.pack ? [{ to: '/plan', label: `${manifest.data.pack.brand} packing plan`, short: 'Plan', end: false }] : []), ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))]
+    : NAV;
   const official = manifest.status === 'ready' ? manifest.data.categories.reduce((n, c) => n + c.evidence.official, 0) : 0;
   return (
     <div className="min-h-dvh">

@@ -59,7 +59,8 @@ const same = (a, b) => (Array.isArray(a) ? JSON.stringify([...a].sort()) === JSO
 
 /**
  * @param {object} site        site schema (fields, ...)
- * @param {object} src         { official: {kv,url,title,matchScore,region,fetchedAt} | null, listing: kv | null, text: string (title + seller bullets) }
+ * @param {object} src         { official: {kv,text?,url,title,matchScore,region,fetchedAt} | null, listing: kv | null, text: string (title + seller bullets) }
+ * Fields with a `prose` reader may also take a value from the maker page's own text (tier official) when no kv row states it.
  * @returns {{ fields: object[], counts: object, status: string }}
  */
 function resolveFields(site, src) {
@@ -69,7 +70,8 @@ function resolveFields(site, src) {
     let tier = 'none';
     let conflict = null;
     let reason = null;
-    const offVal = src.official ? firstParsed(officialCandidates(src.official.kv, f.official || [f.label]), f.parse) : null;
+    let offVal = src.official ? firstParsed(officialCandidates(src.official.kv, f.official || [f.label]), f.parse) : null;
+    if (offVal === null && f.prose && src.official && src.official.text) offVal = f.prose(src.official.text);
     const lstVal = firstParsed(listingCandidates(src.listing, f.listing || []), f.parse);
     if (offVal !== null) {
       value = offVal; tier = 'official';

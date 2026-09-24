@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { useJson, type Loaded } from './fetchJson';
+import { useJson, useJsonMany, type Loaded } from './fetchJson';
 import type { CategoryData, Manifest, ProductDetail } from '../lib/types';
 import { buildIndex, type CategoryIndex } from '../domain/index';
 
@@ -31,4 +31,15 @@ export function useDetail(category: string, productId: string | null, shards: nu
     const d = shard.data[productId];
     return d ? { status: 'ready', data: d } : { status: 'error', error: 'Listing detail not found in data shard' };
   }, [shard, productId]);
+}
+
+/** All categories the organiser planner draws from, indexed once each. */
+export function useCategories(ids: string[]): Loaded<Record<string, CategoryIndex>> {
+  const raw = useJsonMany<CategoryData>(ids.map((id) => `${BASE}${id}.json`));
+  return useMemo<Loaded<Record<string, CategoryIndex>>>(() => {
+    if (raw.status !== 'ready') return raw;
+    const out: Record<string, CategoryIndex> = {};
+    for (const id of ids) out[id] = buildIndex(raw.data[`${BASE}${id}.json`]);
+    return { status: 'ready', data: out };
+  }, [raw, ids]);
 }

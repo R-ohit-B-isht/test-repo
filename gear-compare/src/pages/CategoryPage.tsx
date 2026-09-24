@@ -1,7 +1,8 @@
 import { useCallback, useMemo, useState } from 'react';
-import { useNavigate, useParams } from 'react-router-dom';
-import { ChevronLeft } from 'lucide-react';
+import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { ChevronLeft, PackageCheck } from 'lucide-react';
 import { toast } from '../state/toastStore';
+import { addPick, removePick, usePlan } from '../state/planStore';
 import type { ViewState } from '../state/useFilterState';
 import { useCategory, useManifest } from '../data/hooks';
 import { applyFilter, liveCountsByGroup } from '../domain/filter';
@@ -21,7 +22,7 @@ import { ProductSheet } from '../components/category/ProductSheet';
 import { CompareTray } from '../components/category/CompareTray';
 import { BenchmarkCard } from '../components/category/BenchmarkCard';
 import { EvidenceStrip } from '../components/category/EvidenceStrip';
-import type { CategoryMeta } from '../lib/types';
+import type { CategoryMeta, PackRole } from '../lib/types';
 import { groupsFor } from '../lib/format';
 import { segmentResolver } from '../domain/index';
 
@@ -40,12 +41,36 @@ function CategoryView({ id }: { id: string }) {
   const [compare, setCompare] = useState<string[]>([]);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [compareOpen, setCompareOpen] = useState(false);
+  const [roleChooser, setRoleChooser] = useState<string | null>(null);
   const navigate = useNavigate();
+  const [params] = useSearchParams();
 
   const meta: CategoryMeta | undefined = manifest.status === 'ready' ? manifest.data.categories.find((c) => c.id === id) : undefined;
   const bench = manifest.status === 'ready' ? manifest.data.benchmarks.find((b) => b.category === id) : undefined;
   const idx = cat.status === 'ready' ? cat.data : null;
   const groups = useMemo(() => (manifest.status === 'ready' ? groupsFor(manifest.data.groups, id) : {}), [manifest, id]);
+
+  // Organiser planner hook-up: only when this category feeds a packing role. `?role=` (arriving from the plan page) pins which role a pick lands in.
+  const pack = manifest.status === 'ready' ? manifest.data.pack : undefined;
+  const roles = useMemo(() => pack?.roles.filter((r) => r.category === id) ?? [], [pack, id]);
+  const roleParam = params.get('role');
+  const pinnedRole = roles.find((r) => r.id === roleParam) ?? (roles.length === 1 ? roles[0] : undefined);
+  const planPicks = usePlan(pack?.id ?? '');
+  const planned = useMemo(() => new Set(planPicks.filter((p) => roles.some((r) => r.id === p.roleId)).map((p) => p.id)), [planPicks, roles]);
+  const placeIn = useCallback((role: PackRole, pid: string) => {
+    if (!pack) return;
+    addPick(pack.id, role.id, pid, role.into, role.qty, true);
+    toast(`Placed for ${role.label.toLowerCase()}`, { label: 'Open plan', run: () => navigate(`/plan${isDev ? '?dev=1' : ''}`) });
+  }, [pack, navigate, isDev]);
+  const onPlan = useCallback((pid: string) => {
+    if (!pack) return;
+    if (planned.has(pid)) {
+      for (const p of planPicks) if (p.id === pid && roles.some((r) => r.id === p.roleId)) removePick(pack.id, p.roleId, pid);
+      toast('Removed from the packing plan');
+      return;
+    }
+    if (pinnedRole) placeIn(pinnedRole, pid); else setRoleChooser(pid);
+  }, [pack, planned, planPicks, roles, pinnedRole, placeIn]);
 
   const matched = useMemo(() => (idx ? applyFilter(idx, state) : new Uint32Array()), [idx, state]);
   const positions = useMemo(() => (idx ? sortPositions(idx.items, matched, state.sort) : matched), [idx, matched, state.sort]);
@@ -120,6 +145,16 @@ function CategoryView({ id }: { id: string }) {
           </dl>
         </div>
         <EvidenceStrip evidence={meta.evidence} total={idx.items.length} selected={state.tags} onToggle={toggleTag} />
+        {pack && roles.length > 0 && (
+          <p className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-line bg-surface px-4 py-2.5 text-[13px] text-secondary">
+            <PackageCheck size={15} className="shrink-0 text-accent" aria-hidden />
+            <span>
+              {pinnedRole && roleParam ? <>Picking <strong className="text-display">{pinnedRole.label.toLowerCase()}</strong> for the {pack.brand} plan</> : <>Feeds the {pack.brand} packing plan ({roles.map((r) => r.label.toLowerCase()).join(' · ')})</>}
+              {' · '}{meta.sized.toLocaleString('en-IN')} of {idx.items.length.toLocaleString('en-IN')} state a size we accepted{planned.size ? ` · ${planned.size} in your plan` : ''}
+            </span>
+            <AppLink to="/plan" className="ml-auto font-bold text-accent no-underline hover:underline">Open plan →</AppLink>
+          </p>
+        )}
       </header>
 
       <div className="glass sticky top-16 z-30 -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
@@ -141,7 +176,8 @@ function CategoryView({ id }: { id: string }) {
           {positions.length === 0 ? (
             <EmptyResults idx={idx} groups={groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAllWithUndo} />
           ) : (
-            <ProductList idx={idx} segment={meta.segment} positions={positions} compare={compare} compareMax={COMPARE_MAX} onOpen={onOpen} onCompare={onCompare} />
+            <ProductList idx={idx} segment={meta.segment} positions={positions} compare={compare} compareMax={COMPARE_MAX} onOpen={onOpen} onCompare={onCompare}
+              plan={pack && roles.length ? { planned, onPlan } : undefined} />
           )}
         </div>
       </div>
@@ -157,6 +193,19 @@ function CategoryView({ id }: { id: string }) {
         }>
         <p className="mb-3 text-[12px] text-muted">Any within a group · all groups together</p>
         {panel}
+      </Sheet>
+
+      <Sheet open={roleChooser !== null} onClose={() => setRoleChooser(null)} title="Which job is this organiser for?">
+        <ul className="space-y-2">
+          {roles.map((r) => (
+            <li key={r.id}>
+              <button type="button" className="card card-hover w-full p-4 text-left" onClick={() => { if (roleChooser) placeIn(r, roleChooser); setRoleChooser(null); }}>
+                <p className="text-[15px] font-extrabold text-display">{r.label}</p>
+                <p className="mt-0.5 text-[13px] text-secondary">{r.what} · default: {r.into === 'main' ? 'main body' : 'day pack'}</p>
+              </button>
+            </li>
+          ))}
+        </ul>
       </Sheet>
 
       <ProductSheet category={id} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} segment={segmentOf(openRow?.t ?? [])} weights={m.weights} tiers={m.tiers} onClose={() => setOpenId(null)} />

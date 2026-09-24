@@ -5,6 +5,7 @@ import { StatusBlock } from './components/ui/primitives';
 
 const HomePage = lazy(() => import('./pages/HomePage'));
 const CategoryPage = lazy(() => import('./pages/CategoryPage'));
+const PlanPage = lazy(() => import('./pages/PlanPage'));
 
 export function App() {
   return (
@@ -14,6 +15,7 @@ export function App() {
           <Route index element={<Suspense fallback={<StatusBlock title="Loading…" />}><HomePage /></Suspense>} />
           <Route path="products" element={<Navigate to="/" replace />} />
           <Route path="c/:id" element={<Suspense fallback={<StatusBlock title="Loading…" />}><CategoryPage /></Suspense>} />
+          <Route path="plan" element={<Suspense fallback={<StatusBlock title="Loading…" />}><PlanPage /></Suspense>} />
           <Route path="*" element={<StatusBlock title="Page not found" body="That route does not exist on this site." />} />
         </Route>
       </Routes>

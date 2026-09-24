@@ -37,6 +37,14 @@ const COLOURS = new Set(['black', 'white', 'blue', 'red', 'grey', 'gray', 'green
 const DESCRIPTIVE = new Set(['with', 'and', 'for', 'the', 'of', 'in', 'to', 'by', 'or', 'fast', 'pocket', 'size', 'portable', 'new', 'edition', 'series', 'na', 'n', 'a', ...COLOURS,
   'men', 'mens', 'women', 'womens', 'unisex', 'kids', 'boys', 'girls', 'premium', 'professional', 'original', 'best', 'super', 'superfast', 'digital', 'smart', 'built', 'led', 'display',
   ...(site.match?.descriptive || [])]);
+// A model "name" made only of materials / marketing words ("leather", "pu", "s") names nothing; such listings can
+// still match on a model number, or when their title begins with the maker's full product title.
+const GENERIC_NAME = new Set(['leather', 'pu', 'nylon', 'polyester', 'canvas', 'cotton', 'waterproof', 'travel', 'set', 'pack', 'pcs', 'pc', 'piece', 'pieces', 'mesh', 'clear', 'transparent']);
+const weakName = (ws) => ws.every((w) => GENERIC_NAME.has(w) || w.length <= 2);
+// Size words tell siblings apart ("Compression Packing Cubes - Medium" / "- Large"): they count toward identity and
+// a listing that states the same size word is preferred over the siblings that state another or none.
+const SIZE_WORDS = new Set(['xs', 'small', 'medium', 'large', 'xl', 'xxl', 'mini', 'compact', 'regular', 'jumbo', 'big']);
+const sizeWords = (s) => words(s).filter((w) => SIZE_WORDS.has(w));
 // An alphanumeric model code in the listing ("pb400", "10r4", "mw67") identifies the model as firmly as a model number.
 const isCode = (w) => /[a-z]/.test(w) && /\d/.test(w) && w.length >= 4;
 // Unit-bearing quantities ("20000mah", "50l", "1200w") are compared by the numeric guards, not as name tokens.
@@ -121,11 +129,16 @@ function scoreCandidate(l, ids, c) {
   const noKey = norm(ids.noBare || ids.no);
   if (ids.no && !byCode && noKey.length >= 4 && (hay.includes(noKey) || hayText.includes(noKey))) { score += 0.6; on.push(`model number ${ids.noBare || ids.no}`); }
   const nameWords = ids.nameWords.length ? ids.nameWords : ids.headWords;
-  if (nameWords.some((w) => /[a-z]/.test(w))) {
+  if (nameWords.some((w) => /[a-z]/.test(w)) && !weakName(nameWords)) {
     const hit = nameWords.filter((w) => titleWords.has(w) || (w.length > 3 && hay.includes(norm(w))));
     if (hit.length === nameWords.length) { score += 0.5; on.push(`model name "${nameWords.join(' ')}"`); }
     else if (hit.length >= 2 && hit.length / nameWords.length >= 0.67) { score += 0.25; on.push(`partial name ${hit.join(' ')}`); }
   }
+  const ct = norm(c.title);
+  if (!on.length && ct.length >= 24 && norm(l.title).startsWith(ct)) { score += 0.5; on.push('listing title begins with the maker’s full product title'); }
+  const lSizes = new Set(sizeWords(l.title));
+  const cSizes = sizeWords(c.title);
+  if (score >= 0.5 && cSizes.length && cSizes.every((w) => lSizes.has(w))) { score += 0.15; on.push(`size ${cSizes.join(' ')}`); }
   // CTN-keyed catalogues (Philips): the listing's own model code is the identity; a bare base model only counts when
   // the maker answers for exactly one CTN with that base.
   if (c.ctn) {
@@ -167,7 +180,7 @@ for (const l of listings) {
   const cands = scored.filter((x) => x.score >= 0.5).sort((a, b) => b.score - a.score);
   if (!cands.length) { report.nomatch.push({ id: l.id, title: l.title, ids }); continue; }
   // Colour variants of one model are the same product; a CTN or the identifying model words tell products apart.
-  const identity = (c) => c.ctn || modelWords(c).join(' ') || norm(c.title).slice(0, 60);
+  const identity = (c) => c.ctn || [...modelWords(c), ...sizeWords(c.title)].join(' ') || norm(c.title).slice(0, 60);
   const sameProduct = (a, b) => identity(a) === identity(b);
   // Among colour variants prefer the one whose colour the listing states, so the provenance URL is the exact page.
   const lw = new Set(words(l.title));
@@ -198,7 +211,7 @@ for (const l of listings) {
   // push-button, a regional SKU); only an exact model-name match may override it.
   if (ids.no && !byNumber && !exactName && isCode(norm(ids.no))) { report.ambiguous.push({ id: l.id, title: l.title, candidates: [top.c.title], reason: `listing model number ${ids.no} not printed on maker page; name match only` }); continue; }
   if (ids.no && !byNumber) top.on.push(`listing model number ${ids.no} not printed on maker page`);
-  official[l.id] = { url: top.c.url, title: top.c.title, region: top.c.region, fetchedAt: top.c.fetchedAt, matchScore: Math.round(top.score * 100) / 100, matchedOn: top.on, kv: top.c.kv };
+  official[l.id] = { url: top.c.url, title: top.c.title, region: top.c.region, fetchedAt: top.c.fetchedAt, matchScore: Math.round(top.score * 100) / 100, matchedOn: top.on, kv: top.c.kv, ...(top.c.text ? { text: top.c.text } : {}) };
   report.matched.push({ id: l.id, listing: l.title, maker: top.c.title, score: top.score, on: top.on });
 }
 
