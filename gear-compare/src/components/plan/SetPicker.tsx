@@ -122,11 +122,12 @@ export function SetPicker({ bag, metaOf, rowsOf, picks, summary, onOpen }: Props
   );
 }
 
-function SetCard({ bag, cand, rank, meta, current, onChoose, onOpen }: { bag: PackBag; cand: SetCandidate; rank: number; meta: CategoryMeta | undefined; current: boolean; onChoose: () => void; onOpen: () => void }) {
+/** One ranked set: what its stated contents cover, where that was read, and the size floor it is counted at. */
+export function SetCard({ bag, cand, rank, meta, current = false, onChoose, onOpen }: { bag: PackBag; cand: SetCandidate; rank: number; meta: CategoryMeta | undefined; current?: boolean; onChoose?: () => void; onOpen: () => void }) {
   const { row, cover } = cand;
   const size = row.pk ?? null;
   return (
-    <li className={clsx('card flex flex-col p-4', current && 'ring-2 ring-success')} data-set-card={row.id}>
+    <li className={clsx('card flex min-w-0 flex-col p-4', current && 'ring-2 ring-success')} data-set-card={row.id}>
       <div className="flex gap-3">
         <button type="button" onClick={onOpen} className="press h-[88px] w-[72px] shrink-0 overflow-hidden rounded-lg bg-white ring-1 ring-line" aria-label={`Open details for ${row.b} ${row.m}`}>
           <img src={row.img} alt="" loading="lazy" decoding="async" width={72} height={88} className="h-full w-full object-contain" />
@@ -137,7 +138,7 @@ function SetCard({ bag, cand, rank, meta, current, onChoose, onOpen }: { bag: Pa
             <span className="text-[12px] font-bold text-accent">{row.b}</span>
             <EvidenceBadge status={row.ev} verified={row.vf} />
           </div>
-          <button type="button" onClick={onOpen} className="mt-0.5 block text-left"><p className="line-clamp-2 text-[14px] font-bold leading-snug text-display">{row.m}</p></button>
+          <button type="button" onClick={onOpen} className="mt-0.5 block w-full min-w-0 text-left"><p className="line-clamp-2 break-words text-[14px] font-bold leading-snug text-display">{row.m}</p></button>
           <p className="mt-1 text-[12px] text-secondary">{row.q} · {storeLabel(row.st)} · listed under {meta?.label.toLowerCase() ?? cand.category}</p>
         </div>
         <div className="flex shrink-0 flex-col items-end gap-1">
@@ -159,8 +160,8 @@ function SetCard({ bag, cand, rank, meta, current, onChoose, onOpen }: { bag: Pa
 
       <div className="mt-3 flex flex-wrap gap-2">
         {current ? <span className="btn h-8 cursor-default px-3 text-success"><Check size={13} aria-hidden />In your plan</span>
-          : <button type="button" onClick={onChoose} className="btn btn-accent h-8 px-3"><Layers size={13} aria-hidden />Use this set</button>}
-        <button type="button" onClick={onOpen} className="btn h-8 px-3">Details & evidence</button>
+          : onChoose && <button type="button" onClick={onChoose} className="btn btn-accent h-8 px-3"><Layers size={13} aria-hidden />Use this set</button>}
+        <button type="button" onClick={onOpen} className={clsx('btn h-8 px-3', !onChoose && !current && 'btn-accent')}>{onChoose || current ? 'Details & evidence' : 'Listing, evidence & buy link'}</button>
         {current && <button type="button" onClick={() => removePick(bag.id, SET_ROLE, row.id)} className="btn h-8 px-3"><X size={13} aria-hidden />Remove</button>}
       </div>
     </li>

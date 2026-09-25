@@ -82,6 +82,8 @@ export interface Manifest {
   total: number;
   /** Present only when every planner role's category is in this build. */
   pack?: PackBag;
+  /** `set`: the build is a single-answer site — the landing page ranks the one listing that covers the most planner roles, and the category hub is not linked. */
+  mode?: 'set';
 }
 
 export interface BenchmarkLink { label: string; url: string; title?: string; region?: string }
