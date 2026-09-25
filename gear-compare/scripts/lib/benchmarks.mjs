@@ -20,14 +20,16 @@ export function assertBenchmark(b, categoryIds) {
   if (problems.length) throw new Error(`benchmarks.js: ${b.category} benchmark invalid: ${problems.join(', ')}`);
 }
 
-export function assertBenchmarkSet(benchmarks, categoryIds) {
+// `knownIds` = every registered category (a benchmark for an unknown one is a typo); `requiredIds` = the
+// categories being built (a scoped GEAR_FAMILY build must still have one per category it ships).
+export function assertBenchmarkSet(benchmarks, knownIds, requiredIds = knownIds) {
   const seen = new Set();
   for (const b of benchmarks) {
-    assertBenchmark(b, categoryIds);
+    assertBenchmark(b, knownIds);
     if (seen.has(b.category)) throw new Error(`benchmarks.js: duplicate benchmark for ${b.category}`);
     seen.add(b.category);
   }
-  for (const id of categoryIds) if (!seen.has(id)) throw new Error(`benchmarks.js: no benchmark for category ${id}`);
+  for (const id of requiredIds) if (!seen.has(id)) throw new Error(`benchmarks.js: no benchmark for category ${id}`);
 }
 
 // Same ordering the UI uses for the default rank (score desc, then price asc).

@@ -1,5 +1,5 @@
 /** Hub grouping for the nine physical-goods categories. Keys and labels come from the manifest. */
-export type FamilyKey = 'power' | 'grooming' | 'kitchen' | 'drinkware' | 'outdoor';
+export type FamilyKey = 'power' | 'grooming' | 'kitchen' | 'drinkware' | 'outdoor' | 'travel';
 export type ScoreKey = 'specs' | 'safety' | 'maker' | 'buyers';
 export type Scores = Record<ScoreKey, number>;
 
@@ -32,11 +32,39 @@ export interface CategoryMeta {
   count: number;
   segment: SegmentDef;
   bySegment: Record<string, number>;
-  stores: { flipkart: number; amazon: number };
+  stores: { flipkart: number; amazon: number; maker: number };
   evidence: Record<EvidenceStatus, number>;
   fields: FieldDef[];
   priceMax: number;
+  /** Listings whose stated dimensions were accepted (so they can be placed in the organiser planner). */
+  sized: number;
+  /** Listings whose stated contents cover two or more planner roles (all-in-one set candidates). */
+  sets: number;
 }
+
+/** One space inside the planner's bag. `litres` is the maker-derived budget; `usable` is the conservative share of it we let rigid organisers take. */
+export interface PackCompartment { id: string; label: string; litres: number; usable: number; note: string }
+/** A packing job the planner fills from one ranked category, with its default quantity and compartment. */
+export interface PackRole { id: string; label: string; what: string; category: string; qty: number; into: string }
+/** The bag an organiser plan is built for — facts read off the maker's page, never estimated cavities. */
+export interface PackBag {
+  id: string;
+  brand: string;
+  name: string;
+  checked: string;
+  maker: BenchmarkLink;
+  image: { url: string; source: string };
+  facts: { k: string; v: string }[];
+  compartments: PackCompartment[];
+  roles: PackRole[];
+  caveats: string[];
+}
+/** Planner geometry of one listing: stated outer size, how many pieces the set states, and where each number came from.
+ *  `v` = litres of the largest stated piece, `n` = stated pieces, `s` = estimated litres of the whole set (largest + graded tail). */
+export interface PackSize { d: [number, number, number]; v: number; n: number; s: number; tier: 'official' | 'listing' | 'claimed'; nTier: FieldTier }
+/** Planner roles a set's *stated contents* cover ("3 cubes + shoe bag + toiletry pouch"), and where the contents
+ *  were read: maker page, marketplace spec row, or only the listing title. Never inferred from a bare piece count. */
+export interface SetCover { r: string[]; t: 'official' | 'listing' | 'claimed' }
 
 export interface Manifest {
   generatedAt: string;
@@ -52,6 +80,10 @@ export interface Manifest {
   categories: CategoryMeta[];
   benchmarks: Benchmark[];
   total: number;
+  /** Present only when every planner role's category is in this build. */
+  pack?: PackBag;
+  /** `set`: the build is a single-answer site — the landing page ranks the one listing that covers the most planner roles, and the category hub is not linked. */
+  mode?: 'set';
 }
 
 export interface BenchmarkLink { label: string; url: string; title?: string; region?: string }
@@ -100,6 +132,8 @@ export interface ProductRow {
   vf: number;     // fields verified on the maker page
   sf: number;     // fields read from the marketplace spec table
   mk: MakerKind;
+  pk?: PackSize;  // accepted stated size, for the organiser planner
+  cv?: SetCover;  // multi-piece set: which planner roles its stated contents cover
 }
 
 export interface CategoryData {

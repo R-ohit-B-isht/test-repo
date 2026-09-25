@@ -7,7 +7,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createRequire } from 'node:module';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { SITES, WEIGHTS, CRITERIA, FAMILIES } from './lib/registry.mjs';
+import { SITES, ALL_SITES, WEIGHTS, CRITERIA, FAMILIES, SCOPE } from './lib/registry.mjs';
 import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/benchmarks.mjs';
 import { GLOBAL_GROUPS, groupDefsFor, labelFor } from './lib/facet-labels.mjs';
 
@@ -31,18 +31,30 @@ function shardOf(id) {
 }
 
 const HTTP = /^https?:\/\//;
-function assertReal(rec, file) {
+function assertReal(rec, file, site) {
   const problems = [];
   if (!rec.id) problems.push('id');
   if (!(rec.price > 0)) problems.push('price');
   if (!HTTP.test(rec.buyUrl || '')) problems.push('buyUrl');
   if (!Array.isArray(rec.images) || !rec.images.length || !HTTP.test(rec.images[0])) problems.push('images');
-  if (!['flipkart', 'amazon'].includes(rec.buyStore)) problems.push('buyStore');
+  if (!['flipkart', 'amazon', ...(site.brandStore ? ['maker'] : [])].includes(rec.buyStore)) problems.push('buyStore');
+  if (rec.buyStore === 'maker' && (rec.evidence?.status === 'listing' || rec.rating !== null || rec.ratingCount !== null)) problems.push('maker-store row carries marketplace evidence');
   if (!Array.isArray(rec.tags)) problems.push('tags');
   for (const k of Object.keys(WEIGHTS)) if (typeof rec.scores?.[k] !== 'number') problems.push('scores.' + k);
   if (!Object.keys(STATUS_LABEL).includes(rec.evidence?.status)) problems.push('evidence.status');
   if (rec.evidence?.status === 'official' && !HTTP.test(rec.evidence.official?.url || '')) problems.push('evidence.official.url');
   for (const f of rec.evidence?.fields || []) if (f.tier === 'official' && !HTTP.test(f.source || '')) problems.push(`field ${f.key} official without source`);
+  if (rec.pack) {
+    const k = rec.pack;
+    if (!Array.isArray(k.d) || k.d.length !== 3 || !(k.v > 0) || !(k.n >= 1) || !['official', 'listing', 'claimed'].includes(k.tier)) problems.push('pack');
+    if (!rec.evidence.fields.some((f) => f.key === 'dims' && f.tier === k.tier && f.value)) problems.push('pack.dims provenance');
+  }
+  if (rec.cover) {
+    const c = rec.cover;
+    const roles = new Set((PACK?.roles || []).map((r) => r.id));
+    if (!Array.isArray(c.r) || c.r.length < 2 || c.r.some((r) => !roles.has(r)) || !['official', 'listing', 'claimed'].includes(c.t)) problems.push('cover');
+    if (c.t === 'official' && !HTTP.test(rec.evidence.official?.url || '')) problems.push('cover official without source');
+  }
   if (problems.length) throw new Error(`${file}: record ${rec.id} missing real fields: ${problems.join(', ')}`);
 }
 
@@ -58,11 +70,15 @@ const manifest = {
   shards: SHARDS,
   categories: [],
   benchmarks: [],
+  ...(SCOPE ? { scope: SCOPE } : {}),
 };
 
 const BENCHMARKS = (await import(pathToFileURL(path.join(DATA, 'benchmarks.js')).href)).default;
 if (!Array.isArray(BENCHMARKS)) throw new Error('benchmarks.js: default export must be an array');
-assertBenchmarkSet(BENCHMARKS, new Set(SITES.map((s) => s.id)));
+assertBenchmarkSet(BENCHMARKS, new Set(ALL_SITES.map((s) => s.id)), new Set(SITES.map((s) => s.id)));
+
+const packFile = path.join(DATA, 'pack.mjs');
+const PACK = fs.existsSync(packFile) ? (await import(pathToFileURL(packFile).href)).default : null;
 
 let grandTotal = 0;
 for (const site of SITES) {
@@ -78,7 +94,7 @@ for (const site of SITES) {
   const groupDefs = groupDefsFor(site);
   Object.assign(manifest.groups, Object.fromEntries(Object.entries(groupDefs).map(([g, d]) => [`${site.id}/${g}`, d])));
   for (const rec of raw) {
-    assertReal(rec, file);
+    assertReal(rec, file, site);
     if (seen.has(rec.id)) continue;
     seen.add(rec.id);
     const t = rec.tags.map((tag) => {
@@ -93,6 +109,8 @@ for (const site of SITES) {
       s: overall(rec.scores), sc: rec.scores,
       img: rec.images[0], q: rec.lines.q, f: rec.lines.f, r: rec.rating, rc: rec.ratingCount, t,
       ev: rec.evidence.status, vf: rec.evidence.counts.official, sf: rec.evidence.counts.listing, mk: rec.evidence.maker.kind,
+      ...(rec.pack ? { pk: rec.pack } : {}),
+      ...(rec.cover ? { cv: rec.cover } : {}),
     });
     details[shardOf(rec.id)][rec.id] = {
       title: rec.title, images: rec.images, buyUrl: rec.buyUrl, buyStore: rec.buyStore, tags: rec.tags, evidence: rec.evidence, listingSpec: rec.listingSpec,
@@ -112,10 +130,12 @@ for (const site of SITES) {
     id: site.id, label: site.label, kicker: site.kicker, family: site.family, unit: site.unit, blurb: site.blurb,
     facets: Object.keys(facets), featured: site.featured.filter((tag) => tagCount.has(tag)), count: items.length,
     segment: { key: site.segment.key, label: site.segment.label, options: site.segment.options }, bySegment,
-    stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0 },
+    stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0, maker: tagCount.get('store:maker') || 0 },
     evidence: Object.fromEntries(Object.keys(STATUS_LABEL).map((k) => [k, tagCount.get(`ev:${k}`) || 0])),
     fields: site.fields.map((f) => ({ key: f.key, label: f.label, group: f.group, dim: f.dim })),
     priceMax: Math.max(...items.map((x) => x.p)),
+    sized: items.filter((x) => x.pk).length,
+    sets: items.filter((x) => x.cv).length,
   });
   grandTotal += items.length;
   const bench = BENCHMARKS.find((b) => b.category === site.id);
@@ -128,5 +148,29 @@ for (const site of SITES) {
 
 manifest.total = grandTotal;
 manifest.groupOrder = GLOBAL_GROUPS;
+
+// The organiser planner ships only when every role's category is in this build (data/pack.mjs → manifest.pack).
+if (PACK) {
+  const pack = PACK;
+  const ids = new Set(SITES.map((s) => s.id));
+  const problems = [];
+  if (!HTTP.test(pack.maker?.url || '') || !pack.maker?.label) problems.push('maker');
+  if (!HTTP.test(pack.image?.url || '') || !pack.image?.source) problems.push('image');
+  if (!Array.isArray(pack.facts) || !pack.facts.length) problems.push('facts');
+  if (!Array.isArray(pack.caveats) || !pack.caveats.length) problems.push('caveats');
+  const comp = new Set((pack.compartments || []).map((c) => c.id));
+  for (const c of pack.compartments || []) if (!(c.litres > 0) || !(c.usable > 0 && c.usable <= 1) || !c.note) problems.push(`compartment ${c.id}`);
+  for (const r of pack.roles || []) {
+    if (!comp.has(r.into)) problems.push(`role ${r.id}: compartment ${r.into}`);
+    if (!(r.qty >= 1)) problems.push(`role ${r.id}: qty`);
+  }
+  if (problems.length) throw new Error(`pack.mjs invalid: ${problems.join(', ')}`);
+  const missing = pack.roles.filter((r) => !ids.has(r.category)).map((r) => r.category);
+  if (!missing.length) {
+    manifest.pack = pack;
+    const sized = manifest.categories.filter((c) => pack.roles.some((r) => r.category === c.id)).map((c) => `${c.id} ${c.sized}/${c.count} sized, ${c.sets} multi-role sets`).join(' · ');
+    console.log(`pack planner: ${pack.brand} ${pack.name} → ${pack.roles.length} roles; ${sized}`);
+  } else console.log(`pack planner skipped: categories not in this build → ${[...new Set(missing)].join(', ')}`);
+}
 fs.writeFileSync(path.join(OUT, 'manifest.json'), JSON.stringify(manifest));
 console.log(`total products ${grandTotal} → ${path.relative(ROOT, OUT)}`);

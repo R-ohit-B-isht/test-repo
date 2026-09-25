@@ -59,7 +59,8 @@ const same = (a, b) => (Array.isArray(a) ? JSON.stringify([...a].sort()) === JSO
 
 /**
  * @param {object} site        site schema (fields, ...)
- * @param {object} src         { official: {kv,url,title,matchScore,region,fetchedAt} | null, listing: kv | null, text: string (title + seller bullets) }
+ * @param {object} src         { official: {kv,text?,url,title,matchScore,region,fetchedAt} | null, listing: kv | null, text: string (title + seller bullets) }
+ * Fields with a `prose` reader may also take a value from the maker page's own text (tier official) when no kv row states it.
  * @returns {{ fields: object[], counts: object, status: string }}
  */
 function resolveFields(site, src) {
@@ -69,16 +70,21 @@ function resolveFields(site, src) {
     let tier = 'none';
     let conflict = null;
     let reason = null;
-    const offVal = src.official ? firstParsed(officialCandidates(src.official.kv, f.official || [f.label]), f.parse) : null;
+    let offVal = src.official ? firstParsed(officialCandidates(src.official.kv, f.official || [f.label]), f.parse) : null;
+    if (offVal === null && f.prose && src.official && src.official.text) offVal = f.prose(src.official.text);
     const lstVal = firstParsed(listingCandidates(src.listing, f.listing || []), f.parse);
+    const titleVal = f.title ? f.parse(src.text) : null;
+    // A spec-table value the field marks as weak (e.g. "Pack of: 1" meaning one sales unit) does not outrank a
+    // title that states something else; the title value is kept but stays a claim.
+    const weakListing = lstVal !== null && f.weak && f.weak(lstVal) && titleVal !== null && !same(titleVal, lstVal);
     if (offVal !== null) {
       value = offVal; tier = 'official';
       if (lstVal !== null && !same(lstVal, offVal)) conflict = `Listing states ${f.display(lstVal)}; maker page states ${f.display(offVal)} — maker value used`;
-    } else if (lstVal !== null) {
+    } else if (lstVal !== null && !weakListing) {
       value = lstVal; tier = 'listing';
-    } else if (f.title) {
-      const tv = f.parse(src.text);
-      if (tv !== null) { value = tv; tier = 'claimed'; }
+    } else if (titleVal !== null) {
+      value = titleVal; tier = 'claimed';
+      if (weakListing) conflict = `Spec table states ${f.display(lstVal)} (a sales-unit count); title states ${f.display(titleVal)} — title used, unverified`;
     }
     if (value !== null && f.plausible) {
       const ok = f.plausible(value);

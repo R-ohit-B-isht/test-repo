@@ -54,7 +54,13 @@ export function AppShell() {
     return () => { cancelled = true; };
   }, [pathname, manifest.status]);
   /** One nav link per category, straight from the manifest — the nav grows as categories are added. */
-  const links = manifest.status === 'ready' ? [...NAV, ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))] : NAV;
+  const bag = manifest.status === 'ready' && manifest.data.mode === 'set' ? manifest.data.pack : undefined;
+  const single = !!bag;
+  const links = manifest.status !== 'ready'
+    ? NAV
+    : bag
+      ? [{ to: '/', label: `The one listing for the ${bag.brand} bag`, short: 'The one listing', end: true }]
+      : [...NAV, ...(manifest.data.pack ? [{ to: '/plan', label: `${manifest.data.pack.brand} packing plan`, short: 'Plan', end: false }, { to: '/set', label: 'All-in-one set', short: 'One set', end: false }] : []), ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))];
   const official = manifest.status === 'ready' ? manifest.data.categories.reduce((n, c) => n + c.evidence.official, 0) : 0;
   return (
     <div className="min-h-dvh">
@@ -64,7 +70,7 @@ export function AppShell() {
         <div className="mx-auto flex h-16 max-w-[1440px] items-center gap-4 px-4 sm:px-6">
           <NavLink to="/" className="flex shrink-0 items-center gap-2.5 no-underline">
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-accent text-[13px] font-extrabold text-accent-ink" aria-hidden>G</span>
-            <span className="hidden text-[15px] font-extrabold tracking-tight text-display sm:inline">Gear Ledger</span>
+            <span className="hidden text-[15px] font-extrabold tracking-tight text-display sm:inline">{single ? 'Organiser Ledger' : 'Gear Ledger'}</span>
           </NavLink>
           <nav ref={navRef} aria-label="Primary" className="nav-strip scrollbar-none flex h-full min-w-0 flex-1 items-stretch gap-0 overflow-x-auto sm:gap-1">
             {links.map((n) => (
@@ -76,7 +82,7 @@ export function AppShell() {
               </NavLink>
             ))}
           </nav>
-          <CommandSearch />
+          {!single && <CommandSearch />}
           <ThemeMenu />
         </div>
       </header>
