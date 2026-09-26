@@ -18,6 +18,11 @@ import toiletryBags from './benchmarks/toiletry-bags.js';
 import techPouches from './benchmarks/tech-pouches.js';
 import laundryBags from './benchmarks/laundry-bags.js';
 import travelWallets from './benchmarks/travel-wallets.js';
+import waterShoes from './benchmarks/water-shoes.js';
+import swimCaps from './benchmarks/swim-caps.js';
+import swimGoggles from './benchmarks/swim-goggles.js';
+import headlamps from './benchmarks/headlamps.js';
+import flipFlops from './benchmarks/flip-flops.js';
 
 export default [
   powerBanks,
@@ -35,4 +40,9 @@ export default [
   techPouches,
   laundryBags,
   travelWallets,
+  waterShoes,
+  swimCaps,
+  swimGoggles,
+  headlamps,
+  flipFlops,
 ];

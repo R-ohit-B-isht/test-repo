@@ -18,6 +18,7 @@ export const FAMILY_TONE: Record<FamilyKey, { text: string; bg: string; band: st
   drinkware: { text: 'fam-drinkware', bg: 'bg-drinkware', band: 'bg-drinkware/10' },
   outdoor: { text: 'fam-outdoor', bg: 'bg-outdoor', band: 'bg-outdoor/10' },
   travel: { text: 'fam-travel', bg: 'bg-travel', band: 'bg-travel/10' },
+  trip: { text: 'fam-trip', bg: 'bg-trip', band: 'bg-trip/10' },
 };
 
 /** Card-level badge for what the score is based on. */

@@ -1,5 +1,5 @@
 /** Hub grouping for the nine physical-goods categories. Keys and labels come from the manifest. */
-export type FamilyKey = 'power' | 'grooming' | 'kitchen' | 'drinkware' | 'outdoor' | 'travel';
+export type FamilyKey = 'power' | 'grooming' | 'kitchen' | 'drinkware' | 'outdoor' | 'travel' | 'trip';
 export type ScoreKey = 'specs' | 'safety' | 'maker' | 'buyers';
 export type Scores = Record<ScoreKey, number>;
 
@@ -84,6 +84,22 @@ export interface Manifest {
   pack?: PackBag;
   /** `set`: the build is a single-answer site — the landing page ranks the one listing that covers the most planner roles, and the category hub is not linked. */
   mode?: 'set';
+  /** Present only when every trip need's category is in this build. */
+  trip?: Trip;
+}
+
+/** One thing to pack for the trip, drawn from one ranked category. `lookFor` / `notThis` mirror what that category's classifier credits and rejects; `pick` restricts the need's #1 to the named segments of its category (e.g. real-outsole water shoes, no clogs among slippers); the full list is unchanged. */
+export interface TripNeed { id: string; label: string; category: string; why: string; lookFor: string[]; notThis: string[]; pick?: { segments: string[]; note: string } }
+/** The trip tab: five approved needs, the water-shoes-vs-slippers answer, and the honesty caveats. */
+export interface Trip {
+  id: string;
+  label: string;
+  kicker: string;
+  where: string;
+  lede: string;
+  needs: TripNeed[];
+  shoesVsSlippers: { title: string; body: string; wet: string[]; dry: string[] };
+  caveats: string[];
 }
 
 export interface BenchmarkLink { label: string; url: string; title?: string; region?: string }

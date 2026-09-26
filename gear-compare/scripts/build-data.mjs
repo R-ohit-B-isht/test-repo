@@ -79,6 +79,8 @@ assertBenchmarkSet(BENCHMARKS, new Set(ALL_SITES.map((s) => s.id)), new Set(SITE
 
 const packFile = path.join(DATA, 'pack.mjs');
 const PACK = fs.existsSync(packFile) ? (await import(pathToFileURL(packFile).href)).default : null;
+const tripFile = path.join(DATA, 'trip.mjs');
+const TRIP = fs.existsSync(tripFile) ? (await import(pathToFileURL(tripFile).href)).default : null;
 
 let grandTotal = 0;
 for (const site of SITES) {
@@ -171,6 +173,33 @@ if (PACK) {
     const sized = manifest.categories.filter((c) => pack.roles.some((r) => r.category === c.id)).map((c) => `${c.id} ${c.sized}/${c.count} sized, ${c.sets} multi-role sets`).join(' · ');
     console.log(`pack planner: ${pack.brand} ${pack.name} → ${pack.roles.length} roles; ${sized}`);
   } else console.log(`pack planner skipped: categories not in this build → ${[...new Set(missing)].join(', ')}`);
+}
+// The trip tab ships only when every need's category is in this build (data/trip.mjs → manifest.trip).
+if (TRIP) {
+  const trip = TRIP;
+  const ids = new Set(SITES.map((s) => s.id));
+  const problems = [];
+  for (const k of ['id', 'label', 'kicker', 'where', 'lede']) if (!trip[k]) problems.push(k);
+  if (!Array.isArray(trip.needs) || !trip.needs.length) problems.push('needs');
+  for (const n of trip.needs || []) {
+    for (const k of ['id', 'label', 'category', 'why']) if (!n[k]) problems.push(`need ${n.id}: ${k}`);
+    if (!Array.isArray(n.lookFor) || !n.lookFor.length) problems.push(`need ${n.id}: lookFor`);
+    if (!Array.isArray(n.notThis) || !n.notThis.length) problems.push(`need ${n.id}: notThis`);
+    if (n.pick) {
+      const site = SITES.find((s) => s.id === n.category);
+      const known = new Set((site?.segment?.options || []).map((o) => o.id));
+      if (!n.pick.note || !Array.isArray(n.pick.segments) || !n.pick.segments.length || n.pick.segments.some((s) => !known.has(s))) problems.push(`need ${n.id}: pick segments must name ${n.category} segments`);
+    }
+  }
+  const s = trip.shoesVsSlippers || {};
+  if (!s.title || !s.body || !Array.isArray(s.wet) || !s.wet.length || !Array.isArray(s.dry) || !s.dry.length) problems.push('shoesVsSlippers');
+  if (!Array.isArray(trip.caveats) || !trip.caveats.length) problems.push('caveats');
+  if (problems.length) throw new Error(`trip.mjs invalid: ${problems.join(', ')}`);
+  const missing = trip.needs.filter((n) => !ids.has(n.category)).map((n) => n.category);
+  if (!missing.length) {
+    manifest.trip = trip;
+    console.log(`trip tab: ${trip.label} → ${trip.needs.length} needs; ${trip.needs.map((n) => `${n.category} ${manifest.categories.find((c) => c.id === n.category)?.count ?? 0}`).join(' · ')}`);
+  } else console.log(`trip tab skipped: categories not in this build → ${[...new Set(missing)].join(', ')}`);
 }
 fs.writeFileSync(path.join(OUT, 'manifest.json'), JSON.stringify(manifest));
 console.log(`total products ${grandTotal} → ${path.relative(ROOT, OUT)}`);

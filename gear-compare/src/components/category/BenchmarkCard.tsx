@@ -51,7 +51,7 @@ export function BenchmarkCard({ bench, onOpenListing }: Props) {
           )}
           <div className="mt-4 flex flex-wrap items-center gap-2">
             <a href={bench.maker.url} target="_blank" rel="noopener noreferrer" className="btn btn-ceiling h-9 px-4 no-underline">{bench.maker.label}<ArrowUpRight size={14} aria-hidden /></a>
-            <details className="group min-w-0 flex-1">
+            <details className="group min-w-0 flex-auto">
               <summary className="btn btn-ceiling-ghost inline-flex h-9 cursor-pointer list-none px-4 [&::-webkit-details-marker]:hidden">
                 Sources ({bench.evidence.length})<span className="transition-transform group-open:rotate-180" aria-hidden>▾</span>
               </summary>

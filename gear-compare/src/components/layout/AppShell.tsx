@@ -56,11 +56,13 @@ export function AppShell() {
   /** One nav link per category, straight from the manifest — the nav grows as categories are added. */
   const bag = manifest.status === 'ready' && manifest.data.mode === 'set' ? manifest.data.pack : undefined;
   const single = !!bag;
+  const trip = manifest.status === 'ready' ? manifest.data.trip : undefined;
+  const tripLink = trip ? [{ to: '/trip', label: `${trip.label} trip`, short: trip.label, end: false }] : [];
   const links = manifest.status !== 'ready'
     ? NAV
     : bag
-      ? [{ to: '/', label: `The one listing for the ${bag.brand} bag`, short: 'The one listing', end: true }]
-      : [...NAV, ...(manifest.data.pack ? [{ to: '/plan', label: `${manifest.data.pack.brand} packing plan`, short: 'Plan', end: false }, { to: '/set', label: 'All-in-one set', short: 'One set', end: false }] : []), ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))];
+      ? [{ to: '/', label: `The one listing for the ${bag.brand} bag`, short: 'The one listing', end: true }, ...tripLink]
+      : [...NAV, ...(manifest.data.pack ? [{ to: '/plan', label: `${manifest.data.pack.brand} packing plan`, short: 'Plan', end: false }, { to: '/set', label: 'All-in-one set', short: 'One set', end: false }] : []), ...tripLink, ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))];
   const official = manifest.status === 'ready' ? manifest.data.categories.reduce((n, c) => n + c.evidence.official, 0) : 0;
   return (
     <div className="min-h-dvh">

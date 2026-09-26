@@ -7,6 +7,7 @@ import { useManifest } from './data/hooks';
 const HomePage = lazy(() => import('./pages/HomePage'));
 const CategoryPage = lazy(() => import('./pages/CategoryPage'));
 const PlanPage = lazy(() => import('./pages/PlanPage'));
+const TripPage = lazy(() => import('./pages/TripPage'));
 const SetPage = lazy(() => import('./pages/SetPage'));
 
 /** Landing: the category hub, or — in a single-answer (`mode: 'set'`) build — the one-listing ranking. */
@@ -26,6 +27,7 @@ export function App() {
           <Route path="products" element={<Navigate to="/" replace />} />
           <Route path="c/:id" element={<Suspense fallback={<StatusBlock title="Loading…" />}><CategoryPage /></Suspense>} />
           <Route path="plan" element={<Suspense fallback={<StatusBlock title="Loading…" />}><PlanPage /></Suspense>} />
+          <Route path="trip" element={<Suspense fallback={<StatusBlock title="Loading…" />}><TripPage /></Suspense>} />
           <Route path="*" element={<StatusBlock title="Page not found" body="That route does not exist on this site." />} />
         </Route>
       </Routes>

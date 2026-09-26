@@ -15,6 +15,11 @@ import toiletryBags from '../sites/toiletry-bags.mjs';
 import techPouches from '../sites/tech-pouches.mjs';
 import laundryBags from '../sites/laundry-bags.mjs';
 import travelWallets from '../sites/travel-wallets.mjs';
+import waterShoes from '../sites/water-shoes.mjs';
+import swimCaps from '../sites/swim-caps.mjs';
+import swimGoggles from '../sites/swim-goggles.mjs';
+import headlamps from '../sites/headlamps.mjs';
+import flipFlops from '../sites/flip-flops.mjs';
 
 const ALL_FAMILIES = {
   power: 'POWER & CHARGING',
@@ -23,9 +28,10 @@ const ALL_FAMILIES = {
   drinkware: 'DRINKWARE',
   outdoor: 'OUTDOOR',
   travel: 'TRAVEL ORGANISERS',
+  trip: 'LAKSHADWEEP TRIP',
 };
 
-export const ALL_SITES = [powerBanks, hairDryers, trimmers, inductionCooktops, portableBlenders, electricLighters, trekkingShoes, trekkingBackpacks, pinkTumblers, packingCubes, shoeBags, toiletryBags, techPouches, laundryBags, travelWallets];
+export const ALL_SITES = [powerBanks, hairDryers, trimmers, inductionCooktops, portableBlenders, electricLighters, trekkingShoes, trekkingBackpacks, pinkTumblers, packingCubes, shoeBags, toiletryBags, techPouches, laundryBags, travelWallets, waterShoes, swimCaps, swimGoggles, headlamps, flipFlops];
 
 // GEAR_FAMILY=travel builds a site that carries only that family (the organiser planner ships as its own site).
 export const SCOPE = process.env.GEAR_FAMILY || null;

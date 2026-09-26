@@ -144,7 +144,7 @@ function build(site) {
     if (site.deriveKv) Object.assign(kv, site.deriveKv(kv));
     const images = (p.images?.length ? p.images : [p.img]).map(amazonLarge);
     rows.push({
-      idSeed: p.asin, title, brand: brandOf(title, kv.Brand || kv['Brand Name']), price, ...starRating(p.rating, p.ratingCount),
+      idSeed: p.asin, title, brand: brandOf(title, kv.Brand || kv['Brand Name']), price, ...starRating(p.rating, p.rcOk === false ? null : p.ratingCount),
       images, buyUrl: p.url, buyStore: 'amazon', kv, seller, official,
     });
   }
