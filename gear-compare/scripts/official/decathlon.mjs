@@ -2,7 +2,8 @@
 // pages are server-rendered with the product state serialised inline (`a.productName=…;a.productSpecifications=[…]`),
 // beside schema.org Product JSON-LD. Read from that page, never invented:
 //   productSpecifications → spec rows (kv)      technicalInformation / benefits / description → maker prose (text)
-//   articles[].priceForFront / inStock → price   warranty (years) → kv Warranty   review → store rating + count
+//   price.sellingPrice (this product only — productGroup / bundle prices are other products) → price
+//   inStock → available   warranty (years) → kv Warranty   review → store rating + count
 // Product URLs come from sitemap-products.xml filtered by the category's URL pattern.
 import { fetchText } from './fetch.mjs';
 import { sitemapUrls } from './sitemap.mjs';
@@ -49,6 +50,21 @@ function namedList(blk, key) {
   }
   return out;
 }
+// Current selling price of this product: `a.price={sellingPrice,mrp}`, else the JSON-LD offer, else the cheapest
+// size in `a.articles[].priceForFront`. Never a bare `sellingPrice:` scan — the page also serialises
+// `a.productGroup` (bought-together bundle) whose member and group prices belong to other products.
+function productPrice(blk, ld) {
+  const own = /\ba\.price=\{sellingPrice:(\d+(?:\.\d+)?)/.exec(blk);
+  if (own && Number(own[1]) > 0) return Number(own[1]);
+  const offer = num(ld?.offers?.price);
+  if (offer && offer > 0) return offer;
+  const am = /\ba\.articles=\[/.exec(blk);
+  if (!am) return null;
+  const end = blk.indexOf('];', am.index);
+  const arts = blk.slice(am.index, end < 0 ? undefined : end);
+  const sizes = [...arts.matchAll(/priceForFront:\{sellingPrice:(\d+(?:\.\d+)?)/g)].map((m) => Number(m[1])).filter((n) => n > 0);
+  return sizes.length ? Math.min(...sizes) : null;
+}
 const num = (s) => { const m = /(\d+(?:\.\d+)?)/.exec(String(s)); return m ? Number(m[1]) : null; };
 const ldProducts = (html) => [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)]
   .map((m) => { try { return JSON.parse(m[1]); } catch { return null; } })
@@ -66,8 +82,7 @@ export function parseDecathlonPage(html, url) {
   const raw = String(scalar(blk, 'brand') || 'Decathlon').trim();
   const brand = raw.charAt(0).toUpperCase() + raw.slice(1).toLowerCase();
   const ld = ldProducts(html)[0];
-  const prices = [...blk.matchAll(/sellingPrice:(\d+(?:\.\d+)?)/g)].map((m) => Number(m[1])).filter((n) => n > 0);
-  const price = prices.length ? Math.min(...prices) : num(ld?.offers?.price);
+  const price = productPrice(blk, ld);
   const kv = {};
   for (const s of namedList(blk, 'productSpecifications')) {
     const v = String(s.description || '').trim();

@@ -72,7 +72,7 @@ function TripBoard({ manifest, trip }: { manifest: Manifest; trip: Trip }) {
       {cats.status === 'ready' && (
         <ol className="space-y-8" aria-label="Trip needs">
           {trip.needs.map((n, i) => (
-            <NeedCard key={n.id} index={i + 1} need={n} idx={cats.data[n.category]} meta={metaOf.get(n.category)} bench={benchOf.get(n.category)} onOpen={(id) => setOpen({ category: n.category, id })} />
+            <NeedCard key={n.id} index={i + 1} need={n} idx={cats.data[n.category]} meta={metaOf.get(n.category)} bench={benchOf.get(n.category)} capturedAt={manifest.generatedAt.slice(0, 10)} onOpen={(id) => setOpen({ category: n.category, id })} />
           ))}
         </ol>
       )}
@@ -109,7 +109,7 @@ function topOf(idx: CategoryIndex | undefined, meta: CategoryMeta | undefined, s
   return best;
 }
 
-function NeedCard({ index, need, idx, meta, bench, onOpen }: { index: number; need: TripNeed; idx: CategoryIndex | undefined; meta: CategoryMeta | undefined; bench: Benchmark | undefined; onOpen: (id: string) => void }) {
+function NeedCard({ index, need, idx, meta, bench, capturedAt, onOpen }: { index: number; need: TripNeed; idx: CategoryIndex | undefined; meta: CategoryMeta | undefined; bench: Benchmark | undefined; capturedAt: string; onOpen: (id: string) => void }) {
   const pick = topOf(idx, meta, need.pick?.segments);
   const top = pick?.row ?? null;
   const verifiedCount = meta ? meta.evidence.official + meta.evidence.listing : 0;
@@ -174,6 +174,7 @@ function NeedCard({ index, need, idx, meta, bench, onOpen }: { index: number; ne
               <div className="mt-3 flex flex-wrap items-center justify-between gap-3">
                 <ScoreBadge score={top.s} />
                 <p className="mono text-[20px] font-extrabold text-display">{rupees(top.p)}</p>
+                <p className="basis-full text-right text-[11px] text-muted">price on {storeLabel(top.st)} when read, {capturedAt}</p>
               </div>
               <p className="mt-3 text-[13px] leading-relaxed text-secondary">
                 <span className="font-bold text-display">Why it is the pick:</span> {EVIDENCE_META[top.ev].label.toLowerCase()} —
