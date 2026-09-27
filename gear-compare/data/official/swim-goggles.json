@@ -1,9 +1,84 @@
 {
+ "speedo-itmf4wcx8yedpggf": {
+  "url": "https://www.speedo.in/products/futura-classic-goggles-green-clear-810898b568",
+  "title": "Unisex Adult Futura Classic Clear-Lens Swim Goggles - Green & Clear",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"futura classic\""
+  ],
+  "kv": {
+   "pagination": "{ el: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__dots', clickable: true,",
+   "type": "'bullets' },",
+   "navigation": "{ nextEl: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--next', prevEl:",
+   "on": "{ init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)",
+   "COLOR": "Green & Clear",
+   "Size": "Free Size",
+   "Maximum Retail Price": "(incl. of all taxes)",
+   "Ideal for Beginner": "{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,",
+   "Store in a Protective Case": "Return Policy",
+   "Weight (store variant)": "320 g",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes"
+  },
+  "text": "Unisex Adult Futura Classic Clear-Lens Swim Goggles - Green & Clear\nFlexible one-piece construction with side-clips for a comfortable and secure fit\nSoft and flexible seals for cusioned comfort\nClear lenses for maximum visibility in low light conditions\nAnti-fog coated lenses with 100% UV Protection\nUnisex Adult Futura Classic Clear-Lens Swim Goggles - Green & Clear\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Clear Lens\nClose\nCopy link\nIdeal for Beginner\n{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,\npagination: { el: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__dots', clickable: true,\ntype: 'bullets' },\nnavigation: { nextEl: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--prev' },\non: { init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)\nreturn; gallery.__pdpSwiper = swiper; var thumbs = gallery.querySelectorAll('.product-media-swiper__thumb');\nthumbs.forEach(function(thumb) { thumb.addEventListener('click', function() { var idx =\nparseInt(this.getAttribute('data-slide-index'), 10); swiper.slideTo(idx); }); }); }, slideChange: function()\n{ var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery) return; var thumbs =\ngallery.querySelectorAll('.product-media-swiper__thumb'); thumbs.forEach(function(thumb, i) {\nthumb.classList.toggle('product-media-swiper__thumb--active', i === swiper.activeIndex); }); var activeThumb\n= gallery.querySelector('.product-media-swiper__thumb--active'); if (activeThumb) {\nactiveThumb.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); } } } }\nComplete your look\nUnisex Adult Futura Classic Clear-Lens Swim Goggles - Green & Clear\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Clear Lens\nCOLOR:\nGreen & Clear\nSize:\nFree Size\nPlease Select a Size\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\nNotify Me\n₹ 1,399\n+ Add\nPrice is inclusive of all taxes\nPrice Details\nMaximum Retail Price:\n(incl. of all taxes)\n₹1,399\nThis price reflects the latest GST regulations.\nCHECK SERVICE AVAILABILITY\n15-Day Easy Returns\nCHECK DELIVERY TIME\nCHECKING ...\nEstimated Delivery by\nUnisex Adult Futura Classic Clear-Lens Swim Goggles - Green & Clear\nX\n{ slidesPerView: 1, spaceBetween: 0, zoom: true, grabCursor: true,\nnavigation: { nextEl: '#product-media-swiper- .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper- .product-media-swiper__nav--prev' } }\nSize guide\nSize guide\nSIZE TABLE\nFind my size functionality coming soon...\n( 1\n)\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\n₹ 1,399\n+ Add\nOverview\nThe Futura Classic goggle is perfect for regular swimming sessions. Constructed using soft and flexible materials for a comfortable and secure fit. Size, shape and style designed to cater for both men and women.\nSpecifications\nFlexible one-piece construction with side-clips for a comfortable and secure fit\nSoft and flexible seals for cusioned comfort\nClear lenses for maximum visibility in low light conditions\nAnti-fog coated lenses with 100% UV Protection\nUsage & Care\nWASHING AND CARE INSTRUCTIONS\nIn order to ensure that your Speedo Swim Goggles provides you with the best possible performance, we recommend you follow the care instructions as below:\nRinse After Use\nDo not wipe touch the Lens from either side\nNatural Air Dry\nAdjust Straps Carefully\nKeep away from sharp objects\nAvoid Sunscreen Detergent Contact\nStore in a Protective Case\nReturn Policy\nWe follow a 15-day hassle-free return policy. To be eligible for return, the item must be\nin the same condition as it was received, unworn or unused with tags and in its original\npackaging.\nFor more details, please refer to our\nReturn Policy\nMarketed By\nPage Industries Ltd.Cessna Park, Umiya Bay, T-1, 7th Flr, ORR, Bengaluru - 560103, Karnataka. CIN: L18101KA1994PLC016554\nCountry of Origin\nChina\nYour Choice goes well with\nChoose your swim essentials and make a splash.\nUnisex Adult Futura Classic Clear-Lens Swim Goggles - Green & Clear\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Clear Lens\n₹1,399\nSELECT\nUnisex Bubble Active+ Swim Cap For Men and Women - White\nChlorine Protection | Snag Free | Light Weight | Latex Free | Textured\n₹1,199\nSELECT\nUnisex Adult Biofuse Secure Fit Ergonomic Design Ear Plug For Men and Women - Blue & Grey\nBiofuse Technology | R & L Marking | Reusable Storage Case | Ergonomic Patented Design\n₹899\nSELECT\n₹ 0\nAdd To Cart"
+ },
+ "speedo-itm919afe6c656e8": {
+  "url": "https://www.speedo.in/products/hydropulse-mirror-goggle-grey-silver-812267d645",
+  "title": "Unisex Adult Hydropulse Mirror-Lens Swim Goggles - Grey & Silver",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"hydropulse\"",
+   "listing model number 812270D657 not printed on maker page"
+  ],
+  "kv": {
+   "pagination": "{ el: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__dots', clickable: true,",
+   "type": "'bullets' },",
+   "navigation": "{ nextEl: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--next', prevEl:",
+   "on": "{ init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)",
+   "COLOR": "Grey & Silver",
+   "Size": "Free Size",
+   "Maximum Retail Price": "(incl. of all taxes)",
+   "Ideal for Fitness": "{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,",
+   "Store in a Protective Case": "Return Policy",
+   "Weight (store variant)": "320 g",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes"
+  },
+  "text": "Unisex Adult Hydropulse Mirror-Lens Swim Goggles - Grey & Silver\nSuper soft seals for a comfortable and cushioned fit\nDouble silicone head strap for a secure fit and easy adjustment\nMirror lenses for reduced brightness and glare Ideal for racing & outdoor swimming\nAnti-fog coated lenses with 100% UV Protection\nUnisex Adult Hydropulse Mirror-Lens Swim Goggles - Grey & Silver\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Mirror Lens\nClose\nCopy link\nIdeal for Fitness\n{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,\npagination: { el: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__dots', clickable: true,\ntype: 'bullets' },\nnavigation: { nextEl: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--prev' },\non: { init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)\nreturn; gallery.__pdpSwiper = swiper; var thumbs = gallery.querySelectorAll('.product-media-swiper__thumb');\nthumbs.forEach(function(thumb) { thumb.addEventListener('click', function() { var idx =\nparseInt(this.getAttribute('data-slide-index'), 10); swiper.slideTo(idx); }); }); }, slideChange: function()\n{ var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery) return; var thumbs =\ngallery.querySelectorAll('.product-media-swiper__thumb'); thumbs.forEach(function(thumb, i) {\nthumb.classList.toggle('product-media-swiper__thumb--active', i === swiper.activeIndex); }); var activeThumb\n= gallery.querySelector('.product-media-swiper__thumb--active'); if (activeThumb) {\nactiveThumb.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); } } } }\nUnisex Adult Hydropulse Mirror-Lens Swim Goggles - Grey & Silver\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Mirror Lens\nCOLOR:\nGrey & Silver\nSize:\nFree Size\nPlease Select a Size\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\nNotify Me\n₹ 1,999\n+ Add\nPrice is inclusive of all taxes\nPrice Details\nMaximum Retail Price:\n(incl. of all taxes)\n₹1,999\nThis price reflects the latest GST regulations.\nCHECK SERVICE AVAILABILITY\n15-Day Easy Returns\nCHECK DELIVERY TIME\nCHECKING ...\nEstimated Delivery by\nUnisex Adult Hydropulse Mirror-Lens Swim Goggles - Grey & Silver\nX\n{ slidesPerView: 1, spaceBetween: 0, zoom: true, grabCursor: true,\nnavigation: { nextEl: '#product-media-swiper- .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper- .product-media-swiper__nav--prev' } }\nSize guide\nSize guide\nSIZE TABLE\nFind my size functionality coming soon...\n( 1\n)\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\n₹ 1,999\n+ Add\nOverview\nGreat for all round swimmers, the brand new Hydropulse Mirror goggle offers excellent comfort for everyday swimming. Super-soft seals provide a cushioned fit while the double silicone head strap allows a secure fit with easy adjustment. Wide vision mirrored lenses with anti-fog and 100% UV protection o er superior peripheral vision and underwater clarity for an immersive experience.\nSpecifications\nSuper soft seals for a comfortable and cushioned fit\nDouble silicone head strap for a secure fit and easy adjustment\nMirror lenses for reduced brightness and glare Ideal for racing & outdoor swimming\nAnti-fog coated lenses with 100% UV Protection\nUsage & Care\nWASHING AND CARE INSTRUCTIONS\nIn order to ensure that your Speedo Swim Goggles provides you with the best possible performance, we recommend you follow the care instructions as below:\nRinse After Use\nDo not wipe touch the Lens from either side\nNatural Air Dry\nAdjust Straps Carefully\nKeep away from sharp objects\nAvoid Sunscreen Detergent Contact\nStore in a Protective Case\nReturn Policy\nWe follow a 15-day hassle-free return policy. To be eligible for return, the item must be\nin the same condition as it was received, unworn or unused with tags and in its original\npackaging.\nFor more details, please refer to our\nReturn Policy\nMarketed By\nPage Industries Ltd.Cessna Park, Umiya Bay, T-1, 7th Flr, ORR, Bengaluru - 560103, Karnataka. CIN: L18101KA1994PLC016554\nCountry of Origin\nChina"
+ },
+ "speedo-itm7cd796481d570": {
+  "url": "https://www.speedo.in/products/hydropulse-mirror-goggle-navy-blue-812267d646",
+  "title": "Unisex Adult Hydropulse Mirror-Lens Swim Goggles - Navy & Blue",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 1.1,
+  "matchedOn": [
+   "model number 812267D646",
+   "model name \"hydropulse\""
+  ],
+  "kv": {
+   "on": "{ init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)",
+   "COLOR": "Navy & Blue",
+   "Size": "Free Size",
+   "Maximum Retail Price": "(incl. of all taxes)",
+   "navigation": "{ nextEl: '#product-media-swiper- .product-media-swiper__nav--next', prevEl:",
+   "Ideal for Fitness": "{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,",
+   "Store in a Protective Case": "Return Policy",
+   "Weight (store variant)": "320 g",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes"
+  },
+  "text": "Unisex Adult Hydropulse Mirror-Lens Swim Goggles - Navy & Blue\nSuper soft seals for a comfortable and cushioned fit\nDouble silicone head strap for a secure fit and easy adjustment\nMirror lenses for reduced brightness and glare Ideal for racing & outdoor swimming\nAnti-fog coated lenses with 100% UV Protection\nUnisex Adult Hydropulse Mirror-Lens Swim Goggles - Navy & Blue\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Mirror Lens\nClose\nCopy link\nIdeal for Fitness\n{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,\non: { init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)\nreturn; gallery.__pdpSwiper = swiper; var thumbs = gallery.querySelectorAll('.product-media-swiper__thumb');\nthumbs.forEach(function(thumb) { thumb.addEventListener('click', function() { var idx =\nparseInt(this.getAttribute('data-slide-index'), 10); swiper.slideTo(idx); }); }); }, slideChange: function()\n{ var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery) return; var thumbs =\ngallery.querySelectorAll('.product-media-swiper__thumb'); thumbs.forEach(function(thumb, i) {\nthumb.classList.toggle('product-media-swiper__thumb--active', i === swiper.activeIndex); }); var activeThumb\n= gallery.querySelector('.product-media-swiper__thumb--active'); if (activeThumb) {\nactiveThumb.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); } } } }\nUnisex Adult Hydropulse Mirror-Lens Swim Goggles - Navy & Blue\nAnti Fog Lens | 100% UV Protection | Adustable Strap | Mirror Lens\nCOLOR:\nNavy & Blue\nSize:\nFree Size\nPlease Select a Size\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\nNotify Me\n₹ 1,999\n+ Add\nPrice is inclusive of all taxes\nPrice Details\nMaximum Retail Price:\n(incl. of all taxes)\n₹1,999\nThis price reflects the latest GST regulations.\nCHECK SERVICE AVAILABILITY\n15-Day Easy Returns\nCHECK DELIVERY TIME\nCHECKING ...\nEstimated Delivery by\nUnisex Adult Hydropulse Mirror-Lens Swim Goggles - Navy & Blue\nX\n{ slidesPerView: 1, spaceBetween: 0, zoom: true, grabCursor: true,\nnavigation: { nextEl: '#product-media-swiper- .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper- .product-media-swiper__nav--prev' } }\nSize guide\nSize guide\nSIZE TABLE\nFind my size functionality coming soon...\n( 1\n)\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\n₹ 1,999\n+ Add\nOverview\nGreat for all round swimmers, the brand new Hydropulse Mirror goggle offers excellent comfort for everyday swimming. Super-soft seals provide a cushioned fit while the double silicone head strap allows a secure fit with easy adjustment. Wide vision mirrored lenses with anti-fog and 100% UV protection o er superior peripheral vision and underwater clarity for an immersive experience.\nSpecifications\nSuper soft seals for a comfortable and cushioned fit\nDouble silicone head strap for a secure fit and easy adjustment\nMirror lenses for reduced brightness and glare Ideal for racing & outdoor swimming\nAnti-fog coated lenses with 100% UV Protection\nUsage & Care\nWASHING AND CARE INSTRUCTIONS\nIn order to ensure that your Speedo Swim Goggles provides you with the best possible performance, we recommend you follow the care instructions as below:\nRinse After Use\nDo not wipe touch the Lens from either side\nNatural Air Dry\nAdjust Straps Carefully\nKeep away from sharp objects\nAvoid Sunscreen Detergent Contact\nStore in a Protective Case\nReturn Policy\nWe follow a 15-day hassle-free return policy. To be eligible for return, the item must be\nin the same condition as it was received, unworn or unused with tags and in its original\npackaging.\nFor more details, please refer to our\nReturn Policy\nMarketed By\nPage Industries Ltd.Cessna Park, Umiya Bay, T-1, 7th Flr, ORR, Bengaluru - 560103, Karnataka. CIN: L18101KA1994PLC016554\nCountry of Origin\nChina"
+ },
  "speedo-store-aquapulse-pro-goggle-grey-smoke-812264d640": {
   "url": "https://www.speedo.in/products/aquapulse-pro-goggle-grey-smoke-812264d640",
   "title": "Unisex Adult Aquapulse Pro Smoke-Lens Swim Goggles - Grey & Smoke",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"aquapulse pro smoke\""
@@ -28,7 +103,7 @@
   "url": "https://www.speedo.in/products/unisex-adult-biofuse-2-0-anti-fog-coated-swim-goggles-for-men-and-women-black-glacier-grey-8002332004",
   "title": "Unisex Adult Biofuse 2.0 Anti Fog Coated Swim Goggles For Men and Women - Black & Glacier Grey",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"biofuse 2.0 coated glacier\""
@@ -53,7 +128,7 @@
   "url": "https://www.speedo.in/products/unisex-adult-jet-2-0-smoke-tint-lens-swim-goggles-red-smoke-800466717952",
   "title": "Unisex Adult Jet 2.0 Smoke Tint Anti Fog Lens Swim Goggles - Red & Smoke",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"jet 2.0 smoke tint smoke\""
@@ -80,7 +155,7 @@
   "url": "https://www.speedo.in/products/unisex-adult-mariner-pro-mirror-lens-swim-goggles-white-grey-800237314553",
   "title": "Unisex Adult Mariner Pro Mirror Lens Swim Goggles - White & Grey",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"mariner pro\""
@@ -106,7 +181,7 @@
   "url": "https://www.speedo.in/products/unisex-adult-aquapulse-pro-anti-fog-coated-swim-goggles-red-white-81226414460",
   "title": "Unisex Adult Aquapulse Pro Anti Fog Coated Swim Goggles - Red & White",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"aquapulse pro coated\""
@@ -131,7 +206,7 @@
   "url": "https://www.speedo.in/products/hydropure-goggle-black-grey-8126697239",
   "title": "Unisex Adult Hydropure Tint-Lens Swim Goggles - Black & Grey",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"hydropure tint\""
@@ -158,7 +233,7 @@
   "url": "https://www.speedo.in/products/mariner-pro-mirror-goggle-black-orange-800237314554",
   "title": "Unisex Adult Mariner Pro Mirror-Lens Swim Goggles - Black & Orange",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"mariner pro\""
@@ -184,7 +259,7 @@
   "url": "https://www.speedo.in/products/futura-classic-goggles-red-smoke-810898b572",
   "title": "Unisex Adult Futura Classic Smoke-Lens Swim Goggles - Red & Smoke",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"futura classic smoke\""
@@ -209,7 +284,7 @@
   "url": "https://www.speedo.in/products/biofuse-rift-goggles-lava-red-oxid-grey-smoke-811775c813",
   "title": "Unisex Adult Rift Smoke-Lens Swim Goggles - Lava Red & Oxid Grey",
   "region": "IN",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "matchScore": 0.5,
   "matchedOn": [
    "model name \"rift smoke lava oxid\""
@@ -229,5 +304,431 @@
    "uv protection (page text)": "Yes"
   },
   "text": "Unisex Adult Rift Smoke-Lens Swim Goggles - Lava Red & Oxid Grey\nSpeedo Biofuse® technology for cushioned comfort\nWide Vision lenses for enhanced peripheral vision\nSuper Soft seal and easy push button for strap adjusment\nSmoke lenses provide protection in bright conditions\nAnti-fog coated lenses with 100% UV Protection\nUnisex Adult Rift Smoke-Lens Swim Goggles - Lava Red & Oxid Grey\nBiofuse Technology | Anti Fog Lens | 100% UV Protection | Adustable Strap | Smoke Lens\nClose\nCopy link\nIdeal for Beginner\n{ slidesPerView: 1, spaceBetween: 0, grabCursor: true,\npagination: { el: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__dots', clickable: true,\ntype: 'bullets' },\nnavigation: { nextEl: '#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper-AaWo5c3Zjd2xMN0ZKL__media-gallery .product-media-swiper__nav--prev' },\non: { init: function() { var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery)\nreturn; gallery.__pdpSwiper = swiper; var thumbs = gallery.querySelectorAll('.product-media-swiper__thumb');\nthumbs.forEach(function(thumb) { thumb.addEventListener('click', function() { var idx =\nparseInt(this.getAttribute('data-slide-index'), 10); swiper.slideTo(idx); }); }); }, slideChange: function()\n{ var swiper = this; var gallery = swiper.el.closest('media-gallery'); if (!gallery) return; var thumbs =\ngallery.querySelectorAll('.product-media-swiper__thumb'); thumbs.forEach(function(thumb, i) {\nthumb.classList.toggle('product-media-swiper__thumb--active', i === swiper.activeIndex); }); var activeThumb\n= gallery.querySelector('.product-media-swiper__thumb--active'); if (activeThumb) {\nactiveThumb.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); } } } }\nUnisex Adult Rift Smoke-Lens Swim Goggles - Lava Red & Oxid Grey\nBiofuse Technology | Anti Fog Lens | 100% UV Protection | Adustable Strap | Smoke Lens\nCOLOR:\nLava Red, Oxid Grey & Smoke\nSize:\nFree Size\nPlease Select a Size\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\nNotify Me\n₹ 2,799\n+ Add\nPrice is inclusive of all taxes\nPrice Details\nMaximum Retail Price:\n(incl. of all taxes)\n₹2,799\nThis price reflects the latest GST regulations.\nCHECK SERVICE AVAILABILITY\n15-Day Easy Returns\nCHECK DELIVERY TIME\nCHECKING ...\nEstimated Delivery by\nUnisex Adult Rift Smoke-Lens Swim Goggles - Lava Red & Oxid Grey\nX\n{ slidesPerView: 1, spaceBetween: 0, zoom: true, grabCursor: true,\nnavigation: { nextEl: '#product-media-swiper- .product-media-swiper__nav--next', prevEl:\n'#product-media-swiper- .product-media-swiper__nav--prev' } }\nSize guide\nSize guide\nSIZE TABLE\nFind my size functionality coming soon...\n( 1\n)\nDecrease quantity\nIncrease quantity\nProduct has been added to the cart\n₹ 2,799\n+ Add\nOverview\nThe brand new Biofuse Rift Mask has been re-engineered to deliver an ever more immersive swimming experience. Featuring Speedo Biofuser technology which uses soft and flexible materials that adapt to the shape of your face and makes your comfort top priority. The new easy to adjust button mechanism combined with the wide split strap makes for a convenient and comfortable fit every time you swim. Ideal for open water swimming and triathlons.\nSpecifications\nSpeedo Biofuse® technology for cushioned comfort\nWide Vision lenses for enhanced peripheral vision\nSuper Soft seal and easy push button for strap adjusment\nSmoke lenses provide protection in bright conditions\nAnti-fog coated lenses with 100% UV Protection\nUsage & Care\nWASHING AND CARE INSTRUCTIONS\nIn order to ensure that your Speedo Swim Goggles provides you with the best possible performance, we recommend you follow the care instructions as below:\nRinse After Use\nDo not wipe touch the Lens from either side\nNatural Air Dry\nAdjust Straps Carefully\nKeep away from sharp objects\nAvoid Sunscreen Detergent Contact\nStore in a Protective Case\nReturn Policy\nWe follow a 15-day hassle-free return policy. To be eligible for return, the item must be\nin the same condition as it was received, unworn or unused with tags and in its original\npackaging.\nFor more details, please refer to our\nReturn Policy\nMarketed By\nPage Industries Ltd.Cessna Park, Umiya Bay, T-1, 7th Flr, ORR, Bengaluru - 560103, Karnataka. CIN: L18101KA1994PLC016554\nCountry of Origin\nChina"
+ },
+ "nivia-store-oasis-swimming-goggles": {
+  "url": "https://www.niviasports.com/products/oasis-swimming-goggles",
+  "title": "Oasis Swimming Goggles",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"oasis\""
+  ],
+  "kv": {
+   "Net Quantity": "1",
+   "Country of Origin": "India",
+   "Contact": "+91-9115497521, +91-181-5057000",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Oasis Swimming Goggles\nOasis Swimming Goggles\nNo reviews\nMRP\nRegular price\n₹ 390\nRegular price\nMRP\n₹ 390\nSale price\n₹ 390\nUnit price\n/\nper\nMRP is inclusive of all taxes\nBUY FOR\n₹ 371\nON PREPAID ORDERS\nCoupon automatically applied at checkout\nLink\nClose share\nCopy link\nQuantity\nDecrease quantity for Oasis Swimming Goggles\nIncrease quantity for Oasis Swimming Goggles\nAdd to cart\nCouldn't load pickup availability\nRefresh\nAVAILABLE BENEFITS\nFree Duffle Bag on Orders above ₹5000\nAuto-applied at checkout\nFree shipping on order above ₹999\nApplicable automatically on qualifying carts\nExtra 5% Off on Prepaid\nNo coupon code required - Select prepaid payment at gateway\nFree shipping on orders above Rs. 999\nReturn policy (Upto 7 days)\nCash on delivery available\nAdditional information\nPC Lens/Frame , Silicon Gasket & Strap , 3 Size PU replaceable nose Bridge\nDescription\nOther information\nNet Quantity:\n1\nCountry of Origin:\nIndia\nManufactured/Marketed, Packed By & Customer Care:\nAddress:\nFreewill Sports Pvt. Ltd., 391–392, Leather Complex, Kapurthala Road, Jalandhar – 144021, India\nContact:\n+91-9115497521, +91-181-5057000\nEmail:\ncontact@nivia.in, support@nivia.in\nView Product details\n✕\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nEliminator Swimming Goggles\nSold out\nSold out\nSold out\nEliminator Swimming Goggles\nVariant sold out or unavailable\nVariant sold out or unavailable\nMRP\nRegular price\n₹ 410\nRegular price\nMRP\n₹ 410\nSale price\n₹ 410\nUnit price\n/\nper\nSold out\nSold out\nHydro Kickboard\nAdd to cart\nSold out\nHydro Kickboard\nMRP\nRegular price\n₹ 660\nRegular price\nMRP\n₹ 660\nSale price\n₹ 660\nUnit price\n/\nper\nAdd to cart\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nSold out\nSold out\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nMRP\nRegular price\n₹ 949\nRegular price\nMRP\n₹ 999\nSale price\n₹ 949\nUnit price\n/\nper\nSold out\nSold out\nWaist Float, Training Equipment, Swimming Equipment For K...\nAdd to cart\nSold out\nBest seller\nWaist Float, Training Equipment, Swimming Equipment For K...\nMRP\nRegular price\n₹ 1,169\nRegular price\nMRP\n₹ 1,299\nSale price\n₹ 1,169\nUnit price\n/\nper\nPrice Drop\n10% Off\nAdd to cart\nSold out\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nAdd to cart\nSold out\nBest seller\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nMRP\nRegular price\n₹ 740\nRegular price\nMRP\n₹ 779\nSale price\n₹ 740\nUnit price\n/\nper\nPrice Drop\n5% Off\nAdd to cart\nSold out"
+ },
+ "nivia-store-speed-trainer-swimming-goggles": {
+  "url": "https://www.niviasports.com/products/speed-trainer-swimming-goggles",
+  "title": "Speed Trainer Swimming Goggles",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"speed trainer\""
+  ],
+  "kv": {
+   "Net Quantity": "1",
+   "Country of Origin": "India",
+   "Contact": "+91-9115497521, +91-181-5057000",
+   "3 Size PU replaceable nose Bridge": "3 Size PU replaceable nose Bridge",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Speed Trainer Swimming Goggles\nSpeed Trainer Swimming Goggles\nNo reviews\nMRP\nRegular price\n₹ 520\nRegular price\nMRP\n₹ 520\nSale price\n₹ 520\nUnit price\n/\nper\nMRP is inclusive of all taxes\nBUY FOR\n₹ 494\nON PREPAID ORDERS\nCoupon automatically applied at checkout\nMulticolor\nVariant sold out or unavailable\nLink\nClose share\nCopy link\nQuantity\nDecrease quantity for Speed Trainer Swimming Goggles\nIncrease quantity for Speed Trainer Swimming Goggles\nAdd to cart\nCouldn't load pickup availability\nRefresh\nAVAILABLE BENEFITS\nFree Duffle Bag on Orders above ₹5000\nAuto-applied at checkout\nFree shipping on order above ₹999\nApplicable automatically on qualifying carts\nExtra 5% Off on Prepaid\nNo coupon code required - Select prepaid payment at gateway\nFree shipping on orders above Rs. 999\nReturn policy (Upto 7 days)\nCash on delivery available\nAdditional information\nPC Lens/Frame\nSilicon Gasket & Strap\n3 Size PU replaceable nose Bridge\nDescription\nOther information\nNet Quantity:\n1\nCountry of Origin:\nIndia\nManufactured/Marketed, Packed By & Customer Care:\nAddress:\nFreewill Sports Pvt. Ltd., 391–392, Leather Complex, Kapurthala Road, Jalandhar – 144021, India\nContact:\n+91-9115497521, +91-181-5057000\nEmail:\ncontact@nivia.in, support@nivia.in\nView Product details\n✕\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nEliminator Swimming Goggles\nSold out\nSold out\nSold out\nEliminator Swimming Goggles\nVariant sold out or unavailable\nVariant sold out or unavailable\nMRP\nRegular price\n₹ 410\nRegular price\nMRP\n₹ 410\nSale price\n₹ 410\nUnit price\n/\nper\nSold out\nSold out\nHydro Kickboard\nAdd to cart\nSold out\nHydro Kickboard\nMRP\nRegular price\n₹ 660\nRegular price\nMRP\n₹ 660\nSale price\n₹ 660\nUnit price\n/\nper\nAdd to cart\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nSold out\nSold out\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nMRP\nRegular price\n₹ 949\nRegular price\nMRP\n₹ 999\nSale price\n₹ 949\nUnit price\n/\nper\nSold out\nSold out\nWaist Float, Training Equipment, Swimming Equipment For K...\nAdd to cart\nSold out\nBest seller\nWaist Float, Training Equipment, Swimming Equipment For K...\nMRP\nRegular price\n₹ 1,169\nRegular price\nMRP\n₹ 1,299\nSale price\n₹ 1,169\nUnit price\n/\nper\nPrice Drop\n10% Off\nAdd to cart\nSold out\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nAdd to cart\nSold out\nBest seller\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nMRP\nRegular price\n₹ 740\nRegular price\nMRP\n₹ 779\nSale price\n₹ 740\nUnit price\n/\nper\nPrice Drop\n5% Off\nAdd to cart\nSold out"
+ },
+ "nivia-store-pro-speed-swimming-goggles": {
+  "url": "https://www.niviasports.com/products/pro-speed-swimming-goggles",
+  "title": "Pro-Speed Swimming Goggles",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"pro speed\""
+  ],
+  "kv": {
+   "Net Quantity": "1",
+   "Country of Origin": "India",
+   "Contact": "+91-9115497521, +91-181-5057000"
+  },
+  "text": "Pro-Speed Swimming Goggles\nPro-Speed Swimming Goggles\nNo reviews\nMRP\nRegular price\n₹ 570\nRegular price\nMRP\n₹ 570\nSale price\n₹ 570\nUnit price\n/\nper\nMRP is inclusive of all taxes\nBUY FOR\n₹ 542\nON PREPAID ORDERS\nCoupon automatically applied at checkout\nLink\nClose share\nCopy link\nQuantity\nDecrease quantity for Pro-Speed Swimming Goggles\nIncrease quantity for Pro-Speed Swimming Goggles\nAdd to cart\nCouldn't load pickup availability\nRefresh\nAVAILABLE BENEFITS\nFree Duffle Bag on Orders above ₹5000\nAuto-applied at checkout\nFree shipping on order above ₹999\nApplicable automatically on qualifying carts\nExtra 5% Off on Prepaid\nNo coupon code required - Select prepaid payment at gateway\nFree shipping on orders above Rs. 999\nReturn policy (Upto 7 days)\nCash on delivery available\nAdditional information\nDescription\nOther information\nNet Quantity:\n1\nCountry of Origin:\nIndia\nManufactured/Marketed, Packed By & Customer Care:\nAddress:\nFreewill Sports Pvt. Ltd., 391–392, Leather Complex, Kapurthala Road, Jalandhar – 144021, India\nContact:\n+91-9115497521, +91-181-5057000\nEmail:\ncontact@nivia.in, support@nivia.in\nView Product details\n✕\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nEliminator Swimming Goggles\nSold out\nSold out\nSold out\nEliminator Swimming Goggles\nVariant sold out or unavailable\nVariant sold out or unavailable\nMRP\nRegular price\n₹ 410\nRegular price\nMRP\n₹ 410\nSale price\n₹ 410\nUnit price\n/\nper\nSold out\nSold out\nHydro Kickboard\nAdd to cart\nSold out\nHydro Kickboard\nMRP\nRegular price\n₹ 660\nRegular price\nMRP\n₹ 660\nSale price\n₹ 660\nUnit price\n/\nper\nAdd to cart\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nSold out\nSold out\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nMRP\nRegular price\n₹ 949\nRegular price\nMRP\n₹ 999\nSale price\n₹ 949\nUnit price\n/\nper\nSold out\nSold out\nWaist Float, Training Equipment, Swimming Equipment For K...\nAdd to cart\nSold out\nBest seller\nWaist Float, Training Equipment, Swimming Equipment For K...\nMRP\nRegular price\n₹ 1,169\nRegular price\nMRP\n₹ 1,299\nSale price\n₹ 1,169\nUnit price\n/\nper\nPrice Drop\n10% Off\nAdd to cart\nSold out\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nAdd to cart\nSold out\nBest seller\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nMRP\nRegular price\n₹ 740\nRegular price\nMRP\n₹ 779\nSale price\n₹ 740\nUnit price\n/\nper\nPrice Drop\n5% Off\nAdd to cart\nSold out"
+ },
+ "nivia-store-viper-swimming-goggles": {
+  "url": "https://www.niviasports.com/products/viper-swimming-goggles",
+  "title": "Viper Swimming Goggles",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"viper\""
+  ],
+  "kv": {
+   "Net Quantity": "1",
+   "Country of Origin": "India",
+   "Contact": "+91-9115497521, +91-181-5057000",
+   "Silicone Gasket & Strap": "Description",
+   "seal (page text)": "Silicone Gasket"
+  },
+  "text": "Viper Swimming Goggles\nViper Swimming Goggles\nNo reviews\nMRP\nRegular price\n₹ 660\nRegular price\nMRP\n₹ 660\nSale price\n₹ 660\nUnit price\n/\nper\nMRP is inclusive of all taxes\nBUY FOR\n₹ 627\nON PREPAID ORDERS\nCoupon automatically applied at checkout\nMulticolor\nVariant sold out or unavailable\nLink\nClose share\nCopy link\nQuantity\nDecrease quantity for Viper Swimming Goggles\nIncrease quantity for Viper Swimming Goggles\nAdd to cart\nCouldn't load pickup availability\nRefresh\nAVAILABLE BENEFITS\nFree Duffle Bag on Orders above ₹5000\nAuto-applied at checkout\nFree shipping on order above ₹999\nApplicable automatically on qualifying carts\nExtra 5% Off on Prepaid\nNo coupon code required - Select prepaid payment at gateway\nFree shipping on orders above Rs. 999\nReturn policy (Upto 7 days)\nCash on delivery available\nAdditional information\nPC & TPE Frame\nSilicone Gasket & Strap\nDescription\nOther information\nNet Quantity:\n1\nCountry of Origin:\nIndia\nManufactured/Marketed, Packed By & Customer Care:\nAddress:\nFreewill Sports Pvt. Ltd., 391–392, Leather Complex, Kapurthala Road, Jalandhar – 144021, India\nContact:\n+91-9115497521, +91-181-5057000\nEmail:\ncontact@nivia.in, support@nivia.in\nView Product details\n✕\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nCOMPLETE THE GEAR\nComplete your fit with curated styles straight from the field.\nEliminator Swimming Goggles\nSold out\nSold out\nSold out\nEliminator Swimming Goggles\nVariant sold out or unavailable\nVariant sold out or unavailable\nMRP\nRegular price\n₹ 410\nRegular price\nMRP\n₹ 410\nSale price\n₹ 410\nUnit price\n/\nper\nSold out\nSold out\nHydro Kickboard\nAdd to cart\nSold out\nHydro Kickboard\nMRP\nRegular price\n₹ 660\nRegular price\nMRP\n₹ 660\nSale price\n₹ 660\nUnit price\n/\nper\nAdd to cart\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nSold out\nSold out\nSold out\nEazy Float, Training Equipment, Swimming Equipment For Ki...\nMRP\nRegular price\n₹ 949\nRegular price\nMRP\n₹ 999\nSale price\n₹ 949\nUnit price\n/\nper\nSold out\nSold out\nWaist Float, Training Equipment, Swimming Equipment For K...\nAdd to cart\nSold out\nBest seller\nWaist Float, Training Equipment, Swimming Equipment For K...\nMRP\nRegular price\n₹ 1,169\nRegular price\nMRP\n₹ 1,299\nSale price\n₹ 1,169\nUnit price\n/\nper\nPrice Drop\n10% Off\nAdd to cart\nSold out\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nAdd to cart\nSold out\nBest seller\nSwimming Pullbuoy For Kids/Adults - Yellow/Black\nMRP\nRegular price\n₹ 740\nRegular price\nMRP\n₹ 779\nSale price\n₹ 740\nUnit price\n/\nper\nPrice Drop\n5% Off\nAdd to cart\nSold out"
+ },
+ "decathlon-store-8547673-swimming-goggles-universal-size-mirror-lenses": {
+  "url": "https://www.decathlon.in/p/8547673/swimming-goggles-universal-size-mirror-lenses-swedish-900-white-red",
+  "title": "Swimming Goggles Universal Size Mirror Lenses Swedish 900 White Red",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"universal lenses swedish 900\""
+  ],
+  "kv": {
+   "APPROVAL": "Fina",
+   "TYPE OF LENS": "Smoked lense",
+   "NOSE BRIDGE TYPE": "Custom nose bridge",
+   "LENS COLOURS": "Blue,grey",
+   "INTERCHANGEABLE LENSES": "Interchangeable lenses",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "TYPE OF PRACTICE": "Competition",
+   "LEVEL OF PRACTICE": "Advanced",
+   "CASE": "Without case",
+   "CONDITION": "New",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "TIGHTENING TYPE": "Double elastic band tightening",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Swimming Goggles Universal Size Mirror Lenses Swedish 900 White Red\nKit swimming goggles for swimmers looking for performance in both training and competition. Tired of having only one size nose bridge? Thanks to the adjustable nose bridge and the elastic, these goggles provide good stability and waterproofing\nanti-fogging: Swim with fog-free goggles – these swimming goggles have an anti-fog treatment.\neasy assembly / dismantling: Choose how you wear your Swedish goggles. They can be customised.\nstability: Benefit from an excellent fit with goggles that can be infinitely adjusted.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nfield of vision: Enjoy a minimal field of vision with these iconic and stylish goggles.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: with a new anti-fog treatment, all these drops will eventually combine to create a film of water through which you can see clearly.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\n\nIf you swim outdoors or in a pool with harsh lighting, prioritise goggles with smoked lenses to limit the glare. \n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nHow to properly adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position will optimise the grip and comfort of the goggles.\nAPPROVED BY WORLD AQUATICS Swedish swimming goggles are training and racing goggles approved by World Aquatics.\n\nThey were worn by Fabien Gilot during his victory at the Berlin 2014 European Championships and the 2015 World Championships in Kazan.\nUV PROTECTION Complies with standard: Q/BT 4734 -2023, all Nabaiji swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nCARE - PRECAUTIONS - Rinsing your goggles (only if necessary) by simply dipping them in water\n- avoiding directing powerful jets of water at the inner surface of the lenses.\n- Storing the goggles in their case after each session to prevent damage to the lenses (on the inner surface to preserve the anti-fog coating and on the outer surface to prevent scratches)\n- Not exposing them to temperatures of over 60°C\n\nFinally, do not touch/rub the inside of your lenses\nThe anti-fog treatment The anti-fog treatment creates a microscopic film of water to allow clear vision, but its wear is accelerated by rubbing inside the lenses or overexposure to chlorinated water. Taking care of the inside of your glasses is essential.\n\nOver time, it is normal for the anti-fog effect to diminish. Briefly soaking the glasses in water may help in the short term, but can also accelerate the wear of the treatment. Our anti-fog marker reactivates the treatment!\nSize: how to choose your swimming goggles This model is available in one size only as it is totally customisable to your face.\n\nProduct requires assembly.\n\nThis video presents a way of assembling them: \nhttps://www.youtube.com/watch?v=6EJ-a_32wb8\nTPR overmoulding The lenses are covered with a fine layer of TPR to guarantee better comfort, grip and full watertightness.\n"
+ },
+ "nabaiji-store-8646195-swimming-goggles-mask-size-s-clear-lenses-swim": {
+  "url": "https://www.decathlon.in/p/8646195/swimming-goggles-mask-size-s-clear-lenses-swimdow-comfortable-fit-blue",
+  "title": "Swimming Goggles Mask Size S Clear Lenses Swimdow Comfortable Fit Blue",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"mask lenses swimdow fit\""
+  ],
+  "kv": {
+   "CONDITION": "New",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,mirror lens,non-polarized lenses,100% uv protection",
+   "TIGHTENING TYPE": "Buckle,tightening by an elastic strap",
+   "LENS COLOURS": "Transparent",
+   "STRAP TYPE": "Elastic strap",
+   "TYPE OF LENS": "Translucid lense",
+   "MAIN MATERIAL": "Plastic",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "CASE": "Without case",
+   "LEVEL OF PRACTICE": "Beginner",
+   "TYPE OF MASK": "Double window",
+   "ANTI-UV": "Anti-uv",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt"
+  },
+  "text": "Swimming Goggles Mask Size S Clear Lenses Swimdow Comfortable Fit Blue\nThe ideal pool mask for swimmers new to the pool, whether indoors or out. An adjustable and robust pool mask! This model offers a wide field of vision. The back strap is adjustable to suit your needs.\nfield of vision: This wide pool mask offers an excellent field of vision.\nanti-fogging: Swim without fog, this pool mask has an anti-fog treatment.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nstability: This high-volume mask is easy to adjust and will not feel too tight.\nThe anti-fog treatment The anti-fog treatment creates a microscopic film of water to allow clear vision, but its wear is accelerated by rubbing inside the lenses or overexposure to chlorinated water. Taking care of the inside of your glasses is essential.\n\nOver time, it is normal for the anti-fog effect to diminish. Briefly soaking the glasses in water may help in the short term, but can also accelerate the wear of the treatment. Our anti-fog marker reactivates the treatment!\nSize: how to choose your swimming mask Available in size S (kids and small heads) and size L (large heads).\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face.\nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the goggles over your eyes; if they hold on by themselves with a little suction, they will be watertight once in the water. This test can also identify areas of discomfort or annoyance on the face.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\n\nIf you swim outdoors or in a pool with harsh lighting, prioritise goggles with smoked lenses to limit the glare.\n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nCARE - PRECAUTIONS - Rinsing your mask (only if necessary) by simply dipping it in water\n- Avoiding directing powerful jets of water at the inner surface of the lens.\n- Storing the masks in their case after each session to prevent damage to the lenses (on the inner surface to preserve the anti-fog coating and on the outer surface to prevent scratches)\n- Not exposing them to temperatures of over 60°C\n\nFinally, do not touch/rub the inside of your lenses\nWhy does fog appear on my swimming goggles? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: all these drops will eventually combine to create a film of water through which you can see clearly.\nHow to adjust your swimming mask A swimming mask that fits the shape of your face does not need to be excessively tight.\n\nA mask that is too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position with optimise the grip and comfort of the mask.\nUV protection Complies with standard: Q/BT 4734 -2023, all Nabaiji swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\n"
+ },
+ "decathlon-store-8733984-adult-kids-swimming-goggles-smoked-powered-len": {
+  "url": "https://www.decathlon.in/p/8733984/adult-kids-swimming-goggles-smoked-powered-lenses-adjustable-comfortable-black",
+  "title": "Adult Kids Swimming Goggles Smoked Powered Lenses Adjustable & Comfortable Black",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"smoked powered lenses\"",
+   "wearer kids'"
+  ],
+  "kv": {
+   "CORRECTIVE LENSES": "Myopia corrective lenses",
+   "TIGHTENING TYPE": "Double elastic strap",
+   "NOSE BRIDGE TYPE": "Interchangeable nose bridge",
+   "TYPE OF LENS": "Smoked lense",
+   "CASE": "Without case",
+   "CONDITION": "New",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "INTERCHANGEABLE LENSES": "Non-interchangeable lenses",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,mirror lens,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "LENS COLOURS": "Grey",
+   "LEVEL OF PRACTICE": "Intermediate",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Adult Kids Swimming Goggles Smoked Powered Lenses Adjustable & Comfortable Black\nOur design teams have developed these corrective swimming goggles for intermediate swimmers wanting to improve their technique and physique with no worries. Fed up with swimming goggles that let water in?\nCompact, with their double strap and 3 nose bridges, the BFIT corrective goggles offer several adjustment options for optimal hold.\nanti-fogging: Swim with fog-free goggles – these swimming goggles have an anti-fog treatment.\nfield of vision: These compact goggles offer a good field of vision.\nvision adaptability: Find the lenses that suit you the best: correction from -2.00 to -6.00.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nstability: The three adjustable nose bridges give you excellent stability.\nCHOICE OF SIZE The watertightness of the swimming goggles is dependent on the proper fit of the skirts with the shape of your face. \nBefore purchase, we advise you to do the \"suction\" test without the strap. \nIf the goggles stay on the face by themselves via slight suction, the product will be watertight during your swim. This also enables you to spot any areas of discomfort or annoyance when the model is on the face.\n\nOne-size model with 3 interchangeable nose bridges\nHOW TO ADJUST YOUR GOGGLES These swimming goggles fit the morphology of your face without needing to be over-tightened.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position will optimise the grip and comfort of the goggles.\nLENS TINT The colour of your goggles should be suited to your swimming location and its lighting.\nIf you swim outdoors or in a swimming pool with bright lighting, prioritise smoked lenses for greater comfort and to limit the glare.\n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\n\nUV PROTECTION Complies with standard QB/T 4734-2023; all Nabaiji swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nCORRECTION FOR SHORT-SIGHTEDNESS Corrective lenses are available for short-sighted swimmers with prescriptions from -2.00 to -6.00.\n\nLimits of use recommended by our ophthalmologist:\n\nThe use of corrective lenses provides greater vision comfort for athletes suffering from short-sightedness. Choose a level of correction lower or equal to your prescription.\n\nThe use of corrective lenses poses no risk of degradation of visual acuity for swimmers over 8 years old, it is STRICTLY INADVISABLE for swimmers less than 8 years old.\nCARE - PRECAUTIONS We recommend: \n- rinsing your goggles (only if necessary) by simply dipping them in water\n- avoiding directing powerful jets of water at the inner surface of the lenses.\n- storing the goggles in their case after each session to prevent damage to the lenses (on the inner surface as there is an anti-fog coating and on the outer surface to prevent scratches)\n- not exposing them to temperatures of over 60°C\n\nDO NOT TOUCH / RUB THE INSIDE OF YOUR LENSES\nFOGGING The appearance of fogging depends on several factors, the difference in temperature between the body and the water, humidity levels, etc. \nWear due to friction is one of the main causes.\nIf your goggles fog up, dip your lenses in the water and a protective film will reform.\nAfter a certain amount of time it is normal for the performance of the anti-fog coating to be diminished.\n\nWe provide an anti-fog marker that reactivates an ageing anti-fog treatment and makes your goggles last longer.\n"
+ },
+ "decathlon-store-8797651-adult-swimming-goggles-men-women-uv-protection": {
+  "url": "https://www.decathlon.in/p/8797651/adult-swimming-goggles-men-women-uv-protection-xbase-l100-black-pink-green",
+  "title": "Adult Swimming Goggles Men Women UV Protection Xbase L100 Black Pink Green",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"xbase l100\""
+  ],
+  "kv": {
+   "LEVEL OF PRACTICE": "Beginner",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "NOSE BRIDGE TYPE": "Adjustable nose bridge",
+   "TIGHTENING TYPE": "Buckle,tightening by an elastic strap",
+   "INTERCHANGEABLE LENSES": "Non-interchangeable lenses",
+   "CONDITION": "New",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "CASE": "Without case",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "LENS COLOURS": "Blue,grey",
+   "TYPE OF LENS": "Clear lense",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Adult Swimming Goggles Men Women UV Protection Xbase L100 Black Pink Green\nbeginner swimmers wanting to get into or back into swimming. Tired of not being able to adjust your goggles?\nThey fit all faces with their patented adjustable nose bridge and simple strap adjustment. Water-tightness guaranteed!\nanti-fogging: Swim with fog-free goggles – these swimming goggles have an anti-fog treatment.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nstability: Enjoy excellent support thanks to the adjustable nose bridge.\nfield of vision: These swimming goggles offer a very good field of vision.\nUV PROTECTION Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nCARE - PRECAUTIONS - Rinsing your goggles (only if necessary) by simply dipping them in water\n- avoiding directing powerful jets of water at the inner surface of the lenses.\n- Storing the goggles in their case after each session to prevent damage to the lenses (on the inner surface to preserve the anti-fog coating and on the outer surface to prevent scratches)\n- Not exposing them to temperatures of over 60°C\n\nFinally, do not touch/rub the inside of your lenses\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: all these drops will eventually combine to create a film of water through which you can see clearly.\nSize: how to choose your swimming goggles Available in size S (kids and small heads) and size L (large heads).\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face. \nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the goggles over your eyes; if they hold on by themselves with a little suction, they will be watertight once in the water. This test can also identify areas of discomfort or annoyance on the face.\nThe anti-fog treatment The anti-fog treatment creates a microscopic film of water to allow clear vision, but its wear is accelerated by rubbing inside the lenses or overexposure to chlorinated water. Taking care of the inside of your glasses is essential.\n\nOver time, it is normal for the anti-fog effect to diminish. Briefly soaking the glasses in water may help in the short term, but can also accelerate the wear of the treatment. Our anti-fog marker reactivates the treatment!\nHow to adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position will optimise the grip and comfort of the goggles.\n"
+ },
+ "decathlon-store-8927118-swimming-goggles-spirit-tinted-lenses-secure-f": {
+  "url": "https://www.decathlon.in/p/8927118/swimming-goggles-spirit-tinted-lenses-secure-fit-durable-large",
+  "title": "Swimming Goggles Spirit Tinted Lenses Secure Fit & Durable Large",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model name \"spirit lenses secure fit\"",
+   "size large"
+  ],
+  "kv": {
+   "TIGHTENING TYPE": "Double elastic strap,quick laces",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "INTERCHANGEABLE LENSES": "Non-interchangeable lenses",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "LEVEL OF PRACTICE": "Intermediate",
+   "TYPE OF LENS": "Clear lense,smoked lense",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "CONDITION": "New",
+   "LENS COLOURS": "Blue,grey,transparent",
+   "NOSE BRIDGE TYPE": "Fixed nose bridge",
+   "CASE": "Without case",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes"
+  },
+  "text": "Swimming Goggles Spirit Tinted Lenses Secure Fit & Durable Large\nIntermediate swimmers wanting to improve their technique and swim in confidence. Sick of having ring marks on your eyes? The ultra-soft structure, wide field of vision and excellent support of the SPIRIT goggles mean you can swim in comfort without any disruptions to your vision.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nfield of vision: Enjoy one of the best fields of vision in our range of goggles.\nanti-fogging: Enjoy swimming with clear vision, thanks to the anti-fog treatment.\nstability: Benefit from excellent support with the soft structure of these goggles.\nCHOOSING THE SIZE OF YOUR SWIMMING GOGGLES How watertight swimming goggles are depends on how well the seals adapt to fit the shape of the face. Before purchase, we advise you to do the \"suction\" test with your goggles without the elastic strap: \nIf the goggles stay on your face by themselves, with slight suction, the product will be watertight during your swim. This also enables you to spot any areas of discomfort or annoyance when the model is on your face.\n\nThis model is available in sizes S & L(narrow & rounder faces).\nADJUSTING YOUR SWIMMING GOGGLES These swimming goggles fit the morphology of your face without needing to be over-tightened.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps should ideally sit 2 to 3 cm above your ears. This position will optimise the grip and comfort of the goggles.\nLENS TINT The colour of your goggles should be suited to your swimming location and its lighting.\n\nIf you swim outdoors or in a pool with harsh lighting, prioritise goggles with smoked lenses to limit the glare. \n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\n\nThe SPIRIT swimming goggles are available with different lens tints (mirrored, shaded, clear).\nUV PROTECTION Complies with standard: Q/BT 4734 -2023, all Nabaiji swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nREDUCE FOG IN YOUR SWIMMING GOGGLES Fog develops due to several factors: a difference in temperature between the body and the water, humidity levels, etc. Wear due to friction is one of the main causes.\n\nIf your goggles fog up, dip your lenses in the water and a protective film will reform.\nAfter a certain amount of time, it is normal for the performance of the anti-fog coating to be diminished.\n\nWe provide an anti-fog marker that reactivates an ageing anti-fog treatment and which makes your goggles last longer.\nLOOKING AFTER YOUR SWIMMING GOGGLES We advise you to: \n- Rinse your goggles (only if necessary) by dipping them in the water\n- Avoid water jets directly on the inner face of the lenses\n- Store the goggles in their case between sessions to avoid damaging the lenses (on the inner face to protect the anti-fog treatment, on the outer face to avoid scratches)\n- Avoid exposing the goggles to temperatures over 60 °C\n- Do not touch or wipe the inside of the lenses\n"
+ },
+ "decathlon-store-8926986-swimming-goggles-l-soft-green-tinted-secure-fi": {
+  "url": "https://www.decathlon.in/p/8926986/swimming-goggles-l-soft-green-tinted-secure-fit-turquoise",
+  "title": "Swimming Goggles L Soft Green Tinted Secure Fit Turquoise",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"soft secure fit turquoise\""
+  ],
+  "kv": {
+   "CASE": "Without case",
+   "CONDITION": "New",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "LEVEL OF PRACTICE": "Beginner",
+   "TYPE OF LENS": "Translucid lense,clear lense,smoked lense",
+   "NOSE BRIDGE TYPE": "Fixed nose bridge",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "LENS COLOURS": "Grey,transparent",
+   "INTERCHANGEABLE LENSES": "Non-interchangeable lenses",
+   "FACE SHAPE": "Medium face,large face",
+   "LUMINOSITY": "Low light,variable light conditions",
+   "TIGHTENING TYPE": "Buckle,tightening by an elastic strap",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt"
+  },
+  "text": "Swimming Goggles L Soft Green Tinted Secure Fit Turquoise\nbeginner swimmers wanting to get into swimming in total freedom. Tired of not being able to see clearly underwater?\nThese swimming goggles offer the widest field of vision in the range! A simple adjustment on the back and you’re in the water in no time.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nanti-fogging: Enjoy swimming with clear vision, thanks to the anti-fog treatment.\nstability: These soft swimming goggles give you excellent stability.\nfield of vision: Enjoy one of the best fields of vision in our range of goggles.\nHow to properly adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position will optimise the grip and comfort of the goggles.\nSize: how to choose your swimming goggles Available in size S (children and small heads) and size L (large heads).\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face. \nBefore buying your glasses, we recommend that you carry out the \"suction cup\" test without the elastic band. Position the goggles over your eyes; if they hold on by themselves with a little suction, they will be watertight once in the water. This test can also identify areas of discomfort or annoyance on the face.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: all these drops will eventually combine to create a film of water through which you can see clearly.\nThe anti-fog treatment The anti-fog treatment creates a microscopic film of water to allow clear vision, but its wear is accelerated by rubbing inside the lenses or over-exposure to chlorinated water. Taking care of the inside of your glasses is essential.\n\nOver time, it is normal for the anti-fog effect to diminish. Briefly soaking the glasses in water may help in the short term, but can also accelerate the wear of the treatment. Our anti-fog marker reactivates the treatment!\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\n\nIf you swim outdoors or in a pool with harsh lighting, prioritise goggles with smoked lenses to limit the glare. \n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\n\nThe SOFT swimming goggles are available with two different lens tints (shaded and clear).\nUV protection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\n"
+ },
+ "decathlon-store-8982285-swimming-goggles-soft-clear-lenses-size-small": {
+  "url": "https://www.decathlon.in/p/8982285/swimming-goggles-soft-clear-lenses-size-small-green-orange",
+  "title": "Swimming goggles soft - Clear lenses - Size small - green orange",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model name \"soft lenses small\"",
+   "size small"
+  ],
+  "kv": {
+   "TECHNICAL LENS": "Uv a protection,uv b protection,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "NOSE BRIDGE TYPE": "Fixed nose bridge",
+   "TIGHTENING TYPE": "Buckle,tightening by an elastic strap",
+   "FACE SHAPE": "Small face,medium face",
+   "LEVEL OF PRACTICE": "Beginner",
+   "CASE": "Without case",
+   "TYPE OF LENS": "Translucid lense,clear lense",
+   "CONDITION": "New",
+   "LENS COLOURS": "Grey,transparent",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "INTERCHANGEABLE LENSES": "Non-interchangeable lenses",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt"
+  },
+  "text": "Swimming goggles soft - Clear lenses - Size small - green orange\nFirst laps or a reunion with the aquatic world? Here’s the simplicity you need: swimming goggles that can be adjusted in the blink of an eye. Tired of not being able to see clearly underwater?\nThese swimming goggles offer the widest field of vision in the range! A simple adjustment on the back and you’re in the water in no time.\nanti-fogging: Swim with fog-free goggles – these swimming goggles have an anti-fog treatment.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nfield of vision: Enjoy one of the best fields of vision in our range of goggles.\nstability: These soft swimming goggles give you excellent stability.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: all these drops will eventually combine to create a film of water through which you can see clearly.\nHow to properly adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position will optimise the grip and comfort of the goggles.\nUV protection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\n\nIf you swim outdoors or in a pool with harsh lighting, prioritise goggles with smoked lenses to limit the glare. \n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nSize: how to choose your swimming goggles Available in size S (kids and small heads) and size L (large heads).\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face. \nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the goggles over your eyes; if they hold on by themselves with a little suction, they will be watertight once in the water. This test can also identify areas of discomfort or annoyance on the face.\nThe anti-fog treatment The anti-fog treatment creates a microscopic film of water to allow clear vision, but its wear is accelerated by rubbing inside the lenses or overexposure to chlorinated water. Taking care of the inside of your glasses is essential.\n\nOver time, it is normal for the anti-fog effect to diminish. Briefly soaking the glasses in water may help in the short term, but can also accelerate the wear of the treatment. Our anti-fog marker reactivates the treatment!\n"
+ },
+ "decathlon-store-8982283-swimming-goggles-soft-clear-lenses-size-small": {
+  "url": "https://www.decathlon.in/p/8982283/swimming-goggles-soft-clear-lenses-size-small-blue-indigo",
+  "title": "Swimming goggles soft - Clear lenses - Size small - Blue indigo",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model name \"soft lenses small\"",
+   "size small"
+  ],
+  "kv": {
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "LENS COLOURS": "Grey,transparent",
+   "TYPE OF LENS": "Translucid lense,clear lense",
+   "CONDITION": "New",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "INTERCHANGEABLE LENSES": "Non-interchangeable lenses",
+   "FACE SHAPE": "Small face,medium face",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "LEVEL OF PRACTICE": "Beginner",
+   "NOSE BRIDGE TYPE": "Fixed nose bridge",
+   "TIGHTENING TYPE": "Buckle,tightening by an elastic strap",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "CASE": "Without case",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt"
+  },
+  "text": "Swimming goggles soft - Clear lenses - Size small - Blue indigo\nFirst laps or a reunion with the aquatic world? Here’s the simplicity you need: swimming goggles that can be adjusted in the blink of an eye. Tired of not being able to see clearly underwater?\nThese swimming goggles offer the widest field of vision in the range! A simple adjustment on the back and you’re in the water in no time.\nanti-fogging: Swim with fog-free goggles – these swimming goggles have an anti-fog treatment.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nstability: These soft swimming goggles give you excellent stability.\nfield of vision: Enjoy one of the best fields of vision in our range of goggles.\nThe anti-fog treatment The anti-fog treatment creates a microscopic film of water to allow clear vision, but its wear is accelerated by rubbing inside the lenses or overexposure to chlorinated water. Taking care of the inside of your glasses is essential.\n\nOver time, it is normal for the anti-fog effect to diminish. Briefly soaking the glasses in water may help in the short term, but can also accelerate the wear of the treatment. Our anti-fog marker reactivates the treatment!\nHow to properly adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nIt is not necessary to press against the lenses with your hands, a light suction effect is usually enough for swimming sessions without water inlet holes.\n\nThe straps ideally should rest 2-3 cm above your ears.\nThis position will optimise the grip and comfort of the goggles.\nSize: how to choose your swimming goggles Available in size S (kids and small heads) and size L (large heads).\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face. \nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the goggles over your eyes; if they hold on by themselves with a little suction, they will be watertight once in the water. This test can also identify areas of discomfort or annoyance on the face.\nUV protection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint. \n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\n\nIf you swim outdoors or in a pool with harsh lighting, prioritise goggles with smoked lenses to limit the glare. \n\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: all these drops will eventually combine to create a film of water through which you can see clearly.\n"
+ },
+ "decathlon-store-8955572-swimming-goggles-one-size-fits-all-bfit-black": {
+  "url": "https://www.decathlon.in/p/8955572/swimming-goggles-one-size-fits-all-bfit-black-smoked-black-new-anti-fog",
+  "title": "Swimming goggles One Size Fits All - Bfit black smoked black - New anti-fog",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"fits all bfit smoked\""
+  ],
+  "kv": {
+   "CONDITION": "New",
+   "FACE SHAPE": "Small face,medium face,large face",
+   "TIGHTENING TYPE": "Double elastic band tightening",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,100% uv protection,anti-fog glasses",
+   "LEVEL OF PRACTICE": "Intermediate,advanced",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "NOSE BRIDGE TYPE": "Interchangeable nose bridge",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Swimming goggles One Size Fits All - Bfit black smoked black - New anti-fog\nFor your most intensive training sessions, these swimming anti-fog goggles with their precise, permanent adjustments combine reliability and compactness. The only thing that counts is training?\nCompact, with double straps and 3 nose bridge sizes, these goggles offer great adjustment capacity and five times more effective anti-fog\nanti-fogging: Opt for these goggles, their anti-fog treatment lasts 5 times longer.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nstability: Benefit from excellent hold with the compact design of these BFIT goggles.\nfield of vision: Benefit from a standard field of vision less than 100° in well-lit places\nDurable, effective anti-fog technology:\nAdhesion layer (or primer) Applied directly to the inside of the lens, it ensures perfect adhesion of the anti-fog treatment. It protects it from the effects of water, heat and friction, maintaining its stability and performance over time for enhanced durability.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: with a new anti-fog treatment, all these drops will eventually combine to create a film of water through which you can see clearly.\nProtection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint.\n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\nIf you practice outdoors or in a very bright pool, choose dark glasses to limit glare: your visual comfort will be improved.\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nThe B-FIT swimming goggles are available in different lens tints.\nHow to activate the anti-fog of your swimming goggles? Activate anti-fog by shortly immersing the goggles in water and then running your finger along the inside of the lenses (do not immerse the goggles in water again).\n\nIn the event of recurrent fogging (every 40 sessions on average), clean the inside of the goggles with neutral, liquid soap (avoid solid soap), to remove the layer of pollution that has settled on them.\n\nDon’t worry about scratches: this new technology is highly resistant to abrasion.\nHow to adjust your swimming goggles These goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nThere is no need to press the glasses with your hands: a slight suction effect is all that’s needed for non-invasive swimming sessions.\n\nThe straps ideally should rest 2 to 3 cm above your ears.\nThis position will optimise the comfort of the goggles\nSize: how to choose your swimming goggles One-size model with precise nose bridge adjustment.\n\nThe watertightness of the goggles depends on the fit of the silicone skirts to the shape of the face.\nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the glasses over your eyes: if they hold on their own with a little suction, they’ll be watertight once they’re in the water. This test can also identify areas of discomfort or annoyance on the face.\nDurable, effective anti-fog technology:\nThe anti-fog coating Applied on top, this coating contains hydrophilic agents that prevent fogging. Instead of forming opaque droplets, moisture spreads into an invisible water film.\nIn addition to delivering effective anti-fog performance, this layer also improves scratch resistance, extending the lifespan of the goggles.\nHow do these anti-fog goggles work? Soaking the goggles, then running your finger inside them, creates a film of water that protects you from fogging up throughout your training.\n\nFog no longer settles on the surface of the lenses because it is absorbed by this film of water.\n\nThe vision through this film remains clear: you get the most out of your session.\n\nIf you take off your goggles and put them on your forehead, you may lose the water film: you then have to run your finger inside again to reform it.\n"
+ },
+ "decathlon-store-8955570-swimming-goggles-one-size-fits-all-bfit-white": {
+  "url": "https://www.decathlon.in/p/8955570/swimming-goggles-one-size-fits-all-bfit-white-tinted-blue-new-anti-fog",
+  "title": "Swimming goggles One Size Fits All - Bfit white tinted blue - New anti-fog",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"fits all bfit\""
+  ],
+  "kv": {
+   "NOSE BRIDGE TYPE": "Interchangeable nose bridge",
+   "TECHNICAL LENS": "Uv a protection,uv b protection,100% uv protection,anti-fog glasses",
+   "CONDITION": "New",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "FACE SHAPE": "Small face,medium face,large face",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment",
+   "TIGHTENING TYPE": "Double elastic band tightening",
+   "LEVEL OF PRACTICE": "Intermediate,advanced",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Swimming goggles One Size Fits All - Bfit white tinted blue - New anti-fog\nFor your most intensive training sessions, these swimming anti-fog goggles with their precise, permanent adjustments combine reliability and compactness. The only thing that counts is training?\nCompact, with double straps and 3 nose bridge sizes, these goggles offer great adjustment capacity and five times more effective anti-fog\nstability: Benefit from excellent hold with the compact design of these BFIT goggles.\nanti-fogging: Opt for these goggles, their anti-fog treatment lasts 5 times longer.\nfield of vision: Benefit from a standard field of vision less than 100° in well-lit places\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nProtection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint.\n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nHow do these anti-fog goggles work? Soaking the goggles, then running your finger inside them, creates a film of water that protects you from fogging up throughout your training.\n\nFog no longer settles on the surface of the lenses because it is absorbed by this film of water.\n\nThe vision through this film remains clear: you get the most out of your session.\n\nIf you take off your goggles and put them on your forehead, you may lose the water film: you then have to run your finger inside again to reform it.\nDurable, effective anti-fog technology:\nAdhesion layer (or primer) Applied directly to the inside of the lens, it ensures perfect adhesion of the anti-fog treatment. It protects it from the effects of water, heat and friction, maintaining its stability and performance over time for enhanced durability.\nDurable, effective anti-fog technology:\nThe anti-fog coating Applied on top, this coating contains hydrophilic agents that prevent fogging. Instead of forming opaque droplets, moisture spreads into an invisible water film.\nIn addition to delivering effective anti-fog performance, this layer also improves scratch resistance, extending the lifespan of the goggles.\nHow to adjust your swimming goggles These goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nThere is no need to press the glasses with your hands: a slight suction effect is all that’s needed for non-invasive swimming sessions.\n\nThe straps ideally should rest 2 to 3 cm above your ears.\nThis position will optimise the comfort of the goggles\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\nIf you practice outdoors or in a very bright pool, choose dark glasses to limit glare: your visual comfort will be improved.\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nThe B-FIT swimming goggles are available in different lens tints.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: with a new anti-fog treatment, all these drops will eventually combine to create a film of water through which you can see clearly.\nHow to activate the anti-fog of your swimming goggles? Activate anti-fog by shortly immersing the goggles in water and then running your finger along the inside of the lenses (do not immerse the goggles in water again).\n\nIn the event of recurrent fogging (every 40 sessions on average), clean the inside of the goggles with neutral, liquid soap (avoid solid soap), to remove the layer of pollution that has settled on them.\n\nDon’t worry about scratches: this new technology is highly resistant to abrasion.\nSize: how to choose your swimming goggles One-size model with precise nose bridge adjustment.\n\nThe watertightness of the goggles depends on the fit of the silicone skirts to the shape of the face.\nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the glasses over your eyes: if they hold on their own with a little suction, they’ll be watertight once they’re in the water. This test can also identify areas of discomfort or annoyance on the face.\n"
+ },
+ "decathlon-store-8955563-swimming-goggles-one-size-fits-all-bfast-black": {
+  "url": "https://www.decathlon.in/p/8955563/swimming-goggles-one-size-fits-all-bfast-black-mirror-blue-new-anti-fog",
+  "title": "Swimming goggles One Size Fits All - Bfast black mirror blue - New anti-fog",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"fits all bfast\""
+  ],
+  "kv": {
+   "NOSE BRIDGE TYPE": "Micro-adjustable nose bridge,adjustable nose bridge",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "TECHNICAL LENS": "Anti-scratch lenses,uv b protection,mirror lens,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "LEVEL OF PRACTICE": "Advanced",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment,with enhanced anti-fog performance",
+   "FACE SHAPE": "Small face,medium face,large face",
+   "CONDITION": "New",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Swimming goggles One Size Fits All - Bfast black mirror blue - New anti-fog\nEnhance your performance with patented BFAST anti-fog goggles, designed to give you the edge on race day Need to swim with confidence?\nWith our new five times more effective antifog technology and an exclusive micrometric nose bridge, maximise your chances of beating your personal best!”\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nanti-fogging: Opt for these goggles, their anti-fog treatment lasts 5 times longer.\nfield of vision: Enjoy an excellent field of vision with these compact and stylish goggles.\nstability: These patented and World Aquatics-homologated goggles offer a better fit.\nadjustable: Adjust the nose bridge to the nearest micrometre and double elastic on the rear.\nThese goggles are approved by World Aquatics B-FAST goggles are training and competition goggles approved by World Aquatics.\nDurable, effective anti-fog technology:\nThe anti-fog coating Applied on top, this coating contains hydrophilic agents that prevent fogging. Instead of forming opaque droplets, moisture spreads into an invisible water film.\nIn addition to delivering effective anti-fog performance, this layer also improves scratch resistance, extending the lifespan of the goggles.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\nIf you practice outdoors or in a very bright pool, choose dark glasses to limit glare: your visual comfort will be improved.\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nThe B-FAST swimming goggles are available in different lens tints.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: with a new anti-fog treatment, all these drops will eventually combine to create a film of water through which you can see clearly.\nHow do these anti-fog goggles work? Soaking the goggles, then running your finger inside them, creates a film of water that protects you from fogging up throughout your training.\n\nFog no longer settles on the surface of the lenses because it is absorbed by this film of water.\n\nThe vision through this film remains clear: you get the most out of your session.\n\nIf you take off your goggles and put them on your forehead, you may lose the water film: you then have to run your finger inside again to reform it.\nHow to activate the anti-fog of your swimming goggles? Activate anti-fog by immersing the goggles in water and then running your finger along the inside of the lenses (do not immerse the goggles in water again).\n\nIn the event of recurrent fogging (every 40 sessions on average), clean the inside of the goggles with neutral, liquid soap (avoid solid soap), to remove the layer of pollution that has settled on them.\n\nDon’t worry about scratches: this new technology is highly resistant to abrasion.\nHow to adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nThere is no need to press the glasses with your hands: a slight suction effect is generally sufficient for sessions without water infiltration.\n\nThe straps ideally should rest 2 to 3 cm above your ears.\nThis position will optimise the comfort of the goggles\nSize: how to choose your swimming goggles One-size model with precise nose bridge adjustment.\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face.\nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the glasses over your eyes: if they hold on their own with a little suction, they’ll be watertight once they’re in the water. This test can also identify areas of discomfort or annoyance on the face.\nA patented innovation Are you looking for goggles that are tailored to fit your face, completely watertight and that do not move as you swim, dive or tumble turn?\n\nWe bring you the answer in the B-FAST goggles thanks to a nose bridge adjustment system that is simple and precise. This system lets you fine-tune the spacing of the two lenses, using either the screwdriver or the built-in tool on the back buckle.\nUVA/UVB protection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint.\n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nCare and precautions Rinse your goggles in fresh water after each use.\n\nOver time, the surface of the coating can become clogged with impurities (perspiration, make-up, sunscreen), leading to fogging.\nClean the inside of the lenses with neutral liquid soap (do not use bar soap) and rinse thoroughly.\n\nIf fogging persists, use our anti-fog marker to help restore the protective water film.\n\nNot exposing it to temperatures of over 60°c.\nDurable, effective anti-fog technology:\nAdhesion layer (or primer) Applied directly to the inside of the lens, it ensures perfect adhesion of the anti-fog treatment. It protects it from the effects of water, heat and friction, maintaining its stability and performance over time for enhanced durability.\n"
+ },
+ "decathlon-store-8955562-swimming-goggles-one-size-fits-all-bfast-black": {
+  "url": "https://www.decathlon.in/p/8955562/swimming-goggles-one-size-fits-all-bfast-black-mirror-fire-new-anti-fog",
+  "title": "Swimming goggles One Size Fits All - Bfast black mirror Fire - New anti-fog",
+  "region": "IN",
+  "fetchedAt": "2026-09-27",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"fits all bfast fire\""
+  ],
+  "kv": {
+   "NOSE BRIDGE TYPE": "Micro-adjustable nose bridge,adjustable nose bridge",
+   "GLASS COMPOSITION": "Polycarbonate",
+   "CORRECTIVE LENSES": "Lenses without optical correction",
+   "ANTI-FOG TREATMENT": "With anti-fog treatment,with enhanced anti-fog performance",
+   "FACE SHAPE": "Small face,medium face,large face",
+   "TECHNICAL LENS": "Anti-scratch lenses,uv b protection,mirror lens,non-polarized lenses,100% uv protection,anti-fog glasses",
+   "LEVEL OF PRACTICE": "Advanced",
+   "CONDITION": "New",
+   "Warranty": "2 years",
+   "Made in": "China",
+   "anti-fog (page text)": "Yes",
+   "uv protection (page text)": "Yes",
+   "seal (page text)": "silicone skirt",
+   "nose bridge (page text)": "Yes"
+  },
+  "text": "Swimming goggles One Size Fits All - Bfast black mirror Fire - New anti-fog\nEnhance your performance with patented BFAST anti-fog goggles, designed to give you the edge on race day Need to swim with confidence?\nWith our new five times more effective antifog technology and an exclusive micrometric nose bridge, maximise your chances of beating your personal best!”\nfield of vision: Enjoy an excellent field of vision with these compact and stylish goggles.\nstability: These patented and World Aquatics-homologated goggles offer a better fit.\nanti-fogging: Opt for these goggles, their anti-fog treatment lasts 5 times longer.\nsun protection: Lenses filter more than 99% of harmful UVA and UVB rays to protect your eyes.\nadjustable: Adjust the nose bridge to the nearest micrometre and double elastic on the rear.\nDurable, effective anti-fog technology:\nAdhesion layer (or primer) Applied directly to the inside of the lens, it ensures perfect adhesion of the anti-fog treatment. It protects it from the effects of water, heat and friction, maintaining its stability and performance over time for enhanced durability.\nCare and precautions Rinse your goggles in fresh water after each use.\n\nOver time, the surface of the coating can become clogged with impurities (perspiration, make-up, sunscreen), leading to fogging.\nClean the inside of the lenses with neutral liquid soap (do not use bar soap) and rinse thoroughly.\n\nIf fogging persists, use our anti-fog marker to help restore the protective water film.\n\nNot exposing it to temperatures of over 60°c.\nUVA/UVB protection Complies with standard: Q/BT 4734 -2023, all our swimming goggles protect against harmful UVA and UVB rays when used normally, regardless of the lens tint.\n\nLooking directly at the sun is dangerous and can lead to irreversible eye damage.\nLens tint The colour of your goggles should be suited to your swimming location and its lighting.\nIf you practice outdoors or in a very bright pool, choose dark glasses to limit glare: your visual comfort will be improved.\nIf, however, the pool is quite dark with low lighting, winter evenings for example, use clear lenses.\nThe B-FAST swimming goggles are available in different lens tints.\nHow do these anti-fog goggles work? Soaking the goggles, then running your finger inside them, creates a film of water that protects you from fogging up throughout your training.\n\nFog no longer settles on the surface of the lenses because it is absorbed by this film of water.\n\nThe vision through this film remains clear: you get the most out of your session.\n\nIf you take off your goggles and put them on your forehead, you may lose the water film: you then have to run your finger inside again to reform it.\nSize: how to choose your swimming goggles One-size model with precise nose bridge adjustment.\n\nThe watertightness of the glasses depends on the fit of the silicone skirts to the shape of the face.\nBefore buying your goggles, we recommend that you carry out the “suction cup” test without the elastic band. Position the glasses over your eyes: if they hold on their own with a little suction, they’ll be watertight once they’re in the water. This test can also identify areas of discomfort or annoyance on the face.\nHow to adjust your swimming goggles These swimming goggles fit the morphology of your face without needing to be overly adjusted.\n\nGoggles that are too tight can cause discomfort, leave marks and even create water inlet holes.\n\nThere is no need to press the glasses with your hands: a slight suction effect is generally sufficient for sessions without water infiltration.\n\nThe straps ideally should rest 2 to 3 cm above your ears.\nThis position will optimise the comfort of the goggles\nA patented innovation Are you looking for goggles that are tailored to fit your face, completely watertight and that do not move as you swim, dive or tumble turn?\n\nWe bring you the answer in the B-FAST goggles thanks to a nose bridge adjustment system that is simple and precise. This system lets you fine-tune the spacing of the two lenses, using either the screwdriver or the built-in tool on the back buckle.\nThese goggles are approved by World Aquatics B-FAST goggles are training and competition goggles approved by World Aquatics.\nWhy do my swimming goggles fog up? Fogging is mainly due to the temperature difference between the body and the water.\nAs the body is warmer than the practice environment, fogging occurs on the inside of the lenses through evaporation.\nAs a result, every micro-drop of perspiration will stick to the inside of the goggles.\n\nIn fact, it’s a bit of luck: with a new anti-fog treatment, all these drops will eventually combine to create a film of water through which you can see clearly.\nDurable, effective anti-fog technology:\nThe anti-fog coating Applied on top, this coating contains hydrophilic agents that prevent fogging. Instead of forming opaque droplets, moisture spreads into an invisible water film.\nIn addition to delivering effective anti-fog performance, this layer also improves scratch resistance, extending the lifespan of the goggles.\nHow to activate the anti-fog of your swimming goggles? Activate anti-fog by immersing the goggles in water and then running your finger along the inside of the lenses (do not immerse the goggles in water again).\n\nIn the event of recurrent fogging (every 40 sessions on average), clean the inside of the goggles with neutral, liquid soap (avoid solid soap), to remove the layer of pollution that has settled on them.\n\nDon’t worry about scratches: this new technology is highly resistant to abrasion.\n"
  }
 }

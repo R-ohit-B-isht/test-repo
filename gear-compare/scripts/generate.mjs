@@ -79,8 +79,8 @@ function loadOfficial(site) {
 }
 
 // Sites with `brandStore: true` also list the maker's own storefront products (crawled catalogue with a live
-// price): the row's only evidence is the maker page itself, so every field is tier "official" or missing, and it
-// carries no marketplace rating.
+// price): the row's only evidence is the maker page itself, so every field is tier "official" or missing. Buyer
+// ratings exist only where the store publishes its own review block (Decathlon); Shopify stores carry none.
 const GEAR_OUT = process.env.GEAR_OUT || path.join(process.env.HOME || '', 'gear');
 function brandStoreRows(site) {
   if (!site.brandStore) return [];
@@ -93,7 +93,7 @@ function brandStoreRows(site) {
     const idSeed = `store-${c.handle || c.url.split('/').pop()}`.slice(0, 60);
     const id = `${c.brand}-${idSeed}`.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
     rows.push({
-      idSeed, title: c.title, brand: c.brand, price: c.price, rating: null, ratingCount: null,
+      idSeed, title: c.title, brand: c.brand, price: c.price, ...starRating(c.rating ?? null, c.ratingCount ?? null),
       images: [c.image], buyUrl: c.url, buyStore: 'maker', kv: {}, seller: [],
       official: { [id]: { url: c.url, title: c.title, region: c.region, fetchedAt: c.fetchedAt, matchScore: 1, matchedOn: ['maker’s own storefront listing'], kv: c.kv, text: c.text || '' } },
     });
@@ -185,7 +185,7 @@ function record(site, r) {
   const id = `${r.brand}-${r.idSeed}`.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
   const off = r.official[id] || null;
   const { scores, evidence } = scoreProduct(site, {
-    brand: r.brand, title: r.title, rating: r.rating, ratingCount: r.ratingCount, sellerText: r.seller, listingKv: r.kv, official: off,
+    brand: r.brand, title: r.title, rating: r.rating, ratingCount: r.ratingCount, store: r.buyStore, sellerText: r.seller, listingKv: r.kv, official: off,
   });
   const F = fieldMap(evidence.fields);
   const tags = [`store:${r.buyStore}`, `ev:${evidence.status}`, `maker:${evidence.maker.kind}`, `seg:${site.segment.of(F)}`];

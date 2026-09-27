@@ -8,13 +8,14 @@ const STRAP = [['rubber', /rubber/i], ['eva', /\beva\b|foam/i], ['pu', /\bpu\b|p
 const STYLE = [['thong', /flip\s*-?\s*flops?|thongs?|toe\s*-?\s*post|v[-\s]?strap|hawai|y[-\s]?strap/i], ['slider', /sliders?|slides?\b|single\s*strap|one\s*strap|band\s*slipper/i], ['clog', /clogs?|crocs|closed\s*toe/i], ['slipper', /slippers?|chappals?|sandals?/i]];
 const GRIP = /anti[-\s]?(?:skid|slip)|slip[-\s]?resist|non[-\s]?slip|traction|grip|textured\s*(?:out)?sole|wet\s*grip/i;
 const CUSHION = /cushion|arch\s*support|orthop|ortho\b|soft\s*(?:foot\s*)?bed|footbed|memory\s*foam|padded|contoured|ergonomic|diabetic|extra\s*soft|doctor/i;
-const WET = /quick[-\s]?dry|water[-\s]?friendly|washable|beach|pool|shower|bath/i;
+const WET = /quick[-\s]?dry(?:ing)?|dr(?:y|ies)\s*quickly|water[-\s]?friendly|washable|beach|pool|shower|bath|water\s*drainage|perforated\s*soles?/i;
 
 export default {
   id: 'flip-flops',
   label: 'Slippers & flip-flops',
   kicker: 'DRY FEET',
   family: 'trip',
+  brandStore: true,
   collapseVariants: true,
   unit: 'pair',
   blurb: 'Rubber / EVA flip-flops, sliders and slippers on Flipkart and Amazon.in — scored on the sole and strap material, anti-slip outsole, cushioning / arch support, water-friendly use and weight a maker page or the spec table states. Fur-lined winter slippers, socks and kids\' pairs never enter; "ultra-soft premium" in a title earns nothing.',
@@ -45,7 +46,7 @@ export default {
       listing: ['Type', 'Style', 'Product Type', 'Slipper Type', 'Closure'], official: ['type', 'style'],
       parse: (s) => oneOf(s, STYLE), display: (v) => ({ thong: 'Flip-flop (toe post)', slider: 'Slider', clog: 'Clog', slipper: 'Slipper' })[v] },
     T.feature('cushion', 'Cushioning / arch support stated', 'Comfort', CUSHION, { weight: 1.5, listing: ['Cushioning', 'Arch Support', 'Insole Material', 'Inner Material', 'Technology used', 'Technology Used', 'Other Details', 'Features', 'Special Feature', 'Additional Features', 'Comfort Features'], official: ['cushion', 'arch support', 'footbed', 'orthopedic'], noPts: 0.4 }),
-    T.feature('wet', 'Water-friendly / washable use stated', 'Comfort', WET, { weight: 1, listing: ['Occasion', 'Ideal For', 'Suitable For', 'Care Instructions', 'Fabric Care', 'Other Details', 'Features', 'Special Feature', 'Additional Features', 'Water Resistant', 'Waterproof'], official: ['beach', 'pool', 'shower', 'washable', 'water friendly'], noPts: 0.5 }),
+    T.feature('wet', 'Water-friendly / washable use stated', 'Comfort', WET, { weight: 1, listing: ['Occasion', 'Ideal For', 'Suitable For', 'Care Instructions', 'Fabric Care', 'Other Details', 'Features', 'Special Feature', 'Additional Features', 'Water Resistant', 'Waterproof'], official: ['beach', 'pool', 'shower', 'washable', 'water friendly', 'playing surface', 'place of practice', 'drying time', 'water drainage'], noPts: 0.5 }),
     T.weightField({ min: 80, max: 1200, light: 250, mid: 400, label: 'Weight (per pair / shoe as stated)' }),
     T.feature('grip', 'Anti-slip outsole', 'Protection', GRIP, { dim: 'safety', weight: 3, listing: ['Anti Skid', 'Anti-Skid', 'Anti Slip', 'Slip Resistant', 'Sole Features', 'Technology used', 'Technology Used', 'Other Details', 'Features', 'Special Feature', 'Additional Features'], official: ['anti-skid', 'anti skid', 'anti-slip', 'slip resistant', 'non-slip', 'traction', 'grip'] }),
     T.feature('thick', 'Sole thickness stated', 'Protection', /(?:\d(?:\.\d+)?\s*(?:cm|mm|inch)\s*(?:thick\s*)?(?:sole|heel|platform)|sole\s*(?:thickness|height)\s*[:-]?\s*\d|thick\s*sole|heel\s*height)/i, { dim: 'safety', weight: 1, listing: ['Sole Thickness', 'Heel Height', 'Sole Height', 'Platform Height', 'Heel Type', 'Other Details', 'Features'], official: ['sole thickness', 'heel height', 'thick'], noPts: 0.3 }),

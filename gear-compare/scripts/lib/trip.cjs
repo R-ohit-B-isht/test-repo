@@ -18,7 +18,7 @@ const SOLE = [['rubber', /rubber/i], ['tpr', /\btpr\b|thermo\s*plastic\s*rubber|
 const SOLE_LABEL = { rubber: 'Rubber', tpr: 'TPR (thermoplastic rubber)', eva: 'EVA foam', pu: 'PU', pvc: 'PVC', fabric: 'Fabric / lycra (no sole to speak of)' };
 
 // Boolean stated in a spec row, on the maker's own page text (official) or in the title (claimed, unscored).
-function feature(key, label, group, re, { dim = 'specs', weight = 1, listing = [], official = [], yes = 'Stated', no = 'Not stated', noPts = 0.2, negative = null } = {}) {
+function feature(key, label, group, re, { dim = 'specs', weight = 1, listing = [], official = [], yes = 'Stated', no = 'Stated as absent', noPts = 0.2, negative = null } = {}) {
   return {
     key, label, group, dim, weight, title: true, listing, official,
     parse: (s) => { const t = String(s); if (negative && negative.test(t)) return false; return yesNo(t) !== null ? yesNo(t) : re.test(t) ? true : null; },

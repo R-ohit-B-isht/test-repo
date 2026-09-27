@@ -38,7 +38,8 @@ function assertReal(rec, file, site) {
   if (!HTTP.test(rec.buyUrl || '')) problems.push('buyUrl');
   if (!Array.isArray(rec.images) || !rec.images.length || !HTTP.test(rec.images[0])) problems.push('images');
   if (!['flipkart', 'amazon', ...(site.brandStore ? ['maker'] : [])].includes(rec.buyStore)) problems.push('buyStore');
-  if (rec.buyStore === 'maker' && (rec.evidence?.status === 'listing' || rec.rating !== null || rec.ratingCount !== null)) problems.push('maker-store row carries marketplace evidence');
+  if (rec.buyStore === 'maker' && rec.evidence?.status === 'listing') problems.push('maker-store row carries marketplace evidence');
+  if (rec.buyStore === 'maker' && (rec.rating !== null) !== (rec.ratingCount !== null)) problems.push('maker-store rating without its own review count');
   if (!Array.isArray(rec.tags)) problems.push('tags');
   for (const k of Object.keys(WEIGHTS)) if (typeof rec.scores?.[k] !== 'number') problems.push('scores.' + k);
   if (!Object.keys(STATUS_LABEL).includes(rec.evidence?.status)) problems.push('evidence.status');

@@ -13,7 +13,8 @@ const PORT = [['usb-c', /type[-\s]?c|usb[-\s]?c\b/i], ['micro', /micro[-\s]?usb/
 const IP = /\bip\s?([x0-9])([0-9])\b/i;
 const ipRating = (s) => { const m = IP.exec(String(s)); if (!m) return null; return `IP${m[1].toUpperCase()}${m[2]}`; };
 const ipPoints = (v) => { const w = Number(v[3]); return w >= 7 ? 1 : w >= 6 ? 0.9 : w >= 5 ? 0.8 : w >= 4 ? 0.7 : 0.4; };
-const RED = /red\s*(?:light|led|mode|beam|night)/i;
+// "red light mode" in prose, or "Red" as its own entry in a maker's list of lighting types (never the body colour).
+const RED = /red\s*(?:light|led|mode|beam|night)|(?:^|,)\s*red\s*(?:,|$)/i;
 const SENSOR = /wave|motion\s*sensor|gesture|sensor\s*(?:mode|switch|control)|induction\s*(?:switch|sensor)/i;
 const VEHICLE = /(?:car|bike|motorcycle|scooter|scooty|bicycle|cycle|auto)\s*(?:head\s*)?(?:light|lamp|led)s?\b|for\s*(?:cars?|bikes?|motorcycles?|scooters?|bullet|royal\s*enfield|splendor|activa|pulsar|apache|classic\s*350|bicycles?|cycles?|tractors?|trucks?)\b|\bh4\b|\bh7\b|\bh11\b|9005|9006|\bhid\b|halogen|projector|fog\s*lamp|headlight\s*(?:assembly|glass|cover|bulb|restoration|visor|protector|film|sticker)|headlamp\s*(?:assembly|glass|cover|bulb|restoration|visor|protector|film)|\bdrl\b|xenon|bulbs?\s*for|royal\s*enfield|enfield|\bbullet\s*350|classic\s*350|hunter\s*350|meteor\s*350|himalayan|splendor|activa|pulsar|apache|\bktm\b|dominar|xpulse|ntorq|\br15\b|\bmt\s*15\b|\bdio\b|burgman|gixxer|intruder|maruti|hyundai|mahindra|toyota|\bswift\b|\balto\b|wagon\s*r\b|\bcreta\b|\bi20\b|\bi10\b|\bnexon\b|\bscorpio\b|\bbolero\b|\binnova\b|fortuner|\bbrezza\b|\bertiga\b|\bbaleno\b|\bverna\b|\bseltos\b|\bsonet\b|\bkia\b|\bxuv\b|\bharrier\b|\baltroz\b|\btigor\b|\bciaz\b|\bdzire\b|\bcelerio\b|\bignis\b|\beeco\b|\bxl6\b|grand\s*vitara|\bjimny\b|\bfronx\b|\bexter\b|\bsantro\b|\bcarens\b|\bcarnival\b/i;
 
@@ -22,6 +23,7 @@ export default {
   label: 'Headlamp torch',
   kicker: 'LIGHT',
   family: 'trip',
+  brandStore: true,
   collapseVariants: true,
   unit: 'headlamp',
   blurb: 'LED headlamps / head torches on Flipkart and Amazon.in — scored on the lumens, battery type and capacity, runtime, charging port, beam distance, red-light mode, weight and IP water rating a maker page or the marketplace spec table states. Vehicle headlights and bulbs never enter; "super bright 10000 W" in a title earns nothing.',
@@ -58,17 +60,18 @@ export default {
     { key: 'beam', label: 'Beam distance', group: 'Light', dim: 'specs', weight: 1, title: true,
       listing: ['Beam Distance', 'Range', 'Lighting Distance', 'Light Range', 'Throw', 'Beam Range', 'Irradiation Distance', 'Illumination Distance'], official: ['beam distance', 'range', 'throw', 'distance'],
       parse: metres, display: (v) => `${v} m`, plausible: (v) => (v >= 10 && v <= 600) || `${v} m is not a plausible beam distance (10–600)`, points: (v) => (v >= 100 ? 1 : v >= 50 ? 0.85 : 0.7) },
-    T.feature('red', 'Red-light mode', 'Light', RED, { weight: 1, listing: ['Light Modes', 'Modes', 'Lighting Modes', 'Light Color', 'Light Colour', 'Colour Of Light', 'Color Of Light', 'Features', 'Special Feature', 'Other Details', 'Additional Features'], official: ['red light', 'red mode', 'red led'], noPts: 0.4 }),
+    T.feature('red', 'Red-light mode', 'Light', RED, { weight: 1, listing: ['Light Modes', 'Modes', 'Lighting Modes', 'Light Color', 'Light Colour', 'Colour Of Light', 'Color Of Light', 'Features', 'Special Feature', 'Other Details', 'Additional Features'], official: ['red light', 'red mode', 'red led', 'lighting types', 'light modes', 'modes'], noPts: 0.4 }),
     T.feature('sensor', 'Wave / motion sensor switch', 'Light', SENSOR, { weight: 0.5, listing: ['Sensor', 'Motion Sensor', 'Switch Type', 'Features', 'Special Feature', 'Other Details', 'Additional Features'], official: ['sensor', 'wave', 'gesture'], noPts: 0.6 }),
     { key: 'modes', label: 'Light modes (count)', group: 'Light', dim: 'specs', weight: 0.5, title: true,
-      listing: ['Light Modes', 'Modes', 'Lighting Modes', 'Number of Modes', 'Number Of Modes', 'Mode'], official: ['modes', 'lighting modes'],
-      parse: (s) => { const m = /(\d)\s*(?:light(?:ing)?\s*)?modes?\b/i.exec(String(s)) || /modes?\s*[:-]?\s*(\d)\b/i.exec(String(s)); const n = m ? Number(m[1]) : null; return n && n >= 1 && n <= 9 ? n : null; }, display: (v) => `${v} modes`, points: (v) => (v >= 3 ? 1 : 0.7) },
+      listing: ['Light Modes', 'Modes', 'Lighting Modes', 'Number of Modes', 'Number Of Modes', 'Mode'], official: ['modes', 'lighting modes', 'lighting types'],
+      // "6 modes" / "Modes: 3", else a spec row that lists the modes by name ("White wide, Red, Flash/SOS…") is counted.
+      parse: (s) => { const t = String(s); const m = /(\d)\s*(?:light(?:ing)?\s*)?modes?\b/i.exec(t) || /modes?\s*[:-]?\s*(\d)\b/i.exec(t); let n = m ? Number(m[1]) : null; if (!n && /,/.test(t) && !/\d\s*(?:lm|lumens?|mah|h\b)/i.test(t)) n = t.split(/,|\s+\/\s+/).map((x) => x.trim()).filter(Boolean).length; return n && n >= 1 && n <= 9 ? n : null; }, display: (v) => `${v} modes`, points: (v) => (v >= 3 ? 1 : 0.7) },
     T.weightField({ min: 20, max: 700, light: 90, mid: 150, label: 'Weight (as stated)' }),
     { key: 'ip', label: 'Water / dust rating (IP)', group: 'Protection', dim: 'safety', weight: 4, title: true,
       listing: ['Water Resistance', 'Water Resistant', 'Waterproof', 'IP Rating', 'Ip Rating', 'Water Resistance Level', 'Protection Rating', 'Waterproof Rating', 'Weather Resistance', 'Special Feature', 'Features', 'Other Details', 'Additional Features'], official: ['ip rating', 'ipx', 'ip6', 'ip5', 'ip4', 'water resistance', 'waterproof'],
       parse: ipRating, display: (v) => v, points: ipPoints },
     T.feature('water', 'Water resistance stated (no IP code)', 'Protection', /water[-\s]?(?:proof|resist|repellent)|rain[-\s]?proof|splash[-\s]?proof|weather[-\s]?(?:proof|resist)/i, { dim: 'safety', weight: 1.5, listing: ['Water Resistance', 'Water Resistant', 'Waterproof', 'Water Resistance Level', 'Weather Resistance', 'Special Feature', 'Features', 'Other Details', 'Additional Features'], official: ['water resistant', 'waterproof', 'splash'], noPts: 0.2 }),
-    T.feature('lowbatt', 'Low-battery indicator / lock-out', 'Protection', /battery\s*(?:indicator|level|status|display)|power\s*indicator|charge\s*indicator|low[-\s]?battery|lock[-\s]?(?:out|mode)|reserve\s*mode/i, { dim: 'safety', weight: 1, listing: ['Indicator', 'Battery Indicator', 'Features', 'Special Feature', 'Other Details', 'Additional Features'], official: ['indicator', 'lock', 'reserve'], noPts: 0.3 }),
+    T.feature('lowbatt', 'Low-battery indicator / lock-out', 'Protection', /battery\s*(?:indicator|level|status|display)|power\s*indicator|charge\s*indicator|low[-\s]?battery|lock[-\s]?(?:out|mode)|reserve\s*mode/i, { dim: 'safety', weight: 1, listing: ['Indicator', 'Battery Indicator', 'Features', 'Special Feature', 'Other Details', 'Additional Features'], official: ['indicator', 'lock', 'reserve', 'lighting types'], noPts: 0.3 }),
     T.feature('cert', 'Safety certification stated (BIS / CE / RoHS)', 'Protection', /\bbis\b|\bce\b|\brohs\b|\bfcc\b|\bul\b|\bis\s*\d{4,5}\b|certif/i, { dim: 'safety', weight: 1, listing: ['Certification', 'Certifications', 'Standards', 'Safety Standard', 'Compliance'], official: ['certif', 'bis', 'ce', 'rohs'], noPts: 0 }),
     { key: 'warranty', label: 'Warranty', group: 'Support', dim: 'maker', weight: 0, title: true,
       listing: ['Warranty Summary', 'Warranty', 'Domestic Warranty', 'Warranty Period', 'Manufacturer Warranty', 'Covered in Warranty'], official: ['warranty', 'warranty period', 'guarantee'],

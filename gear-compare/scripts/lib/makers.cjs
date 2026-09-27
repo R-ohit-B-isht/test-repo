@@ -106,7 +106,10 @@ const MAKERS = [
   [['kaff'], 'KAFF Appliances (India)', 'india', 'https://www.kaff.in/about-us', 'https://www.kaff.in'],
   [['baltra'], 'Baltra Home Products', 'india', 'https://www.baltra.in/about-us', 'https://www.baltra.in'],
   // Outdoor
-  [['quechua', 'forclaz', 'decathlon', 'kalenji', 'simond'], 'Decathlon Sports India', 'global', 'https://www.decathlon.in/corporate-about-us', 'https://www.decathlon.in'],
+  [['quechua', 'forclaz', 'decathlon', 'kalenji', 'simond', 'nabaiji', 'subea', 'olaian', 'tribord', 'itiwit', 'domyos', 'kipsta', 'btwin', 'rockrider', 'artengo', 'newfeel', 'tarmak', 'oxelo', 'caperlan', 'solognac', 'wedze', 'geologic', 'van rysel', 'inesis', 'kuikma', 'perfly', 'corength', 'aptonia', 'fouganza', 'orao', 'outshock', 'copaya', 'allsix'], 'Decathlon Sports India Pvt Ltd', 'global', 'https://www.decathlon.in/corporate-about-us', 'https://www.decathlon.in'],
+  // Swim / beach — legal entity read from the store's own about / privacy page (2026-09-27)
+  [['speedo'], 'Speedo (Page Industries Ltd, licensee of Speedo International)', 'global', 'https://www.speedo.in/pages/privacy-policy', 'https://www.speedo.in'],
+  [['paragon'], 'Paragon Polymer Products Pvt Ltd', 'india', 'https://www.paragonfootwear.com/pages/about-us', 'https://www.paragonfootwear.com'],
   [['wildcraft'], 'Wildcraft India Pvt Ltd', 'india', 'https://wildcraft.com/pages/about-us', 'https://wildcraft.com'],
   [['columbia'], 'Columbia Sportswear', 'global', 'https://www.columbia.com/about-us/', 'https://www.columbiasportswear.co.in'],
   [['the north face', 'north face'], 'The North Face (VF Corporation)', 'global', 'https://www.thenorthface.com/en-us/about-us', 'https://www.thenorthface.com'],
