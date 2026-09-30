@@ -124,7 +124,12 @@ function starRating(raw, rawCount) {
 function build(site) {
   const official = loadOfficial(site);
   const load = (names) => [].concat(names || []).filter((n) => fs.existsSync(path.join(RAW, n))).flatMap((n) => JSON.parse(fs.readFileSync(path.join(RAW, n), 'utf8')));
-  const fk = load(site.sources.flipkart);
+  const fkByHref = new Map();
+  for (const p of load(site.sources.flipkart)) {
+    const key = p.href && p.href.split('?')[0];
+    if (!fkByHref.has(key)) fkByHref.set(key, p);
+  }
+  const fk = [...fkByHref.values()];
   const amByAsin = new Map();
   for (const p of load(site.sources.amazon)) {
     const prev = amByAsin.get(p.asin);

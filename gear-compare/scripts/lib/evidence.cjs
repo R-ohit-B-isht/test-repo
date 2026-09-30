@@ -115,11 +115,12 @@ function resolveFields(site, src) {
     const off = veto ? { value: null, conflict: null } : rule && rule.value !== undefined && rule.value !== null ? { value: rule.value, conflict: rule.note || null } : officialValue(f, src.official);
     const offVal = off.value;
     const lstVal = veto ? null : firstParsed(listingCandidates(src.listing, f.listing || []), f.parse);
-    const titleVal = f.title && !veto ? f.parse(src.text) : null;
+    const titleVal = f.title && !veto ? (typeof f.title === 'function' ? f.title(src.text) : f.parse(src.text)) : null;
     if (veto) conflict = veto;
     // A spec-table value the field marks as weak (e.g. "Pack of: 1" meaning one sales unit) does not outrank a
     // title that states something else; the title value is kept but stays a claim.
-    const weakListing = lstVal !== null && f.weak && f.weak(lstVal) && titleVal !== null && !same(titleVal, lstVal);
+    const weakWhy = lstVal !== null && f.weak && titleVal !== null && !same(titleVal, lstVal) ? f.weak(lstVal, titleVal) : null;
+    const weakListing = Boolean(weakWhy);
     if (offVal !== null) {
       value = offVal; tier = 'official';
       if (lstVal !== null && !same(lstVal, offVal)) conflict = `Listing states ${f.display(lstVal)}; maker page states ${f.display(offVal)} — maker value used`;
@@ -128,7 +129,7 @@ function resolveFields(site, src) {
       value = lstVal; tier = 'listing';
     } else if (titleVal !== null) {
       value = titleVal; tier = 'claimed';
-      if (weakListing) conflict = `Spec table states ${f.display(lstVal)} (a sales-unit count); title states ${f.display(titleVal)} — title used, unverified`;
+      if (weakListing) conflict = `Spec table states ${f.display(lstVal)} (${typeof weakWhy === 'string' ? weakWhy : 'a sales-unit count'}); title states ${f.display(titleVal)} — title used, unverified`;
     }
     if (value !== null && f.plausible) {
       const ok = f.plausible(value);

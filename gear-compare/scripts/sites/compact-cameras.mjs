@@ -34,6 +34,10 @@ function sensorSize(s) {
   const m = /1\s*\/\s*(\d(?:\.\d+)?)\s*(?:["”]|inch|in\b|type)?/i.exec(t);
   return m ? Number((1 / Number(m[1])).toFixed(3)) : null;
 }
+// One-line summaries keep the tier visible: a title-only number is printed with [T] so it never reads as a spec.
+const shown = (f, suffix = '') => (f && f.value !== null && f.value !== undefined && f.tier !== 'rejected' ? `${f.display}${suffix}${f.tier === 'claimed' ? ' [T]' : ''}` : null);
+// "64GB built-in" / "internal memory 32 GB" in a title is built-in storage; a bare "128GB" is the card ceiling.
+const builtinFromTitle = (t) => { const m = /(\d+)\s*gb\s*(?:of\s*)?(?:built[-\s]?in|internal|inbuilt|on[-\s]?board|integrated)|(?:built[-\s]?in|internal|inbuilt|on[-\s]?board|integrated)\s*(?:memory|storage|flash)?\s*(?:of\s*)?(\d+)\s*gb/i.exec(String(t)); return m ? Number(m[1] || m[2]) : null; };
 const sensorLabel = (v) => (v >= 1 ? '1-inch' : `1/${(1 / v).toFixed(v > 0.6 ? 1 : 2).replace(/\.0+$/, '')}"`);
 const hours = (s) => { const t = String(s); const h = /(\d+(?:\.\d+)?)\s*(?:h|hrs?|hours?)\b/i.exec(t); const m = /(\d+(?:\.\d+)?)\s*(?:min|mins|minutes?)\b/i.exec(t); if (h && m) return Number(h[1]) + Number(m[1]) / 60; if (h) return Number(h[1]); if (m) return Math.round((Number(m[1]) / 60) * 10) / 10; return null; };
 // "64 GB", "128GB built-in", "supports up to 256 GB" → GB (largest figure stated).
@@ -58,10 +62,19 @@ const NIGHT = /night\s*vision|\bir\s*(?:led|light|cut|night)|infrared|low[-\s]?l
 const MOUNT = /clip|magnet|lanyard|neck\s*mount|chest\s*(?:mount|strap)|helmet\s*mount|wearable|pendant|body\s*mount|back\s*clip|pocket\s*clip|mount(?:ing)?\s*(?:type|kit|bracket|adhesive)|tripod\s*(?:socket|thread|mount)|1\/4/i;
 const MIC = /\bmic\b|microphone|audio\s*record|voice\s*record|wind\s*noise/i;
 
-// Product form, read from the title (identity, unscored) or the spec table's camera type row. Named pocket gimbals
-// come first; a generic "vlogging camera" / "camcorder" word only decides the form when no action / body / mini form
-// word is present ("4K Action Camera … Vlogging Camera" is an action camera).
+// Marketed for concealed recording (spy / hidden / nanny / secret …) — its own form, never merged into the open mini
+// cams; a camera built into another object (pen, button, glasses, clock, charger, bulb, power bank …) is a second form.
+export const COVERT = /\bspy\b|\bspying\b|hidden|\bhide\b|covert|nanny\s*cam|secret\s*(?:cam|camera|record)|conceal|disguis|undetectable|invisible\s*(?:cam|camera|lens|record\w*)|stealth\s*(?:cam|camera|record\w*|mode)|\bsneak|discreet\s*(?:cam|camera|record)/i;
+export const DISGUISED = /\bcharge\s*(?:cam|camera)\b|car\s*key\s*(?:chain|fob|ring)?\s*(?:mini\s*|spy\s*|hidden\s*|hd\s*)*(?:cam|camera)|\b(?:pen|spectacles?|glasses|eyeglass|sunglass(?:es)?|watch|wrist|bulb|lamp|charger|adapter|adaptor|plug|socket|switch\s*board|clock|alarm\s*clock|smoke\s*detector|photo\s*frame|power\s*bank|usb\s*(?:drive|stick|flash|pen\s*drive)|pen\s*-?\s*drive|button|bottle|hook|tissue|teddy|toy\s*car|car\s*key|lighter|air\s*freshener|speaker|photo\s*frame|calculator|mouse|earphone|neck\s*band|shirt|belt\s*buckle|cap\s*camera|hat\s*camera|hanger|bird\s*feeder|plant\s*pot|book\s*camera)\s*(?:shaped\s*|type\s*|style\s*|design\s*)?(?:spy\s*|hidden\s*|mini\s*|hd\s*|wifi\s*|smart\s*)*(?:cam|camera|dvr|recorder)|(?:spy|hidden|mini|hd|camera|cam)\s*(?:pen|spectacles?|glasses|watch|bulb|charger|adapter|clock|smoke\s*detector|photo\s*frame|power\s*bank|pen\s*-?\s*drive|button|bottle|hook|lighter|usb\s*(?:drive|stick))\b|(?:\b|_)pen\s*(?:body\s*)?cam(?:era)?\b|camera\s*pen\b|glasses\s*cam|smart\s*(?:glasses|eyewear)|eyewear|camera\s*in\s*(?:a\s*)?(?:car\s*key|key\s*chain|keyfob|pen|watch|bulb|clock)|\bcar\s*key\b|remote\s*style\s*recorder/i;
+const CONCEALED = { test: (t) => COVERT.test(t) || DISGUISED.test(t) };
+
+// Product form, read from the title (identity, unscored) or the spec table's camera type row. Disguised-object and
+// hidden / spy marketing decide the form before anything else ("Mini Spy Camera" is a hidden cam, not an open mini
+// cube); named pocket gimbals come next; a generic "vlogging camera" / "camcorder" word only decides the form when
+// no action / body / mini form word is present ("4K Action Camera … Vlogging Camera" is an action camera).
 const FORM = [
+  ['disguised', DISGUISED],
+  ['hidden', COVERT],
   ['thumb', /insta\s*360\s*go\b|\bgo\s*3s?\b|\bgo\s*ultra\b|osmo\s*nano|thumb\s*(?:action\s*|digital\s*|mini\s*|body\s*|pov\s*)*(?:cam|camera|digicam)|akaso\s*keychain|keychain\s*(?:action\s*|thumb\s*|digital\s*|mini\s*)*(?:cam|camera)/i],
   ['pocket', /osmo\s*pocket|dji\s*pocket|pocket\s*(?:gimbal\s*)?(?:cam|camera|camcorder|cinema)|gimbal\s*camera|handheld\s*gimbal\s*camera/i],
   ['action', /action\s*-?\s*cam|\bgopro\b|hero\s*\d{1,2}\b|insta\s*360\s*(?:ace|x\d|one)|osmo\s*action|dji\s*action|\bsjcam\b|\bakaso\b|sports?\s*(?:&\s*action\s*|and\s*action\s*|action\s*)?cam|helmet\s*cam|360\s*(?:degree\s*)?(?:action\s*)?cam|underwater\s*cam|waterproof\s*cam|diving\s*cam|bike\s*cam/i],
@@ -70,29 +83,42 @@ const FORM = [
   ['compact', /digital\s*camera|digi\s*-?\s*cam|point\s*(?:&|and)\s*shoot|compact\s*camera|\bzv-?\s?(?:1|e10|e1)\b|powershot|cyber-?shot|coolpix|lumix\s*(?:tz|zs|lx)|\bkodak\s*(?:pixpro|fz|az)|ricoh\s*gr|\bx100/i],
   ['pocket', /vlog(?:ging)?\s*camera|handheld\s*camera|camcorder/i],
 ];
-const FORM_LABEL = { action: 'Action camera', thumb: 'Thumb / magnetic mini action cam', pocket: 'Pocket gimbal / vlog camera', body: 'Body-worn / clip camera', mini: 'Mini cube / mini Wi-Fi camera', compact: 'Compact digital camera' };
+const FORM_LABEL = { hidden: 'Hidden / spy mini camera', disguised: 'Disguised-object camera (pen, button, glasses, clock, charger…)', action: 'Action camera', thumb: 'Thumb / magnetic mini action cam', pocket: 'Pocket gimbal / vlog camera', body: 'Body-worn / clip camera', mini: 'Mini cube / mini Wi-Fi camera', compact: 'Compact digital camera' };
 
-// Not this product: anything marketed for covert recording (spy / hidden / nanny / concealed…) or a camera hidden
-// inside another object, fixed CCTV / home-security / baby / doorbell cameras, dash and reverse cameras, toys,
-// dummies, big cameras, webcams and every accessory sold alone (mount, case, battery, filter, card, stick, lens…).
-export const COVERT = /\bspy\b|\bspying\b|hidden|\bhide\b|covert|nanny\s*cam|secret\s*(?:cam|camera|record)|conceal|disguis|undetectable|invisible\s*(?:cam|camera|lens|record\w*)|stealth\s*(?:cam|camera|record\w*|mode)|\bsneak|discreet\s*(?:cam|camera|record)|surveillance/i;
-const DISGUISED = /\bcharge\s*(?:cam|camera)\b|car\s*key\s*(?:chain|fob|ring)?\s*(?:mini\s*|spy\s*|hidden\s*|hd\s*)*(?:cam|camera)|\b(?:pen|spectacles?|glasses|eyeglass|sunglass(?:es)?|watch|wrist|bulb|lamp|charger|adapter|adaptor|plug|socket|switch\s*board|clock|alarm\s*clock|smoke\s*detector|photo\s*frame|power\s*bank|usb\s*(?:drive|stick|flash|pen\s*drive)|pen\s*-?\s*drive|button|bottle|hook|tissue|teddy|toy\s*car|car\s*key|lighter|air\s*freshener|speaker|photo\s*frame|calculator|mouse|earphone|neck\s*band|shirt|belt\s*buckle|cap\s*camera|hat\s*camera|hanger|bird\s*feeder|plant\s*pot|book\s*camera)\s*(?:shaped\s*|type\s*|style\s*|design\s*)?(?:spy\s*|hidden\s*|mini\s*|hd\s*|wifi\s*|smart\s*)*(?:cam|camera|dvr|recorder)|(?:spy|hidden|mini|hd|camera|cam)\s*(?:pen|spectacles?|glasses|watch|bulb|charger|adapter|clock|smoke\s*detector|photo\s*frame|power\s*bank|pen\s*-?\s*drive|button|bottle|hook|lighter|usb\s*(?:drive|stick))\b|\bpen\s*cam(?:era)?\b|camera\s*pen\b|glasses\s*cam|smart\s*(?:glasses|eyewear)|eyewear|invisible\s*lens|camera\s*in\s*(?:a\s*)?(?:car\s*key|key\s*chain|keyfob|pen|watch|bulb|clock)|\bcar\s*key\b|remote\s*style\s*recorder/i;
-// Fixed installed cameras (mains-powered, pan-tilt, NVR / SIM / solar, brand lines) are never the product; "security
-// camera for home" alone is only a rejection when nothing says the camera is a mini / magnet / body / battery unit.
-const CCTV_HARD = /\bcctv\b|\bip\s*(?:home\s*)?security|\bwifi\s*ip\b|\bptz\b|pan\s*(?:\/|-|&|and)?\s*tilt|\bnvr\b|\bdvr\b(?!.*(?:mini|body|wearable))|\bip\s*cam(?:era)?\b|bullet\s*cam|dome\s*cam|baby\s*monitor|doorbell|video\s*door|door\s*phone|solar\s*camera|4g\s*sim\s*camera|sim\s*card\s*camera|360\s*(?:degree\s*)?(?:wifi\s*|smart\s*)?(?:home\s*)?(?:security|cctv|monitoring)|pet\s*camera|trail\s*cam|hunting\s*cam|wildlife\s*cam|game\s*cam|eve\s*pro|tapo\b|ezviz|imou|cp\s*plus|hikvision|dahua|qubo|godrej\s*eve|mi\s*360|xiaomi\s*(?:smart\s*)?camera\s*(?:c\d|2k|360)|wipro\s*smart|realme\s*smart\s*cam|tp[-\s]?link|d-?link|smart\s*wifi\s*(?:mini\s*)?pt\b|\bpt\s*camera/i;
+// Not this product: fixed CCTV / home-security / baby / doorbell cameras, dash and reverse cameras, toys, dummies,
+// big cameras, webcams and every accessory sold alone (mount, case, battery, filter, card, stick, lens…).
+// Fixed installed cameras (pan-tilt, NVR / SIM / solar, brand lines) are never the product. Sellers of hidden / spy
+// minis pad titles with "CCTV" / "IP camera" / "home security", so those words alone only reject an open camera, and
+// "security camera for home" alone only when nothing says the camera is a mini / magnet / body / battery unit.
+const CCTV_FIXED = /\bptz\b|pan\s*(?:\/|-|&|and)?\s*tilt|\bnvr\b|bullet\s*cam|dome\s*cam|baby\s*monitor\b|doorbell|video\s*door|door\s*phone|solar\s*camera|4g\s*sim\s*camera|sim\s*card\s*camera|trail\s*cam|hunting\s*cam|wildlife\s*cam|game\s*cam|eve\s*pro|tapo\b|ezviz|imou|cp\s*plus|hikvision|dahua|qubo|godrej\s*eve|mi\s*360|xiaomi\s*(?:smart\s*)?camera\s*(?:c\d|2k|360)|wipro\s*smart|realme\s*smart\s*cam|tp[-\s]?link|d-?link|smart\s*wifi\s*(?:mini\s*)?pt\b|\bpt\s*camera/i;
+const CCTV_WORD = /\bcctv\b|pet\s*camera|\bip\s*(?:home\s*)?security|\bwifi\s*ip\b|\bdvr\b(?!.*(?:mini|body|wearable))|\bip\s*cam(?:era)?\b|360\s*(?:degree\s*)?(?:wifi\s*|smart\s*)?(?:home\s*)?(?:security|cctv|monitoring)/i;
 const CCTV_SOFT = /home\s*security|indoor\s*(?:security\s*)?camera|outdoor\s*(?:security\s*)?camera|security\s*camera\s*(?:kit|system|360|for\s*home)|surveillance\s*(?:camera|system)|wifi\s*camera\s*(?:360|for\s*home|indoor)/i;
 const MINI_UNIT = /\bmini\b|magnet|portable|body\s*cam|wearable|battery|pocket|\ba9\b|\bsq\s*\d+\b|clip/i;
-const CCTV = { test: (t) => CCTV_HARD.test(t) || (CCTV_SOFT.test(t) && !MINI_UNIT.test(t)) };
-const VEHICLE = /dash\s*-?\s*cam|car\s*(?:camera|dvr|dash|recorder)|reverse\s*(?:camera|assist)|rear\s*view|rearview|parking\s*(?:camera|assist)|driving\s*recorder|vehicle\s*camera|bike\s*dvr|motorcycle\s*dvr|helmet\s*intercom/i;
-const OTHER_CAM = /\bdslr\b|thermal\s*print|\bguide\b|\btoys?\b|how\s*to\s*use|user'?s?\s*(?:guide|manual)|\bmanual\b|handbook|for\s*dummies|paperback|hardcover|kindle|\bbook\b|mirrorless|interchangeable\s*lens|\bef-?m\b|\be-?mount\b|digital\s*camera\s*(?:for\s*kids|kids|children|toy)|kids?\s*(?:digital\s*|video\s*|selfie\s*|mini\s*|sports?\s*(?:and\s*|&\s*)?|action\s*)*camera|children'?s?\s*(?:digital\s*)?camera|toy\s*camera|instant\s*(?:print|photo|film|camera)|instax|\banalog\s*mini\b|\bmini\s*1[12]\b|\bmini\s*evo\b|liplay|\bdiy\s*(?:instant\s*)?(?:digital\s*)?camera|(?:print|printer)\s*camera|camera\s*(?:with|and)\s*(?:built[-\s]?in\s*)?printer|polaroid|instax|webcam|web\s*camera|endoscope|borescope|inspection\s*camera|microscope|telescope|binocular|monocular|night\s*vision\s*(?:goggles?|scope|binocular|device|monocular)|thermal\s*(?:imag|camera)|drone|quadcopter|dummy|fake\s*(?:camera|cctv)|cinema\s*camera|film\s*camera|\bcamcorder\s*(?:full\s*)?hd\s*\d{2}x|projector|photo\s*printer|doorbell|smart\s*display|conference\s*cam|ptz|streaming\s*camera\s*for\s*pc|document\s*camera|visualiser|dental|otoscope|scanner|game\s*camera|body\s*camera\s*holder|body\s*cam\s*(?:mount|holder|clip)\s*only/i;
+const CCTV = { test: (t) => CCTV_FIXED.test(t) || (!CONCEALED.test(t) && (CCTV_WORD.test(t) || (CCTV_SOFT.test(t) && !MINI_UNIT.test(t)))) };
+const VEHICLE_RE = /dash\s*-?\s*cam|car\s*(?:dvr|dash|recorder)|reverse\s*(?:camera|assist)|rear\s*view|rearview|parking\s*(?:camera|assist)|driving\s*recorder|vehicle\s*camera|bike\s*dvr|motorcycle\s*dvr|helmet\s*intercom/i;
+// "Car Camera" alone is a dash cam, unless it is one more use padded onto a hidden / spy mini ("… Nanny Cam Pet Camera Car Camera").
+const VEHICLE = { test: (t) => VEHICLE_RE.test(t) || (/car\s*camera/i.test(t) && !CONCEALED.test(t)) };
+// "Instant Camera" is Flipkart's category label padded onto mini-cam titles; real instant cameras say instax / polaroid / print / film.
+const INSTANT = /instant\s*camera/i;
+const OTHER_CAM_RE = /\bdslr\b|thermal\s*print|\bguide\b|\btoys?\b|how\s*to\s*use|user'?s?\s*(?:guide|manual)|\bmanual\b|handbook|for\s*dummies|paperback|hardcover|kindle|\bbook\b|mirrorless|interchangeable\s*lens|\bef-?m\b|\be-?mount\b|digital\s*camera\s*(?:for\s*kids|kids|children|toy)|kids?\s*(?:digital\s*|video\s*|selfie\s*|mini\s*|sports?\s*(?:and\s*|&\s*)?|action\s*)*camera|children'?s?\s*(?:digital\s*)?camera|toy\s*camera|instant\s*(?:print|photo|film)|instax|\banalog\s*mini\b|\bmini\s*1[12]\b|\bmini\s*evo\b|liplay|\bdiy\s*(?:instant\s*)?(?:digital\s*)?camera|(?:print|printer)\s*camera|camera\s*(?:with|and)\s*(?:built[-\s]?in\s*)?printer|polaroid|instax|endoscope|borescope|inspection\s*camera|microscope|telescope|binocular|monocular|night\s*vision\s*(?:goggles?|scope|binocular|device|monocular)|thermal\s*(?:imag|camera)|dummy|fake\s*(?:camera|cctv)|(?:camera|spy|bug|rf|signal)\s*detector|anti[-\s]?spy|cinema\s*camera|film\s*camera|\bcamcorder\s*(?:full\s*)?hd\s*\d{2}x|projector|photo\s*printer|doorbell|smart\s*display|conference\s*cam|ptz|streaming\s*camera\s*for\s*pc|document\s*camera|visualiser|dental|otoscope|scanner|game\s*camera|body\s*camera\s*holder|body\s*cam\s*(?:mount|holder|clip)\s*only/i;
+// "Webcam" is padded onto pen / button cams that double as a USB webcam; on its own it is a desk webcam.
+const WEBCAM = /webcam|web\s*camera/i;
+// A drone is never a hidden camera; "for Home, Car, Drone, Office" is a seller's use list on a spy mini.
+const DRONE = /drone|quadcopter/i;
+const OTHER_CAM = { test: (t) => OTHER_CAM_RE.test(t) || (DRONE.test(t) && !CONCEALED.test(t)) || ((WEBCAM.test(t) || INSTANT.test(t)) && !CONCEALED.test(t) && !MINI_UNIT.test(t)) };
 const ACCESSORY = /\b(?:mount|mounts|mounting|tripod|monopod|selfie\s*stick|stick|pole|grip|handle|case|cover|housing|cage|frame|skin|sticker|decal|protector|tempered\s*glass|filter|filters|lens\s*(?:cap|cover|protector|kit|filter)|\blens\b(?!.*(?:cam|camera)\s*\d)|strap|straps|lanyard|harness|chest\s*strap|head\s*strap|wrist\s*strap|floaty|float|buoy|adapter|adaptor|battery|batteries|charger|charging\s*(?:dock|cable|hub|case\s*for)|cable|card\s*reader|memory\s*card|micro\s*sd|sd\s*card|\btf\s*card|mic|microphone|windscreen|dead\s*cat|remote\s*control|remote\s*for|clip\s*for|holder|bracket|kit\s*for|accessories|accessory|combo\s*for|bundle\s*for|backpack\s*mount|suction\s*cup|helmet\s*mount|bike\s*mount|magnet\s*mount|pendant\s*for|mount\s*for|for\s*(?:gopro|insta\s*360|dji|osmo|akaso|sjcam|hero\s*\d)|nd\d+|nd\s*filters?|\bcpl\b|polari[sz]er|(?:fill|video|ring|led)\s*lights?|light\s*set|extension\s*(?:rod|pole)|power\s*bank)\b/i;
 const CAMERA_NOUN = /\bcam(?:era|corder|er|s)?(?:\b|$)|\bdv\b|video\s*recorder/i;
 const CAMERA_WORD = new RegExp(`${CAMERA_NOUN.source}|gopro|insta\\s*360|osmo|\\bsjcam\\b|\\bakaso\\b`, 'i');
 // An accessory listing names the accessory as its noun ("lens caps for mini DV camcorder"); a camera bundle that
 // includes accessories still names the camera first.
 const BRAND_LEAD = /^(?:gopro|insta\s*360|dji|osmo|akaso|sjcam|transcend)\b/i;
+const FIT = /\b(?:for|compatible\s*(?:with|for)|fits?|designed\s*for|suitable\s*for)\s*(?:gopro|insta\s*360|dji|osmo|akaso|sjcam|hero\s*\d|action\s*cam|pocket\s*\d|go\s*\d|mini\s*dv|camcorders?\b|(?:\w+\s+){0,2}cameras?\b(?!\s*(?:\d|with|wifi|hd|4k)))/i;
 const accessoryOnly = (t) => {
   if (!ACCESSORY.test(t)) return false;
+  // "Hidden Camera Charger 1080P", "Power Bank Camera", "Spy Cam for Home … Built-in Battery": the accessory noun is
+  // the object the camera is built into or its own battery, not an add-on sold alone — unless the title is an add-on
+  // "for" a named camera ("Lens cover for spy pen camera").
+  if (CONCEALED.test(t) && CAMERA_WORD.test(t)) { const fit = FIT.exec(t); return Boolean(fit && !CAMERA_NOUN.test(t.slice(0, fit.index))); }
   // "Insta360 GO 3S Magnet Pendant Mount", "DJI Osmo Action 5 Pro Extreme Battery": a maker's accessory named after
   // the camera it fits, with no camera noun, combo or "with" in the title.
   if (BRAND_LEAD.test(t) && !/\b(?:cam|camera|combo|edition|bundle|with)\b/i.test(t)) return true;
@@ -101,7 +127,7 @@ const accessoryOnly = (t) => {
   if (/\bcam(?:era)?\s+(?:housing|mount|case|cage|grip|strap|holder|bracket|cover|skin|protector|bag|tripod|selfie\s*stick)\s*$/i.test(t) && !/\b(?:with|combo|bundle)\b/i.test(t)) return true;
   // "Tripod & Selfie Stick with Adapter for DJI Osmo Pocket 3", "10X Macro Lens Compatible with DJI Osmo Pocket 3": an
   // add-on named by what it fits — nothing before the "for"/"compatible with" names a camera (maker names don't count).
-  const fit = /\b(?:for|compatible\s*(?:with|for)|fits?|designed\s*for|suitable\s*for)\s*(?:gopro|insta\s*360|dji|osmo|akaso|sjcam|hero\s*\d|action\s*cam|pocket\s*\d|go\s*\d|mini\s*dv|camcorders?\b|(?:\w+\s+){0,2}cameras?\b(?!\s*(?:\d|with|wifi|hd|4k)))/i.exec(t);
+  const fit = FIT.exec(t);
   if (fit && !CAMERA_NOUN.test(t.slice(0, fit.index))) return true;
   if (/lens\s*(?:caps?|guards?)|lenses\s*&\s*filters|filter\s*kit|screen\s*(?:protector|guard)|tempered\s*glass|protective\s*film|sling\s*bag|camera\s*bag|backpack\b/i.test(t)) return true;
   const head = t.slice(0, 60);
@@ -111,9 +137,9 @@ const STRONG = new RegExp(`${FORM.map(([, re]) => re.source).join('|')}|wearable
 
 // Card-level pre-filter for the page fetch: a truncated search-card title can hide the camera noun, so only the
 // hard rejections are applied there; the full page title goes through `include` at generation time.
-export const rejectTitle = (t) => COVERT.test(t) || DISGUISED.test(t) || CCTV.test(t) || VEHICLE.test(t) || OTHER_CAM.test(t) || accessoryOnly(t);
+export const rejectTitle = (t) => CCTV.test(t) || VEHICLE.test(t) || OTHER_CAM.test(t) || accessoryOnly(t);
 // Why a title is out, for the rejected-corpus report: the first matching class wins.
-export const rejectClass = (t) => (COVERT.test(t) ? 'covert' : DISGUISED.test(t) ? 'disguised' : CCTV.test(t) ? 'cctv' : VEHICLE.test(t) ? 'vehicle' : OTHER_CAM.test(t) ? 'other' : accessoryOnly(t) ? 'accessory' : null);
+export const rejectClass = (t) => (CCTV.test(t) ? 'cctv' : VEHICLE.test(t) ? 'vehicle' : OTHER_CAM.test(t) ? 'other' : accessoryOnly(t) ? 'accessory' : null);
 // Exact model + variant of a listing, for one-row-per-model collapsing (generate.mjs `collapseModels`). Known
 // maker families are read from the title ("GoPro HERO13 Black", "Insta360 GO 3S", "Osmo Action 5 Pro", "SJ4000
 // Air"); other listings need a model code in the title ("H17", "i3", "SQ11", "ZcM11") or in the spec table's
@@ -175,15 +201,17 @@ export default {
   collapseVariants: true,
   modelKey,
   unit: 'camera',
-  blurb: 'Ready-to-go compact cameras on Flipkart, Amazon.in and maker stores — action cams, thumb / magnetic minis, body-worn clip cams, mini cube Wi-Fi cams and pocket gimbal cams. Scored only on what a maker page or the spec table states: sensor megapixels and size, video resolution, battery capacity and runtime, built-in storage / microSD ceiling, weight, water rating, and workflow features (app transfer, time-lapse / interval, loop recording, cloud or auto-backup). A "4K 48 MP" title badge earns nothing. Anything sold for covert recording (spy / hidden / nanny cams, cameras disguised as pens, bulbs, chargers or clocks), CCTV / home-security cameras, dash cams, toys and accessories never enter.',
-  sources: { flipkart: ['cam2_fk_pages.0.json', 'cam2_fk_pages.1.json', 'cam2_fk_pages.2.json', 'cam2_fk_pages.3.json', 'cam2_fk_pages.4.json', 'cam2_fk_pages.5.json', 'cam2_fk_pages.r.json'], amazon: ['cam2_amz_pages.json', 'cam2_amz_pages.rev.json', 'cam2_amz_pages.mid.json'] },
+  blurb: 'Ready-to-go compact cameras on Flipkart, Amazon.in and maker stores — action cams, thumb / magnetic minis, body-worn clip cams, mini cube Wi-Fi cams and pocket gimbal cams. Scored only on what a maker page or the spec table states: sensor megapixels and size, video resolution, battery capacity and runtime, built-in storage / microSD ceiling, weight, water rating, and workflow features (app transfer, time-lapse / interval, loop recording, cloud or auto-backup). A "4K 48 MP" title badge earns nothing. Cameras sold as hidden / spy minis and cameras built into another object (pen, button, glasses, clock, charger, bulb…) are kept as their own two forms, never merged with the open cameras; fixed CCTV / home-security cameras, dash cams, toys, dummies and accessories never enter.',
+  sources: { flipkart: ['cam2_fk_pages.0.json', 'cam2_fk_pages.1.json', 'cam2_fk_pages.2.json', 'cam2_fk_pages.3.json', 'cam2_fk_pages.4.json', 'cam2_fk_pages.5.json', 'cam2_fk_pages.r.json', 'cam2_fk_pages.h0.json', 'cam2_fk_pages.h1.json', 'cam2_fk_pages.h2.json'], amazon: ['cam2_amz_pages.json', 'cam2_amz_pages.rev.json', 'cam2_amz_pages.mid.json', 'cam2_amz_pages.browser.json'] },
   include: T.includer({
-    strong: (t) => STRONG.test(t) && !/\btoys?\b/i.test(t),
+    strong: (t) => (STRONG.test(t) || (CONCEALED.test(t) && CAMERA_WORD.test(t))) && !/\btoys?\b/i.test(t),
     hard: rejectTitle,
   }),
   segment: {
     key: 'seg', label: 'Form',
     options: [
+      { id: 'hidden', label: FORM_LABEL.hidden },
+      { id: 'disguised', label: FORM_LABEL.disguised },
       { id: 'action', label: FORM_LABEL.action },
       { id: 'thumb', label: FORM_LABEL.thumb },
       { id: 'pocket', label: FORM_LABEL.pocket },
@@ -197,7 +225,9 @@ export default {
   fields: [
     { key: 'form', label: 'Camera form', group: 'Identity', dim: 'specs', weight: 0, title: true,
       listing: ['Camera Type', 'Type', 'Product Type', 'Form Factor', 'Mounting Type'], official: ['form factor', 'type'],
-      parse: (s) => oneOf(s, FORM), display: (v) => FORM_LABEL[v] },
+      parse: (s) => oneOf(s, FORM), display: (v) => FORM_LABEL[v],
+      // A generic "hidden / spy camera" type row is less specific than the object the title names (pen, clock, bulb …).
+      weak: (lst, ttl) => (lst === 'hidden' && ttl === 'disguised' ? 'a generic hidden-camera type; the title names the object it is built into' : false) },
     { key: 'mp', label: 'Sensor resolution (stills)', group: 'Picture', dim: 'specs', weight: 3, title: true,
       listing: ['Effective Pixels', 'Camera Resolution', 'Sensor Resolution', 'Optical Sensor Resolution', 'Effective Still Resolution', 'Image Sensor Resolution', 'Photo Resolution', 'Still Image Resolution', 'Maximum Image Resolution', 'Megapixels', 'Mega Pixels', 'Resolution', 'Image Resolution', 'Photo Sensor Resolution', 'Lens Resolution', 'Pixels'],
       official: ['effective pixels', 'photo resolution', 'sensor resolution', 'megapixel', 'max photo', 'still resolution', 'photo'],
@@ -221,7 +251,7 @@ export default {
     { key: 'port', label: 'Charging port', group: 'Battery', dim: 'specs', weight: 0.5, title: true,
       listing: ['Charging Port', 'Charging Type', 'Connector Type', 'Charging Interface', 'USB Port', 'Interface', 'Port Type', 'Connectivity'], official: ['charging', 'port', 'usb-c', 'type-c'],
       parse: (s) => oneOf(s, PORT), display: (v) => ({ 'usb-c': 'USB-C', micro: 'Micro-USB', magnetic: 'Magnetic / charging case', usb: 'USB (type not stated)' })[v], points: (v) => (v === 'usb-c' ? 1 : v === 'magnetic' ? 0.9 : v === 'micro' ? 0.6 : 0.6) },
-    { key: 'storage', label: 'Built-in storage', group: 'Storage', dim: 'specs', weight: 1.5, title: true,
+    { key: 'storage', label: 'Built-in storage', group: 'Storage', dim: 'specs', weight: 1.5, title: builtinFromTitle,
       listing: ['Internal Memory', 'Internal Storage', 'Built-in Memory', 'Built-in Storage', 'Memory Storage Capacity', 'Flash Memory Installed Size', 'Storage Capacity', 'Storage', 'Memory', 'Hard Disk Size', 'Digital Storage Capacity', 'Memory Card Included', 'Included Memory'], official: ['internal storage', 'built-in storage', 'storage', 'memory'],
       parse: gigabytes, display: (v) => (v >= 1024 ? `${v / 1024} TB` : `${v} GB`), plausible: (v) => (v >= 1 && v <= 2048) || `${v} GB is not a plausible built-in memory`, points: (v) => (v >= 128 ? 1 : v >= 64 ? 0.9 : v >= 32 ? 0.75 : 0.6) },
     { key: 'card', label: 'microSD slot (max stated)', group: 'Storage', dim: 'specs', weight: 1.5, title: true,
@@ -311,7 +341,7 @@ export default {
   ],
   featured: ['seg:action', 'seg:thumb', 'seg:body', 'seg:mini', 'mp:12', 'video:4k', 'store:builtin', 'fx:timelapse', 'fx:cloud', 'water:depth', 'wt:60', 'ev:official', 'maker:global'],
   lines: {
-    q: (F) => [F.mp && F.mp.tier !== 'rejected' ? F.mp.display : null, F.sensor && F.sensor.tier !== 'rejected' ? F.sensor.display : null, F.video && F.video.tier !== 'rejected' ? F.video.display : null].filter(Boolean).join(' · '),
-    f: (F) => [F.capacity && F.capacity.tier !== 'rejected' ? F.capacity.display : null, F.runtime && F.runtime.tier !== 'rejected' ? `${F.runtime.display} rec` : null, F.storage && F.storage.tier !== 'rejected' ? `${F.storage.display} built-in` : F.card && F.card.tier !== 'rejected' ? 'microSD' : null, F.weight && F.weight.tier !== 'rejected' ? F.weight.display : null, F.timelapse && F.timelapse.value ? 'time-lapse' : null, F.cloud && F.cloud.value ? 'auto-backup stated' : null].filter(Boolean).join(' · '),
+    q: (F) => [shown(F.mp), shown(F.sensor), shown(F.video)].filter(Boolean).join(' · '),
+    f: (F) => [shown(F.capacity), shown(F.runtime, ' rec'), shown(F.storage, ' built-in') || (F.card && F.card.tier !== 'rejected' ? 'microSD' : null), shown(F.weight), F.timelapse && F.timelapse.value ? 'time-lapse' : null, F.cloud && F.cloud.value ? 'auto-backup stated' : null].filter(Boolean).join(' · '),
   },
 };
