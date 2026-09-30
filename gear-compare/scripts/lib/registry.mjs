@@ -20,6 +20,7 @@ import swimCaps from '../sites/swim-caps.mjs';
 import swimGoggles from '../sites/swim-goggles.mjs';
 import headlamps from '../sites/headlamps.mjs';
 import flipFlops from '../sites/flip-flops.mjs';
+import compactCameras from '../sites/compact-cameras.mjs';
 
 const ALL_FAMILIES = {
   power: 'POWER & CHARGING',
@@ -29,15 +30,19 @@ const ALL_FAMILIES = {
   outdoor: 'OUTDOOR',
   travel: 'TRAVEL ORGANISERS',
   trip: 'LAKSHADWEEP TRIP',
+  camera: 'CAMERAS',
 };
 
-export const ALL_SITES = [powerBanks, hairDryers, trimmers, inductionCooktops, portableBlenders, electricLighters, trekkingShoes, trekkingBackpacks, pinkTumblers, packingCubes, shoeBags, toiletryBags, techPouches, laundryBags, travelWallets, waterShoes, swimCaps, swimGoggles, headlamps, flipFlops];
+export const ALL_SITES = [powerBanks, hairDryers, trimmers, inductionCooktops, portableBlenders, electricLighters, trekkingShoes, trekkingBackpacks, pinkTumblers, packingCubes, shoeBags, toiletryBags, techPouches, laundryBags, travelWallets, waterShoes, swimCaps, swimGoggles, headlamps, flipFlops, compactCameras];
 
 // GEAR_FAMILY=travel builds a site that carries only that family (the organiser planner ships as its own site).
 export const SCOPE = process.env.GEAR_FAMILY || null;
 if (SCOPE && !ALL_FAMILIES[SCOPE]) throw new Error(`GEAR_FAMILY=${SCOPE} is not a family: ${Object.keys(ALL_FAMILIES).join(', ')}`);
-export const SITES = SCOPE ? ALL_SITES.filter((s) => s.family === SCOPE) : ALL_SITES;
-export const FAMILIES = SCOPE ? { [SCOPE]: ALL_FAMILIES[SCOPE] } : ALL_FAMILIES;
+// A site marked `draft` is collected, matched and scored by the data pipeline but is not published: it gets no
+// data files, no manifest entry and no navigation until the items are approved.
+export const PIPELINE_SITES = SCOPE ? ALL_SITES.filter((s) => s.family === SCOPE) : ALL_SITES;
+export const SITES = PIPELINE_SITES.filter((s) => !s.draft);
+export const FAMILIES = Object.fromEntries(Object.entries(ALL_FAMILIES).filter(([k]) => SITES.some((s) => s.family === k)));
 
 // Evidence-first: specs and safety are read only from verified specification fields (maker page in full,
 // marketplace spec table at 60%), maker from the verified manufacturer + warranty, buyers from real ratings.

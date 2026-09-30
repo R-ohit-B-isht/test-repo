@@ -24,9 +24,9 @@ const SIBLING_KEY = /\b[A-Z]{2,4}[ -]?\d{3,}\b/;
 
 // Official kv tables use the maker's own labels; candidates are every entry whose normalised key equals, then
 // contains, a declared label — in label order. The first candidate the field parser accepts wins.
-function officialCandidates(kv, labels) {
+function officialCandidates(kv, labels, exclude = null) {
   if (!kv) return [];
-  const entries = Object.entries(kv).filter(([, v]) => String(v).trim() && !EMPTY.test(String(v).trim()));
+  const entries = Object.entries(kv).filter(([k, v]) => String(v).trim() && !EMPTY.test(String(v).trim()) && !(exclude && exclude.test(k)));
   const out = [];
   for (const l of labels) {
     const n = norm(l);
@@ -55,6 +55,43 @@ function firstParsed(candidates, parse) {
   return null;
 }
 
+function allParsed(candidates, parse) {
+  const out = [];
+  for (const c of candidates) {
+    const v = parse(c);
+    if (v !== null && v !== undefined) out.push(v);
+  }
+  return out;
+}
+
+// Maker spec pages often state one quantity in several rows (video resolution per mode, photo size per mode, run
+// time per mode). Rows whose key matches `officialExclude` are skipped. A field with `officialPick: 'max'` takes the largest; otherwise the first row wins and any other
+// row (or the page's own prose) that disagrees is kept as a conflict note.
+function officialValue(f, official) {
+  if (!official) return { value: null, conflict: null };
+  const labels = f.official || [f.label];
+  let vals = allParsed(officialCandidates(official.kv, labels, f.officialExclude || null), f.parse);
+  const prose = f.prose && official.text ? f.prose(official.text) : null;
+  if (!vals.length && f.officialExclude) {
+    // No spec row states it: fall back to the crawler's "(page text)" reads of the maker page, flagged as such.
+    const pageText = Object.fromEntries(Object.entries(official.kv || {}).filter(([k]) => /\(page text\)$/i.test(k)));
+    vals = allParsed(officialCandidates(pageText, labels), f.parse);
+    if (vals.length) return { value: f.officialPick === 'max' && typeof vals[0] === 'number' ? Math.max(...vals) : vals[0], conflict: `Read from the maker page's text (${f.display(vals[0])}), not from a spec-table row` };
+  }
+  if (!vals.length) return { value: prose !== null && prose !== undefined ? prose : null, conflict: null };
+  const distinct = vals.filter((v, i) => vals.findIndex((x) => same(x, v)) === i);
+  let value = vals[0];
+  if (f.officialPick === 'max' && typeof value === 'number') value = Math.max(...vals);
+  else if (typeof value === 'boolean' && distinct.length > 1) value = true;
+  let conflict = null;
+  if (typeof value === 'number' && f.officialPick !== 'max' && distinct.length > 1) {
+    conflict = `Maker page states ${distinct.map(f.display).join(' and ')} in different spec rows — first row used`;
+  } else if (typeof value === 'number' && prose !== null && prose !== undefined && !same(prose, value) && (f.officialPick !== 'max' || prose > value)) {
+    conflict = `Maker spec table states ${f.display(value)}; the same page's text states ${f.display(prose)} — table row used`;
+  }
+  return { value, conflict };
+}
+
 const same = (a, b) => (Array.isArray(a) ? JSON.stringify([...a].sort()) === JSON.stringify([...(b || [])].sort()) : a === b);
 
 /**
@@ -70,16 +107,23 @@ function resolveFields(site, src) {
     let tier = 'none';
     let conflict = null;
     let reason = null;
-    let offVal = src.official ? firstParsed(officialCandidates(src.official.kv, f.official || [f.label]), f.parse) : null;
-    if (offVal === null && f.prose && src.official && src.official.text) offVal = f.prose(src.official.text);
-    const lstVal = firstParsed(listingCandidates(src.listing, f.listing || []), f.parse);
-    const titleVal = f.title ? f.parse(src.text) : null;
+    // A field may read the maker page as a whole (`officialRule`): it can settle the value from an explicit
+    // statement ("5 m body waterproof, 30 m with the case" → 5) or rule the field out for the product ("30 m
+    // waterproof with a case" and nothing body-only → veto). Either outranks spec rows, listing and title values.
+    const rule = f.officialRule && src.official ? f.officialRule(src.official) : null;
+    const veto = rule && rule.veto ? rule.veto : null;
+    const off = veto ? { value: null, conflict: null } : rule && rule.value !== undefined && rule.value !== null ? { value: rule.value, conflict: rule.note || null } : officialValue(f, src.official);
+    const offVal = off.value;
+    const lstVal = veto ? null : firstParsed(listingCandidates(src.listing, f.listing || []), f.parse);
+    const titleVal = f.title && !veto ? f.parse(src.text) : null;
+    if (veto) conflict = veto;
     // A spec-table value the field marks as weak (e.g. "Pack of: 1" meaning one sales unit) does not outrank a
     // title that states something else; the title value is kept but stays a claim.
     const weakListing = lstVal !== null && f.weak && f.weak(lstVal) && titleVal !== null && !same(titleVal, lstVal);
     if (offVal !== null) {
       value = offVal; tier = 'official';
       if (lstVal !== null && !same(lstVal, offVal)) conflict = `Listing states ${f.display(lstVal)}; maker page states ${f.display(offVal)} — maker value used`;
+      if (off.conflict) conflict = conflict ? `${off.conflict}. ${conflict}` : off.conflict;
     } else if (lstVal !== null && !weakListing) {
       value = lstVal; tier = 'listing';
     } else if (titleVal !== null) {

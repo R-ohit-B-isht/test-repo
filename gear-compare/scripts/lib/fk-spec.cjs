@@ -8,17 +8,41 @@ const SECTIONS = new Set([
   'See more', 'Show More', 'Description', 'Read More', 'Warranty Summary',
 ]);
 const FREE_TEXT = new Set(['Features', 'Key Features', 'Other Features', 'Description', 'Sales Package', 'Additional Features']);
+// Flipkart names its spec groups "<Area> Features" ("Power and Connectivity Features", "Camera Features",
+// "Display Features"…); a row label of that shape starts with Other / Key / Special / Additional.
+const GROUP_HEADING = /^(?!(?:Other|Key|Special|Additional)\b)[A-Z][A-Za-z&/,\- ]{2,40}\bFeatures$/;
+const isHeading = (s) => (SECTIONS.has(s) && !FREE_TEXT.has(s)) || GROUP_HEADING.test(s);
+// "Additional Features" is a group heading when what follows is a short label (then its value), a free-text
+// row when the next line is prose.
+const headsGroup = (k, v, next) => FREE_TEXT.has(k) && k === 'Additional Features' && v.length < 40 && next !== undefined && !isHeading(next) && !/[.,;]/.test(v);
+
+// A Flipkart page's text runs on past the product's own tab into Q&A and "Similar Products" / "Trending" carousels
+// (other products' titles, "42% OFF", prices). Everything from the first such block on belongs to other products.
+const PAGE_TAIL = /^(?:Questions and Answers|Similar Products|Similar [A-Z][^\n]{0,60}|Trending|You might be interested in|Frequently Bought Together|Recently Viewed|Ratings & Reviews|Customers who (?:bought|viewed) this|Sponsored)$/;
+const OFF_CARD = /^\d{1,2}% OFF$/;
+function ownText(txt) {
+  const lines = String(txt || '').split('\n');
+  let cut = lines.length;
+  for (let i = 0; i < lines.length; i++) {
+    const s = lines[i].trim();
+    if (PAGE_TAIL.test(s)) { cut = i; break; }
+    // a carousel card is "<rating>\n<title>\n<n>% OFF\n₹…": cut before the title line
+    if (OFF_CARD.test(s) && i >= 1) { cut = Math.max(0, i - (/^\d(?:\.\d)?$/.test((lines[i - 2] || '').trim()) ? 2 : 1)); break; }
+  }
+  return lines.slice(0, cut).join('\n');
+}
 
 function parseSpecText(txt) {
-  const lines = String(txt || '').split('\n').map((s) => s.trim()).filter(Boolean);
+  const lines = ownText(txt).split('\n').map((s) => s.trim()).filter(Boolean);
   const kv = {};
   const seller = [];
   for (let i = 0; i < lines.length - 1; i++) {
     const k = lines[i];
     const v = lines[i + 1];
-    if (SECTIONS.has(k) && !FREE_TEXT.has(k)) continue;
-    if (SECTIONS.has(v) && !FREE_TEXT.has(v)) continue;
+    if (isHeading(k) || headsGroup(k, v, lines[i + 2])) continue;
+    if (isHeading(v)) continue;
     if (k.length >= 40 || v.length >= 400) continue;
+    if (!/[a-z]/i.test(k)) continue;
     if (FREE_TEXT.has(k)) { seller.push(v); i++; continue; }
     if (kv[k] !== undefined) continue;
     kv[k] = v;
@@ -48,4 +72,4 @@ function pick(kv, labels) {
   return null;
 }
 
-module.exports = { parseSpecText, amazonSpecs, pick };
+module.exports = { parseSpecText, amazonSpecs, pick, ownText };

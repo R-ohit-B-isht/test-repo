@@ -6,10 +6,10 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createRequire } from 'node:module';
 import { fileURLToPath } from 'node:url';
-import { SITES } from './lib/registry.mjs';
+import { PIPELINE_SITES as SITES } from './lib/registry.mjs';
 
 const require = createRequire(import.meta.url);
-const { parseSpecText, amazonSpecs } = require('./lib/fk-spec.cjs');
+const { parseSpecText, amazonSpecs, ownText } = require('./lib/fk-spec.cjs');
 const { scoreProduct } = require('./lib/score.cjs');
 const { fieldMap } = require('./lib/fields.cjs');
 
@@ -71,6 +71,18 @@ function modelOf(title, brand) {
   return m || title.slice(0, 110);
 }
 
+// A Flipkart product page also renders "similar products" carousels, so a page-wide <img> sweep is mostly other
+// products. The search-card picture is the product's own, and its gallery pictures share the card picture's slug
+// (`…/<title-slug>-original-<id>.jpeg`); page pictures with another slug belong to another listing and are dropped.
+const fkSlug = (u) => { const m = /\/([^/?]+)-original-[a-z0-9]+\.\w+(?:\?|$)/i.exec(String(u || '')); return m ? m[1] : null; };
+const fkLarge = (u) => String(u).replace(/\/image\/\d+\/\d+\//, '/image/612/612/');
+export function flipkartImages(p) {
+  const card = p.cardImg ? fkLarge(p.cardImg) : null;
+  const slug = fkSlug(card);
+  const own = (p.images || []).map(fkLarge).filter((u) => slug && fkSlug(u) === slug && u.split('?')[0] !== card?.split('?')[0]);
+  return card ? [card, ...own] : (p.images || []).map(fkLarge);
+}
+
 const amazonLarge = (u) => u.replace(/\._AC_[A-Z]{2}\d+_\./, '._SL500_.').replace(/\._[A-Z]{2}\d+_\./, '._SL500_.');
 
 function loadOfficial(site) {
@@ -121,12 +133,12 @@ function build(site) {
   const am = [...amByAsin.values()];
   const rows = [];
   for (const p of fk) {
-    const fkImages = p.images?.length ? p.images : p.cardImg ? [p.cardImg] : [];
+    const fkImages = flipkartImages(p);
     if (!p.price || !fkImages.length || !p.title || !p.href) continue;
-    const title = p.title.replace(/\s+/g, ' ').replace(/\.\.\.more$/, '').trim();
+    const title = p.title.replace(/\s+/g, ' ').replace(/\s*[-|]?\s*Price in India\b.*$/i, '').replace(/\.\.\.more$/, '').trim();
     if (!site.include(title)) continue;
     const { kv, seller } = parseSpecText([p.specText, p.warranty, p.mfg].filter(Boolean).join('\n'));
-    if (p.desc) seller.push(...parseSpecText(p.desc).seller, ...p.desc.split('\n').map((s) => s.trim()).filter((s) => s.length >= 60 && s.length < 1500));
+    if (p.desc) seller.push(...parseSpecText(p.desc).seller, ...ownText(p.desc).split('\n').map((s) => s.trim()).filter((s) => s.length >= 60 && s.length < 1500));
     if (site.deriveKv) Object.assign(kv, site.deriveKv(kv));
     const idSeed = (p.href.split('/p/')[1] || p.href).split('?')[0].slice(0, 24);
     rows.push({
@@ -158,7 +170,38 @@ function build(site) {
     seen.add(rec.id);
     out.push(rec);
   }
-  return site.collapseVariants ? collapseVariants(out) : out;
+  const collapsed = site.collapseVariants ? collapseVariants(out) : out;
+  return site.modelKey ? collapseModels(site, collapsed) : collapsed;
+}
+
+// Sites that can name the exact model + variant of a row (`site.modelKey(rec) → string | null`) keep one row per
+// model and carry the other marketplace listings of the same model on it, so "listings read" and "distinct
+// models" are always reported apart. Rows the site cannot identify (no model code / name) stay as they are.
+function collapseModels(site, recs) {
+  const groups = new Map();
+  const rest = [];
+  for (const rec of recs) {
+    const k = site.modelKey(rec);
+    if (!k) { rest.push(rec); continue; }
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(rec);
+  }
+  const out = [...rest];
+  for (const [key, rows] of groups) {
+    rows.sort((a, b) => (better(a, b) ? -1 : better(b, a) ? 1 : 0));
+    const [best, ...others] = rows;
+    const prices = rows.map((r) => r.price).filter((p) => p > 0);
+    best.modelKey = key;
+    best.listings = {
+      n: rows.length,
+      stores: rows.reduce((acc, r) => ({ ...acc, [r.buyStore]: (acc[r.buyStore] || 0) + 1 }), {}),
+      minPrice: Math.min(...prices), maxPrice: Math.max(...prices),
+      others: others.map((r) => ({ id: r.id, store: r.buyStore, price: r.price, url: r.buyUrl, title: r.title.slice(0, 120), rating: r.rating, ratingCount: r.ratingCount })),
+    };
+    out.push(best);
+  }
+  for (const rec of rest) { rec.modelKey = null; rec.listings = { n: 1, stores: { [rec.buyStore]: 1 }, minPrice: rec.price, maxPrice: rec.price, others: [] }; }
+  return out;
 }
 
 // Marketplaces list each colour of the same product as its own page with an identical title and price; keep the
@@ -215,5 +258,9 @@ for (const site of sites) {
   const outFile = path.join(ROOT, 'data', `${site.id}.json`);
   fs.writeFileSync(outFile, JSON.stringify(recs));
   const by = (k) => recs.filter((x) => x.evidence.status === k).length;
+  if (site.modelKey) {
+    const read = recs.reduce((s, x) => s + (x.listings?.n || 1), 0);
+    console.log(`${site.id}: ${read} marketplace listings read → ${recs.length} rows (${recs.filter((x) => x.modelKey).length} identified models, ${recs.filter((x) => !x.modelKey).length} unidentified listings kept as-is)`);
+  }
   console.log(`${site.id}: ${recs.length} records (flipkart ${recs.filter((x) => x.buyStore === 'flipkart').length}, amazon ${recs.filter((x) => x.buyStore === 'amazon').length}, maker store ${recs.filter((x) => x.buyStore === 'maker').length}) — official ${by('official')} · listing ${by('listing')} · claimed ${by('claimed')} · none ${by('none')} → ${path.relative(ROOT, outFile)}`);
 }

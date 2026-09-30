@@ -175,6 +175,13 @@ const MAKERS = [
   [['eagle creek'], 'Eagle Creek (eaglecreek.com, US storefront)', 'global', 'https://eaglecreek.com/pages/about-us', 'https://eaglecreek.com'],
   [['bagsmart'], 'BAGSMART (global storefront)', 'global', 'https://www.bagsmart.com/pages/about-us', 'https://www.bagsmart.com'],
   [['dailyobjects', 'daily objects'], 'Firki Wholesale Pvt Ltd (DailyObjects)', 'd2c', 'https://www.dailyobjects.com/about-us', 'https://www.dailyobjects.com'],
+  // Cameras — makers whose own site publishes a per-model spec page (each site loaded in the live browser 2026-09-30)
+  [['gopro'], 'GoPro (gopro.com, India storefront)', 'global', 'https://gopro.com/en/in/shop/cameras', 'https://gopro.com/en/in/'],
+  [['insta360', 'insta 360'], 'Insta360 (insta360.com)', 'global', 'https://www.insta360.com/product/insta360-go3s', 'https://www.insta360.com'],
+  [['dji'], 'DJI (dji.com)', 'global', 'https://www.dji.com/action-camera', 'https://www.dji.com'],
+  [['sjcam'], 'SJCAM (sjcam.com)', 'global', 'https://www.sjcam.com/cameras/action-cameras/', 'https://www.sjcam.com'],
+  [['akaso'], 'AKASO (akasotech.com)', 'global', 'https://www.akasotech.com/product/brave-7', 'https://www.akasotech.com'],
+  [['transcend'], 'Transcend Information (transcend-info.com)', 'global', 'https://us.transcend-info.com/product/body-camera', 'https://us.transcend-info.com'],
 ];
 
 const norm = (s) => String(s || '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();

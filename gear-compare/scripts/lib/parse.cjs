@@ -81,8 +81,8 @@ function minutes(s) {
 // "Yes" / "No" / "1" / "True" → boolean; anything else null
 function yesNo(s) {
   const t = String(s || '').trim().toLowerCase();
-  if (/^(?:yes|y|true|1|available|present|included)\b/.test(t)) return true;
-  if (/^(?:no|n|false|0|not available|absent|none)\b/.test(t)) return false;
+  if (t === '1' || /^(?:yes|y|true|available|present|included)\b/.test(t)) return true;
+  if (t === '0' || /^(?:no|n|false|not available|absent|none)\b/.test(t)) return false;
   return null;
 }
 

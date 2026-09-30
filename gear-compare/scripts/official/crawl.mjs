@@ -7,14 +7,16 @@
 //   sitemap  — XML sitemap(s) + URL pattern                    { base, sitemap, urlFilter, childFilter?, titleFilter?, isProduct(p) }
 //   philips  — Philips PRX API keyed by the listings' own CTNs { base, isProduct(summary) }
 //   decathlon — decathlon.in server-rendered product state      { base, urlFilter, maxUrls?, isProduct(p) }
+//   browser  — JS-rendered maker pages via the live Chrome (CDP) { base, index?, urls?, urlFilter?, specsUrl?, isProduct(p) }
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { SITES } from '../lib/registry.mjs';
+import { PIPELINE_SITES as SITES } from '../lib/registry.mjs';
 import { shopifyCatalog } from './shopify.mjs';
 import { sitemapCatalog } from './sitemap.mjs';
 import { philipsCatalog } from './philips.mjs';
 import { decathlonCatalog } from './decathlon.mjs';
+import { browserCatalog } from './browser.mjs';
 import { fetchText, today } from './fetch.mjs';
 import { extractSpecs, labelPatterns } from './extract.mjs';
 import { modelCodes } from './model-codes.mjs';
@@ -40,6 +42,7 @@ function catalogueFor(m) {
   if (m.kind === 'sitemap') return sitemapCatalog(m.sitemap, { urlFilter: m.urlFilter, childFilter: m.childFilter, titleFilter: m.titleFilter, maxUrls: m.maxUrls }).filter(m.isProduct);
   if (m.kind === 'philips') return philipsCatalog(m.base, listings.filter((l) => m.brand.test(l.brand)), { isProduct: m.isProduct });
   if (m.kind === 'decathlon') return decathlonCatalog({ urlFilter: m.urlFilter, ownBrand: m.brand, maxUrls: m.maxUrls }).filter(m.isProduct);
+  if (m.kind === 'browser') return browserCatalog(m).filter(m.isProduct);
   throw new Error(`unknown maker kind ${m.kind}`);
 }
 

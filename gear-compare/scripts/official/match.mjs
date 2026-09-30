@@ -12,7 +12,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { SITES } from '../lib/registry.mjs';
+import { PIPELINE_SITES as SITES } from '../lib/registry.mjs';
 import { modelCodes, codeIndex, isBundle, BUNDLE_NOUNS } from './model-codes.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
@@ -37,10 +37,11 @@ const COLOURS = new Set(['black', 'white', 'blue', 'red', 'grey', 'gray', 'green
 const DESCRIPTIVE = new Set(['with', 'and', 'for', 'the', 'of', 'in', 'to', 'by', 'or', 'fast', 'pocket', 'size', 'portable', 'new', 'edition', 'series', 'na', 'n', 'a', ...COLOURS,
   'men', 'mens', 'women', 'womens', 'unisex', 'kids', 'boys', 'girls', 'premium', 'professional', 'original', 'best', 'super', 'superfast', 'digital', 'smart', 'built', 'led', 'display',
   ...(site.match?.descriptive || [])]);
+for (const w of site.match?.keep || []) DESCRIPTIVE.delete(w);
 // A model "name" made only of materials / marketing words ("leather", "pu", "s") names nothing; such listings can
 // still match on a model number, or when their title begins with the maker's full product title.
 const GENERIC_NAME = new Set(['leather', 'pu', 'nylon', 'polyester', 'canvas', 'cotton', 'waterproof', 'travel', 'set', 'pack', 'pcs', 'pc', 'piece', 'pieces', 'mesh', 'clear', 'transparent']);
-const weakName = (ws) => ws.every((w) => GENERIC_NAME.has(w) || w.length <= 2);
+const weakName = (ws) => ws.every((w) => GENERIC_NAME.has(w) || (w.length <= 2 && !/\d/.test(w)));
 // Size words tell siblings apart ("Compression Packing Cubes - Medium" / "- Large"): they count toward identity and
 // a listing that states the same size word is preferred over the siblings that state another or none.
 const SIZE_WORDS = new Set(['xs', 'small', 'medium', 'large', 'xl', 'xxl', 'mini', 'compact', 'regular', 'jumbo', 'big']);
@@ -54,7 +55,7 @@ const sig = (s) => words(s).filter((w) => !DESCRIPTIVE.has(w) && !/^\d+(?:\.\d+)
 // tokens are satisfied by the listing's stated capacity, and a maker range ("1400-1600 Watts") by a listing value
 // inside it.
 // The model name is what precedes the category noun or the first feature connector ("Stonex 60 L | Backpack with…").
-const NOUN_CUT = /\b(?:with|for|featuring|and|&|backpacks?|rucksacks?|bags?|daypack|hair\s*dryers?|hairdryers?|dryers?|trimmers?|clippers?|shavers?|groomers?|induction|cooktops?|stoves?|cookers?|blenders?|juicers?|tumblers?|bottles?|flasks?|sippers?|mugs?|shoes?|boots?|sneakers?|footwear|power\s*banks?|powerbanks?|lighters?)\b/i;
+const NOUN_CUT = /\b(?:with|for|featuring|and|&|backpacks?|rucksacks?|bags?|daypack|hair\s*dryers?|hairdryers?|dryers?|trimmers?|clippers?|shavers?|groomers?|induction|cooktops?|stoves?|cookers?|blenders?|juicers?|tumblers?|bottles?|flasks?|sippers?|mugs?|shoes?|boots?|sneakers?|footwear|power\s*banks?|powerbanks?|lighters?|cameras?|camcorders?)\b/i;
 const modelOf = (catalogTitle) => { const head = catalogTitle.split(/[|,(:–—-]\s|\s-\s/)[0]; const cut = head.split(NOUN_CUT)[0]; return sig(cut).length ? cut : head; };
 const rangesIn = (s) => [...String(s).matchAll(/(\d{3,5})\s*-\s*(\d{3,5})/g)].map((m) => [Number(m[1]), Number(m[2])]);
 function discriminatorsMissing(c, listingText, listingCap) {
@@ -86,10 +87,11 @@ function makerFor(brand) {
 // non-generic words of the title up to the first separator.
 function listingIds(l) {
   const spec = l.listingSpec || {};
-  const stated = (re) => { const k = Object.keys(spec).find((key) => re.test(key.trim())); const v = k ? String(spec[k]).trim() : ''; return v && !/^(?:na|n\/a|-|none|generic)$/i.test(v) ? v : null; };
+  const unbundle = (v) => (v && site.match?.makerBundles ? v.replace(new RegExp(site.match.makerBundles.source, 'gi'), ' ').replace(/\s+/g, ' ').trim() || null : v);
+  const stated = (re) => { const k = Object.keys(spec).find((key) => re.test(key.trim())); const v = k ? String(spec[k]).trim() : ''; return unbundle(v && !/^(?:na|n\/a|-|none|generic)$/i.test(v) ? v : null); };
   const no = stated(/^(?:model(?:\s*(?:number|no\.?|code))?|item model number|model_number)$/i);
   const name = stated(/^model[\s_]?name$/i);
-  const cut = truncatedTitle(l.title) ? l.title.replace(/\s*\S*$/, '') : l.title;
+  const cut = unbundle(truncatedTitle(l.title) ? l.title.replace(/\s*\S*$/, '') : l.title) || l.title;
   const head = cut.split(/[|,(:]|\bwith\b/i)[0].replace(new RegExp(`^${l.brand.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}\\s*`, 'i'), '');
   const bw = brandWords(l.brand);
   const m = makerFor(l.brand);
@@ -115,7 +117,9 @@ function scoreCandidate(l, ids, c) {
   const titleWords = new Set([...words(c.title), ...c.handle.split('-')]);
   let score = 0;
   const on = [];
-  const bundle = isBundle(l.title, c.title, BUNDLE_WORDS);
+  // Some makers sell the same camera as "Standard Combo" / "Creator Combo" / "Essentials Bundle" SKUs: the product is
+  // unchanged, only the accessories in the box differ, so those listings still match their camera.
+  const bundle = site.match?.makerBundles?.test(l.title) ? null : isBundle(l.title, c.title, BUNDLE_WORDS);
   if (bundle) return { score: 0, on: [bundle] };
   // Maker model codes the listing prints: one that the maker's catalogue assigns to a different product rules this
   // candidate out; one that only this product carries identifies it as firmly as a model number.
@@ -128,9 +132,13 @@ function scoreCandidate(l, ids, c) {
   }
   const noKey = norm(ids.noBare || ids.no);
   if (ids.no && !byCode && noKey.length >= 4 && (hay.includes(noKey) || hayText.includes(noKey))) { score += 0.6; on.push(`model number ${ids.noBare || ids.no}`); }
-  const nameWords = ids.nameWords.length ? ids.nameWords : ids.headWords;
+  const hitsOf = (ws) => ws.filter((w) => titleWords.has(w) || (w.length > 3 && hay.includes(norm(w))));
+  let nameWords = ids.nameWords.length ? ids.nameWords : ids.headWords;
+  // A seller's own SKU-derived name ("DPB60A" for TS64GDPB60A) may never appear on the maker page; the title head
+  // ("DrivePro 60") is then the name to compare.
+  if (ids.nameWords.length && ids.headWords.length && !hitsOf(nameWords).length && hitsOf(ids.headWords).length) nameWords = ids.headWords;
   if (nameWords.some((w) => /[a-z]/.test(w)) && !weakName(nameWords)) {
-    const hit = nameWords.filter((w) => titleWords.has(w) || (w.length > 3 && hay.includes(norm(w))));
+    const hit = hitsOf(nameWords);
     if (hit.length === nameWords.length) { score += 0.5; on.push(`model name "${nameWords.join(' ')}"`); }
     else if (hit.length >= 2 && hit.length / nameWords.length >= 0.67) { score += 0.25; on.push(`partial name ${hit.join(' ')}`); }
   }
@@ -176,7 +184,7 @@ for (const l of listings) {
   const ids = listingIds(l);
   if (!ids.no && !ids.nameWords.length && !ids.headWords.length) { report.noIds++; continue; }
   const scored = catalog.filter((c) => c.maker === m.base).map((c) => ({ c, ...scoreCandidate(l, ids, c) }));
-  if (process.env.DEBUG_MATCH && l.title.toLowerCase().includes(process.env.DEBUG_MATCH.toLowerCase())) console.error(l.title, JSON.stringify(ids), JSON.stringify(scored.filter((x) => x.score > 0 || x.sibling).map((x) => [x.c.title, x.score, x.on]), null, 1));
+  if (process.env.DEBUG_MATCH && l.title.toLowerCase().includes(process.env.DEBUG_MATCH.toLowerCase())) console.error(l.title, JSON.stringify(ids), JSON.stringify(scored.filter((x) => x.score > 0 || x.sibling || process.env.DEBUG_ALL).map((x) => [x.c.title, x.score, x.on]), null, 1));
   const cands = scored.filter((x) => x.score >= 0.5).sort((a, b) => b.score - a.score);
   if (!cands.length) { report.nomatch.push({ id: l.id, title: l.title, ids }); continue; }
   // Colour variants of one model are the same product; a CTN or the identifying model words tell products apart.
