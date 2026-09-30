@@ -10,15 +10,17 @@ const { makerOf } = require('./makers.cjs');
 const r1 = (v) => Math.round(v * 10) / 10;
 const clamp = (v, lo, hi) => Math.min(hi, Math.max(lo, v));
 
-// rating "4.3", count "7,725" → 0–10. No rating = 0 (unknown, not neutral).
-function buyerEvidence(rating, ratingCount) {
+// rating "4.3", count "7,725" → 0–10. No rating = 0 (unknown, not neutral); a star rating with no readable
+// count earns the quality half only.
+function buyerEvidence(rating, ratingCount, store) {
   const r = rating ? Number(rating) : null;
   const parsed = ratingCount ? parseInt(String(ratingCount).replace(/[^\d]/g, ''), 10) : 0;
   const n = Number.isFinite(parsed) ? parsed : 0;
   if (!r || !Number.isFinite(r) || r < 1 || r > 5) return { score: 0, note: 'No buyer ratings yet' };
   const depth = clamp(Math.log10(n + 1) * 1.4, 0, 5.0);
   const quality = clamp((r - 3.4) * 3.2, 0, 5.0);
-  return { score: r1(depth + quality), note: `${r}★ from ${n.toLocaleString('en-IN')} ratings` };
+  const where = store === 'maker' ? ' (maker’s own store)' : '';
+  return { score: r1(depth + quality), note: n ? `${r}★ from ${n.toLocaleString('en-IN')} ratings${where}` : `${r}★ · rating count not read` };
 }
 
 // Warranty credit on top of maker identity: verified on the maker's page counts in full, a marketplace
@@ -32,14 +34,14 @@ function warrantyCredit(fields) {
 
 /**
  * @param {object} site   site schema
- * @param {object} rec    { brand, title, rating, ratingCount, sellerText, listingKv, official }
+ * @param {object} rec    { brand, title, rating, ratingCount, store?, sellerText, listingKv, official }
  */
 function scoreProduct(site, rec) {
   const maker = makerOf(rec.brand);
   const text = [rec.title, ...(rec.sellerText || [])].join('\n');
   const ev = resolveFields(site, { official: rec.official || null, listing: rec.listingKv || null, text });
   const warranty = warrantyCredit(ev.fields);
-  const buyers = buyerEvidence(rec.rating, rec.ratingCount);
+  const buyers = buyerEvidence(rec.rating, rec.ratingCount, rec.store);
   const scores = {
     specs: dimensionScore(ev.fields, 'specs'),
     safety: dimensionScore(ev.fields, 'safety'),

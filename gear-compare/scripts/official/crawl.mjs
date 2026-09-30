@@ -3,16 +3,20 @@
 // Output: $GEAR_OUT/official/<site>.catalog.json (outside the repo; the matcher turns it into data/official/<site>.json)
 //
 // Maker entry kinds (scripts/official/makers/<site>.mjs):
-//   shopify  — storefront /products.json                      { base, isProduct(p) }
+//   shopify  — storefront /products.json                      { base, maxPages?, isProduct(p) }
 //   sitemap  — XML sitemap(s) + URL pattern                    { base, sitemap, urlFilter, childFilter?, titleFilter?, isProduct(p) }
 //   philips  — Philips PRX API keyed by the listings' own CTNs { base, isProduct(summary) }
+//   decathlon — decathlon.in server-rendered product state      { base, urlFilter, maxUrls?, isProduct(p) }
+//   browser  — JS-rendered maker pages via the live Chrome (CDP) { base, index?, urls?, urlFilter?, specsUrl?, isProduct(p) }
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { SITES } from '../lib/registry.mjs';
+import { PIPELINE_SITES as SITES } from '../lib/registry.mjs';
 import { shopifyCatalog } from './shopify.mjs';
 import { sitemapCatalog } from './sitemap.mjs';
 import { philipsCatalog } from './philips.mjs';
+import { decathlonCatalog } from './decathlon.mjs';
+import { browserCatalog } from './browser.mjs';
 import { fetchText, today } from './fetch.mjs';
 import { extractSpecs, labelPatterns } from './extract.mjs';
 import { modelCodes } from './model-codes.mjs';
@@ -30,27 +34,33 @@ const listings = fs.existsSync(listingsFile) ? JSON.parse(fs.readFileSync(listin
 
 const labels = labelPatterns(site);
 const prose = site.officialProse || {};
-const brandName = (m) => listings.find((l) => m.brand.test(l.brand))?.brand ?? m.brand.source.replace(/[\^$()?:|\\]/g, '');
+const brandName = (m) => m.name ?? listings.find((l) => m.brand.test(l.brand))?.brand ?? m.brand.source.replace(/[\^$()?:|\\]/g, '');
 const listingCount = (m) => listings.filter((l) => m.brand.test(l.brand)).length;
 
 function catalogueFor(m) {
-  if (m.kind === 'shopify') return shopifyCatalog(m.base).filter(m.isProduct);
+  if (m.kind === 'shopify') return shopifyCatalog(m.base, { maxPages: m.maxPages }).filter(m.isProduct);
   if (m.kind === 'sitemap') return sitemapCatalog(m.sitemap, { urlFilter: m.urlFilter, childFilter: m.childFilter, titleFilter: m.titleFilter, maxUrls: m.maxUrls }).filter(m.isProduct);
   if (m.kind === 'philips') return philipsCatalog(m.base, listings.filter((l) => m.brand.test(l.brand)), { isProduct: m.isProduct });
+  if (m.kind === 'decathlon') return decathlonCatalog({ urlFilter: m.urlFilter, ownBrand: m.brand, maxUrls: m.maxUrls }).filter(m.isProduct);
+  if (m.kind === 'browser') return browserCatalog(m).filter(m.isProduct);
   throw new Error(`unknown maker kind ${m.kind}`);
 }
 
 const catalog = [];
 for (const m of makers) {
-  if (!listingCount(m)) {
+  // `always` makers are crawled even with no marketplace listing of the brand: their catalogue is listed directly
+  // as brand-store rows (sites with `brandStore: true`).
+  if (!m.always && !listingCount(m)) {
     console.log(`${m.base.padEnd(40)} ${m.kind.padEnd(8)} → skipped, no ${site.unit} listings carry this brand`);
     continue;
   }
   const picked = catalogueFor(m);
+  // Structured kinds hand over parsed values (kv / text) and no page HTML to scrape.
+  const structured = m.kind === 'philips' || m.kind === 'decathlon';
   let withSpecs = 0;
   for (const p of picked) {
-    const html = p.html ?? (m.kind === 'philips' ? '' : fetchText(p.url));
-    if (!html && m.kind !== 'philips') continue;
+    const html = p.html ?? (structured ? '' : fetchText(p.url));
+    if (!html && !structured) continue;
     const page = html ? extractSpecs(html, labels, p.title) : { kv: {}, text: '', anchored: false };
     const { kv } = page;
     let text = page.anchored ? page.text : '';
@@ -60,7 +70,9 @@ for (const m of makers) {
       for (const [k, v] of Object.entries(b.kv)) kv[k] ??= v;
       text = `${b.text}\n${text}`;
     }
+    if (p.text) text = `${p.text}\n${text}`;
     if (!text) text = page.text;
+    if (p.grams) kv['Weight (store variant)'] ??= `${p.grams} g`;
     // The maker's own product name is part of its published statement ("… (2000 W, Rose Gold)").
     text = `${p.title}\n${text}`;
     for (const [k, fn] of Object.entries(prose)) {
@@ -74,9 +86,11 @@ for (const m of makers) {
     const known = Object.keys(kv).filter((k) => labels.some((re) => re.test(k)));
     if (known.length) withSpecs++;
     catalog.push({
-      maker: m.base, region: m.region, brand: brandName(m),
+      maker: m.base, region: m.region, brand: p.brand ?? brandName(m),
       title: p.title, url: p.url, handle: p.handle, variants: p.variants, kv, specKeys: known.length, fetchedAt: today(),
       ctn: p.ctn, ambiguousBase: p.ambiguousBase, image: p.image,
+      ...(p.price !== undefined ? { price: p.price, available: p.available, grams: p.grams } : {}),
+      ...(p.rating ? { rating: p.rating, ratingCount: p.ratingCount } : {}),
       text: text.slice(0, 8000),
     });
   }

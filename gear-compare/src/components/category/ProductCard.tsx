@@ -1,18 +1,21 @@
 import { memo } from 'react';
 import { clsx } from 'clsx';
-import { Check, Plus, Star } from 'lucide-react';
+import { Check, PackagePlus, PackageCheck, Plus, Star } from 'lucide-react';
 import type { ProductRow, SegmentOption } from '../../lib/types';
 import { rupees, storeLabel } from '../../lib/format';
 import { EvidenceBadge, ScoreBadge, SegmentBadge } from '../ui/primitives';
 
+/** Present only on categories the organiser planner draws from: whether this listing is already in the plan, and the action to add / remove it. */
+export interface PlanAction { planned: boolean; onPlan: (id: string) => void }
+
 interface Props {
   row: ProductRow; rank: number; segment: SegmentOption; compared: boolean; compareFull: boolean;
-  onOpen: (id: string) => void; onCompare: (id: string) => void;
+  onOpen: (id: string) => void; onCompare: (id: string) => void; plan?: PlanAction;
 }
 
 /** One ranked row (IMDb Top 250 / Goodreads list): rank · image · brand + title + meta line · score badge · price · compare.
  *  Memoised: only re-renders when its own row / compare state changes, never on scroll. */
-export const ProductCard = memo(function ProductCard({ row, rank, segment, compared, compareFull, onOpen, onCompare }: Props) {
+export const ProductCard = memo(function ProductCard({ row, rank, segment, compared, compareFull, onOpen, onCompare, plan }: Props) {
   return (
     <article className="card card-hover grid grid-cols-[auto_auto_minmax(0,1fr)] items-center gap-x-3 gap-y-3 p-3 sm:grid-cols-[40px_72px_minmax(0,1fr)_auto_auto] sm:gap-x-4 sm:p-4">
       <span className="mono w-7 text-center text-[15px] font-extrabold text-muted sm:w-10 sm:text-[17px]" aria-label={`Rank ${rank}`}>{rank}</span>
@@ -37,15 +40,25 @@ export const ProductCard = memo(function ProductCard({ row, rank, segment, compa
         </p>
       </button>
       <div className="col-span-3 flex items-center gap-3 border-t border-line pt-3 sm:contents">
-        <div className="flex flex-1 items-center justify-between gap-3 sm:block sm:text-right">
+        <div className="flex min-w-0 flex-1 items-center justify-between gap-3 sm:block sm:text-right">
           <ScoreBadge score={row.s} className="sm:flex-row-reverse" />
           <p className="mono text-[16px] font-extrabold text-display sm:mt-1.5">{rupees(row.p)}</p>
         </div>
-        <button type="button" onClick={() => onCompare(row.id)} disabled={!compared && compareFull} aria-pressed={compared}
-          className={clsx('btn h-9 px-4 disabled:cursor-not-allowed disabled:opacity-40 sm:w-9 sm:px-0', compared && 'btn-accent')}
-          aria-label={compared ? 'Remove from compare' : 'Add to compare'}>
-          {compared ? <Check size={14} /> : <Plus size={14} />}<span className="sm:hidden">{compared ? 'Comparing' : 'Compare'}</span>
-        </button>
+        <div className="flex shrink-0 items-center gap-2 sm:flex-col">
+          <button type="button" onClick={() => onCompare(row.id)} disabled={!compared && compareFull} aria-pressed={compared}
+            className={clsx('btn h-9 disabled:cursor-not-allowed disabled:opacity-40 sm:w-9 sm:px-0', plan ? 'w-9 px-0' : 'px-4', compared && 'btn-accent')}
+            aria-label={compared ? 'Remove from compare' : 'Add to compare'}>
+            {compared ? <Check size={14} /> : <Plus size={14} />}{!plan && <span className="sm:hidden">{compared ? 'Comparing' : 'Compare'}</span>}
+          </button>
+          {plan && (
+            <button type="button" onClick={() => plan.onPlan(row.id)} aria-pressed={plan.planned}
+              className={clsx('btn h-9 px-3 sm:w-9 sm:px-0', plan.planned && 'btn-accent')}
+              aria-label={plan.planned ? 'Remove from packing plan' : row.pk ? 'Add to packing plan' : 'Add to packing plan (no accepted size — will not be counted)'}
+              title={plan.planned ? 'In your packing plan' : row.pk ? 'Add to packing plan' : 'No accepted size: can be added, but not counted against the bag'}>
+              {plan.planned ? <PackageCheck size={14} /> : <PackagePlus size={14} />}<span className="sm:hidden">{plan.planned ? 'In plan' : 'Plan'}</span>
+            </button>
+          )}
+        </div>
       </div>
     </article>
   );

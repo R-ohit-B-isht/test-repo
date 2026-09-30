@@ -20,6 +20,7 @@ const GLOBAL_LABELS = {
   'rating:none': 'No ratings yet',
   'store:flipkart': 'Flipkart',
   'store:amazon': 'Amazon.in',
+  'store:maker': 'Maker’s own store',
 };
 
 export function groupDefsFor(site) {

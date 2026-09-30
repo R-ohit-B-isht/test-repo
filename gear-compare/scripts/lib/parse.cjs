@@ -7,6 +7,7 @@ const num = (s) => {
 // "20000 mAh", "20,000mAh", "20K mAh" → 20000
 function mah(s) {
   const t = String(s || '');
+  if (/\d\s*(?:to|-|–)\s*\d[\d,.]*\s*k?\s*m\s*ah\b/i.test(t)) return null; // a bucket ("1001 to 2000 mAh") is not a stated capacity
   const m = /(\d{1,3}(?:[,.]?\d{3})*|\d+(?:\.\d+)?)\s*(k)?\s*m\s*ah\b/i.exec(t);
   if (!m) return null;
   let v = Number(m[1].replace(/[,.](?=\d{3})/g, ''));
@@ -80,8 +81,8 @@ function minutes(s) {
 // "Yes" / "No" / "1" / "True" → boolean; anything else null
 function yesNo(s) {
   const t = String(s || '').trim().toLowerCase();
-  if (/^(?:yes|y|true|1|available|present|included)\b/.test(t)) return true;
-  if (/^(?:no|n|false|0|not available|absent|none)\b/.test(t)) return false;
+  if (t === '1' || /^(?:yes|y|true|available|present|included)\b/.test(t)) return true;
+  if (t === '0' || /^(?:no|n|false|not available|absent|none)\b/.test(t)) return false;
   return null;
 }
 
