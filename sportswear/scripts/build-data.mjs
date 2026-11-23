@@ -116,7 +116,9 @@ for (const it of items) {
   if (it.rating && it.ratingCount) reasons.push(`Rated ${it.rating.toFixed(1)}★ by ${it.ratingCount} buyers`);
   const nb = (it.bullets ?? []).length;
   const sTr = clamp((pct ? 35 : (it.materials ?? []).length ? 15 : 0) + (it.origin ? 15 : 0) + Math.min(nb, 8) * 5 + Math.min((it.desc ?? '').length / 400, 1) * 10);
-  const sc = { tier: Math.round(sTier), tech: Math.round(sTech), materials: Math.round(sMat), buyers: Math.round(sBuy), transparency: Math.round(sTr) };
+  const lo = !!it.listingOnly;
+  if (lo) reasons.push('Store listing only: the product page could not be read, so technology, materials and transparency are set to a neutral 50 instead of a penalty');
+  const sc = lo ? { tier: Math.round(sTier), tech: Math.max(50, Math.round(sTech)), materials: 50, buyers: Math.round(sBuy), transparency: 50 } : { tier: Math.round(sTier), tech: Math.round(sTech), materials: Math.round(sMat), buyers: Math.round(sBuy), transparency: Math.round(sTr) };
   const raw = Object.entries(WEIGHTS).reduce((a, [k, w]) => a + sc[k] * w, 0) / 100;
   const s = Math.round((raw + nb * 0.01 + (it.images?.length ?? 0) * 0.002) * 10) / 10;
 
@@ -127,7 +129,7 @@ for (const it of items) {
     ...teams.map((x) => tag('team', x)), ...lines.map((x) => tag('line', `${it.brand} · ${x}`)),
     ...tech.map((x) => tag('tech', x[0])), ...(techNike ? techNike.split(' | ').map((x) => tag('tech', x.replace(/\b\w/g, (c) => c.toUpperCase()).replace('Dri-Fit', 'Dri-FIT'))) : []),
     ...mats.map((x) => tag('material', x[0])), ...feats.map((x) => tag('feature', x)),
-    tag('tier', tier ? tier[1] : 'No tier stated'), tag('stock', it.inStock ? 'In stock' : 'Out of stock'),
+    tag('tier', tier ? tier[1] : 'No tier stated'), tag('evidence', lo ? 'Listing data only' : 'Full product page'), tag('stock', it.inStock ? 'In stock' : 'Out of stock'),
   ];
   rows.push({
     id: it.id, b: it.brand, n: it.name, u: it.sub ?? '', c: cat[0], d: dept, s, sc,
