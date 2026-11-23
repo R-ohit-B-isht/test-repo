@@ -12,7 +12,7 @@ export const GROUPS: { id: string; label: string; open?: boolean }[] = [
   { id: 'brand', label: 'Brand', open: true }, { id: 'dept', label: 'Department', open: true }, { id: 'cat', label: 'Category', open: true },
   { id: 'sport', label: 'Sport', open: true }, { id: 'gender', label: 'Gender', open: true }, { id: 'age', label: 'Age group' },
   { id: 'tier', label: 'Maker tier' }, { id: 'team', label: 'Team / club / F1 team' }, { id: 'line', label: 'Line / franchise' },
-  { id: 'tech', label: 'Technology' }, { id: 'material', label: 'Material' }, { id: 'feature', label: 'Features & fit' }, { id: 'stock', label: 'Availability' },
+  { id: 'tech', label: 'Technology' }, { id: 'material', label: 'Material' }, { id: 'feature', label: 'Features & fit' }, { id: 'stock', label: 'Availability' }, { id: 'evidence', label: 'Evidence' },
 ];
 
 const cache = new Map<string, Promise<unknown>>();

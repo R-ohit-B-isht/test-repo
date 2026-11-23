@@ -157,7 +157,7 @@ function Card({ r, rank, rf, m, compared, onOpen, onCompare }: { r: Row; rank: n
       <span className="mono text-center text-[15px] font-extrabold text-muted">{rank}</span>
       <button type="button" onClick={onOpen} className="press h-[84px] w-[64px] overflow-hidden rounded-lg bg-white ring-1 ring-line sm:h-[100px] sm:w-[80px]">{r.img && <img src={r.img} alt="" loading="lazy" className="h-full w-full object-contain" />}</button>
       <button type="button" onClick={onOpen} className="min-w-0 text-left">
-        <span className="flex flex-wrap items-center gap-x-2 text-[12px] font-bold"><span className="text-accent">{r.b}</span><span className="text-secondary">{catLabel(r, m)}</span>{!r.k && <span className="text-[var(--danger)]">Out of stock</span>}</span>
+        <span className="flex flex-wrap items-center gap-x-2 text-[12px] font-bold"><span className="text-accent">{r.b}</span><span className="text-secondary">{catLabel(r, m)}</span>{!r.k && <span className="text-[var(--danger)]">Out of stock</span>}{labelsOf(r, rf, 'evidence')[0] === 'Listing data only' && <span className="text-[var(--warning)]">Listing data only</span>}</span>
         <span className="mt-0.5 block line-clamp-1 text-[15px] font-bold text-display">{r.n}</span>
         {r.u && <span className="block line-clamp-1 text-[13px] text-secondary">{r.u}</span>}
         <span className="mt-1.5 flex flex-wrap gap-1">{chips.slice(0, 7).map((c) => <span key={c} className="rounded-full bg-raised px-2 py-0.5 text-[11px] font-bold text-secondary">{c}</span>)}</span>
