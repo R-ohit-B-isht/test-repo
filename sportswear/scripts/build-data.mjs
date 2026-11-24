@@ -167,6 +167,6 @@ fs.writeFileSync(new URL('manifest.json', OUT), JSON.stringify({
   brands: Object.fromEntries(['Puma', 'Nike', 'Adidas'].map((b) => [b, rows.filter((r) => r.b === b).length])),
   sources: { Puma: 'in.puma.com', Nike: 'nike.in (official Nike India store)', Adidas: 'Official adidas store on Myntra (adidas.co.in blocks automated access)' },
 }));
-fs.writeFileSync(new URL('rows.json', OUT), JSON.stringify({ tagIndex, facetCounts, rows }));
+fs.writeFileSync(new URL('rows.json', OUT), JSON.stringify({ tagIndex, facetCounts, priceRange: [Math.min(...rows.filter((r) => r.p).map((r) => r.p)), Math.max(...rows.filter((r) => r.p).map((r) => r.p))], rows }));
 details.forEach((d, i) => fs.writeFileSync(new URL(`detail/${i}.json`, OUT), JSON.stringify(d)));
 console.log('dropped (not men/unisex adult)', dropped, 'rows', rows.length, 'tags', tagIndex.length, 'categories', categories.length);

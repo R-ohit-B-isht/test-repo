@@ -6,8 +6,10 @@ import { clsx } from 'clsx';
 import { DIM_LABEL, GROUPS, rupees, useDetail, useLoad, type Dim, type Manifest, type Row, type RowsFile } from '../data';
 import { Bar, Chip, Score } from '../components/bits';
 
-type Sort = 'score' | 'tier' | 'tech' | 'materials' | 'buyers' | 'name';
-const SORTS: [Sort, string][] = [['score', 'Quality score'], ['tier', 'Maker tier'], ['tech', 'Technology'], ['materials', 'Materials'], ['buyers', 'Buyer rating'], ['name', 'Name A–Z']];
+type Sort = 'score' | 'tier' | 'tech' | 'materials' | 'buyers' | 'price-asc' | 'price-desc' | 'discount' | 'name';
+const SORTS: [Sort, string][] = [['score', 'Quality score'], ['tier', 'Maker tier'], ['tech', 'Technology'], ['materials', 'Materials'], ['buyers', 'Buyer rating'], ['price-asc', 'Price: low to high'], ['price-desc', 'Price: high to low'], ['discount', 'Biggest discount'], ['name', 'Name A–Z']];
+const PRICE_PRESETS: [string, number | null, number | null][] = [['Under ₹2,000', null, 2000], ['₹2,000–5,000', 2000, 5000], ['₹5,000–10,000', 5000, 10000], ['₹10,000–15,000', 10000, 15000], ['Over ₹15,000', 15000, null]];
+const off = (r: Row) => (r.m && r.p && r.m > r.p ? (r.m - r.p) / r.m : 0);
 
 export default function Browse() {
   const m = useLoad<Manifest>('manifest.json');
@@ -20,6 +22,9 @@ export default function Browse() {
   const qText = sp.get('q') ?? '';
   const dq = useDeferredValue(qText.toLowerCase().trim());
   const sort = (sp.get('sort') as Sort) ?? 'score';
+  const num = (k: string) => { const x = Number(sp.get(k)); return sp.get(k) && Number.isFinite(x) ? x : null; };
+  const pmin = num('pmin');
+  const pmax = num('pmax');
 
   const groupOf = useMemo(() => rf?.tagIndex.map(([g]) => g) ?? [], [rf]);
   const selected = useMemo(() => {
@@ -35,15 +40,21 @@ export default function Browse() {
   const match = (r: Row, skip?: string) => {
     for (const [g, set] of Object.entries(selected)) if (g !== skip && !r.t.some((t) => set.has(t))) return false;
     if (dq && !(`${r.b} ${r.n} ${r.u}`.toLowerCase().includes(dq))) return false;
+    if ((pmin != null || pmax != null) && (r.p == null || (pmin != null && r.p < pmin) || (pmax != null && r.p > pmax))) return false;
     return true;
   };
   const list = useMemo(() => {
     if (!rf) return [];
     const xs = rf.rows.filter((r) => match(r));
-    const key = (r: Row) => (sort === 'score' ? r.s : sort === 'name' ? 0 : r.sc[sort as Dim] + r.s / 1000);
-    return sort === 'name' ? xs.sort((a, b) => a.n.localeCompare(b.n)) : xs.sort((a, b) => key(b) - key(a));
+    if (sort === 'name') return xs.sort((a, b) => a.n.localeCompare(b.n));
+    if (sort === 'price-asc' || sort === 'price-desc') {
+      const dir = sort === 'price-asc' ? 1 : -1;
+      return xs.sort((a, b) => (a.p == null ? 1 : 0) - (b.p == null ? 1 : 0) || dir * ((a.p ?? 0) - (b.p ?? 0)) || b.s - a.s);
+    }
+    const key = (r: Row) => (sort === 'score' ? r.s : sort === 'discount' ? off(r) + r.s / 1e6 : r.sc[sort as Dim] + r.s / 1000);
+    return xs.sort((a, b) => key(b) - key(a));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rf, selected, dq, sort]);
+  }, [rf, selected, dq, sort, pmin, pmax]);
   const counts = useMemo(() => {
     const c: Record<string, Record<number, number>> = {};
     if (!rf) return c;
@@ -54,7 +65,7 @@ export default function Browse() {
     }
     return c;
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rf, selected, dq, groupOf]);
+  }, [rf, selected, dq, groupOf, pmin, pmax]);
 
   const toggle = (g: string, label: string) => {
     const next = new URLSearchParams(sp);
@@ -69,8 +80,24 @@ export default function Browse() {
   const byId = useMemo(() => new Map(rf?.rows.map((r) => [r.id, r]) ?? []), [rf]);
   if (!m || !rf) return <p className="p-8 text-muted">Loading the catalogue…</p>;
 
+  const setRange = (lo: number | null, hi: number | null) => { const next = new URLSearchParams(sp); for (const [k, x] of [['pmin', lo], ['pmax', hi]] as const) if (x != null) next.set(k, String(x)); else next.delete(k); setSp(next, { replace: true }); };
+  const priceBox = (
+    <div className="border-b border-line pb-4">
+      <p className="py-2 text-[13px] font-bold text-display">Price range (₹)</p>
+      <div className="flex items-center gap-2">
+        <input type="number" inputMode="numeric" min={0} placeholder={`Min ${rupees(rf.priceRange[0])}`} value={pmin ?? ''} onChange={(e) => setParam('pmin', e.target.value)} className="h-9 w-full rounded-lg border border-line bg-surface px-2 text-[13px]" aria-label="Minimum price" />
+        <span className="text-muted">–</span>
+        <input type="number" inputMode="numeric" min={0} placeholder={`Max ${rupees(rf.priceRange[1])}`} value={pmax ?? ''} onChange={(e) => setParam('pmax', e.target.value)} className="h-9 w-full rounded-lg border border-line bg-surface px-2 text-[13px]" aria-label="Maximum price" />
+      </div>
+      <div className="mt-2 flex flex-wrap gap-1.5">
+        {PRICE_PRESETS.map(([l, lo, hi]) => <Chip key={l} active={pmin === lo && pmax === hi} onClick={() => (pmin === lo && pmax === hi ? setRange(null, null) : setRange(lo, hi))}>{l}</Chip>)}
+      </div>
+      <p className="mt-2 text-[11px] text-muted">Filters only. Price never changes the quality score.</p>
+    </div>
+  );
   const filters = (
     <div className="space-y-1">
+      {priceBox}
       {GROUPS.map((g) => <FacetGroup key={g.id} id={g.id} label={g.label} defaultOpen={!!g.open || !!selected[g.id]} tagIndex={rf.tagIndex} counts={counts[g.id] ?? {}} chosen={sp.getAll(g.id)} onToggle={(l) => toggle(g.id, l)} />)}
     </div>
   );
@@ -91,6 +118,7 @@ export default function Browse() {
         <div className="mt-3 flex flex-wrap items-center gap-2">
           <span className="text-[14px] font-bold text-display">{list.length.toLocaleString('en-IN')} products</span>
           {active.map(([g, l]) => <Chip key={g + l} active onClick={() => toggle(g, l)}>{l}<X size={12} /></Chip>)}
+          {(pmin != null || pmax != null) && <Chip active onClick={() => setRange(null, null)}>{pmin != null ? rupees(pmin) : '₹0'}–{pmax != null ? rupees(pmax) : 'any'}<X size={12} /></Chip>}
           {active.length > 0 && <button type="button" className="text-[12px] font-bold text-accent" onClick={() => setSp(new URLSearchParams(qText ? { q: qText } : {}), { replace: true })}>Clear all</button>}
         </div>
         <div className="relative mt-4" style={{ height: v.getTotalSize() }}>

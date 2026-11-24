@@ -28,9 +28,13 @@ const num = (v) => (v === null || v === undefined || v === '' || Number.isNaN(Nu
 const items = [];
 
 // ---------- PUMA (in.puma.com, __NEXT_DATA__) ----------
+// Only products still in Puma's live sitemap (puma/live.txt, one product id per line) when that file exists.
+const pumaLive = fs.existsSync(path.join(RAW, 'puma/live.txt')) ? new Set(fs.readFileSync(path.join(RAW, 'puma/live.txt'), 'utf8').split('\n').filter(Boolean)) : null;
+const pumaSeen = new Set();
 for (const r of jsonl(path.join(RAW, 'puma/products.jsonl'))) {
   const p = r.product;
-  if (!p) continue;
+  if (!p || (pumaLive && !pumaLive.has(r.id)) || pumaSeen.has(r.id)) continue;
+  pumaSeen.add(r.id);
   const vars = p.variations ?? [];
   const v = vars.find((x) => x.orderable) ?? vars[0] ?? {};
   const chain = [];
