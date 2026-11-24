@@ -5,10 +5,10 @@ import { Score } from '../components/bits';
 
 const q = (k: string, v: string) => `/browse?${new URLSearchParams({ [k]: v })}`;
 const QUICK: [string, string, string][] = [
-  ['Jerseys & kits', 'cat', 'Jerseys & Kits'], ['Motorsport', 'sport', 'Motorsport'], ['Slides & slippers', 'cat', 'Slides, Slippers & Flip-Flops'], ['Running shoes', 'cat', 'Running Shoes'],
-  ['Football boots', 'cat', 'Football Boots'], ['Basketball', 'sport', 'Basketball'], ['Gym & training', 'sport', 'Gym & Training'], ['Cricket', 'sport', 'Cricket'], ['Tennis', 'sport', 'Tennis'],
-  ['Golf', 'sport', 'Golf'], ['Lifestyle sneakers', 'cat', 'Lifestyle Sneakers'], ['Hoodies', 'cat', 'Hoodies & Sweatshirts'], ['Jackets', 'cat', 'Jackets, Track Tops & Gilets'], ['Backpacks', 'cat', 'Backpacks'],
-  ['Elite tier only', 'tier', 'Elite / Pro-athlete tier'], ['Jordan', 'line', 'Nike · Jordan'], ['adidas Originals', 'line', 'Adidas · adidas Originals'], ['Scuderia Ferrari', 'team', 'Scuderia Ferrari'],
+  ['Jerseys', 'cat', 'Jerseys'], ['Motorsport', 'sport', 'Motorsport'], ['Slides', 'cat', 'Slides'], ['Slippers', 'cat', 'Slippers'], ['Flip-flops', 'cat', 'Flip-Flops'], ['Sandals', 'cat', 'Sandals'],
+  ['Running shoes', 'cat', 'Running Shoes'], ['Football boots', 'cat', 'Football Boots'], ['Basketball', 'sport', 'Basketball'], ['Training', 'sport', 'Training'], ['Cricket', 'sport', 'Cricket'], ['Tennis', 'sport', 'Tennis'],
+  ['Golf', 'sport', 'Golf'], ['Lifestyle sneakers', 'cat', 'Lifestyle Sneakers'], ['Hoodies', 'cat', 'Hoodies'], ['Sweatshirts', 'cat', 'Sweatshirts'], ['Track tops', 'cat', 'Track Tops'], ['Backpacks', 'cat', 'Backpacks'],
+  ['Elite tier only', 'tier', 'Elite tier'], ['Jordan', 'line', 'Nike · Jordan'], ['adidas Originals', 'line', 'Adidas · adidas Originals'], ['Scuderia Ferrari', 'team', 'Scuderia Ferrari'],
 ];
 
 export default function Home() {
@@ -19,8 +19,8 @@ export default function Home() {
   return (
     <main className="mx-auto max-w-[1400px] px-4 pb-24">
       <section className="py-10 sm:py-14">
-        <p className="label text-accent">Puma India · Nike India · adidas · {m.total.toLocaleString('en-IN')} products</p>
-        <h1 className="mt-2 max-w-3xl text-[32px] font-extrabold leading-tight tracking-tight text-display sm:text-[44px]">Every product from the three brands, ranked on quality only.</h1>
+        <p className="label text-accent">Puma India · Nike India · adidas · {m.total.toLocaleString('en-IN')} men’s and unisex products</p>
+        <h1 className="mt-2 max-w-3xl text-[32px] font-extrabold leading-tight tracking-tight text-display sm:text-[44px]">Every men’s product from the three brands, ranked on quality only.</h1>
         <p className="mt-3 max-w-2xl text-[15px] text-secondary">Score = maker tier {m.weights.tier}% · technology {m.weights.tech}% · materials {m.weights.materials}% · buyer rating {m.weights.buyers}% · spec transparency {m.weights.transparency}%. Price is shown for reference and never counts toward the score.</p>
         <div className="mt-5 flex flex-wrap gap-2">
           {Object.entries(m.brands).map(([b, n]) => <Link key={b} to={q('brand', b)} className="rounded-full bg-surface px-3 py-1.5 text-[13px] font-bold ring-1 ring-line hover:ring-line-strong">{b} <span className="text-muted">{n.toLocaleString('en-IN')}</span></Link>)}

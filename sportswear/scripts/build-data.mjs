@@ -1,7 +1,7 @@
 // data/catalogue.json -> public/data/{manifest.json, rows.json, detail/<n>.json}
 // Classifies every product into the shared taxonomy, tags it, and scores it on quality only. Price is carried for display, never scored.
 import fs from 'node:fs';
-import { CATEGORIES, DEPTS, FEATURES, LINES, MATERIALS, SPORTS, TEAMS, TECH, TIERS } from './taxonomy.mjs';
+import { CATEGORIES, DEPTS, EQUIPMENT, FEATURES, LINES, MATERIALS, SPORTS, TEAMS, TECH, TIERS } from './taxonomy.mjs';
 
 const SRC = new URL('../data/catalogue.json', import.meta.url);
 const OUT = new URL('../public/data/', import.meta.url);
@@ -26,6 +26,7 @@ function department(it, head) {
   if (/footwear|shoes|flip flops|sandals/.test(div + ' ' + at)) return 'footwear';
   if (/accessor|personal care|sporting goods|home|equipment/.test(div)) return /shoes?/.test(head) && !/socks|bag|lace/.test(head) ? 'footwear' : 'accessories';
   if (/\bsocks?\b/.test(low(it.name)) || /\b(football|basketball|ball)( v?\d+)?$/.test(low(it.name).trim())) return 'accessories';
+  if (/\b(shower gel|body wash|mists?|deodorant|deo|perfume|eau de|edt|edp|fragrance|jugs?|shopper|tote|scarf|scarves)\b/.test(low(it.name + ' ' + (it.sub ?? '')))) return 'accessories';
   if (/\b(socks?|caps?|beanies?|bags?|backpacks?|wallets?|belts?|gloves?|face masks?|masks?|headbands?|wristbands?|bottles?|waterbottle)\b/.test(head) && !/\b(shoes?|sneakers?|jackets?|shirts?|tees?|pants|shorts|dress|hoodie|sweatshirt|jersey|bra|leggings|tights)\b/.test(low(it.name))) return 'accessories';
   if (/apparel|clothing/.test(div)) return 'apparel';
   if (/\b(shoes?|sneakers?|trainers?|boots?|cleats?|slides?|slippers?|flip[ -]?flops?|sandals?|clogs?|mules?|spikes|floaters)\b/.test(head) && !/\b(socks?|bag|laces?|shoe care|insoles?)\b/.test(head)) return 'footwear';
@@ -40,9 +41,9 @@ function genderAge(it, head) {
   else if (/\b(kids?'?s?|boys?|girls?|junior|jr|youth|big kids?|older kids?|younger kids?|little kids?|children|8 -16|7 - 14|4 - 7)\b/.test(g)) age = 'kids';
   let gender;
   if (age !== 'adult') gender = /\bgirls?\b/.test(g) && !/\bboys?\b/.test(g) ? 'girls' : /\bboys?\b/.test(g) && !/\bgirls?\b/.test(g) ? 'boys' : 'kids-unisex';
-  else if (/\bunisex\b/.test(g) || (/\bmen\b|men's|\bmale\b/.test(g) && /\bwomen\b|women's|\bfemale\b/.test(g))) gender = 'unisex';
-  else if (/\bwomen\b|women's|\bfemale\b|\bwmns\b/.test(g)) gender = 'women';
-  else if (/\bmen\b|men's|\bmale\b|\bmens\b/.test(g)) gender = 'men';
+  else if (/\bunisex\b/.test(g) || (/\bmen\b|\bmen's\b|\bmens\b|\bmale\b/.test(g) && /\bwomen\b|\bwomen's\b|\bfemale\b/.test(g))) gender = 'unisex';
+  else if (/\bwomen\b|\bwomen's\b|\bfemale\b|\bwmns\b|\bwomens\b/.test(g)) gender = 'women';
+  else if (/\bmen\b|\bmen's\b|\bmale\b|\bmens\b/.test(g)) gender = 'men';
   else gender = 'unisex';
   return { gender, age };
 }
@@ -65,6 +66,7 @@ const ratingPrior = (() => {
   return n ? r.reduce((a, i) => a + i.rating * i.ratingCount, 0) / n : 4;
 })();
 
+let dropped = 0;
 for (const it of items) {
   const attrVals = Object.entries(it.attrs ?? {}).filter(([k]) => !/BIS|URL|Address|Manufacturer|Sold By/i.test(k)).map(([, v]) => v).join(' ');
   const head = low([it.name, it.sub, (it.path ?? []).join(' '), it.articleType].join(' '));
@@ -72,18 +74,20 @@ for (const it of items) {
   const all = head + ' ' + body;
   const dept = department(it, head);
   const nm = low(it.name + ' ' + (it.sub ?? ''));
-  const forced = dept === 'accessories' && /\b(football|basketball|ball)( v?\d+)?$/.test(low(it.name).trim()) ? CATEGORIES.find(([id]) => id === 'balls') : null;
-  const cat = forced ?? CATEGORIES.find(([id, , d, re]) => d === dept && re.test(head + ' ' + low(attrVals)) && !(id === 'jerseys-kits' && /\b(pants|shorts|trousers|leggings|tights|socks|jackets?|hoodie|sweatshirt|dress)\b/.test(nm)) && !(id === 'tanks' && /\bvest\b/.test(nm) && /\b(puffer|padded|jacket|gilet)\b/.test(nm))) ?? CATEGORIES.find(([, , d]) => d === dept);
+  const forced = dept === 'accessories' && /\b(football|basketball|ball)( v?\d+)?$/.test(low(it.name).trim()) ? CATEGORIES.find(([id]) => id === (/basketball/.test(low(it.name)) ? 'basketballs' : /football/.test(low(it.name)) ? 'footballs' : 'balls')) : null;
+  const cat = forced ?? CATEGORIES.find(([id, , d, re]) => d === dept && re.test(head + ' ' + low(attrVals)) && !(id === 'jerseys' && /\b(pants|shorts|trousers|leggings|tights|socks|jackets?|hoodie|sweatshirt|dress)\b/.test(nm)) && !(id === 'tank-tops' && /\bvest\b/.test(nm) && /\b(puffer|padded|jacket|gilet)\b/.test(nm))) ?? CATEGORIES.find(([, , d]) => d === dept);
+  const deptOut = EQUIPMENT.has(cat[0]) ? 'equipment' : dept;
   const { gender, age } = genderAge(it, head);
+  if (age !== 'adult' || (gender !== 'men' && gender !== 'unisex') || /\b(women|womens|ladies|girls?)\b|\bwomen's\b|\b(bra|bras|skirts?|skorts?|dress|dresses|bikini|swimsuit|leggings)\b/.test(low(it.name + ' ' + (it.sub ?? '')))) { dropped++; continue; }
   const sportAttr = low([it.attrs?.['Nike Sports Type'], it.attrs?.['Sports Type'], it.attrs?.['Sport']].join(' '));
   let sports = SPORTS.filter(([, , re]) => re.test(head + ' ' + sportAttr)).map(([id]) => id);
-  if (cat[0] === 'football-boots' || cat[0] === 'jerseys-kits' && /football|fc|club/.test(head)) sports.push('football');
+  if (cat[0] === 'football-boots' || cat[0] === 'jerseys' && /football|fc|club/.test(head)) sports.push('football');
   if (cat[0] === 'motorsport-shoes') sports.push('motorsport');
   if (cat[0] === 'running-shoes') sports.push('running');
   if (cat[0] === 'basketball-shoes') sports.push('basketball');
   if (cat[0] === 'golf-shoes') sports.push('golf');
   if (cat[0] === 'cricket-shoes') sports.push('cricket');
-  if (cat[0] === 'trail-hiking') sports.push('trail');
+  if (cat[0] === 'trail-running-shoes' || cat[0] === 'hiking-shoes') sports.push('trail');
   if (cat[0] === 'training-shoes') sports.push('training');
   if (cat[0] === 'swimwear') sports.push('swimming');
   sports = uniq(sports);
@@ -123,8 +127,8 @@ for (const it of items) {
   const s = Math.round((raw + nb * 0.01 + (it.images?.length ?? 0) * 0.002) * 10) / 10;
 
   const t = [
-    tag('brand', it.brand), tag('dept', DEPTS[dept]), tag('cat', cat[1]),
-    ...sports.map((x) => tag('sport', x === 'lifestyle' ? 'Lifestyle / Casual' : SPORTS.find((y) => y[0] === x)[1])),
+    tag('brand', it.brand), tag('dept', DEPTS[deptOut]), tag('cat', cat[1]),
+    ...sports.map((x) => tag('sport', x === 'lifestyle' ? 'Lifestyle' : SPORTS.find((y) => y[0] === x)[1])),
     tag('gender', GENDER[gender]), tag('age', AGE[age]),
     ...teams.map((x) => tag('team', x)), ...lines.map((x) => tag('line', `${it.brand} · ${x}`)),
     ...tech.map((x) => tag('tech', x[0])), ...(techNike ? techNike.split(' | ').map((x) => tag('tech', x.replace(/\b\w/g, (c) => c.toUpperCase()).replace('Dri-Fit', 'Dri-FIT'))) : []),
@@ -132,7 +136,7 @@ for (const it of items) {
     tag('tier', tier ? tier[1] : 'No tier stated'), tag('evidence', lo ? 'Listing data only' : 'Full product page'), tag('stock', it.inStock ? 'In stock' : 'Out of stock'),
   ];
   rows.push({
-    id: it.id, b: it.brand, n: it.name, u: it.sub ?? '', c: cat[0], d: dept, s, sc,
+    id: it.id, b: it.brand, n: it.name, u: it.sub ?? '', c: cat[0], d: deptOut, s, sc,
     img: it.images?.[0] ?? '', r: it.ratingCount ? it.rating : null, rc: it.ratingCount ?? null,
     p: it.price, m: it.mrp, k: it.inStock ? 1 : 0, t: uniq(t),
   });
@@ -147,7 +151,8 @@ for (const it of items) {
 rows.sort((a, b) => b.s - a.s || a.id.localeCompare(b.id));
 const facetCounts = {};
 for (const r of rows) for (const ti of r.t) facetCounts[ti] = (facetCounts[ti] ?? 0) + 1;
-const categories = CATEGORIES.map(([id, label, dept]) => {
+const categories = CATEGORIES.map(([id, label, d0]) => {
+  const dept = EQUIPMENT.has(id) ? 'equipment' : d0;
   const inCat = rows.filter((r) => r.c === id);
   return { id, label, dept, count: inCat.length, top: inCat.slice(0, 3).map((r) => r.id), img: inCat[0]?.img ?? '', byBrand: Object.fromEntries(['Puma', 'Nike', 'Adidas'].map((b) => [b, inCat.filter((r) => r.b === b).length])) };
 }).filter((c) => c.count);
@@ -155,10 +160,10 @@ const categories = CATEGORIES.map(([id, label, dept]) => {
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(new URL('detail/', OUT), { recursive: true });
 fs.writeFileSync(new URL('manifest.json', OUT), JSON.stringify({
-  generatedAt, total: rows.length, weights: WEIGHTS, criteria: CRITERIA, depts: DEPTS, shards: SHARDS, categories,
+  generatedAt, total: rows.length, scope: 'Men + unisex adult products only', weights: WEIGHTS, criteria: CRITERIA, depts: DEPTS, shards: SHARDS, categories,
   brands: Object.fromEntries(['Puma', 'Nike', 'Adidas'].map((b) => [b, rows.filter((r) => r.b === b).length])),
   sources: { Puma: 'in.puma.com', Nike: 'nike.in (official Nike India store)', Adidas: 'Official adidas store on Myntra (adidas.co.in blocks automated access)' },
 }));
 fs.writeFileSync(new URL('rows.json', OUT), JSON.stringify({ tagIndex, facetCounts, rows }));
 details.forEach((d, i) => fs.writeFileSync(new URL(`detail/${i}.json`, OUT), JSON.stringify(d)));
-console.log('rows', rows.length, 'tags', tagIndex.length, 'categories', categories.length);
+console.log('dropped (not men/unisex adult)', dropped, 'rows', rows.length, 'tags', tagIndex.length, 'categories', categories.length);

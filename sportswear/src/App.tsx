@@ -14,7 +14,8 @@ function Shell() {
             <Link to="/browse" className="rounded-full px-3 py-1.5 hover:bg-[var(--raised)]">All products</Link>
             <Link to="/browse?dept=Footwear" className="hidden rounded-full px-3 py-1.5 hover:bg-[var(--raised)] sm:block">Footwear</Link>
             <Link to="/browse?dept=Clothing" className="hidden rounded-full px-3 py-1.5 hover:bg-[var(--raised)] sm:block">Clothing</Link>
-            <Link to="/browse?dept=Accessories+%26+Equipment" className="hidden rounded-full px-3 py-1.5 hover:bg-[var(--raised)] md:block">Accessories</Link>
+            <Link to="/browse?dept=Accessories" className="hidden rounded-full px-3 py-1.5 hover:bg-[var(--raised)] md:block">Accessories</Link>
+            <Link to="/browse?dept=Equipment" className="hidden rounded-full px-3 py-1.5 hover:bg-[var(--raised)] md:block">Equipment</Link>
           </nav>
           <span className="ml-auto hidden text-[12px] text-[var(--muted)] lg:block">Ranked on quality only. Price is shown but never scored.</span>
         </div>

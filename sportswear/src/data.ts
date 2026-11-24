@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 export type Dim = 'tier' | 'tech' | 'materials' | 'buyers' | 'transparency';
 export interface Row { id: string; b: string; n: string; u: string; c: string; d: string; s: number; sc: Record<Dim, number>; img: string; r: number | null; rc: number | null; p: number | null; m: number | null; k: 0 | 1; t: number[] }
 export interface Cat { id: string; label: string; dept: string; count: number; top: string[]; img: string; byBrand: Record<string, number> }
-export interface Manifest { generatedAt: string; total: number; weights: Record<Dim, number>; criteria: Record<Dim, string>; depts: Record<string, string>; shards: number; categories: Cat[]; brands: Record<string, number>; sources: Record<string, string> }
+export interface Manifest { generatedAt: string; total: number; scope: string; weights: Record<Dim, number>; criteria: Record<Dim, string>; depts: Record<string, string>; shards: number; categories: Cat[]; brands: Record<string, number>; sources: Record<string, string> }
 export interface RowsFile { tagIndex: [string, string][]; facetCounts: Record<string, number>; rows: Row[] }
 export interface Detail { url: string; source: string; path: string[]; desc: string; bullets: { section: string; text: string }[]; materials: string[]; care: string[]; attrs: Record<string, string>; style: string | null; colour: string | null; colours: number; images: string[]; origin: string | null; sizes: string[] | null; reasons: string[] }
 
