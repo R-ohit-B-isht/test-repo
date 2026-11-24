@@ -2,7 +2,7 @@
 // article type and maker attributes — never price. First matching rule wins inside a list; tag lists are multi-match.
 
 export const DEPTS = { footwear: 'Footwear', apparel: 'Clothing', accessories: 'Accessories', equipment: 'Equipment' };
-export const EQUIPMENT = new Set(['footballs', 'basketballs', 'balls', 'shin-guards', 'helmets', 'protective', 'bottles', 'shakers', 'goalkeeper-gloves', 'exercise-mats', 'yoga-mats', 'skipping-ropes', 'resistance-bands', 'towels', 'other-equipment', 'goggles']);
+export const EQUIPMENT = new Set(['footballs', 'basketballs', 'balls', 'shin-guards', 'helmets', 'protective', 'bottles', 'shakers', 'goalkeeper-gloves', 'exercise-mats', 'yoga-mats', 'skipping-ropes', 'resistance-bands', 'towels', 'other-equipment', 'goggles', 'cricket-bats']);
 
 /** [id, label, dept, regex over the name/sub/path haystack] — order matters. */
 export const CATEGORIES = [
@@ -86,6 +86,9 @@ export const CATEGORIES = [
   ['tote-bags', 'Tote Bags', 'accessories', /\b(totes?|shopper)\b/],
   ['shoe-bags', 'Shoe Bags', 'accessories', /\bshoe ?bags?\b/],
   ['pouches', 'Pouches', 'accessories', /\b(pouch|pouches|portable|organiser|organizer)\b/],
+  ['laptop-bags', 'Laptop Bags', 'accessories', /\blaptop\b/],
+  ['barrel-bags', 'Barrel Bags', 'accessories', /\b(barrel|bowling)\b/],
+  ['handbags', 'Handbags', 'accessories', /\b(handheld|hobo|grip bag|tool box|clutch|sacoche|sachoche)\b/],
   ['other-bags', 'Other Bags', 'accessories', /\bbags?\b/],
   ['wallets', 'Wallets', 'accessories', /\b(wallets?|purse)\b/],
   ['card-holders', 'Card Holders', 'accessories', /\bcard ?holders?\b/],
@@ -119,6 +122,7 @@ export const CATEGORIES = [
   ['resistance-bands', 'Resistance Bands', 'accessories', /\b(resistance|loop band|mini band)\b/],
   ['towels', 'Towels', 'accessories', /\btowels?\b/],
   ['umbrellas', 'Umbrellas', 'accessories', /\bumbrellas?\b/],
+  ['cricket-bats', 'Cricket Bats', 'accessories', /\bcricket bat\b|\bwillow\b/],
   ['other-equipment', 'Other Equipment', 'accessories', /\b(dumbbell|kettlebell|foam roller|rackets?|bats?|pump|cones?|ladder|equipment|weights?)\b/],
   ['other-accessories', 'Other Accessories', 'accessories', /./],
 ];

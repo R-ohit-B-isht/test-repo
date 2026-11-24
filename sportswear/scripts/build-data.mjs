@@ -26,6 +26,7 @@ function department(it, head) {
   if (/footwear|shoes|flip flops|sandals/.test(div + ' ' + at)) return 'footwear';
   if (/accessor|personal care|sporting goods|home|equipment/.test(div)) return /shoes?/.test(head) && !/socks|bag|lace/.test(head) ? 'footwear' : 'accessories';
   if (/\bsocks?\b/.test(low(it.name)) || /\b(football|basketball|ball)( v?\d+)?$/.test(low(it.name).trim())) return 'accessories';
+  if (/\b(t-shirts?|tshirts?|tees?)\b/.test(low(it.name))) return 'apparel';
   if (/\b(shower gel|body wash|mists?|deodorant|deo|perfume|eau de|edt|edp|fragrance|jugs?|shopper|tote|scarf|scarves)\b/.test(low(it.name + ' ' + (it.sub ?? '')))) return 'accessories';
   if (/\b(socks?|caps?|beanies?|bags?|backpacks?|wallets?|belts?|gloves?|face masks?|masks?|headbands?|wristbands?|bottles?|waterbottle)\b/.test(head) && !/\b(shoes?|sneakers?|jackets?|shirts?|tees?|pants|shorts|dress|hoodie|sweatshirt|jersey|bra|leggings|tights)\b/.test(low(it.name))) return 'accessories';
   if (/apparel|clothing/.test(div)) return 'apparel';
