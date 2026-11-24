@@ -33,7 +33,7 @@ export default function Browse() {
   }, [rf, sp]);
 
   const match = (r: Row, skip?: string) => {
-    for (const [g, set] of Object.entries(selected)) if (g !== skip && set.size && !r.t.some((t) => set.has(t))) return false;
+    for (const [g, set] of Object.entries(selected)) if (g !== skip && !r.t.some((t) => set.has(t))) return false;
     if (dq && !(`${r.b} ${r.n} ${r.u}`.toLowerCase().includes(dq))) return false;
     return true;
   };

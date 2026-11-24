@@ -26,7 +26,7 @@ export default function Home() {
           {Object.entries(m.brands).map(([b, n]) => <Link key={b} to={q('brand', b)} className="rounded-full bg-surface px-3 py-1.5 text-[13px] font-bold ring-1 ring-line hover:ring-line-strong">{b} <span className="text-muted">{n.toLocaleString('en-IN')}</span></Link>)}
         </div>
         <div className="mt-6 flex flex-wrap gap-2">
-          {QUICK.map(([l, k, v]) => <Link key={l} to={q(k, v)} className="rounded-full bg-accent-soft px-3 py-1.5 text-[13px] font-bold text-accent hover:brightness-95">{l}</Link>)}
+          {QUICK.filter(([, k, v]) => rf?.tagIndex.some(([g, l]) => g === k && l === v)).map(([l, k, v]) => <Link key={l} to={q(k, v)} className="rounded-full bg-accent-soft px-3 py-1.5 text-[13px] font-bold text-accent hover:brightness-95">{l}</Link>)}
         </div>
       </section>
       {Object.entries(m.depts).map(([dk, dl]) => (

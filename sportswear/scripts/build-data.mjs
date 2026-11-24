@@ -139,7 +139,7 @@ for (const it of items) {
   rows.push({
     id: it.id, b: it.brand, n: it.name, u: it.sub ?? '', c: cat[0], d: deptOut, s, sc,
     img: it.images?.[0] ?? '', r: it.ratingCount ? it.rating : null, rc: it.ratingCount ?? null,
-    p: it.price, m: it.mrp, k: it.inStock ? 1 : 0, t: uniq(t),
+    p: it.price, m: it.mrp, k: it.inStock ? 1 : 0, t: [...new Set(t)],
   });
   const h = [...it.id].reduce((a, ch) => (a * 31 + ch.charCodeAt(0)) >>> 0, 7) % SHARDS;
   details[h][it.id] = {
