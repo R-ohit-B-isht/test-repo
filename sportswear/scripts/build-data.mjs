@@ -76,7 +76,9 @@ for (const it of items) {
   const dept = department(it, head);
   const nm = low(it.name + ' ' + (it.sub ?? ''));
   const forced = dept === 'accessories' && /\b(football|basketball|ball)( v?\d+)?$/.test(low(it.name).trim()) ? CATEGORIES.find(([id]) => id === (/basketball/.test(low(it.name)) ? 'basketballs' : /football/.test(low(it.name)) ? 'footballs' : 'balls')) : null;
-  const cat = forced ?? CATEGORIES.find(([id, , d, re]) => d === dept && re.test(head + ' ' + low(attrVals)) && !(id === 'jerseys' && /\b(pants|shorts|trousers|leggings|tights|socks|jackets?|hoodie|sweatshirt|dress)\b/.test(nm)) && !(id === 'tank-tops' && /\bvest\b/.test(nm) && /\b(puffer|padded|jacket|gilet)\b/.test(nm))) ?? CATEGORIES.find(([, , d]) => d === dept);
+  const okCat = (id, hay) => !(id === 'jerseys' && /\b(pants|shorts|trousers|leggings|tights|socks|jackets?|hoodie|sweatshirt|dress)\b/.test(nm)) && !(id === 'tank-tops' && /\bvest\b/.test(nm) && /\b(puffer|padded|jacket|gilet)\b/.test(nm)) && hay;
+  const byName = CATEGORIES.find(([id, , d, re]) => d === dept && re.source !== '.' && okCat(id, re.test(nm)));
+  const cat = forced ?? byName ?? CATEGORIES.find(([id, , d, re]) => d === dept && re.test(head + ' ' + low(attrVals)) && !(id === 'jerseys' && /\b(pants|shorts|trousers|leggings|tights|socks|jackets?|hoodie|sweatshirt|dress)\b/.test(nm)) && !(id === 'tank-tops' && /\bvest\b/.test(nm) && /\b(puffer|padded|jacket|gilet)\b/.test(nm))) ?? CATEGORIES.find(([, , d]) => d === dept);
   const deptOut = EQUIPMENT.has(cat[0]) ? 'equipment' : dept;
   const { gender, age } = genderAge(it, head);
   if (age !== 'adult' || (gender !== 'men' && gender !== 'unisex') || /\b(women|womens|ladies|girls?)\b|\bwomen's\b|\b(bra|bras|skirts?|skorts?|dress|dresses|bikini|swimsuit|leggings)\b/.test(low(it.name + ' ' + (it.sub ?? '')))) { dropped++; continue; }
